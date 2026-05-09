@@ -1,0 +1,39 @@
+name: Update AFE fuel news
+
+on:
+  schedule:
+    # Daily at 07:30 UTC. Adjust as needed.
+    - cron: "30 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Refresh fuel news from GDELT
+        run: |
+          python scripts/update_fuel_news.py --days 14 --max-per-query 10 --max-per-country 8
+
+      - name: Commit updated news JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dashboard/data/fuel_news.json dashboard/data/fuel_news_last_updated.json
+          if git diff --cached --quiet; then
+            echo "No news changes to commit."
+          else
+            git commit -m "Update AFE fuel news from GDELT"
+            git push
+          fi

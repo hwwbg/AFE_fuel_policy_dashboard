@@ -1,0 +1,1035 @@
+{
+  "name": "AFE fuel-price news media source registry",
+  "version": "2026-05-08-draft-news-first",
+  "description": "Country-level media/news source registry for refreshing a fuel-price news JSON feed. Sources are prioritized for news coverage rather than only official regulator price notices. Official/regulator pages can still be added as validation sources.",
+  "refresh_recommendation": {
+    "frequency": "daily during oil-price shocks; weekly during stable periods",
+    "preferred_method": "Use GDELT/Google Custom Search/Bing News API or a Databricks job to query the source domains and search terms, write fuel_news.json, and let the dashboard load that JSON.",
+    "avoid": "Avoid scraping directly from the browser dashboard; keep API keys and crawling logic outside the HTML."
+  },
+  "default_keywords": [
+    "fuel price",
+    "petrol",
+    "gasoline",
+    "diesel",
+    "kerosene",
+    "LPG",
+    "pump price",
+    "fuel subsidy",
+    "fuel shortage",
+    "price hike",
+    "price adjustment"
+  ],
+  "countries": [
+    {
+      "country": "Angola",
+      "iso3": "AGO",
+      "sources": [
+        {
+          "name": "ANGOP",
+          "url": "https://www.angop.ao/",
+          "type": "national_news_agency",
+          "language": "Portuguese/English",
+          "priority": 1,
+          "search_terms": [
+            "Angola fuel price",
+            "preço dos combustíveis Angola",
+            "gasóleo gasolina Angola"
+          ]
+        },
+        {
+          "name": "Reuters Africa / Energy",
+          "url": "https://www.reuters.com/world/africa/",
+          "type": "international_news",
+          "language": "English",
+          "priority": 2,
+          "search_terms": [
+            "Angola fuel hike diesel Reuters",
+            "Angola fuel subsidy reform"
+          ]
+        },
+        {
+          "name": "Novo Jornal",
+          "url": "https://novojornal.co.ao/",
+          "type": "local_news",
+          "language": "Portuguese",
+          "priority": 3,
+          "search_terms": [
+            "Novo Jornal combustíveis Angola gasóleo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Botswana",
+      "iso3": "BWA",
+      "sources": [
+        {
+          "name": "Mmegi",
+          "url": "https://www.mmegi.bw/",
+          "type": "local_news",
+          "language": "English",
+          "priority": 1,
+          "search_terms": [
+            "Botswana fuel price increase",
+            "Mmegi fuel prices Botswana"
+          ]
+        },
+        {
+          "name": "The Voice Botswana",
+          "url": "https://thevoicebw.com/",
+          "type": "local_news",
+          "language": "English",
+          "priority": 2,
+          "search_terms": [
+            "Botswana petrol diesel prices",
+            "fuel hike Botswana"
+          ]
+        },
+        {
+          "name": "Reuters Africa / Energy",
+          "url": "https://www.reuters.com/world/africa/",
+          "type": "international_news",
+          "language": "English",
+          "priority": 3,
+          "search_terms": [
+            "Botswana fuel prices Reuters"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Burundi",
+      "iso3": "BDI",
+      "sources": [
+        {
+          "name": "Iwacu English News",
+          "url": "https://www.iwacu-burundi.org/englishnews/",
+          "type": "local_news",
+          "language": "English/French/Kirundi",
+          "priority": 1,
+          "search_terms": [
+            "Burundi fuel price",
+            "Burundi gasoline diesel prices",
+            "Iwacu fuel Burundi"
+          ]
+        },
+        {
+          "name": "Breaking Burundi",
+          "url": "https://breakingburundi.com/",
+          "type": "local_news",
+          "language": "English/French",
+          "priority": 2,
+          "search_terms": [
+            "Burundi fuel crisis",
+            "fuel shortage Burundi",
+            "Breaking Burundi fuel"
+          ]
+        },
+        {
+          "name": "GlobalPetrolPrices",
+          "url": "https://www.globalpetrolprices.com/Burundi/gasoline_prices/",
+          "type": "fallback_price_database",
+          "language": "English",
+          "priority": 3,
+          "search_terms": [
+            "Burundi gasoline prices",
+            "Burundi diesel prices"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Comoros",
+      "iso3": "COM",
+      "sources": [
+        {
+          "name": "Al-watwan",
+          "url": "https://alwatwan.net/",
+          "type": "local_news",
+          "language": "French",
+          "priority": 1,
+          "search_terms": [
+            "Comores prix carburant",
+            "Al-watwan carburant Comores",
+            "essence gasoil Comores"
+          ]
+        },
+        {
+          "name": "Comores Infos",
+          "url": "https://www.comoresinfos.net/",
+          "type": "local_news",
+          "language": "French",
+          "priority": 2,
+          "search_terms": [
+            "Comores prix essence gasoil",
+            "Comores hausse carburant"
+          ]
+        },
+        {
+          "name": "GlobalPetrolPrices",
+          "url": "https://www.globalpetrolprices.com/Comoros/gasoline_prices/",
+          "type": "fallback_price_database",
+          "language": "English",
+          "priority": 3,
+          "search_terms": [
+            "Comoros gasoline prices",
+            "Comoros diesel prices"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Democratic Republic of Congo",
+      "iso3": "COD",
+      "sources": [
+        {
+          "name": "Radio Okapi",
+          "url": "https://www.radiookapi.net/",
+          "type": "local_news_un",
+          "language": "French",
+          "priority": 1,
+          "search_terms": [
+            "RDC prix carburant",
+            "Radio Okapi carburant",
+            "Kinshasa essence gasoil"
+          ]
+        },
+        {
+          "name": "Actualite.cd",
+          "url": "https://actualite.cd/",
+          "type": "local_news",
+          "language": "French",
+          "priority": 2,
+          "search_terms": [
+            "RDC carburant prix essence gasoil",
+            "hausse carburant RDC"
+          ]
+        },
+        {
+          "name": "Reuters Africa / Energy",
+          "url": "https://www.reuters.com/world/africa/",
+          "type": "international_news",
+          "language": "English",
+          "priority": 3,
+          "search_terms": [
+            "DR Congo fuel prices Reuters"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Eritrea",
+      "iso3": "ERI",
+      "sources": [
+        {
+          "name": "Shabait / Eritrea Ministry of Information",
+          "url": "https://shabait.com/category/news/",
+          "type": "state_news",
+          "language": "English/Tigrinya/Arabic",
+          "priority": 1,
+          "search_terms": [
+            "Eritrea fuel price",
+            "Eritrea gasoline diesel",
+            "Shabait fuel"
+          ]
+        },
+        {
+          "name": "TesfaNews",
+          "url": "https://tesfanews.net/",
+          "type": "diaspora_news",
+          "language": "English",
+          "priority": 2,
+          "search_terms": [
+            "Eritrea fuel price TesfaNews",
+            "Eritrea diesel gasoline shortage"
+          ]
+        },
+        {
+          "name": "GlobalPetrolPrices",
+          "url": "https://www.globalpetrolprices.com/Eritrea/gasoline_prices/",
+          "type": "fallback_price_database",
+          "language": "English",
+          "priority": 3,
+          "search_terms": [
+            "Eritrea gasoline prices",
+            "Eritrea diesel prices"
+          ]
+        }
+      ],
+      "note": "Very thin public fuel-price news coverage; use broad web/news search plus fallback databases."
+    },
+    {
+      "country": "Eswatini",
+      "iso3": "SWZ",
+      "sources": [
+        {
+          "name": "Times of Eswatini",
+          "url": "https://www.times.co.sz/",
+          "type": "local_news",
+          "language": "English",
+          "priority": 1,
+          "search_terms": [
+            "Eswatini fuel price increase",
+            "Times of Eswatini petrol diesel"
+          ]
+        },
+        {
+          "name": "Eswatini Observer",
+          "url": "https://www.observer.org.sz/",
+          "type": "local_news",
+          "language": "English",
+          "priority": 2,
+          "search_terms": [
+            "Eswatini petrol diesel prices",
+            "fuel adjustment Eswatini"
+          ]
+        },
+        {
+          "name": "Swazi Observer / regional search",
+          "url": "https://www.observer.org.sz/",
+          "type": "local_news",
+          "language": "English",
+          "priority": 3,
+          "search_terms": [
+            "fuel prices Eswatini"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Ethiopia",
+      "iso3": "ETH",
+      "sources": [
+        {
+          "name": "Addis Standard",
+          "url": "https://addisstandard.com/",
+          "type": "local_news",
+          "language": "English",
+          "priority": 1,
+          "search_terms": [
+            "Ethiopia fuel prices",
+            "Addis Standard fuel price",
+            "petrol diesel Ethiopia"
+          ]
+        },
+        {
+          "name": "Addis Fortune",
+          "url": "https://addisfortune.news/",
+          "type": "local_business_news",
+          "language": "English",
+          "priority": 2,
+          "search_terms": [
+            "Ethiopia fuel price Addis Fortune",
+            "fuel subsidy Ethiopia"
+          ]
+        },
+        {
+          "name": "Reuters Africa / Energy",
+          "url": "https://www.reuters.com/world/africa/",
+          "type": "international_news",
+          "language": "English",
+          "priority": 3,
+          "search_terms": [
+            "Ethiopia fuel prices Reuters"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Kenya",
+      "iso3": "KEN",
+      "sources": [
+        {
+          "name": "Business Daily Africa",
+          "url": "https://www.businessdailyafrica.com/",
+          "type": "local_business_news",
+          "language": "English",
+          "priority": 1,
+          "search_terms": [
+            "Kenya fuel prices EPRA",
+            "Business Daily fuel prices Kenya"
+          ]
+        },
+        {
+          "name": "The Star Kenya",
+          "url": "https://www.the-star.co.ke/",
+          "type": "local_news",
+          "language": "English",
+          "priority": 2,
+          "search_terms": [
+            "Kenya petrol diesel prices",
+            "fuel prices Kenya EPRA"
+          ]
+        },
+        {
+          "name": "Reuters Africa / Energy",
+          "url": "https://www.reuters.com/world/africa/",
+          "type": "international_news",
+          "language": "English",
+          "priority": 3,
+          "search_terms": [
+            "Kenya raises retail fuel prices Reuters"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Lesotho",
+      "iso3": "LSO",
+      "sources": [
+        {
+          "name": "Lesotho Times",
+          "url": "https://lestimes.com/",
+          "type": "local_news",
+          "language": "English",
+          "priority": 1,
+          "search_terms": [
+            "Lesotho fuel prices",
+            "petrol diesel price Lesotho"
+          ]
+        },
+        {
+          "name": "Public Eye Lesotho",
+          "url": "https://publiceyenews.com/",
+          "type": "local_news",
+          "language": "English",
+          "priority": 2,
+          "search_terms": [
+            "Lesotho fuel price increase",
+            "Public Eye Lesotho fuel"
+          ]
+        },
+        {
+          "name": "GlobalPetrolPrices",
+          "url": "https://www.globalpetrolprices.com/Lesotho/gasoline_prices/",
+          "type": "fallback_price_database",
+          "language": "English",
+          "priority": 3,
+          "search_terms": [
+            "Lesotho gasoline prices",
+            "Lesotho diesel prices"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Madagascar",
+      "iso3": "MDG",
+      "sources": [
+        {
+          "name": "L'Express de Madagascar",
+          "url": "https://lexpress.mg/",
+          "type": "local_news",
+          "language": "French",
+          "priority": 1,
+          "search_terms": [
+            "Madagascar prix carburant",
+            "L'Express Madagascar carburant"
+          ]
+        },
+        {
+          "name": "Midi Madagasikara",
+          "url": "https://midi-madagasikara.mg/",
+          "type": "local_news",
+          "language": "French",
+          "priority": 2,
+          "search_terms": [
+            "prix essence gasoil Madagascar",
+            "hausse carburant Madagascar"
+          ]
+        },
+        {
+          "name": "Reuters Africa / Energy",
+          "url": "https://www.reuters.com/world/africa/",
+          "type": "international_news",
+          "language": "English",
+          "priority": 3,
+          "search_terms": [
+            "Madagascar fuel prices Reuters"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Malawi",
+      "iso3": "MWI",
+      "sources": [
+        {
+          "name": "The Nation Malawi",
+          "url": "https://mwnation.com/",
+          "type": "local_news",
+          "language": "English",
+          "priority": 1,
+          "search_terms": [
+            "Malawi fuel prices MERA",
+            "The Nation Malawi fuel price"
+          ]
+        },
+        {
+          "name": "Nyasa Times",
+          "url": "https://www.nyasatimes.com/",
+          "type": "local_news",
+          "language": "English",
+          "priority": 2,
+          "search_terms": [
+            "Malawi petrol diesel prices",
+            "fuel hike Malawi"
+          ]
+        },
+        {
+          "name": "Reuters Africa / Energy",
+          "url": "https://www.reuters.com/world/africa/",
+          "type": "international_news",
+          "language": "English",
+          "priority": 3,
+          "search_terms": [
+            "Malawi fuel prices Reuters"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Mauritius",
+      "iso3": "MUS",
+      "sources": [
+        {
+          "name": "L'Express Maurice",
+          "url": "https://lexpress.mu/",
+          "type": "local_news",
+          "language": "French/English",
+          "priority": 1,
+          "search_terms": [
+            "Mauritius prix carburant",
+            "L'Express Maurice carburant",
+            "fuel prices Mauritius"
+          ]
+        },
+        {
+          "name": "Le Mauricien",
+          "url": "https://www.lemauricien.com/",
+          "type": "local_news",
+          "language": "French",
+          "priority": 2,
+          "search_terms": [
+            "Maurice prix essence diesel",
+            "prix carburant Maurice"
+          ]
+        },
+        {
+          "name": "Defi Media",
+          "url": "https://defimedia.info/",
+          "type": "local_news",
+          "language": "French/English",
+          "priority": 3,
+          "search_terms": [
+            "Mauritius fuel price Defi Media"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Mozambique",
+      "iso3": "MOZ",
+      "sources": [
+        {
+          "name": "AIM News",
+          "url": "https://aimnews.org/",
+          "type": "national_news_agency",
+          "language": "English/Portuguese",
+          "priority": 1,
+          "search_terms": [
+            "Mozambique fuel prices",
+            "AIM fuel prices Mozambique",
+            "preços combustíveis Moçambique"
+          ]
+        },
+        {
+          "name": "Club of Mozambique",
+          "url": "https://clubofmozambique.com/",
+          "type": "local_news_aggregator",
+          "language": "English",
+          "priority": 2,
+          "search_terms": [
+            "Mozambique fuel price diesel gasoline",
+            "Club of Mozambique fuel prices"
+          ]
+        },
+        {
+          "name": "Bloomberg / Reuters search",
+          "url": "https://www.bloomberg.com/africa",
+          "type": "international_business_news",
+          "language": "English",
+          "priority": 3,
+          "search_terms": [
+            "Mozambique hikes diesel fuel prices Bloomberg",
+            "Mozambique fuel prices Reuters"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Namibia",
+      "iso3": "NAM",
+      "sources": [
+        {
+          "name": "The Namibian",
+          "url": "https://www.namibian.com.na/",
+          "type": "local_news",
+          "language": "English",
+          "priority": 1,
+          "search_terms": [
+            "Namibia fuel prices",
+            "The Namibian petrol diesel"
+          ]
+        },
+        {
+          "name": "New Era Namibia",
+          "url": "https://neweralive.na/",
+          "type": "local_news",
+          "language": "English",
+          "priority": 2,
+          "search_terms": [
+            "Namibia fuel price adjustment",
+            "New Era fuel prices Namibia"
+          ]
+        },
+        {
+          "name": "Namibian Sun",
+          "url": "https://www.namibiansun.com/",
+          "type": "local_news",
+          "language": "English",
+          "priority": 3,
+          "search_terms": [
+            "fuel price Namibia petrol diesel"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Rwanda",
+      "iso3": "RWA",
+      "sources": [
+        {
+          "name": "The New Times Rwanda",
+          "url": "https://www.newtimes.co.rw/",
+          "type": "local_news",
+          "language": "English",
+          "priority": 1,
+          "search_terms": [
+            "Rwanda fuel prices RURA",
+            "New Times Rwanda fuel prices"
+          ]
+        },
+        {
+          "name": "Kigali Today",
+          "url": "https://www.kigalitoday.com/",
+          "type": "local_news",
+          "language": "English/Kinyarwanda/French",
+          "priority": 2,
+          "search_terms": [
+            "Rwanda petrol diesel prices",
+            "Kigali Today fuel price"
+          ]
+        },
+        {
+          "name": "Reuters Africa / Energy",
+          "url": "https://www.reuters.com/world/africa/",
+          "type": "international_news",
+          "language": "English",
+          "priority": 3,
+          "search_terms": [
+            "Rwanda fuel prices Reuters"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "iso3": "STP",
+      "sources": [
+        {
+          "name": "Tela Non",
+          "url": "https://www.telanon.info/",
+          "type": "local_news",
+          "language": "Portuguese",
+          "priority": 1,
+          "search_terms": [
+            "São Tomé preço combustíveis",
+            "Tela Non combustíveis",
+            "gasóleo gasolina São Tomé"
+          ]
+        },
+        {
+          "name": "STP-Press",
+          "url": "https://www.stp-press.st/",
+          "type": "national_news_agency",
+          "language": "Portuguese",
+          "priority": 2,
+          "search_terms": [
+            "STP-Press combustíveis São Tomé",
+            "preço combustível São Tomé"
+          ]
+        },
+        {
+          "name": "MedAfrica Times",
+          "url": "https://medafricatimes.com/",
+          "type": "regional_news",
+          "language": "English/French",
+          "priority": 3,
+          "search_terms": [
+            "Sao Tome fuel price increase",
+            "Sao Tome Principe diesel gasoline"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Seychelles",
+      "iso3": "SYC",
+      "sources": [
+        {
+          "name": "Seychelles News Agency",
+          "url": "http://www.seychellesnewsagency.com/",
+          "type": "national_news_agency",
+          "language": "English/French",
+          "priority": 1,
+          "search_terms": [
+            "Seychelles fuel prices",
+            "Seychelles petrol diesel prices"
+          ]
+        },
+        {
+          "name": "Seychelles Nation",
+          "url": "https://www.nation.sc/",
+          "type": "local_news",
+          "language": "English/French",
+          "priority": 2,
+          "search_terms": [
+            "Seychelles fuel price increase",
+            "Nation Seychelles fuel"
+          ]
+        },
+        {
+          "name": "GlobalPetrolPrices",
+          "url": "https://www.globalpetrolprices.com/Seychelles/gasoline_prices/",
+          "type": "fallback_price_database",
+          "language": "English",
+          "priority": 3,
+          "search_terms": [
+            "Seychelles gasoline prices",
+            "Seychelles diesel prices"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Somalia",
+      "iso3": "SOM",
+      "sources": [
+        {
+          "name": "Hiiraan Online",
+          "url": "https://www.hiiraan.com/",
+          "type": "local_diaspora_news",
+          "language": "English/Somali",
+          "priority": 1,
+          "search_terms": [
+            "Somalia fuel prices",
+            "Mogadishu petrol diesel prices",
+            "Hiiraan fuel prices Somalia"
+          ]
+        },
+        {
+          "name": "Garowe Online",
+          "url": "https://www.garoweonline.com/",
+          "type": "local_news",
+          "language": "English/Somali",
+          "priority": 2,
+          "search_terms": [
+            "Somalia fuel prices Garowe",
+            "Mogadishu fuel price spike"
+          ]
+        },
+        {
+          "name": "Reuters Africa / Energy",
+          "url": "https://www.reuters.com/world/africa/",
+          "type": "international_news",
+          "language": "English",
+          "priority": 3,
+          "search_terms": [
+            "Somalia fuel prices Reuters tuk-tuks"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "South Africa",
+      "iso3": "ZAF",
+      "sources": [
+        {
+          "name": "BusinessTech",
+          "url": "https://businesstech.co.za/",
+          "type": "local_business_news",
+          "language": "English",
+          "priority": 1,
+          "search_terms": [
+            "South Africa fuel price petrol diesel",
+            "BusinessTech fuel price South Africa"
+          ]
+        },
+        {
+          "name": "Moneyweb",
+          "url": "https://www.moneyweb.co.za/",
+          "type": "local_business_news",
+          "language": "English",
+          "priority": 2,
+          "search_terms": [
+            "South Africa petrol diesel prices",
+            "Moneyweb fuel price"
+          ]
+        },
+        {
+          "name": "IOL Business Report",
+          "url": "https://www.iol.co.za/business-report",
+          "type": "local_business_news",
+          "language": "English",
+          "priority": 3,
+          "search_terms": [
+            "South Africa fuel levy petrol diesel IOL"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "South Sudan",
+      "iso3": "SSD",
+      "sources": [
+        {
+          "name": "Eye Radio",
+          "url": "https://www.eyeradio.org/",
+          "type": "local_news",
+          "language": "English",
+          "priority": 1,
+          "search_terms": [
+            "South Sudan fuel prices",
+            "Eye Radio fuel price",
+            "Juba petrol diesel prices"
+          ]
+        },
+        {
+          "name": "Radio Tamazuj",
+          "url": "https://www.radiotamazuj.org/",
+          "type": "regional_news",
+          "language": "English/Arabic",
+          "priority": 2,
+          "search_terms": [
+            "South Sudan fuel prices Radio Tamazuj",
+            "Juba fuel shortage"
+          ]
+        },
+        {
+          "name": "Sudans Post",
+          "url": "https://www.sudanspost.com/",
+          "type": "local_news",
+          "language": "English",
+          "priority": 3,
+          "search_terms": [
+            "South Sudan fuel price Sudans Post"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Sudan",
+      "iso3": "SDN",
+      "sources": [
+        {
+          "name": "Sudan Tribune",
+          "url": "https://sudantribune.com/",
+          "type": "regional_news",
+          "language": "English/French/Arabic",
+          "priority": 1,
+          "search_terms": [
+            "Sudan fuel prices",
+            "Sudan fuel price hike",
+            "Sudan Tribune fuel"
+          ]
+        },
+        {
+          "name": "Xinhua Africa",
+          "url": "https://english.news.cn/africa/",
+          "type": "international_news_agency",
+          "language": "English",
+          "priority": 2,
+          "search_terms": [
+            "Sudan fuel crisis prices Xinhua",
+            "Sudan gasoline parallel market"
+          ]
+        },
+        {
+          "name": "Dabanga Sudan",
+          "url": "https://www.dabangasudan.org/en/",
+          "type": "regional_news",
+          "language": "English/Arabic",
+          "priority": 3,
+          "search_terms": [
+            "Sudan fuel shortage prices",
+            "Dabanga fuel Sudan"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Tanzania",
+      "iso3": "TZA",
+      "sources": [
+        {
+          "name": "The Citizen Tanzania",
+          "url": "https://www.thecitizen.co.tz/",
+          "type": "local_news",
+          "language": "English",
+          "priority": 1,
+          "search_terms": [
+            "Tanzania fuel prices EWURA",
+            "The Citizen fuel prices Tanzania"
+          ]
+        },
+        {
+          "name": "Daily News Tanzania",
+          "url": "https://dailynews.co.tz/",
+          "type": "state_news",
+          "language": "English",
+          "priority": 2,
+          "search_terms": [
+            "Tanzania petrol diesel prices",
+            "fuel price Tanzania"
+          ]
+        },
+        {
+          "name": "The Guardian Tanzania",
+          "url": "https://www.ippmedia.com/the-guardian",
+          "type": "local_news",
+          "language": "English",
+          "priority": 3,
+          "search_terms": [
+            "Tanzania fuel prices Guardian"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Uganda",
+      "iso3": "UGA",
+      "sources": [
+        {
+          "name": "Daily Monitor",
+          "url": "https://www.monitor.co.ug/",
+          "type": "local_news",
+          "language": "English",
+          "priority": 1,
+          "search_terms": [
+            "Uganda fuel prices",
+            "Daily Monitor petrol diesel"
+          ]
+        },
+        {
+          "name": "New Vision Uganda",
+          "url": "https://www.newvision.co.ug/",
+          "type": "local_news",
+          "language": "English",
+          "priority": 2,
+          "search_terms": [
+            "Uganda petrol diesel prices",
+            "New Vision fuel prices Uganda"
+          ]
+        },
+        {
+          "name": "Nile Post",
+          "url": "https://nilepost.co.ug/",
+          "type": "local_news",
+          "language": "English",
+          "priority": 3,
+          "search_terms": [
+            "Uganda fuel price Nile Post"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Zambia",
+      "iso3": "ZMB",
+      "sources": [
+        {
+          "name": "Lusaka Times",
+          "url": "https://www.lusakatimes.com/",
+          "type": "local_news",
+          "language": "English",
+          "priority": 1,
+          "search_terms": [
+            "Zambia fuel prices ERB",
+            "Lusaka Times fuel prices"
+          ]
+        },
+        {
+          "name": "News Diggers",
+          "url": "https://diggers.news/",
+          "type": "local_news",
+          "language": "English",
+          "priority": 2,
+          "search_terms": [
+            "Zambia petrol diesel prices",
+            "News Diggers fuel prices Zambia"
+          ]
+        },
+        {
+          "name": "Zambia Monitor",
+          "url": "https://www.zambiamonitor.com/",
+          "type": "local_news",
+          "language": "English",
+          "priority": 3,
+          "search_terms": [
+            "Zambia fuel price increase"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Zimbabwe",
+      "iso3": "ZWE",
+      "sources": [
+        {
+          "name": "NewsDay Zimbabwe",
+          "url": "https://www.newsday.co.zw/",
+          "type": "local_news",
+          "language": "English",
+          "priority": 1,
+          "search_terms": [
+            "Zimbabwe fuel prices ZERA",
+            "NewsDay Zimbabwe fuel prices"
+          ]
+        },
+        {
+          "name": "The Herald Zimbabwe",
+          "url": "https://www.herald.co.zw/",
+          "type": "state_news",
+          "language": "English",
+          "priority": 2,
+          "search_terms": [
+            "Zimbabwe petrol diesel prices",
+            "fuel price Zimbabwe"
+          ]
+        },
+        {
+          "name": "ZimLive",
+          "url": "https://www.zimlive.com/",
+          "type": "local_news",
+          "language": "English",
+          "priority": 3,
+          "search_terms": [
+            "Zimbabwe fuel price ZimLive"
+          ]
+        }
+      ]
+    }
+  ]
+}
