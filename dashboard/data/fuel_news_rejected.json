@@ -119,13 +119,6 @@
     "url": "https://www.zerohedge.com/markets/futures-fall-iran-talks-remain-limbo-more-ships-intercepted"
   },
   {
-    "country": "Eswatini",
-    "query": "Eswatini fuel price increase",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Namibia to raise fuel prices amid global oil market pressures - Xinhua",
-    "url": "https://english.news.cn/africa/20260507/8068407d9c5b4a319cb35523cc5b17c5/c.html"
-  },
-  {
     "country": "Ethiopia",
     "query": "Ethiopia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
@@ -238,81 +231,53 @@
     "url": "https://www.maravipost.com/fuel-queues-blame-games-the-hard-truth-why-dpps-hormuz-warning-holds-water-mcps-ukraine-excuse-didnt/"
   },
   {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Dont Sleep ! 13 Things Black Folks Must Know About What Happening in Our Communities and Around the World – The Root",
-    "url": "https://www.theroot.com/dont-sleep-13-things-black-folks-must-know-about-what-2000104224"
-  },
-  {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Extreme weather  brewing  | Attenborough turns 100 | BP carbon - capture sell - off",
-    "url": "https://www.carbonbrief.org/daily-brief/extreme-weather-brewing-attenborough-turns-100-bps-carbon-capture-sell-off/"
-  },
-  {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
-    "reason": "low-value broad domain: investegate.co.uk",
-    "title": "Final Results | Company Announcement",
-    "url": "https://www.investegate.co.uk/announcement/rns/airtel-africa--aaf/final-results/9558210"
-  },
-  {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "GCW758",
-    "url": "https://www.globalcement.com/news/tags/gcw758"
-  },
-  {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Mozambique Economy Is Failing - the Tough Policy Choices That Need to Be Made Urgently",
-    "url": "https://allafrica.com/stories/202605060012.html"
-  },
-  {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Child Brides in Zimbabwe - Worldpress . org",
-    "url": "https://worldpress.org/article.cfm/child-brides-in-zimbabwe"
-  },
-  {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Taxi prices to increase to N$15 . 00 effective 18 May 2026",
-    "url": "https://informante.web.na/?p=394215"
-  },
-  {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Best Nuclear Shares on The ASX",
-    "url": "https://thebull.com.au/asx-stock-picks/best-nuclear-shares/"
-  },
-  {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Taxi fares increase to N$15",
-    "url": "https://www.namibian.com.na/taxi-fares-increase-to-n15/"
-  },
-  {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Alerta aos viajantes : aeroportos estão ficando sem combustível devido ao conflito no Oriente Médio",
-    "url": "https://noticiabrasil.net.br/20260507/alerta-aos-viajantes-aeroportos-estao-ficando-sem-combustivel-devido-ao-conflito-no-oriente-medio-50164082.html"
-  },
-  {
     "country": "Rwanda",
     "query": "Rwanda fuel prices RURA",
     "reason": "no fuel-price keyword in title/summary",
     "title": "Rwanda : Govt Rolls Out Park - and - Ride to Drive Public Transport Uptake",
     "url": "https://allafrica.com/stories/202604230093.html"
+  },
+  {
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
+    "reason": "low-value broad domain: investegate.co.uk",
+    "title": "Final Results | Company Announcement",
+    "url": "https://www.investegate.co.uk/announcement/rns/airtel-africa--aaf/final-results/9558210"
+  },
+  {
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "PMS pump price in Nigeria faces upward pressure as global crude oil prices soar",
+    "url": "https://thenationonlineng.net/pms-pump-price-in-nigeria-faces-upward-pressure-as-global-crude-oil-prices-soar/"
+  },
+  {
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Константин Ремчуков : Численность населения Китая снижается четвертый год подряд / МониториНГ / Независимая газета",
+    "url": "https://www.ng.ru/monitoring/2026-05-06/6_9490_monitoring.html"
+  },
+  {
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Αεροπορικά καύσιμα : Από τον Μάϊο αναμένονται ελλείψεις – Ποιες χώρες κινδυνεύουν και τι σημαίνει για την Ελλάδα",
+    "url": "https://www.inewsgr.com/93/aeroporika-kafsima-apo-ton-maio-anamenontai-elleipseis--poies-chores-kindynevoun-kai-ti-simainei-gia-tin-ellada.htm"
+  },
+  {
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Cabinet Business - Wednesday 29th April , 2026",
+    "url": "https://statehouse.gov.sc/news/6945/cabinet-business-wednesday-29th-april-2026"
+  },
+  {
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Cabinet Business - Wednesday 29th April , 2026",
+    "url": "http://www.statehouse.gov.sc/cabinet-decisions/6945/cabinet-business-wednesday-29th-april-2026"
   },
   {
     "country": "Somalia",
@@ -488,48 +453,6 @@
     "reason": "target country not found in title/summary/url and source is not a known country source",
     "title": "Fuel queues , blame games : The hard truth Why DPP Hormuz warning holds water , MCP Ukraine excuse didnt",
     "url": "http://www.maravipost.com/fuel-queues-blame-games-the-hard-truth-why-dpps-hormuz-warning-holds-water-mcps-ukraine-excuse-didnt/"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Dont Sleep ! 13 Things Black Folks Must Know About What Happening in Our Communities and Around the World – The Root",
-    "url": "https://www.theroot.com/dont-sleep-13-things-black-folks-must-know-about-what-2000104224"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Something awful is happening in Sudan , and you dont know it – Baptist News Global",
-    "url": "https://baptistnews.com/article/something-awful-is-happening-in-sudan-and-you-dont-know-it/"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "low-value broad domain: investegate.co.uk",
-    "title": "Final Results | Company Announcement",
-    "url": "https://www.investegate.co.uk/announcement/rns/airtel-africa--aaf/final-results/9558210"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Bred oppgang på Asia - børsene",
-    "url": "https://e24.no/bors/nyheter/a/304477?pinnedEntry=304477"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Snap faller i etterhandelen",
-    "url": "https://e24.no/bors/nyheter/a/304476?pinnedEntry=304476"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Tanzania introduces 259 /- fuel subsidy per litre to cushion consumers against rising oil price",
-    "url": "https://dailynews.co.tz/tanzania-introduces-259-fuel-subsidy-per-litre-to-cushion-consumers-against-rising-oil-price/"
   },
   {
     "country": "Zimbabwe",

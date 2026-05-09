@@ -168,48 +168,6 @@
     "gdelt_query": "Tanzania fuel prices EWURA"
   },
   {
-    "id": "namibia-2026-05-07-lufthansa-fuel-crisis-refuelling-stops-and-fl-a506275c",
-    "date": "2026-05-07",
-    "country": "Namibia",
-    "iso3": "NAM",
-    "headline": "Lufthansa Fuel Crisis : Refuelling Stops and Flight Cuts 2026",
-    "summary": "Lufthansa Fuel Crisis : Refuelling Stops and Flight Cuts 2026",
-    "products": [
-      "fuel"
-    ],
-    "change_type": "price decrease",
-    "magnitude": "Not extracted automatically",
-    "source_name": "ftnnews.com",
-    "source_url": "https://ftnnews.com",
-    "article_url": "https://ftnnews.com/travel-news/aviation/lufthansa-plane-which-landed-in-cape-town-had-to-fly-to-namibia-to-refuel-now-considering-refuelling-stops/",
-    "source_domain": "ftnnews.com",
-    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
-    "verified": false,
-    "retrieved_at": "2026-05-09",
-    "gdelt_query": "Namibia fuel prices"
-  },
-  {
-    "id": "namibia-2026-05-07-namibia-to-raise-fuel-prices-amid-global-oil-d76ad66e",
-    "date": "2026-05-07",
-    "country": "Namibia",
-    "iso3": "NAM",
-    "headline": "Namibia to raise fuel prices amid global oil market pressures - Xinhua",
-    "summary": "Namibia to raise fuel prices amid global oil market pressures - Xinhua",
-    "products": [
-      "fuel"
-    ],
-    "change_type": "price increase",
-    "magnitude": "Not extracted automatically",
-    "source_name": "english.news.cn",
-    "source_url": "https://english.news.cn",
-    "article_url": "https://english.news.cn/africa/20260507/8068407d9c5b4a319cb35523cc5b17c5/c.html",
-    "source_domain": "english.news.cn",
-    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
-    "verified": false,
-    "retrieved_at": "2026-05-09",
-    "gdelt_query": "Namibia fuel prices"
-  },
-  {
     "id": "malawi-2026-05-06-malawi-fuel-crisis-deepens-as-oil-shortages-s-8515fa8b",
     "date": "2026-05-06",
     "country": "Malawi",
