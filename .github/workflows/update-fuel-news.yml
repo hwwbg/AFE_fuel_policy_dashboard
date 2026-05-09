@@ -1,4 +1,4 @@
-name: Update AFE fuel news
+name: Update AFE fuel news and deploy dashboard
 
 on:
   schedule:
@@ -8,6 +8,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: afe-fuel-news-refresh
@@ -45,17 +47,14 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Save generated outputs outside the repo
           mkdir -p /tmp/fuel_news_outputs
           cp dashboard/data/fuel_news.json /tmp/fuel_news_outputs/fuel_news.json
           cp dashboard/data/fuel_news_last_updated.json /tmp/fuel_news_outputs/fuel_news_last_updated.json
           cp dashboard/data/fuel_news_rejected.json /tmp/fuel_news_outputs/fuel_news_rejected.json || true
 
-          # Move repo to latest remote main to avoid generated-file conflicts
           git fetch origin main
           git reset --hard origin/main
 
-          # Copy generated outputs back into the repo
           cp /tmp/fuel_news_outputs/fuel_news.json dashboard/data/fuel_news.json
           cp /tmp/fuel_news_outputs/fuel_news_last_updated.json dashboard/data/fuel_news_last_updated.json
           cp /tmp/fuel_news_outputs/fuel_news_rejected.json dashboard/data/fuel_news_rejected.json || true
@@ -66,8 +65,18 @@ jobs:
 
           if git diff --cached --quiet; then
             echo "No news JSON changes to commit."
-            exit 0
+          else
+            git commit -m "Refresh AFE fuel news from GDELT"
+            git push origin main
           fi
 
-          git commit -m "Refresh AFE fuel news from GDELT"
-          git push origin main
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload dashboard artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dashboard
+
+      - name: Deploy dashboard to GitHub Pages
+        uses: actions/deploy-pages@v4
