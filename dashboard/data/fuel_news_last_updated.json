@@ -2,5 +2,5 @@
   "last_refreshed_utc": null,
   "source": "GDELT DOC 2.0 API",
   "items_written": 0,
-  "note": "This placeholder is overwritten by scripts/update_fuel_news.py."
+  "note": "This file will be updated by GitHub Actions."
 }
