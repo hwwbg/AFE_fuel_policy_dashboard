@@ -42,6 +42,48 @@
     "gdelt_query": "Ethiopia fuel prices"
   },
   {
+    "id": "ethiopia-2026-05-09-fuel-shortages-and-high-prices-push-adoption-4a81b0cc",
+    "date": "2026-05-09",
+    "country": "Ethiopia",
+    "iso3": "ETH",
+    "headline": "Fuel shortages and high prices push adoption of EVs in Africa , led by Ethiopia",
+    "summary": "Fuel shortages and high prices push adoption of EVs in Africa , led by Ethiopia",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "sitkasentinel.com",
+    "source_url": "https://sitkasentinel.com",
+    "article_url": "http://www.sitkasentinel.com/stories/fuel-shortages-and-high-prices-push-adoption-of-evs-in-africa-led-by-ethiopia,139897",
+    "source_domain": "sitkasentinel.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-09",
+    "gdelt_query": "Ethiopia fuel prices"
+  },
+  {
+    "id": "ethiopia-2026-05-09-fuel-shortages-and-high-prices-push-adoption-9e0af339",
+    "date": "2026-05-09",
+    "country": "Ethiopia",
+    "iso3": "ETH",
+    "headline": "Fuel shortages and high prices push adoption of EVs in Africa , led by Ethiopia",
+    "summary": "Fuel shortages and high prices push adoption of EVs in Africa , led by Ethiopia",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "union-bulletin.com",
+    "source_url": "https://union-bulletin.com",
+    "article_url": "https://www.union-bulletin.com/news/world/fuel-shortages-and-high-prices-push-adoption-of-evs-in-africa-led-by-ethiopia/article_d977e0c5-c02e-54ab-8eb6-7bc8b3811947.html",
+    "source_domain": "union-bulletin.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-09",
+    "gdelt_query": "Ethiopia fuel prices"
+  },
+  {
     "id": "malawi-2026-05-08-petrol-prices-drop-in-malawi-malawi-voice-f0c4236c",
     "date": "2026-05-08",
     "country": "Malawi",

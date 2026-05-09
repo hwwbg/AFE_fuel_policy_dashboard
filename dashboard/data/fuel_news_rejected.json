@@ -42,48 +42,6 @@
     "url": "https://www.star.com.tr/acik-gorus/dunya-ticaretinin-gelecegi-ve-afrika-haber-2014374/"
   },
   {
-    "country": "Botswana",
-    "query": "Botswana fuel price increase",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "GCW758",
-    "url": "https://www.globalcement.com/news/tags/gcw758"
-  },
-  {
-    "country": "Botswana",
-    "query": "Botswana fuel price increase",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Blending helping reduce fuel prices : Zera",
-    "url": "https://www.thestandard.co.zw/slider/article/3832/blending-helping-reduce-fuel-prices-zera"
-  },
-  {
-    "country": "Botswana",
-    "query": "Botswana fuel price increase",
-    "reason": "low-value broad domain: indianexpress.com",
-    "title": "UPSC Key - 28th April 2026 : Sovereign Cloud System , International Big Cat Alliance and US Secret Service",
-    "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-key-sovereign-cloud-system-international-big-cat-alliance-and-us-secret-service-10660641/"
-  },
-  {
-    "country": "Botswana",
-    "query": "Botswana fuel price increase",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Inflation Forecast to Exceed 6 % - Weekend Post",
-    "url": "https://weekendpost.co.bw/inflation-forecast-to-exceed-6/"
-  },
-  {
-    "country": "Botswana",
-    "query": "Botswana fuel price increase",
-    "reason": "low-value broad domain: finance.yahoo.com",
-    "title": "Fed Set to Lead Uneasy G - 7 With Rates Kept on Hold This Week",
-    "url": "https://finance.yahoo.com/news/fed-set-lead-uneasy-g-091339841.html"
-  },
-  {
-    "country": "Botswana",
-    "query": "Botswana fuel price increase",
-    "reason": "low-value broad domain: moneycontrol.com",
-    "title": "Sensex Today | Stock Market Live : Nifty opens above 24 , 000 , Sensex up 400 pts ; Sun Pharma up 2 %, Axis Bank falls",
-    "url": "https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-27-04-2026-liveblog-13900043.html"
-  },
-  {
     "country": "Burundi",
     "query": "Burundi fuel price",
     "reason": "no fuel-price keyword in title/summary",
@@ -182,41 +140,6 @@
     "url": "https://www.yahoo.com/news/articles/fuel-shortages-high-prices-push-030427821.html"
   },
   {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Iran war wreaks havoc in Africa",
-    "url": "https://www.wsws.org/en/articles/2026/05/08/ecqc-m08.html"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "من الانقلاب إلى الحرب : الدور البنيوي لمصر في انهيار السودان – صحيفة التغيير السودانية , اخبار السودان",
-    "url": "https://www.altaghyeer.info/ar/2026/05/08/%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D9%88%D9%8A-%D9%84%D9%85/"
-  },
-  {
-    "country": "Kenya",
-    "query": "Kenya fuel prices EPRA",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Kenya private sector activity drops for second time",
-    "url": "https://www.capitalfm.co.ke/business/2026/05/kenyas-private-sector-activity-drops-for-second-time/"
-  },
-  {
-    "country": "Kenya",
-    "query": "Kenya fuel prices EPRA",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Shock for Consumers as EPRA Raises Electricity Costs with New April 2026 Charges",
-    "url": "https://nairobiwire.com/2026/04/epra-electricity-charges-april-2026-kenya.html"
-  },
-  {
-    "country": "Kenya",
-    "query": "Kenya fuel prices EPRA",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "New solutions seal energy access gaps for homes",
-    "url": "https://www.standardmedia.co.ke/business/article/2001546018/new-solutions-seal-energy-access-gaps-for-homes"
-  },
-  {
     "country": "Lesotho",
     "query": "Lesotho fuel prices",
     "reason": "target country not found in title/summary/url and source is not a known country source",
@@ -278,6 +201,48 @@
     "reason": "target country not found in title/summary/url and source is not a known country source",
     "title": "Fuel queues , blame games : The hard truth Why DPP Hormuz warning holds water , MCP Ukraine excuse didnt",
     "url": "https://www.maravipost.com/fuel-queues-blame-games-the-hard-truth-why-dpps-hormuz-warning-holds-water-mcps-ukraine-excuse-didnt/"
+  },
+  {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Dont Sleep ! 13 Things Black Folks Must Know About What Happening in Our Communities and Around the World – The Root",
+    "url": "https://www.theroot.com/dont-sleep-13-things-black-folks-must-know-about-what-2000104224"
+  },
+  {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Extreme weather  brewing  | Attenborough turns 100 | BP carbon - capture sell - off",
+    "url": "https://www.carbonbrief.org/daily-brief/extreme-weather-brewing-attenborough-turns-100-bps-carbon-capture-sell-off/"
+  },
+  {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "low-value broad domain: investegate.co.uk",
+    "title": "Final Results | Company Announcement",
+    "url": "https://www.investegate.co.uk/announcement/rns/airtel-africa--aaf/final-results/9558210"
+  },
+  {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "GCW758",
+    "url": "https://www.globalcement.com/news/tags/gcw758"
+  },
+  {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Mozambique Economy Is Failing - the Tough Policy Choices That Need to Be Made Urgently",
+    "url": "https://allafrica.com/stories/202605060012.html"
+  },
+  {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Child Brides in Zimbabwe - Worldpress . org",
+    "url": "https://worldpress.org/article.cfm/child-brides-in-zimbabwe"
   },
   {
     "country": "Namibia",
@@ -445,6 +410,20 @@
     "query": "South Sudan fuel prices",
     "reason": "target country not found in title/summary/url and source is not a known country source",
     "title": "Fuel shortages and high prices push adoption of EVs in Africa , led by Ethiopia",
+    "url": "http://www.sitkasentinel.com/stories/fuel-shortages-and-high-prices-push-adoption-of-evs-in-africa-led-by-ethiopia,139897"
+  },
+  {
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "Fuel shortages and high prices push adoption of EVs in Africa , led by Ethiopia",
+    "url": "https://www.union-bulletin.com/news/world/fuel-shortages-and-high-prices-push-adoption-of-evs-in-africa-led-by-ethiopia/article_d977e0c5-c02e-54ab-8eb6-7bc8b3811947.html"
+  },
+  {
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "Fuel shortages and high prices push adoption of EVs in Africa , led by Ethiopia",
     "url": "https://www.wral.com/news/ap/d4d5f-fuel-shortages-and-high-prices-push-adoption-of-evs-in-africa-led-by-ethiopia/"
   },
   {
@@ -467,62 +446,6 @@
     "reason": "low-value broad domain: yahoo.com",
     "title": "Fuel shortages and high prices push adoption of EVs in Africa , led by Ethiopia",
     "url": "https://www.yahoo.com/news/articles/fuel-shortages-high-prices-push-030427821.html"
-  },
-  {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Iran war wreaks havoc in Africa",
-    "url": "https://www.wsws.org/en/articles/2026/05/08/ecqc-m08.html"
-  },
-  {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "المعدن  الأصفر  يموّل استمرار القتال في السودان .. كيف أصبح الذهب شريانا ماليا يؤجج الحرب – صحيفة التغيير السودانية , اخبار السودان",
-    "url": "https://www.altaghyeer.info/ar/2026/05/08/%D8%A7%D9%84%D9%85%D8%B9%D8%AF%D9%86-%D8%A7%D9%84%D8%A3%D8%B5%D9%81%D8%B1-%D9%8A%D9%85%D9%88%D9%91%D9%84-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%AA%D8%A7%D9%84-%D9%81/"
-  },
-  {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Fuel shortages and high prices push adoption of EVs in Africa , led by Ethiopia",
-    "url": "https://www.wral.com/news/ap/d4d5f-fuel-shortages-and-high-prices-push-adoption-of-evs-in-africa-led-by-ethiopia/"
-  },
-  {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "نقص الوقود وارتفاع الأسعار يدفعان نحو اعتماد السيارات الكهربائية في أفريقيا ، بقيادة إثيوبيا",
-    "url": "https://mizonews.net/business/8277/"
-  },
-  {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Fuel shortages and high prices push adoption of EVs in Africa , led by Ethiopia",
-    "url": "https://www.clickorlando.com/business/2026/05/09/fuel-shortages-and-high-prices-push-adoption-of-evs-in-africa-led-by-ethiopia/"
-  },
-  {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "low-value broad domain: yahoo.com",
-    "title": "Fuel shortages and high prices push adoption of EVs in Africa , led by Ethiopia",
-    "url": "https://www.yahoo.com/news/articles/fuel-shortages-high-prices-push-030427821.html"
-  },
-  {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Iran war wreaks havoc in Africa",
-    "url": "https://www.wsws.org/en/articles/2026/05/08/ecqc-m08.html"
-  },
-  {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "المعدن  الأصفر  يموّل استمرار القتال في السودان .. كيف أصبح الذهب شريانا ماليا يؤجج الحرب – صحيفة التغيير السودانية , اخبار السودان",
-    "url": "https://www.altaghyeer.info/ar/2026/05/08/%D8%A7%D9%84%D9%85%D8%B9%D8%AF%D9%86-%D8%A7%D9%84%D8%A3%D8%B5%D9%81%D8%B1-%D9%8A%D9%85%D9%88%D9%91%D9%84-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%AA%D8%A7%D9%84-%D9%81/"
   },
   {
     "country": "Tanzania",

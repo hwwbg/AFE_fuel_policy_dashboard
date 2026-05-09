@@ -1,23 +1,28 @@
 {
-  "last_refreshed_utc": "2026-05-09T06:35:15+00:00",
+  "last_refreshed_utc": "2026-05-09T09:20:21+00:00",
   "source": "GDELT DOC 2.0 API",
   "registry": "/home/runner/work/AFE_fuel_policy_dashboard/AFE_fuel_policy_dashboard/dashboard/data/afe_fuel_news_media_source_registry.json",
   "days_searched": 21,
   "queries_per_country": 1,
-  "items_written": 23,
-  "new_items_found_this_run": 17,
-  "existing_items_checked": 21,
+  "items_written": 25,
+  "new_items_found_this_run": 16,
+  "existing_items_checked": 23,
   "existing_items_dropped_by_quality_filter": 0,
-  "query_errors_count": 2,
+  "query_errors_count": 3,
   "errors": [
     {
-      "country": "Mozambique",
-      "query": "Mozambique fuel prices",
+      "country": "Botswana",
+      "query": "Botswana fuel price increase",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Zambia",
-      "query": "Zambia fuel prices ERB",
+      "country": "Kenya",
+      "query": "Kenya fuel prices EPRA",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "country": "Sudan",
+      "query": "Sudan fuel prices",
       "error": "HTTP Error 429: Too Many Requests"
     }
   ],
