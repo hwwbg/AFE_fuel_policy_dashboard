@@ -1,18 +1,22 @@
 name: Update AFE fuel news
 
 on:
-  workflow_dispatch:
   schedule:
     # Daily at 07:30 UTC
     - cron: "30 7 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: afe-fuel-news-refresh
+  cancel-in-progress: false
+
 jobs:
   refresh-news:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 45
 
     steps:
       - name: Check out repository
@@ -47,7 +51,7 @@ jobs:
           cp dashboard/data/fuel_news_last_updated.json /tmp/fuel_news_outputs/fuel_news_last_updated.json
           cp dashboard/data/fuel_news_rejected.json /tmp/fuel_news_outputs/fuel_news_rejected.json || true
 
-          # Move repo to latest remote main to avoid rebase conflicts
+          # Move repo to latest remote main to avoid generated-file conflicts
           git fetch origin main
           git reset --hard origin/main
 
