@@ -40,10 +40,19 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add dashboard/data/fuel_news.json dashboard/data/fuel_news_last_updated.json dashboard/data/fuel_news_rejected.json
+
+          git add dashboard/data/fuel_news.json
+          git add dashboard/data/fuel_news_last_updated.json
+          git add dashboard/data/fuel_news_rejected.json
+
           if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "Update fuel news JSON from GDELT"
-            git push
+            echo "No news JSON changes to commit."
+            exit 0
           fi
+
+          git commit -m "Refresh AFE fuel news from GDELT"
+
+          # In case main changed while this workflow was running
+          git pull --rebase origin main
+
+          git push origin main
