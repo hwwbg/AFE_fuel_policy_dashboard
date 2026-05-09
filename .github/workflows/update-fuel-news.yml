@@ -41,6 +41,21 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+          # Save generated outputs outside the repo
+          mkdir -p /tmp/fuel_news_outputs
+          cp dashboard/data/fuel_news.json /tmp/fuel_news_outputs/fuel_news.json
+          cp dashboard/data/fuel_news_last_updated.json /tmp/fuel_news_outputs/fuel_news_last_updated.json
+          cp dashboard/data/fuel_news_rejected.json /tmp/fuel_news_outputs/fuel_news_rejected.json || true
+
+          # Move repo to latest remote main to avoid rebase conflicts
+          git fetch origin main
+          git reset --hard origin/main
+
+          # Copy generated outputs back into the repo
+          cp /tmp/fuel_news_outputs/fuel_news.json dashboard/data/fuel_news.json
+          cp /tmp/fuel_news_outputs/fuel_news_last_updated.json dashboard/data/fuel_news_last_updated.json
+          cp /tmp/fuel_news_outputs/fuel_news_rejected.json dashboard/data/fuel_news_rejected.json || true
+
           git add dashboard/data/fuel_news.json
           git add dashboard/data/fuel_news_last_updated.json
           git add dashboard/data/fuel_news_rejected.json
@@ -51,8 +66,4 @@ jobs:
           fi
 
           git commit -m "Refresh AFE fuel news from GDELT"
-
-          # In case main changed while this workflow was running
-          git pull --rebase origin main
-
           git push origin main
