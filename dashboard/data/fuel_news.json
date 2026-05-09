@@ -1,5 +1,47 @@
 [
   {
+    "id": "ethiopia-2026-05-09-fuel-shortages-and-high-prices-push-adoption-e2880bf2",
+    "date": "2026-05-09",
+    "country": "Ethiopia",
+    "iso3": "ETH",
+    "headline": "Fuel shortages and high prices push adoption of EVs in Africa , led by Ethiopia",
+    "summary": "Fuel shortages and high prices push adoption of EVs in Africa , led by Ethiopia",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "wral.com",
+    "source_url": "https://wral.com",
+    "article_url": "https://www.wral.com/news/ap/d4d5f-fuel-shortages-and-high-prices-push-adoption-of-evs-in-africa-led-by-ethiopia/",
+    "source_domain": "wral.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-09",
+    "gdelt_query": "Ethiopia fuel prices"
+  },
+  {
+    "id": "ethiopia-2026-05-09-fuel-shortages-and-high-prices-push-adoption-27f6b223",
+    "date": "2026-05-09",
+    "country": "Ethiopia",
+    "iso3": "ETH",
+    "headline": "Fuel shortages and high prices push adoption of EVs in Africa , led by Ethiopia",
+    "summary": "Fuel shortages and high prices push adoption of EVs in Africa , led by Ethiopia",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "clickorlando.com",
+    "source_url": "https://clickorlando.com",
+    "article_url": "https://www.clickorlando.com/business/2026/05/09/fuel-shortages-and-high-prices-push-adoption-of-evs-in-africa-led-by-ethiopia/",
+    "source_domain": "clickorlando.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-09",
+    "gdelt_query": "Ethiopia fuel prices"
+  },
+  {
     "id": "malawi-2026-05-08-petrol-prices-drop-in-malawi-malawi-voice-f0c4236c",
     "date": "2026-05-08",
     "country": "Malawi",
@@ -126,6 +168,48 @@
     "gdelt_query": "Tanzania fuel prices EWURA"
   },
   {
+    "id": "namibia-2026-05-07-lufthansa-fuel-crisis-refuelling-stops-and-fl-a506275c",
+    "date": "2026-05-07",
+    "country": "Namibia",
+    "iso3": "NAM",
+    "headline": "Lufthansa Fuel Crisis : Refuelling Stops and Flight Cuts 2026",
+    "summary": "Lufthansa Fuel Crisis : Refuelling Stops and Flight Cuts 2026",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price decrease",
+    "magnitude": "Not extracted automatically",
+    "source_name": "ftnnews.com",
+    "source_url": "https://ftnnews.com",
+    "article_url": "https://ftnnews.com/travel-news/aviation/lufthansa-plane-which-landed-in-cape-town-had-to-fly-to-namibia-to-refuel-now-considering-refuelling-stops/",
+    "source_domain": "ftnnews.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-09",
+    "gdelt_query": "Namibia fuel prices"
+  },
+  {
+    "id": "namibia-2026-05-07-namibia-to-raise-fuel-prices-amid-global-oil-d76ad66e",
+    "date": "2026-05-07",
+    "country": "Namibia",
+    "iso3": "NAM",
+    "headline": "Namibia to raise fuel prices amid global oil market pressures - Xinhua",
+    "summary": "Namibia to raise fuel prices amid global oil market pressures - Xinhua",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price increase",
+    "magnitude": "Not extracted automatically",
+    "source_name": "english.news.cn",
+    "source_url": "https://english.news.cn",
+    "article_url": "https://english.news.cn/africa/20260507/8068407d9c5b4a319cb35523cc5b17c5/c.html",
+    "source_domain": "english.news.cn",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-09",
+    "gdelt_query": "Namibia fuel prices"
+  },
+  {
     "id": "malawi-2026-05-06-malawi-fuel-crisis-deepens-as-oil-shortages-s-8515fa8b",
     "date": "2026-05-06",
     "country": "Malawi",
@@ -210,6 +294,69 @@
     "gdelt_query": "Malawi petrol diesel prices"
   },
   {
+    "id": "zimbabwe-2026-05-03-zimbabwe-embarks-on-diesel-blending-experimen-e27e3ed0",
+    "date": "2026-05-03",
+    "country": "Zimbabwe",
+    "iso3": "ZWE",
+    "headline": "Zimbabwe embarks on diesel blending experiment",
+    "summary": "Zimbabwe embarks on diesel blending experiment",
+    "products": [
+      "diesel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "newzimbabwe.com",
+    "source_url": "https://newzimbabwe.com",
+    "article_url": "https://www.newzimbabwe.com/zimbabwe-embarks-on-diesel-blending-experiment/",
+    "source_domain": "newzimbabwe.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-09",
+    "gdelt_query": "Zimbabwe fuel prices ZERA"
+  },
+  {
+    "id": "zimbabwe-2026-05-03-zimbabwe-trials-ethanol-diesel-blend-3a5fb655",
+    "date": "2026-05-03",
+    "country": "Zimbabwe",
+    "iso3": "ZWE",
+    "headline": "Zimbabwe trials ethanol - diesel blend",
+    "summary": "Zimbabwe trials ethanol - diesel blend",
+    "products": [
+      "diesel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "bulawayo24.com",
+    "source_url": "https://bulawayo24.com",
+    "article_url": "https://bulawayo24.com/index-id-news-sc-national-byo-264417.html",
+    "source_domain": "bulawayo24.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-09",
+    "gdelt_query": "Zimbabwe fuel prices ZERA"
+  },
+  {
+    "id": "kenya-2026-04-30-kenya-inflation-rises-to-5-6-in-april-on-fuel-a1058bb7",
+    "date": "2026-04-30",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "Kenya Inflation Rises to 5 . 6 % in April On Fuel , Transport Costs",
+    "summary": "Kenya Inflation Rises to 5 . 6 % in April On Fuel , Transport Costs",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price increase",
+    "magnitude": "Not extracted automatically",
+    "source_name": "allafrica.com",
+    "source_url": "https://allafrica.com",
+    "article_url": "https://allafrica.com/stories/202604300024.html",
+    "source_domain": "allafrica.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-09",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
     "id": "malawi-2026-04-29-scarcities-fuel-economic-slowdown-nation-onli-8cdd696c",
     "date": "2026-04-29",
     "country": "Malawi",
@@ -292,5 +439,47 @@
     "verified": false,
     "retrieved_at": "2026-05-09",
     "gdelt_query": "Malawi fuel prices MERA"
+  },
+  {
+    "id": "kenya-2026-04-25-lessons-kenya-must-take-from-the-global-shock-3bbd496c",
+    "date": "2026-04-25",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "Lessons Kenya must take from the global shocks on fuel prices",
+    "summary": "Lessons Kenya must take from the global shocks on fuel prices",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "standardmedia.co.ke",
+    "source_url": "https://standardmedia.co.ke",
+    "article_url": "https://www.standardmedia.co.ke/opinion/article/2001546198/lessons-kenya-must-take-from-the-global-shocks-on-fuel-prices",
+    "source_domain": "standardmedia.co.ke",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-09",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
+    "id": "kenya-2026-04-22-protests-erupt-in-kenya-over-high-fuel-prices-eae00452",
+    "date": "2026-04-22",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "Protests erupt in Kenya over high fuel prices , cost of living",
+    "summary": "Protests erupt in Kenya over high fuel prices , cost of living",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "thecable.ng",
+    "source_url": "https://thecable.ng",
+    "article_url": "https://www.thecable.ng/protests-erupt-in-kenya-over-high-fuel-prices-cost-of-living/",
+    "source_domain": "thecable.ng",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-09",
+    "gdelt_query": "Kenya fuel prices EPRA"
   }
 ]
