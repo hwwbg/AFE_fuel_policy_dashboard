@@ -29,11 +29,11 @@ jobs:
             --days 21 \
             --max-per-query 6 \
             --max-per-country 4 \
-            --queries-per-country 2 \
-            --timeout 15 \
-            --sleep 1.2 \
-            --retries 2 \
-            --backoff 2 \
+            --queries-per-country 1 \
+            --timeout 20 \
+            --sleep 5 \
+            --retries 4 \
+            --backoff 5 \
             --keep-existing
 
       - name: Commit updated news JSON
