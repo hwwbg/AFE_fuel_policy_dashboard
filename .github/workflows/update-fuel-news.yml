@@ -26,22 +26,24 @@ jobs:
       - name: Refresh fuel news from GDELT
         run: |
           python scripts/update_fuel_news.py \
-            --days 14 \
-            --max-per-query 8 \
-            --max-per-country 6 \
-            --queries-per-country 4 \
-            --timeout 12 \
-            --sleep 0.25 \
+            --days 21 \
+            --max-per-query 6 \
+            --max-per-country 4 \
+            --queries-per-country 2 \
+            --timeout 15 \
+            --sleep 1.2 \
+            --retries 2 \
+            --backoff 2 \
             --keep-existing
 
       - name: Commit updated news JSON
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add dashboard/data/fuel_news.json dashboard/data/fuel_news_last_updated.json
+          git add dashboard/data/fuel_news.json dashboard/data/fuel_news_last_updated.json dashboard/data/fuel_news_rejected.json
           if git diff --cached --quiet; then
-            echo "No news JSON changes to commit."
+            echo "No changes to commit."
           else
-            git commit -m "Refresh AFE fuel news from GDELT"
+            git commit -m "Update fuel news JSON from GDELT"
             git push
           fi
