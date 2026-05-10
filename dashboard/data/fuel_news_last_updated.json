@@ -1,28 +1,38 @@
 {
-  "last_refreshed_utc": "2026-05-09T09:20:21+00:00",
+  "last_refreshed_utc": "2026-05-10T09:34:50+00:00",
   "source": "GDELT DOC 2.0 API",
   "registry": "/home/runner/work/AFE_fuel_policy_dashboard/AFE_fuel_policy_dashboard/dashboard/data/afe_fuel_news_media_source_registry.json",
   "days_searched": 21,
   "queries_per_country": 1,
-  "items_written": 25,
-  "new_items_found_this_run": 16,
-  "existing_items_checked": 23,
+  "items_written": 30,
+  "new_items_found_this_run": 22,
+  "existing_items_checked": 25,
   "existing_items_dropped_by_quality_filter": 0,
-  "query_errors_count": 3,
+  "query_errors_count": 5,
   "errors": [
     {
-      "country": "Botswana",
-      "query": "Botswana fuel price increase",
+      "country": "Angola",
+      "query": "Angola fuel price",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Kenya",
-      "query": "Kenya fuel prices EPRA",
+      "country": "Eritrea",
+      "query": "Eritrea fuel price",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Sudan",
-      "query": "Sudan fuel prices",
+      "country": "Eswatini",
+      "query": "Eswatini fuel price increase",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "country": "Lesotho",
+      "query": "Lesotho fuel prices",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "country": "Mozambique",
+      "query": "Mozambique fuel prices",
       "error": "HTTP Error 429: Too Many Requests"
     }
   ],

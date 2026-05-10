@@ -1,5 +1,26 @@
 [
   {
+    "id": "namibia-2026-05-10-fuel-panic-buying-costs-govt-millions-bdec8ce3",
+    "date": "2026-05-10",
+    "country": "Namibia",
+    "iso3": "NAM",
+    "headline": "Fuel panic buying costs Govt millions",
+    "summary": "Fuel panic buying costs Govt millions",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "namibian.com.na",
+    "source_url": "https://namibian.com.na",
+    "article_url": "https://www.namibian.com.na/fuel-panic-buying-costs-govt-millions/",
+    "source_domain": "namibian.com.na",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-10",
+    "gdelt_query": "Namibia fuel prices"
+  },
+  {
     "id": "ethiopia-2026-05-09-fuel-shortages-and-high-prices-push-adoption-e2880bf2",
     "date": "2026-05-09",
     "country": "Ethiopia",
@@ -82,6 +103,90 @@
     "verified": false,
     "retrieved_at": "2026-05-09",
     "gdelt_query": "Ethiopia fuel prices"
+  },
+  {
+    "id": "ethiopia-2026-05-09-ethiopia-forced-to-cut-fuel-supply-by-half-ne-d696c354",
+    "date": "2026-05-09",
+    "country": "Ethiopia",
+    "iso3": "ETH",
+    "headline": "Ethiopia Forced to Cut Fuel Supply by Half – New Business Ethiopia",
+    "summary": "Ethiopia Forced to Cut Fuel Supply by Half – New Business Ethiopia",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price decrease",
+    "magnitude": "Not extracted automatically",
+    "source_name": "newbusinessethiopia.com",
+    "source_url": "https://newbusinessethiopia.com",
+    "article_url": "https://newbusinessethiopia.com/trade/ethiopia-forced-to-cut-fuel-supply-by-half/",
+    "source_domain": "newbusinessethiopia.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-10",
+    "gdelt_query": "Ethiopia fuel prices"
+  },
+  {
+    "id": "ethiopia-2026-05-09-fuel-shortages-and-high-prices-push-adoption-a89d59ab",
+    "date": "2026-05-09",
+    "country": "Ethiopia",
+    "iso3": "ETH",
+    "headline": "Fuel shortages and high prices push adoption of EVs in Africa , led by Ethiopia",
+    "summary": "Fuel shortages and high prices push adoption of EVs in Africa , led by Ethiopia",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "abcnews.com",
+    "source_url": "https://abcnews.com",
+    "article_url": "https://abcnews.com/International/wireStory/fuel-shortages-high-prices-push-adoption-evs-africa-132803856",
+    "source_domain": "abcnews.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-10",
+    "gdelt_query": "Ethiopia fuel prices"
+  },
+  {
+    "id": "south-africa-2026-05-09-feature-rising-fuel-prices-drive-taxi-fare-hi-9fe5c84c",
+    "date": "2026-05-09",
+    "country": "South Africa",
+    "iso3": "ZAF",
+    "headline": "Feature : Rising fuel prices drive taxi fare hikes , squeeze South African commuters - Xinhua",
+    "summary": "Feature : Rising fuel prices drive taxi fare hikes , squeeze South African commuters - Xinhua",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price increase",
+    "magnitude": "Not extracted automatically",
+    "source_name": "english.news.cn",
+    "source_url": "https://english.news.cn",
+    "article_url": "https://english.news.cn/africa/20260509/ae6f8940ac0b4f2ea5259ff4b48f616a/c.html",
+    "source_domain": "english.news.cn",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-10",
+    "gdelt_query": "South Africa fuel price petrol diesel"
+  },
+  {
+    "id": "south-africa-2026-05-09-feature-rising-fuel-prices-drive-taxi-fare-hi-c4beab46",
+    "date": "2026-05-09",
+    "country": "South Africa",
+    "iso3": "ZAF",
+    "headline": "Feature : Rising fuel prices drive taxi fare hikes , squeeze South African commuters - Xinhua",
+    "summary": "Feature : Rising fuel prices drive taxi fare hikes , squeeze South African commuters - Xinhua",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price increase",
+    "magnitude": "Not extracted automatically",
+    "source_name": "english.news.cn",
+    "source_url": "https://english.news.cn",
+    "article_url": "https://english.news.cn/20260509/c30259e7e84f46eeab47b4f45a3089ca/c.html",
+    "source_domain": "english.news.cn",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-10",
+    "gdelt_query": "South Africa fuel price petrol diesel"
   },
   {
     "id": "malawi-2026-05-08-petrol-prices-drop-in-malawi-malawi-voice-f0c4236c",
