@@ -1,5 +1,26 @@
 [
   {
+    "id": "kenya-2026-05-11-kenya-fuel-food-and-fare-the-chain-reaction-d-54f57933",
+    "date": "2026-05-11",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "Kenya : Fuel , Food and Fare - the Chain Reaction Driving Inflation",
+    "summary": "Kenya : Fuel , Food and Fare - the Chain Reaction Driving Inflation",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "allafrica.com",
+    "source_url": "https://allafrica.com",
+    "article_url": "https://allafrica.com/stories/202605110295.html",
+    "source_domain": "allafrica.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-11",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
     "id": "namibia-2026-05-10-fuel-panic-buying-costs-govt-millions-bdec8ce3",
     "date": "2026-05-10",
     "country": "Namibia",
@@ -19,6 +40,69 @@
     "verified": false,
     "retrieved_at": "2026-05-10",
     "gdelt_query": "Namibia fuel prices"
+  },
+  {
+    "id": "south-africa-2026-05-10-hello-africa-rising-fuel-prices-drive-taxi-fa-e2fdb5a1",
+    "date": "2026-05-10",
+    "country": "South Africa",
+    "iso3": "ZAF",
+    "headline": "( Hello Africa ) Rising fuel prices drive taxi fare hikes , squeeze South African commuters",
+    "summary": "( Hello Africa ) Rising fuel prices drive taxi fare hikes , squeeze South African commuters",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price increase",
+    "magnitude": "Not extracted automatically",
+    "source_name": "nigeriasun.com",
+    "source_url": "https://nigeriasun.com",
+    "article_url": "http://www.nigeriasun.com/news/279041921/hello-africa-rising-fuel-prices-drive-taxi-fare-hikes-squeeze-south-african-commuters",
+    "source_domain": "nigeriasun.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-11",
+    "gdelt_query": "South Africa fuel price petrol diesel"
+  },
+  {
+    "id": "south-africa-2026-05-10-hello-africa-rising-fuel-prices-drive-taxi-fa-949fd0a3",
+    "date": "2026-05-10",
+    "country": "South Africa",
+    "iso3": "ZAF",
+    "headline": "( Hello Africa ) Rising fuel prices drive taxi fare hikes , squeeze South African commuters",
+    "summary": "( Hello Africa ) Rising fuel prices drive taxi fare hikes , squeeze South African commuters",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price increase",
+    "magnitude": "Not extracted automatically",
+    "source_name": "kenyastar.com",
+    "source_url": "https://kenyastar.com",
+    "article_url": "http://www.kenyastar.com/news/279041921/hello-africa-rising-fuel-prices-drive-taxi-fare-hikes-squeeze-south-african-commuters",
+    "source_domain": "kenyastar.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-11",
+    "gdelt_query": "South Africa fuel price petrol diesel"
+  },
+  {
+    "id": "south-africa-2026-05-10-hello-africa-rising-fuel-prices-drive-taxi-fa-a4ee98a4",
+    "date": "2026-05-10",
+    "country": "South Africa",
+    "iso3": "ZAF",
+    "headline": "( Hello Africa ) Rising fuel prices drive taxi fare hikes , squeeze South African commuters",
+    "summary": "( Hello Africa ) Rising fuel prices drive taxi fare hikes , squeeze South African commuters",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price increase",
+    "magnitude": "Not extracted automatically",
+    "source_name": "africaleader.com",
+    "source_url": "https://africaleader.com",
+    "article_url": "http://www.africaleader.com/news/279041921/hello-africa-rising-fuel-prices-drive-taxi-fare-hikes-squeeze-south-african-commuters",
+    "source_domain": "africaleader.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-11",
+    "gdelt_query": "South Africa fuel price petrol diesel"
   },
   {
     "id": "ethiopia-2026-05-09-fuel-shortages-and-high-prices-push-adoption-e2880bf2",
