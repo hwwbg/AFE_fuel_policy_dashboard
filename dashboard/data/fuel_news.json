@@ -21,6 +21,27 @@
     "gdelt_query": "Kenya fuel prices EPRA"
   },
   {
+    "id": "namibia-2026-05-11-namibia-fuel-panic-buying-costs-govt-millions-799ffc77",
+    "date": "2026-05-11",
+    "country": "Namibia",
+    "iso3": "NAM",
+    "headline": "Namibia : Fuel Panic Buying Costs Govt Millions",
+    "summary": "Namibia : Fuel Panic Buying Costs Govt Millions",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "allafrica.com",
+    "source_url": "https://allafrica.com",
+    "article_url": "https://allafrica.com/stories/202605110111.html",
+    "source_domain": "allafrica.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-12",
+    "gdelt_query": "Namibia fuel prices"
+  },
+  {
     "id": "namibia-2026-05-10-fuel-panic-buying-costs-govt-millions-bdec8ce3",
     "date": "2026-05-10",
     "country": "Namibia",
