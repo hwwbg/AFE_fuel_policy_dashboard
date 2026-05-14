@@ -1,5 +1,26 @@
 [
   {
+    "id": "kenya-2026-05-14-fuel-price-review-expected-as-kenyans-brace-f-5475426f",
+    "date": "2026-05-14",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "Fuel Price Review Expected as Kenyans Brace for Another EPRA Announcement",
+    "summary": "Fuel Price Review Expected as Kenyans Brace for Another EPRA Announcement",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price adjustment",
+    "magnitude": "Not extracted automatically",
+    "source_name": "capitalfm.co.ke",
+    "source_url": "https://capitalfm.co.ke",
+    "article_url": "https://www.capitalfm.co.ke/news/2026/05/fuel-price-review-expected-as-kenyans-brace-for-another-epra-announcement/",
+    "source_domain": "capitalfm.co.ke",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-14",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
     "id": "kenya-2026-05-11-kenya-fuel-food-and-fare-the-chain-reaction-d-54f57933",
     "date": "2026-05-11",
     "country": "Kenya",

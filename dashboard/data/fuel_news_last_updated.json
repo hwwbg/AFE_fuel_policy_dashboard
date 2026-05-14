@@ -1,36 +1,15 @@
 {
-  "last_refreshed_utc": "2026-05-13T10:24:37+00:00",
+  "last_refreshed_utc": "2026-05-14T09:56:06+00:00",
   "source": "GDELT DOC 2.0 API",
   "registry": "/home/runner/work/AFE_fuel_policy_dashboard/AFE_fuel_policy_dashboard/dashboard/data/afe_fuel_news_media_source_registry.json",
   "days_searched": 21,
   "queries_per_country": 1,
-  "items_written": 35,
-  "new_items_found_this_run": 10,
+  "items_written": 36,
+  "new_items_found_this_run": 13,
   "existing_items_checked": 35,
   "existing_items_dropped_by_quality_filter": 0,
-  "query_errors_count": 4,
-  "errors": [
-    {
-      "country": "Malawi",
-      "query": "Malawi fuel prices MERA",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "country": "Mozambique",
-      "query": "Mozambique fuel prices",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "country": "Namibia",
-      "query": "Namibia fuel prices",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "country": "Zambia",
-      "query": "Zambia fuel prices ERB",
-      "error": "HTTP Error 429: Too Many Requests"
-    }
-  ],
+  "query_errors_count": 0,
+  "errors": [],
   "rejected_sample_file": "/home/runner/work/AFE_fuel_policy_dashboard/AFE_fuel_policy_dashboard/dashboard/data/fuel_news_rejected.json",
   "note": "Items are automatically retrieved from GDELT and marked verified=false. v3 applies stricter relevance filters, but important items should still be reviewed before use as evidence."
 }
