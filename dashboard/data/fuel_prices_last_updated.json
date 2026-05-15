@@ -1,7 +1,7 @@
 {
-  "updated_utc": "2026-05-15T14:59:44+00:00",
-  "mdg_successful": true,
+  "updated_utc": "2026-05-15T15:18:46+00:00",
   "source_policy": {
-    "MDG": "OMH only; no GPP fallback; old MDG rows removed before refresh."
-  }
+    "MDG": "OMH only; no GPP fallback. Existing MDG rows are removed before refresh because they are not trusted."
+  },
+  "mdg_successful": true
 }
