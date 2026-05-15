@@ -1,11 +1,14 @@
 name: Update country fuel prices
-
 on:
+  push:
+    paths:
+      - ".github/workflows/update_fuel_prices.yml"
+      - "scripts/update_fuel_prices.py"
+      - "dashboard/index.html"
   schedule:
-    # Run every 24 hours. GitHub uses UTC time.
     - cron: "20 7 * * *"
   workflow_dispatch:
-
+  
 permissions:
   contents: write
 
