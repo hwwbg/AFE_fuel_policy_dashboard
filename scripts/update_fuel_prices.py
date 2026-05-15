@@ -345,16 +345,25 @@ def fetch_mdg(timeout: int, debug_dir: Optional[Path] = None, **_):
     url = SOURCE_INFO["Madagascar"][1]
     html = request_html(url, timeout)
     rows = _mdg_parse_tables(html)
-    if rows: return rows, 'Parsed OMH static HTML table.'
-    rows = _mdg_parse_text(BeautifulSoup(html, 'html.parser').get_text(' ', strip=True))
-    if rows: return rows, 'Parsed OMH static text rows.'
-    rendered, json_payloads, text_payloads, urls = _mdg_playwright(max(timeout * 1000, 60000), debug_dir)
-    rows = _mdg_parse_tables(rendered)
-    if rows: return rows, 'Parsed OMH rendered DOM table.'
-    rows = _mdg_parse_text(BeautifulSoup(rendered, 'html.parser').get_text(' ', strip=True))
-    if rows: return rows, 'Parsed OMH rendered text rows.'
-    return [], (f'OMH loaded/rendered but no SC/PL/GO rows found. '
-                f'Inspected {len(json_payloads)} JSON, {len(text_payloads)} text, {len(urls)} URLs.')
+    if not rows:
+        rows = _mdg_parse_text(BeautifulSoup(html, 'html.parser').get_text(' ', strip=True))
+    if not rows:
+        rendered, json_payloads, text_payloads, urls = _mdg_playwright(
+            max(timeout * 1000, 60000), debug_dir
+        )
+        rows = _mdg_parse_tables(rendered)
+        if not rows:
+            rows = _mdg_parse_text(BeautifulSoup(rendered, 'html.parser').get_text(' ', strip=True))
+        if not rows:
+            return [], (
+                f'OMH loaded/rendered but no SC/PL/GO rows found. '
+                f'Inspected {len(json_payloads)} JSON, {len(text_payloads)} text, {len(urls)} URLs.'
+            )
+
+    for r in rows:
+        r["source_key"] = "omh.mg"
+
+    return rows, f'Parsed OMH: {len(rows)} rows.'
 
 # ─── Kenya (EPRA) ─────────────────────────────────────────────────────────────
 
