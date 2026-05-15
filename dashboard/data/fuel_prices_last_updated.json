@@ -1,7 +1,27 @@
 {
-  "updated_utc": "2026-05-15T16:23:39+00:00",
-  "source_policy": {
-    "MDG": "OMH only; no GPP fallback. Existing MDG rows are removed before refresh because they are not trusted."
+  "updated_utc": "2026-05-15T17:01:28+00:00",
+  "countries": {
+    "Madagascar": "ok",
+    "Kenya": "warning",
+    "Tanzania": "warning",
+    "Zambia": "warning",
+    "South Africa": "warning",
+    "Rwanda": "warning",
+    "Mauritius": "not_implemented",
+    "Zimbabwe": "not_implemented",
+    "Namibia": "not_implemented",
+    "Seychelles": "not_implemented",
+    "Malawi": "not_implemented",
+    "Mozambique": "not_implemented",
+    "Botswana": "not_implemented",
+    "Ethiopia": "not_implemented",
+    "Eswatini": "not_implemented",
+    "Lesotho": "not_implemented",
+    "Angola": "not_implemented"
   },
-  "mdg_successful": true
+  "manual_countries": [
+    "Congo, Dem. Rep.",
+    "Sao Tome and Principe",
+    "Uganda"
+  ]
 }

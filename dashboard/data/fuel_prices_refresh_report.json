@@ -1,10 +1,14 @@
 {
-  "updated_utc": "2026-05-15T16:23:39+00:00",
+  "updated_utc": "2026-05-15T17:01:28+00:00",
   "status": "ok",
-  "mdg_successful": true,
-  "policy_note": "Madagascar uses OMH only; no GPP fallback. Stale/incorrect MDG rows are not retained.",
-  "countries": [
-    {
+  "hard_failures": [],
+  "manual_countries": [
+    "Congo, Dem. Rep.",
+    "Sao Tome and Principe",
+    "Uganda"
+  ],
+  "countries": {
+    "Madagascar": {
       "country": "Madagascar",
       "iso3": "MDG",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
@@ -13,6 +17,166 @@
       "message": "Parsed OMH rendered DOM table.",
       "observations_found": 423,
       "observations_added": 423
+    },
+    "Kenya": {
+      "country": "Kenya",
+      "iso3": "KEN",
+      "source_name": "Energy & Petroleum Regulatory Authority (EPRA)",
+      "source_url": "https://www.epra.go.ke/pump-prices/",
+      "status": "warning",
+      "message": "ReadTimeout: HTTPSConnectionPool(host='www.epra.go.ke', port=443): Read timed out. (read timeout=60)",
+      "observations_found": 0,
+      "observations_added": 0
+    },
+    "Tanzania": {
+      "country": "Tanzania",
+      "iso3": "TZA",
+      "source_name": "Energy & Water Utilities Regulatory Authority (EWURA)",
+      "source_url": "https://www.ewura.go.tz/faqs/petroleum-fuel-prices",
+      "status": "warning",
+      "message": "EWURA page loaded but no price table found.",
+      "observations_found": 0,
+      "observations_added": 0
+    },
+    "Zambia": {
+      "country": "Zambia",
+      "iso3": "ZMB",
+      "source_name": "Energy Regulation Board (ERB)",
+      "source_url": "https://www.erb.org.zm/fuelprices.php",
+      "status": "warning",
+      "message": "SSLError: HTTPSConnectionPool(host='www.erb.org.zm', port=443): Max retries exceeded with url: /fuelprices.php (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))",
+      "observations_found": 0,
+      "observations_added": 0
+    },
+    "South Africa": {
+      "country": "South Africa",
+      "iso3": "ZAF",
+      "source_name": "Dept. of Mineral Resources & Energy (DMRE)",
+      "source_url": "https://www.dmre.gov.za/energy-resources/energy-sources/pretoleum/petrol-price-archive",
+      "status": "warning",
+      "message": "HTTPError: 404 Client Error: Not Found for url: https://www.dmre.gov.za/energy-resources/energy-sources/pretoleum/petrol-price-archive",
+      "observations_found": 0,
+      "observations_added": 0
+    },
+    "Rwanda": {
+      "country": "Rwanda",
+      "iso3": "RWA",
+      "source_name": "Rwanda Utilities Regulatory Authority (RURA)",
+      "source_url": "https://www.rura.rw/index.php?id=89",
+      "status": "warning",
+      "message": "HTTPError: 404 Client Error: Not Found for url: https://www.rura.rw/index.php?id=89",
+      "observations_found": 0,
+      "observations_added": 0
+    },
+    "Mauritius": {
+      "country": "Mauritius",
+      "iso3": "MUS",
+      "source_name": "State Trading Corporation / PPC",
+      "source_url": "https://www.stcmu.com/ppm/retail-prices",
+      "status": "not_implemented",
+      "message": "Mauritius: scraper not yet implemented. Manual update required. Source: https://www.stcmu.com/ppm/retail-prices",
+      "observations_found": 0,
+      "observations_added": 0
+    },
+    "Zimbabwe": {
+      "country": "Zimbabwe",
+      "iso3": "ZWE",
+      "source_name": "Zimbabwe Energy Regulatory Authority (ZERA)",
+      "source_url": "https://www.zera.co.zw/",
+      "status": "not_implemented",
+      "message": "Zimbabwe: scraper not yet implemented. Manual update required. Source: https://www.zera.co.zw/",
+      "observations_found": 0,
+      "observations_added": 0
+    },
+    "Namibia": {
+      "country": "Namibia",
+      "iso3": "NAM",
+      "source_name": "Ministry of Mines & Energy (MIME)",
+      "source_url": "https://www.mme.gov.na/news/",
+      "status": "not_implemented",
+      "message": "Namibia: scraper not yet implemented. Manual update required. Source: https://www.mme.gov.na/news/",
+      "observations_found": 0,
+      "observations_added": 0
+    },
+    "Seychelles": {
+      "country": "Seychelles",
+      "iso3": "SYC",
+      "source_name": "SEYPEC",
+      "source_url": "https://www.seypec.com/fuel-prices",
+      "status": "not_implemented",
+      "message": "Seychelles: scraper not yet implemented. Manual update required. Source: https://www.seypec.com/fuel-prices",
+      "observations_found": 0,
+      "observations_added": 0
+    },
+    "Malawi": {
+      "country": "Malawi",
+      "iso3": "MWI",
+      "source_name": "Malawi Energy Regulatory Authority (MERA)",
+      "source_url": "https://mera.mw/",
+      "status": "not_implemented",
+      "message": "Malawi: scraper not yet implemented. Manual update required. Source: https://mera.mw/",
+      "observations_found": 0,
+      "observations_added": 0
+    },
+    "Mozambique": {
+      "country": "Mozambique",
+      "iso3": "MOZ",
+      "source_name": "ARENE",
+      "source_url": "https://arene.org.mz/",
+      "status": "not_implemented",
+      "message": "Mozambique: scraper not yet implemented. Manual update required. Source: https://arene.org.mz/",
+      "observations_found": 0,
+      "observations_added": 0
+    },
+    "Botswana": {
+      "country": "Botswana",
+      "iso3": "BWA",
+      "source_name": "Botswana Energy Regulatory Authority (BERA)",
+      "source_url": "https://www.bera.co.bw/downloads/Petroleum",
+      "status": "not_implemented",
+      "message": "Botswana: scraper not yet implemented. Manual update required. Source: https://www.bera.co.bw/downloads/Petroleum",
+      "observations_found": 0,
+      "observations_added": 0
+    },
+    "Ethiopia": {
+      "country": "Ethiopia",
+      "iso3": "ETH",
+      "source_name": "Ministry of Trade & Regional Integration (MOTRI)",
+      "source_url": "https://www.motri.gov.et/",
+      "status": "not_implemented",
+      "message": "Ethiopia: scraper not yet implemented. Manual update required. Source: https://www.motri.gov.et/",
+      "observations_found": 0,
+      "observations_added": 0
+    },
+    "Eswatini": {
+      "country": "Eswatini",
+      "iso3": "SWZ",
+      "source_name": "Eswatini Energy Regulatory Authority (ESERA)",
+      "source_url": "https://www.esera.org.sz",
+      "status": "not_implemented",
+      "message": "Eswatini: scraper not yet implemented. Manual update required. Source: https://www.esera.org.sz",
+      "observations_found": 0,
+      "observations_added": 0
+    },
+    "Lesotho": {
+      "country": "Lesotho",
+      "iso3": "LSO",
+      "source_name": "Petroleum Fund of Lesotho",
+      "source_url": "https://petroleum.org.ls",
+      "status": "not_implemented",
+      "message": "Lesotho: scraper not yet implemented. Manual update required. Source: https://petroleum.org.ls",
+      "observations_found": 0,
+      "observations_added": 0
+    },
+    "Angola": {
+      "country": "Angola",
+      "iso3": "AGO",
+      "source_name": "GlobalPetrolPrices (proxy)",
+      "source_url": "https://www.globalpetrolprices.com/",
+      "status": "not_implemented",
+      "message": "Angola: scraper not yet implemented. Manual update required. Source: https://www.globalpetrolprices.com/",
+      "observations_found": 0,
+      "observations_added": 0
     }
-  ]
+  }
 }
