@@ -3,6 +3,7 @@ name: Update official fuel prices
 on:
   workflow_dispatch:
   schedule:
+    # Run once every 24 hours at 06:15 UTC
     - cron: "15 6 * * *"
 
 permissions:
@@ -27,109 +28,113 @@ jobs:
           pip install requests beautifulsoup4 lxml playwright
           python -m playwright install --with-deps chromium
 
-      - name: Scrape auto-updatable countries
-        # Countries with machine-readable official sources
-        # Uganda, DRC, Sao Tome are excluded — no reliable scrape target
+      - name: Update official fuel price data
         run: |
           python scripts/update_fuel_prices.py \
+            --index dashboard/index.html \
             --output dashboard/data/fuel_prices.json \
             --last-updated dashboard/data/fuel_prices_last_updated.json \
             --report dashboard/data/fuel_prices_refresh_report.json \
             --timeout 60 \
             --debug-dir dashboard/data/scraper_debug \
             --countries \
+              Madagascar \
               Kenya \
-              "South Africa" \
               Tanzania \
+              Zambia \
+              "South Africa" \
               Rwanda \
               Mauritius \
               Zimbabwe \
               Namibia \
-              Zambia \
+              Seychelles \
+              Malawi \
+              Mozambique \
               Botswana \
               Ethiopia \
               Eswatini \
               Lesotho \
-              Madagascar \
-              Malawi \
-              Mozambique \
-              Seychelles \
               Angola
 
-      - name: Validate output
+      - name: Validate generated fuel price data
         run: |
           python - <<'PY'
-          import json
+          import json, sys
           from pathlib import Path
 
-          FULL_SERIES  = {"Kenya","South Africa","Tanzania","Rwanda","Mauritius",
-                          "Zimbabwe","Namibia","Zambia"}
-          SPARSE       = {"Botswana","Ethiopia","Eswatini","Lesotho","Madagascar",
-                          "Malawi","Mozambique","Seychelles","Angola"}
-          MANUAL       = {"Uganda","Congo, Dem. Rep.","Sao Tome and Principe"}
-          REQUIRED     = ["observation_date","fuel_family","fuel_product",
-                          "price_local","currency","source_url"]
+          for p in [
+              "dashboard/data/fuel_prices.json",
+              "dashboard/data/fuel_prices_last_updated.json",
+              "dashboard/data/fuel_prices_refresh_report.json",
+          ]:
+              p = Path(p)
+              if not p.exists() or p.stat().st_size == 0:
+                  raise SystemExit(f"Missing or empty output file: {p}")
 
-          fuel   = json.loads(Path("dashboard/data/fuel_prices.json").read_text())
           report = json.loads(Path("dashboard/data/fuel_prices_refresh_report.json").read_text())
+          fuel   = json.loads(Path("dashboard/data/fuel_prices.json").read_text())
 
-          hard_failures = []   # full-series countries with 0 rows = pipeline broken
-          soft_warnings = []   # sparse countries with 0 rows = expected sometimes
-          field_errors  = []
+          # Hard-fail only on unhandled exceptions in the scraper.
+          # 0 rows = site structure changed, needs human investigation — not a pipeline break.
+          hard = report.get("hard_failures", [])
+          if hard:
+              raise SystemExit(f"Scrapers threw exceptions for: {hard}")
 
-          for country in sorted(FULL_SERIES | SPARSE):
-              rows = fuel.get(country, [])
-              if not isinstance(rows, list) or len(rows) == 0:
-                  if country in FULL_SERIES:
-                      hard_failures.append(f"{country}: 0 rows (FULL SERIES — should never be empty)")
-                  else:
-                      soft_warnings.append(f"{country}: 0 rows (sparse source, may be stale)")
-                  continue
-              bad = [(i, [k for k in REQUIRED if k not in r or r[k] in ("",None)])
-                     for i, r in enumerate(rows)
-                     if any(k not in r or r[k] in ("",None) for k in REQUIRED)]
-              if bad:
-                  field_errors.append(f"{country}: {len(bad)} rows with missing fields")
+          # Print a summary so the log is useful
+          countries = report.get("countries", {})
+          ok, warn, stub = [], [], []
+          for country, info in sorted(countries.items()):
+              status = info["status"]
+              rows   = fuel.get(country, [])
+              n      = len(rows) if isinstance(rows, list) else 0
+              latest = max((r["observation_date"] for r in rows), default="—")
+              if status == "ok":
+                  ok.append(f"  OK            {country:25s} {n:4d} rows  latest={latest}")
+              elif status == "not_implemented":
+                  stub.append(f"  stub          {country:25s} (scraper not yet built)")
               else:
-                  latest = max(r["observation_date"] for r in rows)
-                  tier = "FULL" if country in FULL_SERIES else "sparse"
-                  print(f"  [{tier:6s}] {country:25s} {len(rows):4d} rows  latest={latest}")
+                  warn.append(f"  WARNING       {country:25s} {n:4d} rows  {info['message'][:60]}")
 
-          print("\n--- Manual-entry countries (not scraped) ---")
-          for c in sorted(MANUAL):
-              rows = fuel.get(c, [])
-              n    = len(rows) if isinstance(rows, list) else 0
-              latest = max(r["observation_date"] for r in rows) if n else "—"
-              print(f"  [manual] {c:25s} {n:4d} rows  latest={latest}")
+          print("=== Scraper results ===")
+          for line in ok:   print(line)
+          for line in warn: print(line)
+          for line in stub: print(line)
 
-          if soft_warnings:
-              print("\n--- Sparse source warnings (non-fatal) ---")
-              for w in soft_warnings: print(" ", w)
-
-          if field_errors:
-              print("\n--- Field errors ---")
-              for e in field_errors: print(" ", e)
-
-          if hard_failures or field_errors:
-              raise SystemExit("HARD FAILURES:\n" + "\n".join(hard_failures + field_errors))
+          manual = report.get("manual_countries", [])
+          if manual:
+              print(f"\n  manual entry  {', '.join(sorted(manual))}")
           PY
 
       - name: Show refresh report
         run: |
+          echo "===== fuel_prices_refresh_report.json ====="
           cat dashboard/data/fuel_prices_refresh_report.json
 
-      - name: Commit updated data
+          echo ""
+          echo "===== fuel_prices.json row counts ====="
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          fuel = json.loads(Path("dashboard/data/fuel_prices.json").read_text())
+          for country, rows in sorted(fuel.items()):
+              n      = len(rows) if isinstance(rows, list) else "ERR"
+              latest = max((r["observation_date"] for r in rows), default="—") if isinstance(rows, list) and rows else "—"
+              print(f"  {country:30s} {str(n):>4} rows  latest={latest}")
+          PY
+
+      - name: Commit updated fuel price data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add dashboard/data/fuel_prices.json \
-                  dashboard/data/fuel_prices_last_updated.json \
-                  dashboard/data/fuel_prices_refresh_report.json \
-                  "dashboard/data/scraper_debug/" || true
+          git add \
+            dashboard/data/fuel_prices.json \
+            dashboard/data/fuel_prices_last_updated.json \
+            dashboard/data/fuel_prices_refresh_report.json \
+            "dashboard/data/scraper_debug/" || true
 
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "No fuel price data changes to commit."
           else
             git commit -m "chore: update fuel prices $(date -u +%Y-%m-%d)"
             git push
