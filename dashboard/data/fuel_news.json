@@ -1,5 +1,26 @@
 [
   {
+    "id": "kenya-2026-05-15-kenya-records-highest-diesel-price-in-history-01388041",
+    "date": "2026-05-15",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "Kenya Records Highest Diesel Price in History at KES 242",
+    "summary": "Kenya Records Highest Diesel Price in History at KES 242",
+    "products": [
+      "diesel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "techweez.com",
+    "source_url": "https://techweez.com",
+    "article_url": "https://techweez.com/2026/05/15/kenya-fuel-prices-may-2026-diesel-record/",
+    "source_domain": "techweez.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-15",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
     "id": "kenya-2026-05-14-fuel-price-review-expected-as-kenyans-brace-f-5475426f",
     "date": "2026-05-14",
     "country": "Kenya",
@@ -18,6 +39,50 @@
     "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
     "verified": false,
     "retrieved_at": "2026-05-14",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
+    "id": "kenya-2026-05-14-hii-ni-mateso-frustrated-kenyans-vent-online-f9423c2d",
+    "date": "2026-05-14",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "Hii ni mateso ! Frustrated Kenyans vent online over petrol , diesel price hike",
+    "summary": "Hii ni mateso ! Frustrated Kenyans vent online over petrol , diesel price hike",
+    "products": [
+      "gasoline",
+      "diesel"
+    ],
+    "change_type": "price increase",
+    "magnitude": "Not extracted automatically",
+    "source_name": "the-star.co.ke",
+    "source_url": "https://the-star.co.ke",
+    "article_url": "https://www.the-star.co.ke/news/2026-05-14-hii-ni-mateso-kenyans-vent-over-new-fuel-prices",
+    "source_domain": "the-star.co.ke",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-15",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
+    "id": "kenya-2026-05-14-tougher-times-as-diesel-rises-by-sh46-29-petr-afd3736c",
+    "date": "2026-05-14",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "Tougher times as diesel rises by Sh46 . 29 , petrol by Sh16 . 65 in latest Epra review",
+    "summary": "Tougher times as diesel rises by Sh46 . 29 , petrol by Sh16 . 65 in latest Epra review",
+    "products": [
+      "gasoline",
+      "diesel"
+    ],
+    "change_type": "price increase",
+    "magnitude": "Not extracted automatically",
+    "source_name": "the-star.co.ke",
+    "source_url": "https://the-star.co.ke",
+    "article_url": "https://www.the-star.co.ke/news/2026-05-14-pain-at-the-pump-as-diesel-rises-by-sh4629",
+    "source_domain": "the-star.co.ke",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-15",
     "gdelt_query": "Kenya fuel prices EPRA"
   },
   {
