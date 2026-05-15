@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-15T17:01:28+00:00",
+  "updated_utc": "2026-05-15T17:13:55+00:00",
   "status": "ok",
   "hard_failures": [],
   "manual_countries": [
@@ -14,7 +14,7 @@
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "status": "ok",
-      "message": "Parsed OMH rendered DOM table.",
+      "message": "Parsed OMH: 423 rows.",
       "observations_found": 423,
       "observations_added": 423
     },

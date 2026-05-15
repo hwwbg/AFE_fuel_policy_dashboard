@@ -26557,7 +26557,7 @@
       "observation_date": "2006-07-10",
       "price_local": 2230.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26570,7 +26570,7 @@
       "observation_date": "2006-07-10",
       "price_local": 2720.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26583,7 +26583,7 @@
       "observation_date": "2006-07-10",
       "price_local": 1720.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26596,7 +26596,7 @@
       "observation_date": "2006-08-08",
       "price_local": 2230.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26609,7 +26609,7 @@
       "observation_date": "2006-08-08",
       "price_local": 2820.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26622,7 +26622,7 @@
       "observation_date": "2006-08-08",
       "price_local": 1720.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26635,7 +26635,7 @@
       "observation_date": "2006-09-19",
       "price_local": 2160.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26648,7 +26648,7 @@
       "observation_date": "2006-09-19",
       "price_local": 2724.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26661,7 +26661,7 @@
       "observation_date": "2006-09-19",
       "price_local": 1712.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26674,7 +26674,7 @@
       "observation_date": "2006-10-01",
       "price_local": 2160.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26687,7 +26687,7 @@
       "observation_date": "2006-10-01",
       "price_local": 2632.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26700,7 +26700,7 @@
       "observation_date": "2006-10-01",
       "price_local": 1712.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26713,7 +26713,7 @@
       "observation_date": "2006-10-24",
       "price_local": 2103.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26726,7 +26726,7 @@
       "observation_date": "2006-10-24",
       "price_local": 2517.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26739,7 +26739,7 @@
       "observation_date": "2006-10-24",
       "price_local": 1653.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26752,7 +26752,7 @@
       "observation_date": "2006-10-28",
       "price_local": 2100.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26765,7 +26765,7 @@
       "observation_date": "2006-10-28",
       "price_local": 2517.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26778,7 +26778,7 @@
       "observation_date": "2006-10-28",
       "price_local": 1650.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26791,7 +26791,7 @@
       "observation_date": "2006-11-12",
       "price_local": 2080.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26804,7 +26804,7 @@
       "observation_date": "2006-11-12",
       "price_local": 2410.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26817,7 +26817,7 @@
       "observation_date": "2006-11-12",
       "price_local": 1580.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26830,7 +26830,7 @@
       "observation_date": "2006-12-03",
       "price_local": 1990.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26843,7 +26843,7 @@
       "observation_date": "2006-12-03",
       "price_local": 2400.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26856,7 +26856,7 @@
       "observation_date": "2006-12-03",
       "price_local": 1550.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26869,7 +26869,7 @@
       "observation_date": "2007-01-15",
       "price_local": 1930.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26882,7 +26882,7 @@
       "observation_date": "2007-01-15",
       "price_local": 2330.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26895,7 +26895,7 @@
       "observation_date": "2007-01-15",
       "price_local": 1510.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26908,7 +26908,7 @@
       "observation_date": "2007-03-06",
       "price_local": 1980.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26921,7 +26921,7 @@
       "observation_date": "2007-03-06",
       "price_local": 2330.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26934,7 +26934,7 @@
       "observation_date": "2007-03-06",
       "price_local": 1510.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26947,7 +26947,7 @@
       "observation_date": "2007-06-11",
       "price_local": 1989.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26960,7 +26960,7 @@
       "observation_date": "2007-06-11",
       "price_local": 2434.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26973,7 +26973,7 @@
       "observation_date": "2007-06-11",
       "price_local": 1462.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26986,7 +26986,7 @@
       "observation_date": "2007-06-14",
       "price_local": 1980.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -26999,7 +26999,7 @@
       "observation_date": "2007-06-14",
       "price_local": 2330.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27012,7 +27012,7 @@
       "observation_date": "2007-06-14",
       "price_local": 1460.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27025,7 +27025,7 @@
       "observation_date": "2007-06-20",
       "price_local": 1980.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27038,7 +27038,7 @@
       "observation_date": "2007-06-20",
       "price_local": 2330.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27051,7 +27051,7 @@
       "observation_date": "2007-06-20",
       "price_local": 1450.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27064,7 +27064,7 @@
       "observation_date": "2007-07-07",
       "price_local": 1990.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27077,7 +27077,7 @@
       "observation_date": "2007-07-07",
       "price_local": 2390.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27090,7 +27090,7 @@
       "observation_date": "2007-07-07",
       "price_local": 1450.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27103,7 +27103,7 @@
       "observation_date": "2007-07-25",
       "price_local": 1990.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27116,7 +27116,7 @@
       "observation_date": "2007-07-25",
       "price_local": 2450.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27129,7 +27129,7 @@
       "observation_date": "2007-07-25",
       "price_local": 1450.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27142,7 +27142,7 @@
       "observation_date": "2007-10-03",
       "price_local": 2150.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27155,7 +27155,7 @@
       "observation_date": "2007-10-03",
       "price_local": 2430.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27168,7 +27168,7 @@
       "observation_date": "2007-10-03",
       "price_local": 1549.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27181,7 +27181,7 @@
       "observation_date": "2008-01-07",
       "price_local": 2370.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27194,7 +27194,7 @@
       "observation_date": "2008-01-07",
       "price_local": 2620.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27207,7 +27207,7 @@
       "observation_date": "2008-01-07",
       "price_local": 1700.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27220,7 +27220,7 @@
       "observation_date": "2008-03-18",
       "price_local": 2558.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27233,7 +27233,7 @@
       "observation_date": "2008-03-18",
       "price_local": 2776.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27246,7 +27246,7 @@
       "observation_date": "2008-03-18",
       "price_local": 1790.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27259,7 +27259,7 @@
       "observation_date": "2008-03-26",
       "price_local": 2540.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27272,7 +27272,7 @@
       "observation_date": "2008-03-26",
       "price_local": 2750.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27285,7 +27285,7 @@
       "observation_date": "2008-03-26",
       "price_local": 1790.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27298,7 +27298,7 @@
       "observation_date": "2008-05-22",
       "price_local": 2717.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27311,7 +27311,7 @@
       "observation_date": "2008-05-22",
       "price_local": 2937.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27324,7 +27324,7 @@
       "observation_date": "2008-05-22",
       "price_local": 1903.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27337,7 +27337,7 @@
       "observation_date": "2008-07-22",
       "price_local": 2818.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27350,7 +27350,7 @@
       "observation_date": "2008-07-22",
       "price_local": 3007.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27363,7 +27363,7 @@
       "observation_date": "2008-07-22",
       "price_local": 1995.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27376,7 +27376,7 @@
       "observation_date": "2008-07-30",
       "price_local": 2869.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27389,7 +27389,7 @@
       "observation_date": "2008-07-30",
       "price_local": 3050.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27402,7 +27402,7 @@
       "observation_date": "2008-07-30",
       "price_local": 2018.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27415,7 +27415,7 @@
       "observation_date": "2008-08-12",
       "price_local": 2802.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27428,7 +27428,7 @@
       "observation_date": "2008-08-12",
       "price_local": 2950.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27441,7 +27441,7 @@
       "observation_date": "2008-08-12",
       "price_local": 1949.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27454,7 +27454,7 @@
       "observation_date": "2008-08-19",
       "price_local": 2780.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27467,7 +27467,7 @@
       "observation_date": "2008-08-19",
       "price_local": 2950.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27480,7 +27480,7 @@
       "observation_date": "2008-08-19",
       "price_local": 1949.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27493,7 +27493,7 @@
       "observation_date": "2008-08-23",
       "price_local": 2780.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27506,7 +27506,7 @@
       "observation_date": "2008-08-23",
       "price_local": 2944.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27519,7 +27519,7 @@
       "observation_date": "2008-08-23",
       "price_local": 1973.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27532,7 +27532,7 @@
       "observation_date": "2008-08-28",
       "price_local": 2780.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27545,7 +27545,7 @@
       "observation_date": "2008-08-28",
       "price_local": 2938.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27558,7 +27558,7 @@
       "observation_date": "2008-08-28",
       "price_local": 2012.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27571,7 +27571,7 @@
       "observation_date": "2008-08-30",
       "price_local": 2780.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27584,7 +27584,7 @@
       "observation_date": "2008-08-30",
       "price_local": 2924.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27597,7 +27597,7 @@
       "observation_date": "2008-08-30",
       "price_local": 2012.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27610,7 +27610,7 @@
       "observation_date": "2008-09-04",
       "price_local": 2780.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27623,7 +27623,7 @@
       "observation_date": "2008-09-04",
       "price_local": 2916.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27636,7 +27636,7 @@
       "observation_date": "2008-09-04",
       "price_local": 2020.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27649,7 +27649,7 @@
       "observation_date": "2008-09-25",
       "price_local": 2700.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27662,7 +27662,7 @@
       "observation_date": "2008-09-25",
       "price_local": 2910.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27675,7 +27675,7 @@
       "observation_date": "2008-09-25",
       "price_local": 2020.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27688,7 +27688,7 @@
       "observation_date": "2008-09-27",
       "price_local": 2700.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27701,7 +27701,7 @@
       "observation_date": "2008-09-27",
       "price_local": 2908.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27714,7 +27714,7 @@
       "observation_date": "2008-09-27",
       "price_local": 2020.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27727,7 +27727,7 @@
       "observation_date": "2008-10-01",
       "price_local": 2699.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27740,7 +27740,7 @@
       "observation_date": "2008-10-01",
       "price_local": 2905.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27753,7 +27753,7 @@
       "observation_date": "2008-10-01",
       "price_local": 2020.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27766,7 +27766,7 @@
       "observation_date": "2008-10-03",
       "price_local": 2699.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27779,7 +27779,7 @@
       "observation_date": "2008-10-03",
       "price_local": 2901.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27792,7 +27792,7 @@
       "observation_date": "2008-10-03",
       "price_local": 2019.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27805,7 +27805,7 @@
       "observation_date": "2008-10-08",
       "price_local": 2699.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27818,7 +27818,7 @@
       "observation_date": "2008-10-08",
       "price_local": 2899.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27831,7 +27831,7 @@
       "observation_date": "2008-10-08",
       "price_local": 2019.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27844,7 +27844,7 @@
       "observation_date": "2008-11-01",
       "price_local": 2650.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27857,7 +27857,7 @@
       "observation_date": "2008-11-01",
       "price_local": 2888.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27870,7 +27870,7 @@
       "observation_date": "2008-11-01",
       "price_local": 1920.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27883,7 +27883,7 @@
       "observation_date": "2008-11-04",
       "price_local": 2640.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27896,7 +27896,7 @@
       "observation_date": "2008-11-04",
       "price_local": 2860.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27909,7 +27909,7 @@
       "observation_date": "2008-11-04",
       "price_local": 1920.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27922,7 +27922,7 @@
       "observation_date": "2008-11-22",
       "price_local": 2530.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27935,7 +27935,7 @@
       "observation_date": "2008-11-22",
       "price_local": 2860.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27948,7 +27948,7 @@
       "observation_date": "2008-11-22",
       "price_local": 1850.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27961,7 +27961,7 @@
       "observation_date": "2008-12-17",
       "price_local": 2300.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27974,7 +27974,7 @@
       "observation_date": "2008-12-17",
       "price_local": 2780.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -27987,7 +27987,7 @@
       "observation_date": "2008-12-17",
       "price_local": 1750.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28000,7 +28000,7 @@
       "observation_date": "2009-01-10",
       "price_local": 2200.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28013,7 +28013,7 @@
       "observation_date": "2009-01-10",
       "price_local": 2580.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28026,7 +28026,7 @@
       "observation_date": "2009-01-10",
       "price_local": 1600.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28039,7 +28039,7 @@
       "observation_date": "2009-02-09",
       "price_local": 2150.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28052,7 +28052,7 @@
       "observation_date": "2009-02-09",
       "price_local": 2480.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28065,7 +28065,7 @@
       "observation_date": "2009-02-09",
       "price_local": 1600.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28078,7 +28078,7 @@
       "observation_date": "2009-03-30",
       "price_local": 2120.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28091,7 +28091,7 @@
       "observation_date": "2009-03-30",
       "price_local": 2450.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28104,7 +28104,7 @@
       "observation_date": "2009-03-30",
       "price_local": 1550.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28117,7 +28117,7 @@
       "observation_date": "2009-05-09",
       "price_local": 2050.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28130,7 +28130,7 @@
       "observation_date": "2009-05-09",
       "price_local": 2450.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28143,7 +28143,7 @@
       "observation_date": "2009-05-09",
       "price_local": 1550.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28156,7 +28156,7 @@
       "observation_date": "2009-05-14",
       "price_local": 2120.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28169,7 +28169,7 @@
       "observation_date": "2009-05-14",
       "price_local": 2450.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28182,7 +28182,7 @@
       "observation_date": "2009-05-14",
       "price_local": 1550.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28195,7 +28195,7 @@
       "observation_date": "2009-05-20",
       "price_local": 2057.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28208,7 +28208,7 @@
       "observation_date": "2009-05-20",
       "price_local": 2450.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28221,7 +28221,7 @@
       "observation_date": "2009-05-20",
       "price_local": 1514.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28234,7 +28234,7 @@
       "observation_date": "2009-05-24",
       "price_local": 2067.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28247,7 +28247,7 @@
       "observation_date": "2009-05-24",
       "price_local": 2450.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28260,7 +28260,7 @@
       "observation_date": "2009-05-24",
       "price_local": 1521.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28273,7 +28273,7 @@
       "observation_date": "2009-05-28",
       "price_local": 2054.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28286,7 +28286,7 @@
       "observation_date": "2009-05-28",
       "price_local": 2450.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28299,7 +28299,7 @@
       "observation_date": "2009-05-28",
       "price_local": 1514.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28312,7 +28312,7 @@
       "observation_date": "2009-06-11",
       "price_local": 2114.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28325,7 +28325,7 @@
       "observation_date": "2009-06-11",
       "price_local": 2450.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28338,7 +28338,7 @@
       "observation_date": "2009-06-11",
       "price_local": 1547.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28351,7 +28351,7 @@
       "observation_date": "2009-06-15",
       "price_local": 2120.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28364,7 +28364,7 @@
       "observation_date": "2009-06-15",
       "price_local": 2450.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28377,7 +28377,7 @@
       "observation_date": "2009-06-15",
       "price_local": 1538.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28390,7 +28390,7 @@
       "observation_date": "2009-06-19",
       "price_local": 2120.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28403,7 +28403,7 @@
       "observation_date": "2009-06-19",
       "price_local": 2720.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28416,7 +28416,7 @@
       "observation_date": "2009-06-19",
       "price_local": 1533.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28429,7 +28429,7 @@
       "observation_date": "2009-07-01",
       "price_local": 2400.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28442,7 +28442,7 @@
       "observation_date": "2009-07-01",
       "price_local": 2720.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28455,7 +28455,7 @@
       "observation_date": "2009-07-01",
       "price_local": 1600.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28468,7 +28468,7 @@
       "observation_date": "2009-07-24",
       "price_local": 2365.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28481,7 +28481,7 @@
       "observation_date": "2009-07-24",
       "price_local": 2715.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28494,7 +28494,7 @@
       "observation_date": "2009-07-24",
       "price_local": 1592.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28507,7 +28507,7 @@
       "observation_date": "2009-07-28",
       "price_local": 2342.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28520,7 +28520,7 @@
       "observation_date": "2009-07-28",
       "price_local": 2701.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28533,7 +28533,7 @@
       "observation_date": "2009-07-28",
       "price_local": 1588.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28546,7 +28546,7 @@
       "observation_date": "2009-08-08",
       "price_local": 2338.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28559,7 +28559,7 @@
       "observation_date": "2009-08-08",
       "price_local": 2694.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28572,7 +28572,7 @@
       "observation_date": "2009-08-08",
       "price_local": 1594.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28585,7 +28585,7 @@
       "observation_date": "2009-08-24",
       "price_local": 2317.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28598,7 +28598,7 @@
       "observation_date": "2009-08-24",
       "price_local": 2691.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28611,7 +28611,7 @@
       "observation_date": "2009-08-24",
       "price_local": 1577.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28624,7 +28624,7 @@
       "observation_date": "2009-09-02",
       "price_local": 2400.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28637,7 +28637,7 @@
       "observation_date": "2009-09-02",
       "price_local": 2720.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28650,7 +28650,7 @@
       "observation_date": "2009-09-02",
       "price_local": 1600.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28663,7 +28663,7 @@
       "observation_date": "2009-11-12",
       "price_local": 2453.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28676,7 +28676,7 @@
       "observation_date": "2009-11-12",
       "price_local": 2925.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28689,7 +28689,7 @@
       "observation_date": "2009-11-12",
       "price_local": 1641.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28702,7 +28702,7 @@
       "observation_date": "2009-11-22",
       "price_local": 2400.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28715,7 +28715,7 @@
       "observation_date": "2009-11-22",
       "price_local": 2925.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28728,7 +28728,7 @@
       "observation_date": "2009-11-22",
       "price_local": 1600.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28741,7 +28741,7 @@
       "observation_date": "2009-12-04",
       "price_local": 2400.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28754,7 +28754,7 @@
       "observation_date": "2009-12-04",
       "price_local": 2925.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28767,7 +28767,7 @@
       "observation_date": "2009-12-04",
       "price_local": 1618.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28780,7 +28780,7 @@
       "observation_date": "2010-01-08",
       "price_local": 2400.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28793,7 +28793,7 @@
       "observation_date": "2010-01-08",
       "price_local": 2934.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28806,7 +28806,7 @@
       "observation_date": "2010-01-08",
       "price_local": 1674.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28819,7 +28819,7 @@
       "observation_date": "2010-01-18",
       "price_local": 2400.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28832,7 +28832,7 @@
       "observation_date": "2010-01-18",
       "price_local": 2930.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28845,7 +28845,7 @@
       "observation_date": "2010-01-18",
       "price_local": 1670.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28858,7 +28858,7 @@
       "observation_date": "2010-02-16",
       "price_local": 2518.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28871,7 +28871,7 @@
       "observation_date": "2010-02-16",
       "price_local": 3047.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28884,7 +28884,7 @@
       "observation_date": "2010-02-16",
       "price_local": 1710.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28897,7 +28897,7 @@
       "observation_date": "2010-02-17",
       "price_local": 2568.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28910,7 +28910,7 @@
       "observation_date": "2010-02-17",
       "price_local": 3103.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28923,7 +28923,7 @@
       "observation_date": "2010-02-17",
       "price_local": 1734.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28936,7 +28936,7 @@
       "observation_date": "2010-02-18",
       "price_local": 2584.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28949,7 +28949,7 @@
       "observation_date": "2010-02-18",
       "price_local": 3122.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28962,7 +28962,7 @@
       "observation_date": "2010-02-18",
       "price_local": 1750.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28975,7 +28975,7 @@
       "observation_date": "2010-02-19",
       "price_local": 2500.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -28988,7 +28988,7 @@
       "observation_date": "2010-02-19",
       "price_local": 3040.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29001,7 +29001,7 @@
       "observation_date": "2010-02-19",
       "price_local": 1750.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29014,7 +29014,7 @@
       "observation_date": "2010-02-27",
       "price_local": 2450.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29027,7 +29027,7 @@
       "observation_date": "2010-02-27",
       "price_local": 2990.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29040,7 +29040,7 @@
       "observation_date": "2010-02-27",
       "price_local": 1750.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29053,7 +29053,7 @@
       "observation_date": "2010-03-06",
       "price_local": 2469.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29066,7 +29066,7 @@
       "observation_date": "2010-03-06",
       "price_local": 2990.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29079,7 +29079,7 @@
       "observation_date": "2010-03-06",
       "price_local": 1750.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29092,7 +29092,7 @@
       "observation_date": "2010-03-09",
       "price_local": 2480.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29105,7 +29105,7 @@
       "observation_date": "2010-03-09",
       "price_local": 2990.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29118,7 +29118,7 @@
       "observation_date": "2010-03-09",
       "price_local": 1750.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29131,7 +29131,7 @@
       "observation_date": "2010-06-15",
       "price_local": 2476.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29144,7 +29144,7 @@
       "observation_date": "2010-06-15",
       "price_local": 2986.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29157,7 +29157,7 @@
       "observation_date": "2010-06-15",
       "price_local": 1750.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29170,7 +29170,7 @@
       "observation_date": "2010-07-02",
       "price_local": 2766.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29183,7 +29183,7 @@
       "observation_date": "2010-07-02",
       "price_local": 3235.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29196,7 +29196,7 @@
       "observation_date": "2010-07-02",
       "price_local": 1980.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29209,7 +29209,7 @@
       "observation_date": "2010-07-07",
       "price_local": 2616.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29222,7 +29222,7 @@
       "observation_date": "2010-07-07",
       "price_local": 3075.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29235,7 +29235,7 @@
       "observation_date": "2010-07-07",
       "price_local": 1820.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29248,7 +29248,7 @@
       "observation_date": "2010-07-12",
       "price_local": 2475.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29261,7 +29261,7 @@
       "observation_date": "2010-07-12",
       "price_local": 2985.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29274,7 +29274,7 @@
       "observation_date": "2010-07-12",
       "price_local": 1750.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29287,7 +29287,7 @@
       "observation_date": "2010-12-21",
       "price_local": 2479.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29300,7 +29300,7 @@
       "observation_date": "2010-12-21",
       "price_local": 2985.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29313,7 +29313,7 @@
       "observation_date": "2010-12-21",
       "price_local": 1750.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29326,7 +29326,7 @@
       "observation_date": "2011-01-05",
       "price_local": 2493.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29339,7 +29339,7 @@
       "observation_date": "2011-01-05",
       "price_local": 2985.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29352,7 +29352,7 @@
       "observation_date": "2011-01-05",
       "price_local": 1750.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29365,7 +29365,7 @@
       "observation_date": "2011-01-24",
       "price_local": 2532.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29378,7 +29378,7 @@
       "observation_date": "2011-01-24",
       "price_local": 3018.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29391,7 +29391,7 @@
       "observation_date": "2011-01-24",
       "price_local": 1788.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29404,7 +29404,7 @@
       "observation_date": "2011-02-02",
       "price_local": 2532.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29417,7 +29417,7 @@
       "observation_date": "2011-02-02",
       "price_local": 3032.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29430,7 +29430,7 @@
       "observation_date": "2011-02-02",
       "price_local": 1800.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29443,7 +29443,7 @@
       "observation_date": "2011-02-03",
       "price_local": 2532.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29456,7 +29456,7 @@
       "observation_date": "2011-02-03",
       "price_local": 3035.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29469,7 +29469,7 @@
       "observation_date": "2011-02-03",
       "price_local": 1800.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29482,7 +29482,7 @@
       "observation_date": "2011-02-07",
       "price_local": 2532.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29495,7 +29495,7 @@
       "observation_date": "2011-02-07",
       "price_local": 3037.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29508,7 +29508,7 @@
       "observation_date": "2011-02-07",
       "price_local": 1800.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29521,7 +29521,7 @@
       "observation_date": "2011-03-02",
       "price_local": 2549.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29534,7 +29534,7 @@
       "observation_date": "2011-03-02",
       "price_local": 3064.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29547,7 +29547,7 @@
       "observation_date": "2011-03-02",
       "price_local": 1815.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29560,7 +29560,7 @@
       "observation_date": "2011-03-04",
       "price_local": 2530.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29573,7 +29573,7 @@
       "observation_date": "2011-03-04",
       "price_local": 3037.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29586,7 +29586,7 @@
       "observation_date": "2011-03-04",
       "price_local": 1800.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29599,7 +29599,7 @@
       "observation_date": "2011-04-13",
       "price_local": 2580.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29612,7 +29612,7 @@
       "observation_date": "2011-04-13",
       "price_local": 3090.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29625,7 +29625,7 @@
       "observation_date": "2011-04-13",
       "price_local": 1850.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29638,7 +29638,7 @@
       "observation_date": "2012-03-02",
       "price_local": 2680.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29651,7 +29651,7 @@
       "observation_date": "2012-03-02",
       "price_local": 3240.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29664,7 +29664,7 @@
       "observation_date": "2012-03-02",
       "price_local": 2000.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29677,7 +29677,7 @@
       "observation_date": "2012-08-18",
       "price_local": 2701.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29690,7 +29690,7 @@
       "observation_date": "2012-08-18",
       "price_local": 3292.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29703,7 +29703,7 @@
       "observation_date": "2012-08-18",
       "price_local": 2072.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29716,7 +29716,7 @@
       "observation_date": "2012-09-18",
       "price_local": 2718.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29729,7 +29729,7 @@
       "observation_date": "2012-09-18",
       "price_local": 3318.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29742,7 +29742,7 @@
       "observation_date": "2012-09-18",
       "price_local": 2098.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29755,7 +29755,7 @@
       "observation_date": "2012-11-26",
       "price_local": 2722.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29768,7 +29768,7 @@
       "observation_date": "2012-11-26",
       "price_local": 3324.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29781,7 +29781,7 @@
       "observation_date": "2012-11-26",
       "price_local": 2098.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29794,7 +29794,7 @@
       "observation_date": "2012-11-29",
       "price_local": 2726.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29807,7 +29807,7 @@
       "observation_date": "2012-11-29",
       "price_local": 3329.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29820,7 +29820,7 @@
       "observation_date": "2012-11-29",
       "price_local": 2101.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29833,7 +29833,7 @@
       "observation_date": "2012-12-04",
       "price_local": 2730.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29846,7 +29846,7 @@
       "observation_date": "2012-12-04",
       "price_local": 3329.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29859,7 +29859,7 @@
       "observation_date": "2012-12-04",
       "price_local": 2100.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29872,7 +29872,7 @@
       "observation_date": "2013-01-04",
       "price_local": 2730.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29885,7 +29885,7 @@
       "observation_date": "2013-01-04",
       "price_local": 3370.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29898,7 +29898,7 @@
       "observation_date": "2013-01-04",
       "price_local": 2150.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29911,7 +29911,7 @@
       "observation_date": "2013-11-15",
       "price_local": 2800.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29924,7 +29924,7 @@
       "observation_date": "2013-11-15",
       "price_local": 3470.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29937,7 +29937,7 @@
       "observation_date": "2013-11-15",
       "price_local": 2280.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29950,7 +29950,7 @@
       "observation_date": "2014-01-23",
       "price_local": 2860.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29963,7 +29963,7 @@
       "observation_date": "2014-01-23",
       "price_local": 3560.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29976,7 +29976,7 @@
       "observation_date": "2014-01-23",
       "price_local": 2355.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -29989,7 +29989,7 @@
       "observation_date": "2014-07-21",
       "price_local": 2940.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30002,7 +30002,7 @@
       "observation_date": "2014-07-21",
       "price_local": 3630.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30015,7 +30015,7 @@
       "observation_date": "2014-07-21",
       "price_local": 2410.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30028,7 +30028,7 @@
       "observation_date": "2014-12-28",
       "price_local": 3000.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30041,7 +30041,7 @@
       "observation_date": "2014-12-28",
       "price_local": 3700.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30054,7 +30054,7 @@
       "observation_date": "2014-12-28",
       "price_local": 2460.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30067,7 +30067,7 @@
       "observation_date": "2015-02-27",
       "price_local": 2950.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30080,7 +30080,7 @@
       "observation_date": "2015-02-27",
       "price_local": 3580.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30093,7 +30093,7 @@
       "observation_date": "2015-02-27",
       "price_local": 2310.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30106,7 +30106,7 @@
       "observation_date": "2015-06-28",
       "price_local": 3150.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30119,7 +30119,7 @@
       "observation_date": "2015-06-28",
       "price_local": 3730.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30132,7 +30132,7 @@
       "observation_date": "2015-06-28",
       "price_local": 2410.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30145,7 +30145,7 @@
       "observation_date": "2015-11-25",
       "price_local": 3170.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30158,7 +30158,7 @@
       "observation_date": "2015-11-25",
       "price_local": 3700.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30171,7 +30171,7 @@
       "observation_date": "2015-11-25",
       "price_local": 2380.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30184,7 +30184,7 @@
       "observation_date": "2016-01-15",
       "price_local": 3090.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30197,7 +30197,7 @@
       "observation_date": "2016-01-15",
       "price_local": 3550.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30210,7 +30210,7 @@
       "observation_date": "2016-01-15",
       "price_local": 2320.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30223,7 +30223,7 @@
       "observation_date": "2016-02-11",
       "price_local": 2810.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30236,7 +30236,7 @@
       "observation_date": "2016-02-11",
       "price_local": 3460.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30249,7 +30249,7 @@
       "observation_date": "2016-02-11",
       "price_local": 2110.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30262,7 +30262,7 @@
       "observation_date": "2016-03-01",
       "price_local": 2540.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30275,7 +30275,7 @@
       "observation_date": "2016-03-01",
       "price_local": 3340.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30288,7 +30288,7 @@
       "observation_date": "2016-03-01",
       "price_local": 1900.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30301,7 +30301,7 @@
       "observation_date": "2016-04-01",
       "price_local": 2620.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30314,7 +30314,7 @@
       "observation_date": "2016-04-01",
       "price_local": 3290.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30327,7 +30327,7 @@
       "observation_date": "2016-04-01",
       "price_local": 1980.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30340,7 +30340,7 @@
       "observation_date": "2016-05-07",
       "price_local": 2720.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30353,7 +30353,7 @@
       "observation_date": "2016-05-07",
       "price_local": 3390.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30366,7 +30366,7 @@
       "observation_date": "2016-05-07",
       "price_local": 2050.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30379,7 +30379,7 @@
       "observation_date": "2016-06-07",
       "price_local": 2860.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30392,7 +30392,7 @@
       "observation_date": "2016-06-07",
       "price_local": 3580.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30405,7 +30405,7 @@
       "observation_date": "2016-06-07",
       "price_local": 2160.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30418,7 +30418,7 @@
       "observation_date": "2016-07-01",
       "price_local": 3010.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30431,7 +30431,7 @@
       "observation_date": "2016-07-01",
       "price_local": 3730.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30444,7 +30444,7 @@
       "observation_date": "2016-07-01",
       "price_local": 2310.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30457,7 +30457,7 @@
       "observation_date": "2016-09-01",
       "price_local": 3010.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30470,7 +30470,7 @@
       "observation_date": "2016-09-01",
       "price_local": 3630.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30483,7 +30483,7 @@
       "observation_date": "2016-09-01",
       "price_local": 2230.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30496,7 +30496,7 @@
       "observation_date": "2016-10-01",
       "price_local": 2910.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30509,7 +30509,7 @@
       "observation_date": "2016-10-01",
       "price_local": 3480.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30522,7 +30522,7 @@
       "observation_date": "2016-10-01",
       "price_local": 2130.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30535,7 +30535,7 @@
       "observation_date": "2016-11-01",
       "price_local": 2990.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30548,7 +30548,7 @@
       "observation_date": "2016-11-01",
       "price_local": 3560.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30561,7 +30561,7 @@
       "observation_date": "2016-11-01",
       "price_local": 2210.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30574,7 +30574,7 @@
       "observation_date": "2016-12-01",
       "price_local": 3070.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30587,7 +30587,7 @@
       "observation_date": "2016-12-01",
       "price_local": 3640.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30600,7 +30600,7 @@
       "observation_date": "2016-12-01",
       "price_local": 2290.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30613,7 +30613,7 @@
       "observation_date": "2017-01-01",
       "price_local": 3150.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30626,7 +30626,7 @@
       "observation_date": "2017-01-01",
       "price_local": 3720.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30639,7 +30639,7 @@
       "observation_date": "2017-01-01",
       "price_local": 2370.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30652,7 +30652,7 @@
       "observation_date": "2017-02-01",
       "price_local": 3270.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30665,7 +30665,7 @@
       "observation_date": "2017-02-01",
       "price_local": 3880.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30678,7 +30678,7 @@
       "observation_date": "2017-02-01",
       "price_local": 2370.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30691,7 +30691,7 @@
       "observation_date": "2017-02-04",
       "price_local": 3150.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30704,7 +30704,7 @@
       "observation_date": "2017-02-04",
       "price_local": 3720.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30717,7 +30717,7 @@
       "observation_date": "2017-02-04",
       "price_local": 2370.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30730,7 +30730,7 @@
       "observation_date": "2017-03-01",
       "price_local": 3230.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30743,7 +30743,7 @@
       "observation_date": "2017-03-01",
       "price_local": 3800.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30756,7 +30756,7 @@
       "observation_date": "2017-03-01",
       "price_local": 2370.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30769,7 +30769,7 @@
       "observation_date": "2017-04-01",
       "price_local": 3260.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30782,7 +30782,7 @@
       "observation_date": "2017-04-01",
       "price_local": 3840.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30795,7 +30795,7 @@
       "observation_date": "2017-04-01",
       "price_local": 2370.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30808,7 +30808,7 @@
       "observation_date": "2017-05-01",
       "price_local": 3300.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30821,7 +30821,7 @@
       "observation_date": "2017-05-01",
       "price_local": 3870.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30834,7 +30834,7 @@
       "observation_date": "2017-05-01",
       "price_local": 2370.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30847,7 +30847,7 @@
       "observation_date": "2017-07-01",
       "price_local": 3230.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30860,7 +30860,7 @@
       "observation_date": "2017-07-01",
       "price_local": 3800.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30873,7 +30873,7 @@
       "observation_date": "2017-07-01",
       "price_local": 2300.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30886,7 +30886,7 @@
       "observation_date": "2017-08-01",
       "price_local": 3130.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30899,7 +30899,7 @@
       "observation_date": "2017-08-01",
       "price_local": 3700.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30912,7 +30912,7 @@
       "observation_date": "2017-08-01",
       "price_local": 2200.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30925,7 +30925,7 @@
       "observation_date": "2017-09-01",
       "price_local": 3000.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30938,7 +30938,7 @@
       "observation_date": "2017-09-01",
       "price_local": 3650.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30951,7 +30951,7 @@
       "observation_date": "2017-09-01",
       "price_local": 2180.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30964,7 +30964,7 @@
       "observation_date": "2017-10-01",
       "price_local": 3020.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30977,7 +30977,7 @@
       "observation_date": "2017-10-01",
       "price_local": 3670.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -30990,7 +30990,7 @@
       "observation_date": "2017-10-01",
       "price_local": 2200.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31003,7 +31003,7 @@
       "observation_date": "2017-11-01",
       "price_local": 3100.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31016,7 +31016,7 @@
       "observation_date": "2017-11-01",
       "price_local": 3750.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31029,7 +31029,7 @@
       "observation_date": "2017-11-01",
       "price_local": 2280.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31042,7 +31042,7 @@
       "observation_date": "2017-12-01",
       "price_local": 3190.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31055,7 +31055,7 @@
       "observation_date": "2017-12-01",
       "price_local": 3840.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31068,7 +31068,7 @@
       "observation_date": "2017-12-01",
       "price_local": 2370.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31081,7 +31081,7 @@
       "observation_date": "2018-03-01",
       "price_local": 3280.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31094,7 +31094,7 @@
       "observation_date": "2018-03-01",
       "price_local": 3930.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31107,7 +31107,7 @@
       "observation_date": "2018-03-01",
       "price_local": 2400.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31120,7 +31120,7 @@
       "observation_date": "2018-04-09",
       "price_local": 3350.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31133,7 +31133,7 @@
       "observation_date": "2018-04-09",
       "price_local": 4000.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31146,7 +31146,7 @@
       "observation_date": "2018-04-09",
       "price_local": 2430.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31159,7 +31159,7 @@
       "observation_date": "2018-06-15",
       "price_local": 3400.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31172,7 +31172,7 @@
       "observation_date": "2018-06-15",
       "price_local": 4050.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31185,7 +31185,7 @@
       "observation_date": "2018-06-15",
       "price_local": 2480.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31198,7 +31198,7 @@
       "observation_date": "2018-08-01",
       "price_local": 3450.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31211,7 +31211,7 @@
       "observation_date": "2018-08-01",
       "price_local": 4100.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31224,7 +31224,7 @@
       "observation_date": "2018-08-01",
       "price_local": 2530.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31237,7 +31237,7 @@
       "observation_date": "2018-09-12",
       "price_local": 3500.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31250,7 +31250,7 @@
       "observation_date": "2018-09-12",
       "price_local": 4150.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31263,7 +31263,7 @@
       "observation_date": "2018-09-12",
       "price_local": 2580.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31276,7 +31276,7 @@
       "observation_date": "2018-12-04",
       "price_local": 3550.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31289,7 +31289,7 @@
       "observation_date": "2018-12-04",
       "price_local": 4200.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31302,7 +31302,7 @@
       "observation_date": "2018-12-04",
       "price_local": 2630.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31315,7 +31315,7 @@
       "observation_date": "2019-06-20",
       "price_local": 3400.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31328,7 +31328,7 @@
       "observation_date": "2019-06-20",
       "price_local": 4100.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31341,7 +31341,7 @@
       "observation_date": "2019-06-20",
       "price_local": 2130.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31354,7 +31354,7 @@
       "observation_date": "2022-07-11",
       "price_local": 4900.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31367,7 +31367,7 @@
       "observation_date": "2022-07-11",
       "price_local": 5900.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31380,7 +31380,7 @@
       "observation_date": "2022-07-11",
       "price_local": 2430.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31393,7 +31393,7 @@
       "observation_date": "2025-01-18",
       "price_local": 4760.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31406,7 +31406,7 @@
       "observation_date": "2025-01-18",
       "price_local": 5700.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31419,7 +31419,7 @@
       "observation_date": "2025-01-18",
       "price_local": 2430.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31432,7 +31432,7 @@
       "observation_date": "2025-02-05",
       "price_local": 4890.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31445,7 +31445,7 @@
       "observation_date": "2025-02-05",
       "price_local": 5500.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31458,7 +31458,7 @@
       "observation_date": "2025-02-05",
       "price_local": 2630.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31471,7 +31471,7 @@
       "observation_date": "2025-03-05",
       "price_local": 4970.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31484,7 +31484,7 @@
       "observation_date": "2025-03-05",
       "price_local": 5320.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31497,7 +31497,7 @@
       "observation_date": "2025-03-05",
       "price_local": 2830.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31510,7 +31510,7 @@
       "observation_date": "2025-04-05",
       "price_local": 4970.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31523,7 +31523,7 @@
       "observation_date": "2025-04-05",
       "price_local": 5320.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31536,7 +31536,7 @@
       "observation_date": "2025-04-05",
       "price_local": 3030.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31549,7 +31549,7 @@
       "observation_date": "2025-05-05",
       "price_local": 5170.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31562,7 +31562,7 @@
       "observation_date": "2025-05-05",
       "price_local": 5510.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31575,7 +31575,7 @@
       "observation_date": "2025-05-05",
       "price_local": 3230.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31588,7 +31588,7 @@
       "observation_date": "2025-06-01",
       "price_local": 5100.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31601,7 +31601,7 @@
       "observation_date": "2025-06-01",
       "price_local": 5520.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31614,7 +31614,7 @@
       "observation_date": "2025-06-01",
       "price_local": 3430.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31627,7 +31627,7 @@
       "observation_date": "2025-07-01",
       "price_local": 4900.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31640,7 +31640,7 @@
       "observation_date": "2025-07-01",
       "price_local": 5320.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31653,7 +31653,7 @@
       "observation_date": "2025-07-01",
       "price_local": 3380.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31666,7 +31666,7 @@
       "observation_date": "2025-08-01",
       "price_local": 4700.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31679,7 +31679,7 @@
       "observation_date": "2025-08-01",
       "price_local": 5120.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31692,7 +31692,7 @@
       "observation_date": "2025-08-01",
       "price_local": 3210.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31705,7 +31705,7 @@
       "observation_date": "2025-09-01",
       "price_local": 4530.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31718,7 +31718,7 @@
       "observation_date": "2025-09-01",
       "price_local": 5090.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31731,7 +31731,7 @@
       "observation_date": "2025-09-01",
       "price_local": 3380.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31744,7 +31744,7 @@
       "observation_date": "2025-10-05",
       "price_local": 4700.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31757,7 +31757,7 @@
       "observation_date": "2025-10-05",
       "price_local": 5060.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31770,7 +31770,7 @@
       "observation_date": "2025-10-05",
       "price_local": 3470.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31783,7 +31783,7 @@
       "observation_date": "2025-11-01",
       "price_local": 4550.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31796,7 +31796,7 @@
       "observation_date": "2025-11-01",
       "price_local": 5060.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31809,7 +31809,7 @@
       "observation_date": "2025-11-01",
       "price_local": 3400.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31822,7 +31822,7 @@
       "observation_date": "2025-12-05",
       "price_local": 4660.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31835,7 +31835,7 @@
       "observation_date": "2025-12-05",
       "price_local": 5170.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31848,7 +31848,7 @@
       "observation_date": "2025-12-05",
       "price_local": 3490.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31861,7 +31861,7 @@
       "observation_date": "2026-01-05",
       "price_local": 4670.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31874,7 +31874,7 @@
       "observation_date": "2026-01-05",
       "price_local": 4970.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31887,7 +31887,7 @@
       "observation_date": "2026-01-05",
       "price_local": 3520.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31900,7 +31900,7 @@
       "observation_date": "2026-02-05",
       "price_local": 4860.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31913,7 +31913,7 @@
       "observation_date": "2026-02-05",
       "price_local": 5100.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31926,7 +31926,7 @@
       "observation_date": "2026-02-05",
       "price_local": 3710.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31939,7 +31939,7 @@
       "observation_date": "2026-03-05",
       "price_local": 4660.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31952,7 +31952,7 @@
       "observation_date": "2026-03-05",
       "price_local": 4900.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31965,7 +31965,7 @@
       "observation_date": "2026-03-05",
       "price_local": 3510.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31978,7 +31978,7 @@
       "observation_date": "2026-04-05",
       "price_local": 4660.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -31991,7 +31991,7 @@
       "observation_date": "2026-04-05",
       "price_local": 4900.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -32004,7 +32004,7 @@
       "observation_date": "2026-04-05",
       "price_local": 3510.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -32017,7 +32017,7 @@
       "observation_date": "2026-05-03",
       "price_local": 4860.0,
       "series_key": "diesel|||diesel___go",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -32030,7 +32030,7 @@
       "observation_date": "2026-05-03",
       "price_local": 5100.0,
       "series_key": "gasoline|||essence___sc",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
@@ -32043,7 +32043,7 @@
       "observation_date": "2026-05-03",
       "price_local": 3710.0,
       "series_key": "kerosene|||kerosene___pl",
-      "source_key": "mdg",
+      "source_key": "omh.mg",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
