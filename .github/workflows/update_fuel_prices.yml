@@ -3,7 +3,6 @@ name: Update official fuel prices
 on:
   workflow_dispatch:
   schedule:
-    # Run once every 24 hours at 06:15 UTC
     - cron: "15 6 * * *"
 
 permissions:
@@ -28,95 +27,110 @@ jobs:
           pip install requests beautifulsoup4 lxml playwright
           python -m playwright install --with-deps chromium
 
-      - name: Update official fuel price data from OMH
+      - name: Scrape auto-updatable countries
+        # Countries with machine-readable official sources
+        # Uganda, DRC, Sao Tome are excluded — no reliable scrape target
         run: |
           python scripts/update_fuel_prices.py \
-            --index dashboard/index.html \
             --output dashboard/data/fuel_prices.json \
             --last-updated dashboard/data/fuel_prices_last_updated.json \
             --report dashboard/data/fuel_prices_refresh_report.json \
             --timeout 60 \
-            --require-mdg \
-            --debug-dir dashboard/data/omh_debug
+            --debug-dir dashboard/data/scraper_debug \
+            --countries \
+              Kenya \
+              "South Africa" \
+              Tanzania \
+              Rwanda \
+              Mauritius \
+              Zimbabwe \
+              Namibia \
+              Zambia \
+              Botswana \
+              Ethiopia \
+              Eswatini \
+              Lesotho \
+              Madagascar \
+              Malawi \
+              Mozambique \
+              Seychelles \
+              Angola
 
-      - name: Validate generated fuel price data
+      - name: Validate output
         run: |
           python - <<'PY'
           import json
           from pathlib import Path
 
-          fuel_path = Path("dashboard/data/fuel_prices.json")
-          meta_path = Path("dashboard/data/fuel_prices_last_updated.json")
-          report_path = Path("dashboard/data/fuel_prices_refresh_report.json")
+          FULL_SERIES  = {"Kenya","South Africa","Tanzania","Rwanda","Mauritius",
+                          "Zimbabwe","Namibia","Zambia"}
+          SPARSE       = {"Botswana","Ethiopia","Eswatini","Lesotho","Madagascar",
+                          "Malawi","Mozambique","Seychelles","Angola"}
+          MANUAL       = {"Uganda","Congo, Dem. Rep.","Sao Tome and Principe"}
+          REQUIRED     = ["observation_date","fuel_family","fuel_product",
+                          "price_local","currency","source_url"]
 
-          for p in [fuel_path, meta_path, report_path]:
-              if not p.exists():
-                  raise SystemExit(f"Missing expected output file: {p}")
-              if p.stat().st_size == 0:
-                  raise SystemExit(f"Output file is empty: {p}")
+          fuel   = json.loads(Path("dashboard/data/fuel_prices.json").read_text())
+          report = json.loads(Path("dashboard/data/fuel_prices_refresh_report.json").read_text())
 
-          fuel = json.loads(fuel_path.read_text(encoding="utf-8"))
-          report = json.loads(report_path.read_text(encoding="utf-8"))
+          hard_failures = []   # full-series countries with 0 rows = pipeline broken
+          soft_warnings = []   # sparse countries with 0 rows = expected sometimes
+          field_errors  = []
 
-          mdg_rows = fuel.get("Madagascar", [])
-          if not isinstance(mdg_rows, list) or len(mdg_rows) == 0:
-              raise SystemExit("fuel_prices.json does not contain Madagascar rows.")
+          for country in sorted(FULL_SERIES | SPARSE):
+              rows = fuel.get(country, [])
+              if not isinstance(rows, list) or len(rows) == 0:
+                  if country in FULL_SERIES:
+                      hard_failures.append(f"{country}: 0 rows (FULL SERIES — should never be empty)")
+                  else:
+                      soft_warnings.append(f"{country}: 0 rows (sparse source, may be stale)")
+                  continue
+              bad = [(i, [k for k in REQUIRED if k not in r or r[k] in ("",None)])
+                     for i, r in enumerate(rows)
+                     if any(k not in r or r[k] in ("",None) for k in REQUIRED)]
+              if bad:
+                  field_errors.append(f"{country}: {len(bad)} rows with missing fields")
+              else:
+                  latest = max(r["observation_date"] for r in rows)
+                  tier = "FULL" if country in FULL_SERIES else "sparse"
+                  print(f"  [{tier:6s}] {country:25s} {len(rows):4d} rows  latest={latest}")
 
-          required = ["observation_date", "fuel_family", "fuel_product", "price_local", "currency", "source_url"]
-          bad = []
-          for i, row in enumerate(mdg_rows):
-              missing = [k for k in required if k not in row or row[k] in ("", None)]
-              if missing:
-                  bad.append((i, missing, row))
+          print("\n--- Manual-entry countries (not scraped) ---")
+          for c in sorted(MANUAL):
+              rows = fuel.get(c, [])
+              n    = len(rows) if isinstance(rows, list) else 0
+              latest = max(r["observation_date"] for r in rows) if n else "—"
+              print(f"  [manual] {c:25s} {n:4d} rows  latest={latest}")
 
-          if bad:
-              raise SystemExit(f"Madagascar rows have missing required fields: {bad[:3]}")
+          if soft_warnings:
+              print("\n--- Sparse source warnings (non-fatal) ---")
+              for w in soft_warnings: print(" ", w)
 
-          latest = max(row["observation_date"] for row in mdg_rows)
-          products = sorted(set(row["fuel_family"] for row in mdg_rows))
+          if field_errors:
+              print("\n--- Field errors ---")
+              for e in field_errors: print(" ", e)
 
-          if not report.get("mdg_successful"):
-              raise SystemExit("Refresh report says MDG was not successful.")
-
-          print(f"Validated fuel_prices.json: Madagascar rows = {len(mdg_rows)}")
-          print(f"Latest Madagascar date = {latest}")
-          print(f"Madagascar products = {products}")
+          if hard_failures or field_errors:
+              raise SystemExit("HARD FAILURES:\n" + "\n".join(hard_failures + field_errors))
           PY
 
       - name: Show refresh report
         run: |
-          echo "===== Fuel price refresh report ====="
           cat dashboard/data/fuel_prices_refresh_report.json
 
-          echo "===== fuel_prices.json status ====="
-          ls -lh dashboard/data/fuel_prices.json
-
-          echo "===== Madagascar row count ====="
-          python - <<'PY'
-          import json
-          from pathlib import Path
-          fuel = json.loads(Path("dashboard/data/fuel_prices.json").read_text(encoding="utf-8"))
-          print(len(fuel.get("Madagascar", [])))
-          PY
-
-      - name: Commit updated fuel price data and OMH debug files
+      - name: Commit updated data
         run: |
-          git config user.name "github-actions[bot]"
+          git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          git status --short
 
           git add dashboard/data/fuel_prices.json \
                   dashboard/data/fuel_prices_last_updated.json \
                   dashboard/data/fuel_prices_refresh_report.json \
-                  dashboard/data/omh_debug/omh_network_urls.txt \
-                  dashboard/data/omh_debug/omh_text_payloads.txt || true
-
-          git status --short
+                  "dashboard/data/scraper_debug/" || true
 
           if git diff --cached --quiet; then
-            echo "No fuel price data changes to commit."
+            echo "No changes to commit."
           else
-            git commit -m "Update OMH fuel price scrape"
+            git commit -m "chore: update fuel prices $(date -u +%Y-%m-%d)"
             git push
           fi
