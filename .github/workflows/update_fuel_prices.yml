@@ -35,20 +35,18 @@ jobs:
             --output dashboard/data/fuel_prices.json \
             --last-updated dashboard/data/fuel_prices_last_updated.json \
             --report dashboard/data/fuel_prices_refresh_report.json \
-            --timeout 45 \
-            --sleep 1.0 \
-            --min-success 0
+            --timeout 60 \
+            --require-mdg
 
       - name: Validate generated files
+        if: always()
         run: |
           test -f dashboard/data/fuel_prices.json
           test -f dashboard/data/fuel_prices_last_updated.json
           test -f dashboard/data/fuel_prices_refresh_report.json
-
           python -m json.tool dashboard/data/fuel_prices.json > /dev/null
           python -m json.tool dashboard/data/fuel_prices_last_updated.json > /dev/null
           python -m json.tool dashboard/data/fuel_prices_refresh_report.json > /dev/null
-
           echo "Fuel price output files exist and are valid JSON."
 
       - name: Show refresh report
@@ -58,14 +56,13 @@ jobs:
           cat dashboard/data/fuel_prices_refresh_report.json || true
 
       - name: Commit updated fuel price data
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
           git add dashboard/data/fuel_prices.json \
                   dashboard/data/fuel_prices_last_updated.json \
                   dashboard/data/fuel_prices_refresh_report.json
-
           if git diff --cached --quiet; then
             echo "No fuel price data changes to commit."
           else
