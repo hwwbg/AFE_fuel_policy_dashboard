@@ -1,0 +1,71 @@
+name: Update country fuel prices
+
+on:
+  schedule:
+    # Run every 24 hours. GitHub uses UTC time.
+    - cron: "20 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-country-fuel-prices
+  cancel-in-progress: false
+
+jobs:
+  update-fuel-prices:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml
+
+      - name: Update official fuel price data
+        run: |
+          python scripts/update_fuel_prices.py \
+            --index dashboard/index.html \
+            --output dashboard/data/fuel_prices.json \
+            --last-updated dashboard/data/fuel_prices_last_updated.json \
+            --report dashboard/data/fuel_prices_refresh_report.json \
+            --timeout 30 \
+            --sleep 1.0 \
+            --min-success 1
+
+      - name: Show refresh report summary
+        if: always()
+        run: |
+          echo "=== fuel_prices_refresh_report.json ==="
+          if [ -f dashboard/data/fuel_prices_refresh_report.json ]; then
+            python - <<'PY'
+import json
+from pathlib import Path
+p = Path("dashboard/data/fuel_prices_refresh_report.json")
+r = json.loads(p.read_text(encoding="utf-8"))
+print("status:", r.get("status"))
+print("success_count:", r.get("success_count"))
+for c in r.get("countries", []):
+    print(f"- {c.get('iso3')} {c.get('country')}: {c.get('status')} | found={c.get('observations_found')} added={c.get('observations_added')} | {c.get('message')}")
+PY
+          else
+            echo "No report file found."
+          fi
+
+      - name: Commit updated fuel price data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update official country fuel price data"
+          file_pattern: |
+            dashboard/data/fuel_prices.json
+            dashboard/data/fuel_prices_last_updated.json
+            dashboard/data/fuel_prices_refresh_report.json
