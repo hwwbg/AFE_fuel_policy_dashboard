@@ -25,35 +25,37 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml pandas python-dateutil playwright
+          pip install requests beautifulsoup4 lxml playwright
           python -m playwright install --with-deps chromium
 
       - name: Update official fuel price data
         run: |
-          python scripts/update_fuel_prices.py
+          python scripts/update_fuel_prices.py \
+            --index dashboard/index.html \
+            --output dashboard/data/fuel_prices.json \
+            --last-updated dashboard/data/fuel_prices_last_updated.json \
+            --report dashboard/data/fuel_prices_refresh_report.json \
+            --timeout 45 \
+            --sleep 1.0 \
+            --min-success 0
 
       - name: Validate generated files
         run: |
-          python - <<'PY'
-          import json
-          from pathlib import Path
+          test -f dashboard/data/fuel_prices.json
+          test -f dashboard/data/fuel_prices_last_updated.json
+          test -f dashboard/data/fuel_prices_refresh_report.json
 
-          required_files = [
-              "dashboard/data/fuel_prices.json",
-              "dashboard/data/fuel_prices_last_updated.json",
-              "dashboard/data/fuel_prices_refresh_report.json",
-          ]
+          python -m json.tool dashboard/data/fuel_prices.json > /dev/null
+          python -m json.tool dashboard/data/fuel_prices_last_updated.json > /dev/null
+          python -m json.tool dashboard/data/fuel_prices_refresh_report.json > /dev/null
 
-          missing = [f for f in required_files if not Path(f).exists()]
-          if missing:
-              raise SystemExit(f"Missing expected output file(s): {missing}")
+          echo "Fuel price output files exist and are valid JSON."
 
-          for f in required_files:
-              with open(f, "r", encoding="utf-8") as fh:
-                  json.load(fh)
-
-          print("Fuel price output files exist and are valid JSON.")
-          PY
+      - name: Show refresh report
+        if: always()
+        run: |
+          echo "===== Fuel price refresh report ====="
+          cat dashboard/data/fuel_prices_refresh_report.json || true
 
       - name: Commit updated fuel price data
         run: |
