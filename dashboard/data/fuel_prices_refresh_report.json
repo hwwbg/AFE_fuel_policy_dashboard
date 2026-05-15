@@ -1,129 +1,18 @@
 {
-  "updated_utc": "2026-05-15T14:41:04+00:00",
+  "updated_utc": "2026-05-15T14:59:44+00:00",
   "status": "ok",
-  "success_count": 0,
-  "countries_checked": 12,
-  "policy_note": "Official-source refresh. Madagascar uses OMH only; no GPP fallback.",
+  "mdg_successful": true,
+  "policy_note": "Madagascar uses OMH only; no GPP fallback. Incorrect stale MDG rows are not retained.",
   "countries": [
     {
       "country": "Madagascar",
       "iso3": "MDG",
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
-      "status": "warning",
-      "message": "OMH page loaded but no Date/SC/PL/GO table rows were parsed. The page may render data dynamically. Existing data kept unchanged.",
-      "observations_found": 0,
-      "observations_added": 0
-    },
-    {
-      "country": "Malawi",
-      "iso3": "MWI",
-      "source_name": "Malawi Energy Regulatory Authority (MERA)",
-      "source_url": "https://mera.mw/",
-      "status": "warning",
-      "message": "Official page loaded but no parseable fuel-price table was found. Existing data kept unchanged.",
-      "observations_found": 0,
-      "observations_added": 0
-    },
-    {
-      "country": "Mozambique",
-      "iso3": "MOZ",
-      "source_name": "Autoridade Reguladora de Energia (ARENE)",
-      "source_url": "https://arene.org.mz/",
-      "status": "warning",
-      "message": "Official page loaded but no parseable fuel-price table was found. Existing data kept unchanged.",
-      "observations_found": 0,
-      "observations_added": 0
-    },
-    {
-      "country": "Kenya",
-      "iso3": "KEN",
-      "source_name": "Energy and Petroleum Regulatory Authority (EPRA)",
-      "source_url": "https://www.epra.go.ke/services/petroleum/petroleum-prices/",
-      "status": "error",
-      "message": "ReadTimeout: HTTPSConnectionPool(host='www.epra.go.ke', port=443): Read timed out. (read timeout=45). Existing data kept unchanged.",
-      "observations_found": 0,
-      "observations_added": 0
-    },
-    {
-      "country": "South Africa",
-      "iso3": "ZAF",
-      "source_name": "Department of Mineral and Petroleum Resources / DMRE",
-      "source_url": "https://www.energy.gov.za/files/esources/petroleum/petroleum_arch.html",
-      "status": "error",
-      "message": "SSLError: HTTPSConnectionPool(host='www.energy.gov.za', port=443): Max retries exceeded with url: /files/esources/petroleum/petroleum_arch.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)'))). Existing data kept unchanged.",
-      "observations_found": 0,
-      "observations_added": 0
-    },
-    {
-      "country": "Tanzania",
-      "iso3": "TZA",
-      "source_name": "Energy and Water Utilities Regulatory Authority (EWURA)",
-      "source_url": "https://www.ewura.go.tz/",
-      "status": "warning",
-      "message": "Official page loaded but no parseable fuel-price table was found. Existing data kept unchanged.",
-      "observations_found": 0,
-      "observations_added": 0
-    },
-    {
-      "country": "Rwanda",
-      "iso3": "RWA",
-      "source_name": "Rwanda Utilities Regulatory Authority (RURA)",
-      "source_url": "https://rura.rw/",
-      "status": "warning",
-      "message": "Official page loaded but no parseable fuel-price table was found. Existing data kept unchanged.",
-      "observations_found": 0,
-      "observations_added": 0
-    },
-    {
-      "country": "Zambia",
-      "iso3": "ZMB",
-      "source_name": "Energy Regulation Board (ERB)",
-      "source_url": "https://www.erb.org.zm/",
-      "status": "error",
-      "message": "SSLError: HTTPSConnectionPool(host='www.erb.org.zm', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)'))). Existing data kept unchanged.",
-      "observations_found": 0,
-      "observations_added": 0
-    },
-    {
-      "country": "Namibia",
-      "iso3": "NAM",
-      "source_name": "Ministry of Mines and Energy, Namibia",
-      "source_url": "https://www.mme.gov.na/",
-      "status": "warning",
-      "message": "Official page loaded but no parseable fuel-price table was found. Existing data kept unchanged.",
-      "observations_found": 0,
-      "observations_added": 0
-    },
-    {
-      "country": "Zimbabwe",
-      "iso3": "ZWE",
-      "source_name": "Zimbabwe Energy Regulatory Authority (ZERA)",
-      "source_url": "https://www.zera.co.zw/",
-      "status": "warning",
-      "message": "Official page loaded but no parseable fuel-price table was found. Existing data kept unchanged.",
-      "observations_found": 0,
-      "observations_added": 0
-    },
-    {
-      "country": "Mauritius",
-      "iso3": "MUS",
-      "source_name": "State Trading Corporation / Petroleum Pricing Committee",
-      "source_url": "https://stcmu.com/",
-      "status": "warning",
-      "message": "Official page loaded but no parseable fuel-price table was found. Existing data kept unchanged.",
-      "observations_found": 0,
-      "observations_added": 0
-    },
-    {
-      "country": "Seychelles",
-      "iso3": "SYC",
-      "source_name": "SEYPEC",
-      "source_url": "https://www.seypec.com/",
-      "status": "warning",
-      "message": "Official page loaded but no parseable fuel-price table was found. Existing data kept unchanged.",
-      "observations_found": 0,
-      "observations_added": 0
+      "status": "ok",
+      "message": "Parsed OMH rendered DOM table.",
+      "observations_found": 423,
+      "observations_added": 423
     }
   ]
 }
