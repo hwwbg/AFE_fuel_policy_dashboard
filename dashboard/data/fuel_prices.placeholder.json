@@ -1,0 +1,6 @@
+{
+  "_note": "This file will be created/overwritten by scripts/update_fuel_prices.py in GitHub Actions. It is included here only as a placeholder.",
+  "_policy": {
+    "MDG": "OMH only; no GPP fallback unless independently matched to OMH."
+  }
+}
