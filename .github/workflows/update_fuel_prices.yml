@@ -1,4 +1,3 @@
-
 name: Update official fuel prices
 
 on:
@@ -13,18 +12,22 @@ permissions:
 jobs:
   update-fuel-prices:
     runs-on: ubuntu-latest
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml playwright
           python -m playwright install --with-deps chromium
+
       - name: Update official fuel price data from OMH
         run: |
           python scripts/update_fuel_prices.py \
@@ -35,33 +38,82 @@ jobs:
             --timeout 60 \
             --require-mdg \
             --debug-dir dashboard/data/omh_debug
-      - name: Validate generated files
-        if: always()
+
+      - name: Validate generated fuel price data
         run: |
-          test -f dashboard/data/fuel_prices.json
-          test -f dashboard/data/fuel_prices_last_updated.json
-          test -f dashboard/data/fuel_prices_refresh_report.json
-          python -m json.tool dashboard/data/fuel_prices.json > /dev/null
-          python -m json.tool dashboard/data/fuel_prices_last_updated.json > /dev/null
-          python -m json.tool dashboard/data/fuel_prices_refresh_report.json > /dev/null
-          echo "Fuel price output files exist and are valid JSON."
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          fuel_path = Path("dashboard/data/fuel_prices.json")
+          meta_path = Path("dashboard/data/fuel_prices_last_updated.json")
+          report_path = Path("dashboard/data/fuel_prices_refresh_report.json")
+
+          for p in [fuel_path, meta_path, report_path]:
+              if not p.exists():
+                  raise SystemExit(f"Missing expected output file: {p}")
+              if p.stat().st_size == 0:
+                  raise SystemExit(f"Output file is empty: {p}")
+
+          fuel = json.loads(fuel_path.read_text(encoding="utf-8"))
+          report = json.loads(report_path.read_text(encoding="utf-8"))
+
+          mdg_rows = fuel.get("Madagascar", [])
+          if not isinstance(mdg_rows, list) or len(mdg_rows) == 0:
+              raise SystemExit("fuel_prices.json does not contain Madagascar rows.")
+
+          required = ["observation_date", "fuel_family", "fuel_product", "price_local", "currency", "source_url"]
+          bad = []
+          for i, row in enumerate(mdg_rows):
+              missing = [k for k in required if k not in row or row[k] in ("", None)]
+              if missing:
+                  bad.append((i, missing, row))
+
+          if bad:
+              raise SystemExit(f"Madagascar rows have missing required fields: {bad[:3]}")
+
+          latest = max(row["observation_date"] for row in mdg_rows)
+          products = sorted(set(row["fuel_family"] for row in mdg_rows))
+
+          if not report.get("mdg_successful"):
+              raise SystemExit("Refresh report says MDG was not successful.")
+
+          print(f"Validated fuel_prices.json: Madagascar rows = {len(mdg_rows)}")
+          print(f"Latest Madagascar date = {latest}")
+          print(f"Madagascar products = {products}")
+          PY
+
       - name: Show refresh report
-        if: always()
         run: |
           echo "===== Fuel price refresh report ====="
-          cat dashboard/data/fuel_prices_refresh_report.json || true
-          echo "===== OMH captured network URLs ====="
-          cat dashboard/data/omh_debug/omh_network_urls.txt || true
+          cat dashboard/data/fuel_prices_refresh_report.json
+
+          echo "===== fuel_prices.json status ====="
+          ls -lh dashboard/data/fuel_prices.json
+
+          echo "===== Madagascar row count ====="
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          fuel = json.loads(Path("dashboard/data/fuel_prices.json").read_text(encoding="utf-8"))
+          print(len(fuel.get("Madagascar", [])))
+          PY
+
       - name: Commit updated fuel price data and OMH debug files
-        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git status --short
+
           git add dashboard/data/fuel_prices.json \
                   dashboard/data/fuel_prices_last_updated.json \
                   dashboard/data/fuel_prices_refresh_report.json \
                   dashboard/data/omh_debug/omh_network_urls.txt \
                   dashboard/data/omh_debug/omh_text_payloads.txt || true
+
+          git status --short
+
           if git diff --cached --quiet; then
             echo "No fuel price data changes to commit."
           else
