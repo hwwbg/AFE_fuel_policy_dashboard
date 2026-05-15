@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-15T15:29:03+00:00",
+  "updated_utc": "2026-05-15T16:23:39+00:00",
   "source_policy": {
     "MDG": "OMH only; no GPP fallback. Existing MDG rows are removed before refresh because they are not trusted."
   },

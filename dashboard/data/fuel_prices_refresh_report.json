@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-15T15:29:03+00:00",
+  "updated_utc": "2026-05-15T16:23:39+00:00",
   "status": "ok",
   "mdg_successful": true,
   "policy_note": "Madagascar uses OMH only; no GPP fallback. Stale/incorrect MDG rows are not retained.",
