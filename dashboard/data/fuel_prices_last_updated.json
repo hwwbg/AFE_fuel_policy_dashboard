@@ -1,0 +1,10 @@
+{
+  "updated_utc": "2026-05-15T14:13:39+00:00",
+  "source_policy": {
+    "MDG": "OMH only; do not use GPP unless independently matched to OMH.",
+    "AGO": "Existing GPP allowance retained only for Angola, if present in the dashboard.",
+    "Other countries": "Official regulator/government source only; keep existing data if parsing fails."
+  },
+  "countries_checked": 12,
+  "countries_successful": 0
+}
