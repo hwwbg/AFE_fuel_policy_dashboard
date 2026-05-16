@@ -21,6 +21,27 @@
     "gdelt_query": "Kenya fuel prices EPRA"
   },
   {
+    "id": "uganda-2026-05-15-fuel-shortages-hit-uganda-once-more-a0e650ba",
+    "date": "2026-05-15",
+    "country": "Uganda",
+    "iso3": "UGA",
+    "headline": "Fuel shortages hit Uganda once more",
+    "summary": "Fuel shortages hit Uganda once more",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "eturbonews.com",
+    "source_url": "https://eturbonews.com",
+    "article_url": "https://eturbonews.com/fuel-shortages-hit-uganda-once-more/",
+    "source_domain": "eturbonews.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-16",
+    "gdelt_query": "Uganda fuel prices"
+  },
+  {
     "id": "kenya-2026-05-14-fuel-price-review-expected-as-kenyans-brace-f-5475426f",
     "date": "2026-05-14",
     "country": "Kenya",
