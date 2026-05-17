@@ -1,5 +1,26 @@
 [
   {
+    "id": "namibia-2026-05-16-namibia-northern-regions-pay-most-for-diesel-1b78a488",
+    "date": "2026-05-16",
+    "country": "Namibia",
+    "iso3": "NAM",
+    "headline": "Namibia northern regions pay most for diesel - Business",
+    "summary": "Namibia northern regions pay most for diesel - Business",
+    "products": [
+      "diesel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "namibian.com.na",
+    "source_url": "https://namibian.com.na",
+    "article_url": "https://www.namibian.com.na/namibias-nothern-regions-pay-most-for-diesel/",
+    "source_domain": "namibian.com.na",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-17",
+    "gdelt_query": "Namibia fuel prices"
+  },
+  {
     "id": "kenya-2026-05-15-kenya-records-highest-diesel-price-in-history-01388041",
     "date": "2026-05-15",
     "country": "Kenya",
