@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-17T08:34:17+00:00",
+  "updated_utc": "2026-05-18T10:43:34+00:00",
   "status": "ok",
   "hard_failures": [],
   "manual_countries": [
@@ -24,7 +24,7 @@
       "source_name": "Energy & Petroleum Regulatory Authority (EPRA)",
       "source_url": "https://www.epra.go.ke/pump-prices/",
       "status": "warning",
-      "message": "EPRA page loaded but no price table found.",
+      "message": "ReadTimeout: HTTPSConnectionPool(host='www.epra.go.ke', port=443): Read timed out. (read timeout=60)",
       "observations_found": 0,
       "observations_added": 0
     },
