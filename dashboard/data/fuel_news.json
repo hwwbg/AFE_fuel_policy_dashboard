@@ -1,5 +1,47 @@
 [
   {
+    "id": "kenya-2026-05-18-exempt-fuel-from-vat-maraga-weighs-in-on-mata-75e782d7",
+    "date": "2026-05-18",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "Exempt fuel from VAT ! Maraga weighs in on matatu strike chaos",
+    "summary": "Exempt fuel from VAT ! Maraga weighs in on matatu strike chaos",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "subsidy / tax measure",
+    "magnitude": "Not extracted automatically",
+    "source_name": "the-star.co.ke",
+    "source_url": "https://the-star.co.ke",
+    "article_url": "https://www.the-star.co.ke/news/2026-05-18-exempt-fuel-from-vat-maraga-weighs-in-on-matatu-strike",
+    "source_domain": "the-star.co.ke",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-18",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
+    "id": "kenya-2026-05-18-kenya-nps-assures-public-of-security-as-natio-33d25cda",
+    "date": "2026-05-18",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "Kenya : NPS Assures Public of Security As Nationwide Psv Strike Begins Over Fuel Prices",
+    "summary": "Kenya : NPS Assures Public of Security As Nationwide Psv Strike Begins Over Fuel Prices",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "allafrica.com",
+    "source_url": "https://allafrica.com",
+    "article_url": "https://allafrica.com/stories/202605180034.html",
+    "source_domain": "allafrica.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-18",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
     "id": "namibia-2026-05-16-namibia-northern-regions-pay-most-for-diesel-1b78a488",
     "date": "2026-05-16",
     "country": "Namibia",

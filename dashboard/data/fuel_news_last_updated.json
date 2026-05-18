@@ -1,26 +1,15 @@
 {
-  "last_refreshed_utc": "2026-05-17T09:35:46+00:00",
+  "last_refreshed_utc": "2026-05-18T11:35:08+00:00",
   "source": "GDELT DOC 2.0 API",
   "registry": "/home/runner/work/AFE_fuel_policy_dashboard/AFE_fuel_policy_dashboard/dashboard/data/afe_fuel_news_media_source_registry.json",
   "days_searched": 21,
   "queries_per_country": 1,
-  "items_written": 41,
-  "new_items_found_this_run": 11,
-  "existing_items_checked": 40,
+  "items_written": 43,
+  "new_items_found_this_run": 12,
+  "existing_items_checked": 41,
   "existing_items_dropped_by_quality_filter": 0,
-  "query_errors_count": 2,
-  "errors": [
-    {
-      "country": "Angola",
-      "query": "Angola fuel price",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "country": "Somalia",
-      "query": "Somalia fuel prices",
-      "error": "HTTP Error 429: Too Many Requests"
-    }
-  ],
+  "query_errors_count": 0,
+  "errors": [],
   "rejected_sample_file": "/home/runner/work/AFE_fuel_policy_dashboard/AFE_fuel_policy_dashboard/dashboard/data/fuel_news_rejected.json",
   "note": "Items are automatically retrieved from GDELT and marked verified=false. v3 applies stricter relevance filters, but important items should still be reviewed before use as evidence."
 }
