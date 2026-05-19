@@ -1,5 +1,47 @@
 [
   {
+    "id": "kenya-2026-05-19-fuel-price-hike-protests-turn-deadly-in-kenya-393d3f5f",
+    "date": "2026-05-19",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "Fuel price hike protests turn deadly in Kenya",
+    "summary": "Fuel price hike protests turn deadly in Kenya",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price increase",
+    "magnitude": "Not extracted automatically",
+    "source_name": "bignewsnetwork.com",
+    "source_url": "https://bignewsnetwork.com",
+    "article_url": "http://www.bignewsnetwork.com/news/279060745/fuel-price-hike-protests-turn-deadly-in-kenya",
+    "source_domain": "bignewsnetwork.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-19",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
+    "id": "malawi-2026-05-19-cama-blames-politicians-for-malawi-k1-3-trill-dceb92bf",
+    "date": "2026-05-19",
+    "country": "Malawi",
+    "iso3": "MWI",
+    "headline": "CAMA blames politicians for Malawi K1 . 3 trillion fuel debt",
+    "summary": "CAMA blames politicians for Malawi K1 . 3 trillion fuel debt",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "malawi24.com",
+    "source_url": "https://malawi24.com",
+    "article_url": "https://malawi24.com/2026/05/19/cama-blames-politicians-for-malawis-k1-3-trillion-fuel-debt/",
+    "source_domain": "malawi24.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-19",
+    "gdelt_query": "Malawi fuel prices MERA"
+  },
+  {
     "id": "kenya-2026-05-18-exempt-fuel-from-vat-maraga-weighs-in-on-mata-75e782d7",
     "date": "2026-05-18",
     "country": "Kenya",
@@ -39,6 +81,27 @@
     "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
     "verified": false,
     "retrieved_at": "2026-05-18",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
+    "id": "kenya-2026-05-18-4-killed-30-injured-in-kenya-fuel-price-prote-a2ef4156",
+    "date": "2026-05-18",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "4 killed , 30 injured in Kenya fuel price protests",
+    "summary": "4 killed , 30 injured in Kenya fuel price protests",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price adjustment",
+    "magnitude": "Not extracted automatically",
+    "source_name": "bignewsnetwork.com",
+    "source_url": "https://bignewsnetwork.com",
+    "article_url": "http://www.bignewsnetwork.com/news/279059105/4-killed-30-injured-in-kenya-fuel-price-protests",
+    "source_domain": "bignewsnetwork.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-19",
     "gdelt_query": "Kenya fuel prices EPRA"
   },
   {
