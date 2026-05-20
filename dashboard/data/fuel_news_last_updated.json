@@ -1,18 +1,18 @@
 {
-  "last_refreshed_utc": "2026-05-19T11:06:14+00:00",
+  "last_refreshed_utc": "2026-05-20T10:55:50+00:00",
   "source": "GDELT DOC 2.0 API",
   "registry": "/home/runner/work/AFE_fuel_policy_dashboard/AFE_fuel_policy_dashboard/dashboard/data/afe_fuel_news_media_source_registry.json",
   "days_searched": 21,
   "queries_per_country": 1,
-  "items_written": 46,
+  "items_written": 49,
   "new_items_found_this_run": 13,
-  "existing_items_checked": 43,
+  "existing_items_checked": 46,
   "existing_items_dropped_by_quality_filter": 0,
   "query_errors_count": 1,
   "errors": [
     {
-      "country": "Sudan",
-      "query": "Sudan fuel prices",
+      "country": "Namibia",
+      "query": "Namibia fuel prices",
       "error": "HTTP Error 429: Too Many Requests"
     }
   ],

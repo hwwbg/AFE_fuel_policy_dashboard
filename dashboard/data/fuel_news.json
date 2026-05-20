@@ -42,6 +42,69 @@
     "gdelt_query": "Malawi fuel prices MERA"
   },
   {
+    "id": "kenya-2026-05-19-4-killed-as-kenyans-protest-rising-fuel-price-734502e9",
+    "date": "2026-05-19",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "4 killed as Kenyans protest rising fuel prices",
+    "summary": "4 killed as Kenyans protest rising fuel prices",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "dailytrust.com",
+    "source_url": "https://dailytrust.com",
+    "article_url": "https://dailytrust.com/4-killed-as-kenyans-protest-rising-fuel-prices/",
+    "source_domain": "dailytrust.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-20",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
+    "id": "kenya-2026-05-19-kenya-transporters-school-bus-drivers-begin-n-3ef64b2a",
+    "date": "2026-05-19",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "Kenya transporters , school bus drivers begin nationwide strike sake of fuel prices",
+    "summary": "Kenya transporters , school bus drivers begin nationwide strike sake of fuel prices",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "pidgin.informationng.com",
+    "source_url": "https://pidgin.informationng.com",
+    "article_url": "https://pidgin.informationng.com/?p=34773",
+    "source_domain": "pidgin.informationng.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-20",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
+    "id": "kenya-2026-05-19-fuel-price-hike-protests-turn-deadly-in-kenya-85a945a5",
+    "date": "2026-05-19",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "Fuel price hike protests turn deadly in Kenya",
+    "summary": "Fuel price hike protests turn deadly in Kenya",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price increase",
+    "magnitude": "Not extracted automatically",
+    "source_name": "africaleader.com",
+    "source_url": "https://africaleader.com",
+    "article_url": "http://www.africaleader.com/news/279060745/fuel-price-hike-protests-turn-deadly-in-kenya",
+    "source_domain": "africaleader.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-20",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
     "id": "kenya-2026-05-18-exempt-fuel-from-vat-maraga-weighs-in-on-mata-75e782d7",
     "date": "2026-05-18",
     "country": "Kenya",

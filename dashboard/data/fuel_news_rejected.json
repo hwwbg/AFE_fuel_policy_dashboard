@@ -2,6 +2,20 @@
   {
     "country": "Angola",
     "query": "Angola fuel price",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "Prices of petrol , diesel hiked again by 90p , up by nearly Rs 4 in a week",
+    "url": "https://timesofindia.indiatimes.com/india/prices-of-petrol-diesel-hiked-again-by-90p-up-by-nearly-rs-4-in-a-week/articleshow/131211063.cms"
+  },
+  {
+    "country": "Angola",
+    "query": "Angola fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "NQ - 0 . 6 % as tech pulls back , European bourses firm with oil / yields lower - Newsquawk US Market Open",
+    "url": "https://www.zerohedge.com/markets/nq-06-tech-pulls-back-european-bourses-firm-oilyields-lower-newsquawk-us-market-open"
+  },
+  {
+    "country": "Angola",
+    "query": "Angola fuel price",
     "reason": "no fuel-price keyword in title/summary",
     "title": "ومن رماد هذه الحرب قد تستيقظ أفريقيا",
     "url": "https://www.aljazeera.net/opinions/2026/5/18/%D9%88%D9%85%D9%86-%D8%B1%D9%85%D8%A7%D8%AF-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%82%D8%AF-%D8%AA%D8%B3%D8%AA%D9%8A%D9%82%D8%B8-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7"
@@ -28,20 +42,6 @@
     "url": "https://oilreviewafrica.com/industry/how-does-uaes-opec-exit-impact-africas-oil-and-gas"
   },
   {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Africa Intelligence Brief for Wednesday , May 13 , 2026",
-    "url": "https://www.riotimesonline.com/africa-intelligence-brief-for-wednesday-may-13-2026/"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "petrol price today 15 May rs 113 and diesel rs 101 per liter most expensive fuel in this state of india भारत के किस राज्य में सबसे महंगा फ्यूल , पेट्रोल ₹113 . 27 और डीजल ₹101 . 16 लीटर , Business Hin",
-    "url": "https://www.livehindustan.com/business/petrol-price-today-15-may-rs-113-and-diesel-rs-101-per-liter-most-expensive-fuel-in-this-state-of-india-201778819366208.html"
-  },
-  {
     "country": "Botswana",
     "query": "Botswana fuel price increase",
     "reason": "no fuel-price keyword in title/summary",
@@ -61,20 +61,6 @@
     "reason": "target country not found in title/summary/url and source is not a known country source",
     "title": "Blending helping reduce fuel prices : Zera",
     "url": "https://www.thestandard.co.zw/slider/article/3832/blending-helping-reduce-fuel-prices-zera"
-  },
-  {
-    "country": "Botswana",
-    "query": "Botswana fuel price increase",
-    "reason": "low-value broad domain: indianexpress.com",
-    "title": "UPSC Key - 28th April 2026 : Sovereign Cloud System , International Big Cat Alliance and US Secret Service",
-    "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-key-sovereign-cloud-system-international-big-cat-alliance-and-us-secret-service-10660641/"
-  },
-  {
-    "country": "Botswana",
-    "query": "Botswana fuel price increase",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Inflation Forecast to Exceed 6 % - Weekend Post",
-    "url": "https://weekendpost.co.bw/inflation-forecast-to-exceed-6/"
   },
   {
     "country": "Burundi",
@@ -122,6 +108,13 @@
     "country": "Eritrea",
     "query": "Eritrea fuel price",
     "reason": "no fuel-price keyword in title/summary",
+    "title": "  נכבוש את אבו דאבי : האיומים של איראן אם המלחמה תחודש",
+    "url": "https://www.globes.co.il/news/article.aspx?did=1001543377"
+  },
+  {
+    "country": "Eritrea",
+    "query": "Eritrea fuel price",
+    "reason": "no fuel-price keyword in title/summary",
     "title": "ومن رماد هذه الحرب قد تستيقظ أفريقيا",
     "url": "https://www.aljazeera.net/opinions/2026/5/18/%D9%88%D9%85%D9%86-%D8%B1%D9%85%D8%A7%D8%AF-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%82%D8%AF-%D8%AA%D8%B3%D8%AA%D9%8A%D9%82%D8%B8-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7"
   },
@@ -154,13 +147,6 @@
     "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/top-20-upsc-current-affairs-pointers-may-4-to-may-10-2026-10679847/"
   },
   {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "The global epidemic of violence in an age of impunity",
-    "url": "https://augustafreepress.com/news/alon-ben-meir-the-global-epidemic-of-violence-in-an-age-of-impunity/"
-  },
-  {
     "country": "Eswatini",
     "query": "Eswatini fuel price increase",
     "reason": "target country not found in title/summary/url and source is not a known country source",
@@ -170,72 +156,65 @@
   {
     "country": "Ethiopia",
     "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Рейсы есть , туров нет : АТОР назвала страны , куда нельзя купить пакетный отдых из РФ | Приморский край",
-    "url": "https://fedpress.ru/article/3437426"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Along Carlos III Street in Havana and Back Toward Ethiopia",
-    "url": "https://havanatimes.org/opinion/along-carlos-iii-street-in-havana-and-back-toward-ethiopia/"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Police deploy aerial surveillance over Thika Road , Githurai area",
-    "url": "https://www.the-star.co.ke/news/2026-05-18-police-deploy-aerial-surveillance-over-thika-road-githurai-area"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Οι Κερδισμένοι και οι Χαμένοι της Νέας Παγκόσμιας Τάξης του Πετρελαίου",
-    "url": "https://www.reporter.gr/diethnh/emporeymata/675183-oi-kerdismenoi-kai-oi-xamenoi-tis-neas-pagkosmias-taksis-tou-petrelaiou"
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "OPINION : Fuel Crisis Exposes Kenya Kwanza Policy Contradictions and Economic Failures » Capital News",
+    "url": "https://www.capitalfm.co.ke/news/2026/05/opinion-fuel-crisis-exposes-kenya-kwanzas-policy-contradictions-and-economic-failures/"
   },
   {
     "country": "Ethiopia",
     "query": "Ethiopia fuel prices",
     "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Fuel prices across East Africa region",
-    "url": "https://www.the-star.co.ke/news/infographics/2026-05-18-fuel-prices-across-east-africa-region"
+    "title": "Owalo Tears Into Ruto Over Fuel Prices",
+    "url": "https://ghettoradio.co.ke/owalo-tears-into-ruto-over-fuel-prices/"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "Kenya : Fuel Crisis Exposes Kenya Kwanza Policy Contradictions and Economic Failures",
+    "url": "https://allafrica.com/stories/202605200091.html"
   },
   {
     "country": "Ethiopia",
     "query": "Ethiopia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Ethiopia Leads EV Revolution In Africa",
-    "url": "https://cleantechnica.com/2026/05/17/ethiopia-leads-ev-revolution-in-africa/"
+    "title": "Africa : All of Africa Today - May 20 , 2026",
+    "url": "https://allafrica.com/stories/202605200085.html"
   },
   {
-    "country": "Kenya",
-    "query": "Kenya fuel prices EPRA",
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "Government is lying about the real reason behind current fuel crisis",
+    "url": "https://www.standardmedia.co.ke/opinion/article/2001548214/government-is-lying-about-the-real-reason-behind-current-fuel-crisis"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Kenya : Matatu Strike Drags Into Second Day After Government Talks Collapse",
-    "url": "https://allafrica.com/stories/202605190074.html"
+    "title": "Horn of Africa Emerges as Strategic Rear Theater in the Expanding War on Iran",
+    "url": "https://www.bearingdrift.com/2026/05/horn-of-africa-emerges-as-strategic.html"
   },
   {
     "country": "Kenya",
     "query": "Kenya fuel prices EPRA",
     "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "No Deal Reached as Matatu Strike Over Fuel Prices Continues Tuesday",
-    "url": "https://www.capitalfm.co.ke/news/2026/05/no-deal-reached-as-matatu-strike-over-fuel-prices-continues-tuesday/"
+    "title": "Owalo Tears Into Ruto Over Fuel Prices",
+    "url": "https://ghettoradio.co.ke/owalo-tears-into-ruto-over-fuel-prices/"
   },
   {
     "country": "Kenya",
     "query": "Kenya fuel prices EPRA",
     "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "No deal : Matatu strike to continue as govt , operators fail to agree on fuel price cuts",
-    "url": "https://www.standardmedia.co.ke/national/article/2001548155/matatu-strike-to-continue-as-govt-operators-fail-to-agree-on-fuel-price-cuts"
+    "title": "  With All Due Respect , There No Deal : Matatu Official Publicly Contradicts Govt as Fuel Strike Continues » Capital News",
+    "url": "https://www.capitalfm.co.ke/news/2026/05/with-all-due-respect-theres-no-deal-matatu-official-publicly-contradicts-govt-as-fuel-strike-continues/"
   },
   {
-    "country": "Kenya",
-    "query": "Kenya fuel prices EPRA",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Two Killed in Kiambu and Nakuru as Fuel Hike Protests Turn Deadly",
-    "url": "https://www.capitalfm.co.ke/news/2026/05/two-killed-in-kiambu-and-nakuru-as-fuel-hike-protests-turn-deadly/"
+    "country": "Lesotho",
+    "query": "Lesotho fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Africa : All of Africa Today - May 20 , 2026",
+    "url": "https://allafrica.com/stories/202605200085.html"
   },
   {
     "country": "Lesotho",
@@ -273,13 +252,6 @@
     "url": "https://english.news.cn/africa/20260507/8068407d9c5b4a319cb35523cc5b17c5/c.html"
   },
   {
-    "country": "Lesotho",
-    "query": "Lesotho fuel prices",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "PMS pump price in Nigeria faces upward pressure as global crude oil prices soar",
-    "url": "https://thenationonlineng.net/pms-pump-price-in-nigeria-faces-upward-pressure-as-global-crude-oil-prices-soar/"
-  },
-  {
     "country": "Malawi",
     "query": "Malawi fuel prices MERA",
     "reason": "no fuel-price keyword in title/summary",
@@ -292,6 +264,13 @@
     "reason": "target country not found in title/summary/url and source is not a known country source",
     "title": "Fuel queues , blame games : The hard truth Why DPP Hormuz warning holds water , MCP Ukraine excuse didnt",
     "url": "http://www.maravipost.com/fuel-queues-blame-games-the-hard-truth-why-dpps-hormuz-warning-holds-water-mcps-ukraine-excuse-didnt/"
+  },
+  {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Africa : All of Africa Today - May 20 , 2026",
+    "url": "https://allafrica.com/stories/202605200085.html"
   },
   {
     "country": "Mozambique",
@@ -329,46 +308,11 @@
     "url": "https://www.euro2day.gr/news/world/article/2351442/krish-ston-persiko-zhtoyntai-ntalikes-gia-metafora.html"
   },
   {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Τα Στενά « πνίγουν » τον κόσμο : Το « όπλο » του Ιράν εκτίναξε 321 % το κόστος μεταφοράς",
-    "url": "https://www.naftemporiki.gr/maritime/2111271/ta-stena-pnigoyn-ton-kosmo-to-oplo-toy-iran-ektinaxe-321-to-kostos-metaforas/"
-  },
-  {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Iran war analysis : How 60 nations have responded to the global energy crisis  | Peak Oil News and Message Boards",
-    "url": "https://peakoil.com/publicpolicy/iran-war-analysis-how-60-nations-have-responded-to-the-global-energy-crisis"
-  },
-  {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "The Iran war and the future of cheap flights",
-    "url": "https://www.irishtimes.com/business/2026/05/16/the-iran-war-and-the-future-of-cheap-flights/"
-  },
-  {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "How does UAE OPEC exit impact Africa oil and gas ? ",
-    "url": "https://oilreviewafrica.com/industry/how-does-uaes-opec-exit-impact-africas-oil-and-gas"
-  },
-  {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "A Latin American Model for Dealing with Rising Gasoline Prices",
-    "url": "https://www.americasquarterly.org/article/a-latin-american-model-for-dealing-with-rising-gasoline-prices/"
-  },
-  {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Auswärtiges Amt : Neue Reisewarnungen und Hinweise im Mai 2026",
-    "url": "http://www.tz.de/reise/auswaertiges-amt-neue-reisewarnungen-und-hinweise-im-mai-2026-94306379.html"
+    "title": "May 19 : AFCON Qualifier Matchups Set , Togo Opens Its Borders to African Travelers",
+    "url": "https://www.okayafrica.com/today-in-africa-may-19-2026-afcon-qualifier-matchups-set-togo-opens-its-borders-to-african-travelers/1430048"
   },
   {
     "country": "Seychelles",
@@ -406,95 +350,109 @@
     "url": "https://www.ng.ru/monitoring/2026-05-06/6_9490_monitoring.html"
   },
   {
-    "country": "Seychelles",
-    "query": "Seychelles fuel prices",
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Αεροπορικά καύσιμα : Από τον Μάϊο αναμένονται ελλείψεις – Ποιες χώρες κινδυνεύουν και τι σημαίνει για την Ελλάδα",
-    "url": "https://www.inewsgr.com/93/aeroporika-kafsima-apo-ton-maio-anamenontai-elleipseis--poies-chores-kindynevoun-kai-ti-simainei-gia-tin-ellada.htm"
+    "title": "Africa : All of Africa Today - May 20 , 2026",
+    "url": "https://allafrica.com/stories/202605200085.html"
   },
   {
     "country": "Somalia",
     "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Arms Without Strings : Buying Chinese Military Technology",
-    "url": "https://smallwarsjournal.com/2026/05/19/arms-without-strings/"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "May 18 : WHO Declares Ebola Outbreak Global Health Emergency , Kenya Grinds to a Halt Over Fuel Price Protests",
-    "url": "https://www.okayafrica.com/today-in-africa-may-18-2026-who-declares-ebola-outbreak-global-health-emergency-kenya-grinds-to-a-halt-over-fuel-price-protests/1429989"
+    "title": "Horn of Africa Emerges as Strategic Rear Theater in the Expanding War on Iran",
+    "url": "https://www.bearingdrift.com/2026/05/horn-of-africa-emerges-as-strategic.html"
   },
   {
     "country": "Somalia",
     "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "ومن رماد هذه الحرب قد تستيقظ أفريقيا",
-    "url": "https://www.aljazeera.net/opinions/2026/5/18/%D9%88%D9%85%D9%86-%D8%B1%D9%85%D8%A7%D8%AF-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%82%D8%AF-%D8%AA%D8%B3%D8%AA%D9%8A%D9%82%D8%B8-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7"
+    "title": "May 19 : AFCON Qualifier Matchups Set , Togo Opens Its Borders to African Travelers",
+    "url": "https://www.okayafrica.com/today-in-africa-may-19-2026-afcon-qualifier-matchups-set-togo-opens-its-borders-to-african-travelers/1430048"
   },
   {
     "country": "Somalia",
     "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "The ripples of the Iran war are everywhere",
-    "url": "https://www.abc.net.au/news/2026-05-18/the-ripples-of-the-iran-war-are-everywhere/106591410"
+    "title": "نيويورك تايمز : الصومال .. كارثة تلوح في الأفق في أكثر مناطق العالم هشاشة",
+    "url": "https://www.aljazeera.net/politics/2026/5/19/%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%AA%D8%A7%D9%8A%D9%85%D8%B2-%D8%A7%D9%84%D8%B5%D9%88%D9%85%D8%A7%D9%84-%D9%83%D8%A7%D8%B1%D8%AB%D8%A9-%D8%AA%D9%84%D9%88%D8%AD-%D9%81%D9%8A"
   },
   {
     "country": "Somalia",
     "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Dürren und Krieg verschärfen Krise : Somalia droht neue Hungersnot",
-    "url": "https://taz.de/Duerren-und-Krieg-verschaerfen-Krise/!6179472/"
+    "title": "Abbreviated Pundit Roundup : The farm report",
+    "url": "https://www.dailykos.com/stories/2026/5/19/800041152/community/a/"
   },
   {
     "country": "Somalia",
     "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "  Ateş etmeyin , ben Müslümanım : İran Savaşı sırasında yükselen Somalili korsan saldırıları",
-    "url": "https://t24.com.tr/dunya/ates-etmeyin-ben-muslumanim-iran-savasi-sirasinda-yukselen-somalili-korsan-saldirilari,1322550"
-  },
-  {
-    "country": "South Africa",
-    "query": "South Africa fuel price petrol diesel",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Here the latest petrol price forecast for June 2026",
-    "url": "https://www.thesouthafrican.com/news/heres-the-latest-petrol-price-forecast-for-june-2026/"
+    "title": "Ofam : Somalia IPC Reaction – LiveNews . co . nz",
+    "url": "https://livenews.co.nz/2026/05/19/ofam-somalia-ipc-reaction/"
   },
   {
     "country": "South Africa",
     "query": "South Africa fuel price petrol diesel",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "全球媒体聚焦 | 英媒 ： 全球能源格局加速转向 中国清洁能源优势凸显 - 大河网",
-    "url": "https://news.dahe.cn/2026/05-18/2087192.html"
+    "title": "霍尔木兹+厄尔尼诺双杀 ， 花旗警告 ： 大宗商品恐爆发超级通胀风暴 ！ ",
+    "url": "https://wallstreetcn.com/articles/3772710"
   },
   {
     "country": "South Africa",
     "query": "South Africa fuel price petrol diesel",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "  中国将人类最大危机化作契机 ， 彻底终结鸦片战争耻辱 _ 凤凰网",
-    "url": "https://news.ifeng.com/c/8tE51S6YHIy"
+    "title": "  95 - 96 To A Dollar Is Not A Healthy Sign At All  ",
+    "url": "https://www.rediff.com/business/special/95-96-to-a-dollar-is-not-a-healthy-sign-at-all/20260520.htm"
   },
   {
     "country": "South Africa",
     "query": "South Africa fuel price petrol diesel",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Ethiopia Leads EV Revolution In Africa",
-    "url": "https://cleantechnica.com/2026/05/17/ethiopia-leads-ev-revolution-in-africa/"
+    "title": "Chris Hedges : Trump Iranian Nightmare – Consortium News",
+    "url": "https://consortiumnews.com/2026/05/19/chris-hedges-trumps-iranian-nightmare/"
   },
   {
     "country": "South Africa",
     "query": "South Africa fuel price petrol diesel",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "The ripples of the Iran war are everywhere",
-    "url": "https://www.abc.net.au/news/2026-05-18/the-ripples-of-the-iran-war-are-everywhere/106591410"
+    "title": "Official visit to Strait of Hormuz on the cards , says Gwede Mantashe",
+    "url": "https://www.theherald.co.za/news/2026-05-19-official-visit-to-strait-of-hormuz-on-the-cards-says-gwede-mantashe/"
   },
   {
     "country": "South Africa",
     "query": "South Africa fuel price petrol diesel",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Какую стратегическую выгоду могут извлечь участники рынков , задетых конфликтом вокруг Ирана",
-    "url": "https://expert.ru/v-mire/schet-v-polzu-moskvy"
+    "title": "Official visit to Strait of Hormuz on the cards , says Gwede Mantashe",
+    "url": "https://www.timeslive.co.za/politics/2026-05-19-official-visit-to-strait-of-hormuz-on-the-cards-says-gwede-mantashe/"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Official visit to Strait of Hormuz on the cards , says Gwede Mantashe",
+    "url": "https://www.businessday.co.za/news/2026-05-19-official-visit-to-strait-of-hormuz-on-the-cards-says-gwede-mantashe/"
+  },
+  {
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "May 19 : AFCON Qualifier Matchups Set , Togo Opens Its Borders to African Travelers",
+    "url": "https://www.okayafrica.com/today-in-africa-may-19-2026-afcon-qualifier-matchups-set-togo-opens-its-borders-to-african-travelers/1430048"
+  },
+  {
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "نيويورك تايمز : الصومال .. كارثة تلوح في الأفق في أكثر مناطق العالم هشاشة",
+    "url": "https://www.aljazeera.net/politics/2026/5/19/%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%AA%D8%A7%D9%8A%D9%85%D8%B2-%D8%A7%D9%84%D8%B5%D9%88%D9%85%D8%A7%D9%84-%D9%83%D8%A7%D8%B1%D8%AB%D8%A9-%D8%AA%D9%84%D9%88%D8%AD-%D9%81%D9%8A"
+  },
+  {
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Global Economy Hit , Gaza Aid Lags , S . Sudan Violence",
+    "url": "https://www.miragenews.com/global-economy-hit-gaza-aid-lags-s-sudan-1676598/"
   },
   {
     "country": "South Sudan",
@@ -518,25 +476,46 @@
     "url": "https://www.abc.net.au/news/2026-05-18/the-ripples-of-the-iran-war-are-everywhere/106591410"
   },
   {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "How the Middle East conflict is worsening Somalia slide into famine",
-    "url": "https://www.nbcnews.com/world/africa/middle-east-conflict-worsening-somalias-slide-famine-rcna345432"
+    "title": "Africa : All of Africa Today - May 20 , 2026",
+    "url": "https://allafrica.com/stories/202605200085.html"
   },
   {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Agency says over 40 per cent of Sudanese face acute food insecurity",
-    "url": "https://www.africanews.com/2026/05/16/agency-says-over-40-per-cent-of-sudanese-face-acute-food-insecurity/"
+    "title": "May 19 : AFCON Qualifier Matchups Set , Togo Opens Its Borders to African Travelers",
+    "url": "https://www.okayafrica.com/today-in-africa-may-19-2026-afcon-qualifier-matchups-set-togo-opens-its-borders-to-african-travelers/1430048"
   },
   {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
-    "reason": "low-value broad domain: nakedcapitalism.com",
-    "title": "Links 5 / 16 / 2026 | naked capitalism",
-    "url": "https://www.nakedcapitalism.com/2026/05/links-5-16-2026.html"
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "نيويورك تايمز : الصومال .. كارثة تلوح في الأفق في أكثر مناطق العالم هشاشة",
+    "url": "https://www.aljazeera.net/politics/2026/5/19/%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%AA%D8%A7%D9%8A%D9%85%D8%B2-%D8%A7%D9%84%D8%B5%D9%88%D9%85%D8%A7%D9%84-%D9%83%D8%A7%D8%B1%D8%AB%D8%A9-%D8%AA%D9%84%D9%88%D8%AD-%D9%81%D9%8A"
+  },
+  {
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Global Economy Hit , Gaza Aid Lags , S . Sudan Violence",
+    "url": "https://www.miragenews.com/global-economy-hit-gaza-aid-lags-s-sudan-1676598/"
+  },
+  {
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Sudan inflation surges to 45 . 84 % as currency weakens further - Dabanga Radio TV Online",
+    "url": "https://www.dabangasudan.org/en/all-news/article/sudan-inflation-surges-to-45-84-as-currency-weakens-further"
+  },
+  {
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "ومن رماد هذه الحرب قد تستيقظ أفريقيا",
+    "url": "https://www.aljazeera.net/opinions/2026/5/18/%D9%88%D9%85%D9%86-%D8%B1%D9%85%D8%A7%D8%AF-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%82%D8%AF-%D8%AA%D8%B3%D8%AA%D9%8A%D9%82%D8%B8-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7"
   },
   {
     "country": "Tanzania",
@@ -548,44 +527,44 @@
   {
     "country": "Uganda",
     "query": "Uganda fuel prices",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "OPINION : Fuel Crisis Exposes Kenya Kwanza Policy Contradictions and Economic Failures » Capital News",
+    "url": "https://www.capitalfm.co.ke/news/2026/05/opinion-fuel-crisis-exposes-kenya-kwanzas-policy-contradictions-and-economic-failures/"
+  },
+  {
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "Owalo Tears Into Ruto Over Fuel Prices",
+    "url": "https://ghettoradio.co.ke/owalo-tears-into-ruto-over-fuel-prices/"
+  },
+  {
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "Kenya : Fuel Crisis Exposes Kenya Kwanza Policy Contradictions and Economic Failures",
+    "url": "https://allafrica.com/stories/202605200091.html"
+  },
+  {
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Africa : All of Africa Today - May 19 , 2026",
-    "url": "https://allafrica.com/stories/202605190127.html"
+    "title": "Africa : All of Africa Today - May 20 , 2026",
+    "url": "https://allafrica.com/stories/202605200085.html"
   },
   {
     "country": "Uganda",
     "query": "Uganda fuel prices",
     "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Four people killed and dozens injured in Kenya protests over record fuel prices",
-    "url": "https://jamaica-gleaner.com/article/world-news/20260517/four-people-killed-and-dozens-injured-kenya-protests-over-record-fuel"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "May 18 : WHO Declares Ebola Outbreak Global Health Emergency , Kenya Grinds to a Halt Over Fuel Price Protests",
-    "url": "https://www.okayafrica.com/today-in-africa-may-18-2026-who-declares-ebola-outbreak-global-health-emergency-kenya-grinds-to-a-halt-over-fuel-price-protests/1429989"
+    "title": "Government is lying about the real reason behind current fuel crisis",
+    "url": "https://www.standardmedia.co.ke/opinion/article/2001548214/government-is-lying-about-the-real-reason-behind-current-fuel-crisis"
   },
   {
     "country": "Uganda",
     "query": "Uganda fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "ومن رماد هذه الحرب قد تستيقظ أفريقيا",
-    "url": "https://www.aljazeera.net/opinions/2026/5/18/%D9%88%D9%85%D9%86-%D8%B1%D9%85%D8%A7%D8%AF-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%82%D8%AF-%D8%AA%D8%B3%D8%AA%D9%8A%D9%82%D8%B8-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Four people killed and dozens injured in Kenya protests over record fuel prices",
-    "url": "https://www.rhyljournal.co.uk/news/national/26118328.four-people-killed-dozens-injured-kenya-protests-record-fuel-prices/"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Kenya protests erupt over record fuel prices and rising cost of living",
-    "url": "https://www.africanews.com/2026/05/18/kenya-protests-erupt-over-record-fuel-prices-and-rising-cost-of-living/"
+    "title": "May 19 : AFCON Qualifier Matchups Set , Togo Opens Its Borders to African Travelers",
+    "url": "https://www.okayafrica.com/today-in-africa-may-19-2026-afcon-qualifier-matchups-set-togo-opens-its-borders-to-african-travelers/1430048"
   },
   {
     "country": "Zimbabwe",
