@@ -1,5 +1,48 @@
 [
   {
+    "id": "botswana-2026-05-20-botswana-quiet-fuel-revolution-building-energ-87ed8e5e",
+    "date": "2026-05-20",
+    "country": "Botswana",
+    "iso3": "BWA",
+    "headline": "Botswana Quiet Fuel Revolution : Building energy security in a supply - scarce region",
+    "summary": "Botswana Quiet Fuel Revolution : Building energy security in a supply - scarce region",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "weekendpost.co.bw",
+    "source_url": "https://weekendpost.co.bw",
+    "article_url": "https://weekendpost.co.bw/botswanas-quiet-fuel-revolution-building-energy-security-in-a-supply-scarce-region/",
+    "source_domain": "weekendpost.co.bw",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-21",
+    "gdelt_query": "Botswana fuel price increase"
+  },
+  {
+    "id": "kenya-2026-05-20-fuel-prices-costs-in-one-litre-of-petrol-and-9a139475",
+    "date": "2026-05-20",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "Fuel prices : Costs in one litre of petrol and diesel",
+    "summary": "Fuel prices : Costs in one litre of petrol and diesel",
+    "products": [
+      "gasoline",
+      "diesel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "the-star.co.ke",
+    "source_url": "https://the-star.co.ke",
+    "article_url": "https://www.the-star.co.ke/news/infographics/2026-05-20-fuel-prices-costs-in-one-litre-of-petrol-and-diesel",
+    "source_domain": "the-star.co.ke",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-21",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
     "id": "kenya-2026-05-19-fuel-price-hike-protests-turn-deadly-in-kenya-393d3f5f",
     "date": "2026-05-19",
     "country": "Kenya",
