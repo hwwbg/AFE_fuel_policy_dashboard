@@ -42,6 +42,48 @@
     "gdelt_query": "South Africa fuel price petrol diesel"
   },
   {
+    "id": "kenya-2026-05-22-opinion-no-fuel-no-plan-uganda-and-south-suda-b402ace1",
+    "date": "2026-05-22",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "Opinion| No fuel , no plan : Uganda and South Sudan brace as Kenya strikes",
+    "summary": "Opinion| No fuel , no plan : Uganda and South Sudan brace as Kenya strikes",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "radiotamazuj.org",
+    "source_url": "https://radiotamazuj.org",
+    "article_url": "https://www.radiotamazuj.org/en/news/article/opinion-no-fuel-no-plan-uganda-and-south-sudan-brace-as-kenya-strikes",
+    "source_domain": "radiotamazuj.org",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-23",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
+    "id": "uganda-2026-05-22-energy-ministry-assures-ugandans-of-stable-fu-f7913ca7",
+    "date": "2026-05-22",
+    "country": "Uganda",
+    "iso3": "UGA",
+    "headline": "Energy Ministry Assures Ugandans of Stable Fuel Supply Amid Global Oil Market Turbulence",
+    "summary": "Energy Ministry Assures Ugandans of Stable Fuel Supply Amid Global Oil Market Turbulence",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "chimpreports.com",
+    "source_url": "https://chimpreports.com",
+    "article_url": "https://chimpreports.com/energy-ministry-assures-ugandans-of-stable-fuel-supply-amid-global-oil-market-turbulence/",
+    "source_domain": "chimpreports.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-23",
+    "gdelt_query": "Uganda fuel prices"
+  },
+  {
     "id": "south-africa-2026-05-21-south-africa-da-seeks-new-fuel-price-relief-a-54a0785f",
     "date": "2026-05-21",
     "country": "South Africa",
