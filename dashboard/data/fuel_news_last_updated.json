@@ -1,23 +1,23 @@
 {
-  "last_refreshed_utc": "2026-05-23T09:39:41+00:00",
+  "last_refreshed_utc": "2026-05-24T09:51:08+00:00",
   "source": "GDELT DOC 2.0 API",
   "registry": "/home/runner/work/AFE_fuel_policy_dashboard/AFE_fuel_policy_dashboard/dashboard/data/afe_fuel_news_media_source_registry.json",
   "days_searched": 21,
   "queries_per_country": 1,
-  "items_written": 57,
-  "new_items_found_this_run": 17,
-  "existing_items_checked": 55,
+  "items_written": 58,
+  "new_items_found_this_run": 16,
+  "existing_items_checked": 57,
   "existing_items_dropped_by_quality_filter": 0,
   "query_errors_count": 2,
   "errors": [
     {
-      "country": "Rwanda",
-      "query": "Rwanda fuel prices RURA",
+      "country": "Ethiopia",
+      "query": "Ethiopia fuel prices",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Somalia",
-      "query": "Somalia fuel prices",
+      "country": "Madagascar",
+      "query": "Madagascar prix carburant",
       "error": "HTTP Error 429: Too Many Requests"
     }
   ],
