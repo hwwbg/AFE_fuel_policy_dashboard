@@ -1,5 +1,26 @@
 [
   {
+    "id": "south-africa-2026-05-26-iran-war-is-exposing-south-africa-dependency-9aaa13b4",
+    "date": "2026-05-26",
+    "country": "South Africa",
+    "iso3": "ZAF",
+    "headline": "Iran war is exposing South Africa dependency on diesel",
+    "summary": "Iran war is exposing South Africa dependency on diesel",
+    "products": [
+      "diesel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "zawya.com",
+    "source_url": "https://zawya.com",
+    "article_url": "https://www.zawya.com/en/economy/africa/iran-war-is-exposing-south-africas-dependency-on-diesel-n7w8nmnm",
+    "source_domain": "zawya.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-27",
+    "gdelt_query": "South Africa fuel price petrol diesel"
+  },
+  {
     "id": "south-africa-2026-05-25-south-africa-iran-war-is-exposing-south-afric-9b50cb81",
     "date": "2026-05-25",
     "country": "South Africa",
