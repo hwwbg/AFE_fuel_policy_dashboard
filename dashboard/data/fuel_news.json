@@ -1,5 +1,47 @@
 [
   {
+    "id": "south-africa-2026-05-27-best-bmw-models-for-south-african-roads-and-f-68084d63",
+    "date": "2026-05-27",
+    "country": "South Africa",
+    "iso3": "ZAF",
+    "headline": "Best BMW models for South African roads - and fuel prices",
+    "summary": "Best BMW models for South African roads - and fuel prices",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "gq.co.za",
+    "source_url": "https://gq.co.za",
+    "article_url": "https://gq.co.za/culture/cars/2-05-27-best-bmw-models-for-south-african-roads-and-fuel-prices/",
+    "source_domain": "gq.co.za",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-28",
+    "gdelt_query": "South Africa fuel price petrol diesel"
+  },
+  {
+    "id": "tanzania-2026-05-27-fuel-price-surge-sparks-call-for-smart-subsid-8a30ddac",
+    "date": "2026-05-27",
+    "country": "Tanzania",
+    "iso3": "TZA",
+    "headline": "Fuel price surge sparks call for smart subsidies",
+    "summary": "Fuel price surge sparks call for smart subsidies",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price increase",
+    "magnitude": "Not extracted automatically",
+    "source_name": "dailynews.co.tz",
+    "source_url": "https://dailynews.co.tz",
+    "article_url": "https://dailynews.co.tz/fuel-price-surge-sparks-call-for-smart-subsidies/",
+    "source_domain": "dailynews.co.tz",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-28",
+    "gdelt_query": "Tanzania fuel prices EWURA"
+  },
+  {
     "id": "south-africa-2026-05-26-iran-war-is-exposing-south-africa-dependency-9aaa13b4",
     "date": "2026-05-26",
     "country": "South Africa",
