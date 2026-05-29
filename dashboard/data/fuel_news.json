@@ -1,5 +1,47 @@
 [
   {
+    "id": "south-africa-2026-05-29-south-africa-fuel-supply-and-the-iran-war-dat-188d0e8c",
+    "date": "2026-05-29",
+    "country": "South Africa",
+    "iso3": "ZAF",
+    "headline": "South Africa Fuel Supply and the Iran War - Data Black Holes and Low Strategic Stock Put the Country At Risk",
+    "summary": "South Africa Fuel Supply and the Iran War - Data Black Holes and Low Strategic Stock Put the Country At Risk",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "allafrica.com",
+    "source_url": "https://allafrica.com",
+    "article_url": "https://allafrica.com/stories/202605290009.html",
+    "source_domain": "allafrica.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-29",
+    "gdelt_query": "South Africa fuel price petrol diesel"
+  },
+  {
+    "id": "south-africa-2026-05-28-south-africa-fuel-supply-and-the-iran-war-dat-057503d4",
+    "date": "2026-05-28",
+    "country": "South Africa",
+    "iso3": "ZAF",
+    "headline": "South Africa fuel supply and the Iran war : data black holes and low strategic stock put the country at risk",
+    "summary": "South Africa fuel supply and the Iran war : data black holes and low strategic stock put the country at risk",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "theconversation.com",
+    "source_url": "https://theconversation.com",
+    "article_url": "https://theconversation.com/south-africas-fuel-supply-and-the-iran-war-data-black-holes-and-low-strategic-stock-put-the-country-at-risk-283913",
+    "source_domain": "theconversation.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-05-29",
+    "gdelt_query": "South Africa fuel price petrol diesel"
+  },
+  {
     "id": "south-africa-2026-05-27-best-bmw-models-for-south-african-roads-and-f-68084d63",
     "date": "2026-05-27",
     "country": "South Africa",
