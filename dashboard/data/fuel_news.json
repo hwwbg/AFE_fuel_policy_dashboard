@@ -1,5 +1,26 @@
 [
   {
+    "id": "south-africa-2026-06-01-south-africans-cut-fuel-purchases-by-23-in-ma-1a6afaca",
+    "date": "2026-06-01",
+    "country": "South Africa",
+    "iso3": "ZAF",
+    "headline": "South Africans cut fuel purchases by 23 % in May amid price pressure",
+    "summary": "South Africans cut fuel purchases by 23 % in May amid price pressure",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price decrease",
+    "magnitude": "Not extracted automatically",
+    "source_name": "timeslive.co.za",
+    "source_url": "https://timeslive.co.za",
+    "article_url": "https://www.timeslive.co.za/news/south-africa/2026-06-01-south-africans-cut-fuel-purchases-by-23-in-may-amid-price-pressure/",
+    "source_domain": "timeslive.co.za",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-01",
+    "gdelt_query": "South Africa fuel price petrol diesel"
+  },
+  {
     "id": "south-africa-2026-05-29-south-africa-fuel-supply-and-the-iran-war-dat-188d0e8c",
     "date": "2026-05-29",
     "country": "South Africa",

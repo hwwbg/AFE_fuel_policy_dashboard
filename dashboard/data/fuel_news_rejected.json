@@ -1,47 +1,5 @@
 [
   {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Bangladesh : 87 , 700 litres of illegally hoarded fuel recovered in nationwide crackdown , official says",
-    "url": "http://www.australianherald.com/news/279085520/bangladesh-87700-litres-of-illegally-hoarded-fuel-recovered-in-nationwide-crackdown-official-says"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Bangladesh Petrol Pump Owner Association Convenor calls for action against fuel hoarders",
-    "url": "http://www.nepalnational.com/news/279085521/bangladesh-petrol-pump-owners-association-convenor-calls-for-action-against-fuel-hoarders"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Bangladesh : 87 , 700 litres of illegally hoarded fuel recovered in nationwide crackdown , official says",
-    "url": "http://www.nepalnational.com/news/279085520/bangladesh-87700-litres-of-illegally-hoarded-fuel-recovered-in-nationwide-crackdown-official-says"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Bangladesh : 87 , 700 litres of illegally hoarded fuel recovered in nationwide crackdown , official says",
-    "url": "http://www.bangladeshsun.com/news/279085520/bangladesh-87700-litres-of-illegally-hoarded-fuel-recovered-in-nationwide-crackdown-official-says"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Bangladesh Petrol Pump Owner Association Convenor calls for action against fuel hoarders",
-    "url": "http://www.bangladeshsun.com/news/279085521/bangladesh-petrol-pump-owners-association-convenor-calls-for-action-against-fuel-hoarders"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Communist Party Marxist - Kenya defends counter - revolutionary Maoist strategy against Trotskyism Part 5",
-    "url": "https://www.wsws.org/en/articles/2026/05/28/ugaa-m28.html"
-  },
-  {
     "country": "Botswana",
     "query": "Botswana fuel price increase",
     "reason": "no fuel-price keyword in title/summary",
@@ -143,6 +101,34 @@
     "country": "Ethiopia",
     "query": "Ethiopia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
+    "title": "African EV firm Spiro raises $215 million for electric mobility expansion",
+    "url": "https://www.gazettextra.com/news/nation_world/african-ev-firm-spiro-raises-215-million-for-electric-mobility-expansion/article_56e36985-4e74-59c7-8732-255d9170c10f.html"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "African EV firm Spiro raises $215 million for electric mobility expansion – Winnipeg Free Press",
+    "url": "https://www.winnipegfreepress.com/arts-and-life/life/greenpage/2026/06/01/african-ev-firm-spiro-raises-215-million-for-electric-mobility-expansion"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Lo que el precio de una sola taza de café dice sobre la agitación económica actual",
+    "url": "https://www.mdzol.com/mundo/lo-que-el-precio-una-sola-taza-cafe-dice-la-agitacion-economica-actual-n1532277"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Ballots Beyond Glitches : Ethiopia Prepares to Chart Its Next Five Years",
+    "url": "https://capitalethiopia.com/2026/05/31/ballots-beyond-glitches-ethiopia-prepares-to-chart-its-next-five-years/"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
     "title": "Ethiopia looks to emulate Israel as Africa new start - up hub",
     "url": "https://www.jpost.com/business-and-innovation/all-news/article-897697"
   },
@@ -152,34 +138,6 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "Ethiopia looks to emulate Israel as Africa new start - up hub",
     "url": "http://www.jpost.com/business-and-innovation/all-news/article-897697"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "El otro Ormuz y la disputa por el Mar Rojo : Yemen , Sudán , puertos y poder , escribe Mauricio Meschoulam",
-    "url": "https://www.eluniversal.com.mx/opinion/mauricio-meschoulam/el-otro-ormuz-y-la-disputa-por-el-mar-rojo-yemen-sudan-puertos-y-poder/"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Africa Pulse May 29 : Tinubu Year Three , SARB Data Day , Ghana Reserves Climb , Copperbelt Supply Crisis Rio Times",
-    "url": "https://www.riotimesonline.com/africa-pulse-tinubu-year-three-sarb-data-ghana-reserves-copperbelt-may-29/"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Africa Ownership Agenda : Senegal ... - Africa . com",
-    "url": "https://www.ghanamma.com/2026/05/28/africas-ownership-agenda-senegal-africa-com/"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Nairobi forum explores East Africa clean energy transition",
-    "url": "https://www.capitalfm.co.ke/business/2026/05/nairobi-forum-explores-east-africas-clean-energy-transition/"
   },
   {
     "country": "Kenya",
@@ -208,6 +166,48 @@
     "reason": "target country not found in title/summary/url and source is not a known country source",
     "title": "No change in fuel prices despite late - night State intervention",
     "url": "https://www.standardmedia.co.ke/national/article/2001548442/no-change-in-fuel-prices-despite-late-night-state-intervention"
+  },
+  {
+    "country": "Lesotho",
+    "query": "Lesotho fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Inside the oil regime  wiping out US$4 , 3m every 30 day - The Zimbabwe Independent",
+    "url": "https://www.theindependent.co.zw/local-news/article/200056146/inside-the-oil-regime-wiping-out-us43m-every-30-days"
+  },
+  {
+    "country": "Lesotho",
+    "query": "Lesotho fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Leasing business and higher car sales buoy Zeda first half",
+    "url": "https://www.businessday.co.za/companies/earnings/2026-05-26-leasing-business-and-higher-car-sales-buoy-zedas-first-half/"
+  },
+  {
+    "country": "Lesotho",
+    "query": "Lesotho fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Southern African nations commit to strengthening cooperation - Xinhua",
+    "url": "https://english.news.cn/20260524/53b46685c64345bd99d6b13d12cf1a3c/c.html"
+  },
+  {
+    "country": "Lesotho",
+    "query": "Lesotho fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Africa : All of Africa Today - May 20 , 2026",
+    "url": "https://allafrica.com/stories/202605200085.html"
+  },
+  {
+    "country": "Lesotho",
+    "query": "Lesotho fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Africa Intelligence Brief for Wednesday , May 13 , 2026",
+    "url": "https://www.riotimesonline.com/africa-intelligence-brief-for-wednesday-may-13-2026/"
+  },
+  {
+    "country": "Lesotho",
+    "query": "Lesotho fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Conflicto en Asia Occidental afecta a agricultores vulnerables a nivel global",
+    "url": "https://www.telesurtv.net/conflicto-asia-occidental-afecta-agricultores/"
   },
   {
     "country": "Mozambique",
@@ -252,6 +252,55 @@
     "url": "https://www.businessday.co.za/companies/earnings/2026-05-26-leasing-business-and-higher-car-sales-buoy-zedas-first-half/"
   },
   {
+    "country": "Namibia",
+    "query": "Namibia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "360 Energy Pulse : What mattered this month in energy",
+    "url": "https://www.oilandgas360.com/360-energy-pulse-what-mattered-in-energy-this-month/"
+  },
+  {
+    "country": "Namibia",
+    "query": "Namibia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "كازاخستان تتصدر إنتاج اليورانيوم عالميا بـ 23 . 2 ألف طن مقابل 260 للولايات المتحدة",
+    "url": "https://www.almasryalyoum.com/news/details/4281497"
+  },
+  {
+    "country": "Namibia",
+    "query": "Namibia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "African Liberation Day 2026 :  Haiti and Cuba : Defending African Peoples and African Unity Against Imperialism  ",
+    "url": "http://www.pambazuka.org/index.php/ALD-2026-Haiti"
+  },
+  {
+    "country": "Namibia",
+    "query": "Namibia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "High demand for Canadian uranium from India , high commissioner says",
+    "url": "https://calgarysun.com/business/india-demand-canadian-uranium-cameco-saskatchewan"
+  },
+  {
+    "country": "Namibia",
+    "query": "Namibia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Inside the oil regime  wiping out US$4 , 3m every 30 day - The Zimbabwe Independent",
+    "url": "https://www.theindependent.co.zw/local-news/article/200056146/inside-the-oil-regime-wiping-out-us43m-every-30-days"
+  },
+  {
+    "country": "Namibia",
+    "query": "Namibia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Communist Party Marxist - Kenya defends counter - revolutionary Maoist strategy against Trotskyism Part 5",
+    "url": "https://www.wsws.org/en/articles/2026/05/28/ugaa-m28.html"
+  },
+  {
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Туризм 2026 : как ближневосточный конфликт меняет стоимость перелетов",
+    "url": "https://iz.ru/2106999/bloomberg-soobshchilo-o-sokrashchenii-turistov-na-kurortakh-iz-za-voiny-v-irane-izi"
+  },
+  {
     "country": "Seychelles",
     "query": "Seychelles fuel prices",
     "reason": "no fuel-price keyword in title/summary",
@@ -287,53 +336,18 @@
     "url": "https://english.news.cn/20260524/53b46685c64345bd99d6b13d12cf1a3c/c.html"
   },
   {
-    "country": "Seychelles",
-    "query": "Seychelles fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Vacanze in camper quanto costa il noleggio Le mete per l  estate 2026",
-    "url": "https://www.zazoom.it/2026-05-23/vacanze-in-camper-quanto-costa-il-noleggio-le-mete-per-lestate-2026/19237414/"
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "Fuel price swing back into the black , but levy rollback clouds relief",
+    "url": "https://www.citizen.co.za/motoring/fuel-price-black-levy-rollback-clouds-relief/"
   },
   {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Ethiopia looks to emulate Israel as Africa new start - up hub",
-    "url": "https://www.jpost.com/business-and-innovation/all-news/article-897697"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Ethiopia looks to emulate Israel as Africa new start - up hub",
-    "url": "http://www.jpost.com/business-and-innovation/all-news/article-897697"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Inside the oil regime  wiping out US$4 , 3m every 30 day - The Zimbabwe Independent",
-    "url": "https://www.theindependent.co.zw/local-news/article/200056146/inside-the-oil-regime-wiping-out-us43m-every-30-days"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "China solar exports reach all - time high on rising Africa , Asia demand | News | Eco - Business",
-    "url": "https://www.eco-business.com/news/chinas-solar-exports-reach-all-time-high-on-rising-africa-asia-demand/"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "ثمن الانتصار الوهمي .. كيف استنزفت حرب إيران أمريكا وخنقت طهران وأربكت العالم ؟ | سياسة",
-    "url": "https://www.aljazeera.net/politics/2026/5/28/%D8%AB%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B5%D8%A7%D8%B1-%D8%A7%D9%84%D9%88%D9%87%D9%85%D9%8A-%D9%83%D9%8A%D9%81-%D8%A7%D8%B3%D8%AA%D9%86%D8%B2%D9%81%D8%AA-%D8%AD%D8%B1%D8%A8"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Life in DR Congo Goma grinds to standstill amid Ebola outbreak",
-    "url": "http://www.kenyastar.com/news/279081677/life-in-dr-congo-goma-grinds-to-standstill-amid-ebola-outbreak"
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "ECONOMIC WEEK AHEAD | Fuel prices set to rise again as Middle East conflict hits supply",
+    "url": "https://www.businessday.co.za/economy/2026-05-31-economic-week-ahead-fuel-prices-set-to-rise-again-as-middle-east-conflict-hits-supply/"
   },
   {
     "country": "South Africa",
@@ -357,25 +371,32 @@
     "url": "https://www.theindependent.co.zw/local-news/article/200056146/inside-the-oil-regime-wiping-out-us43m-every-30-days"
   },
   {
-    "country": "South Africa",
-    "query": "South Africa fuel price petrol diesel",
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "也门前总统哈迪去世 - 新华网",
-    "url": "https://www.news.cn/world/20260529/a610285d7ea64458a3373b3ecde5165a/c.html"
+    "title": "Geopolitics : How global power shifts are rewriting Kenya and Africa role",
+    "url": "https://www.standardmedia.co.ke/africa/article/2001549218/geopolitics-how-global-power-shifts-are-rewriting-kenya-and-africas-role"
   },
   {
-    "country": "South Africa",
-    "query": "South Africa fuel price petrol diesel",
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Is South Africa EV market reaching a tipping point ? ",
-    "url": "https://www.timeslive.co.za/motoring/2026-05-29-is-south-africas-ev-market-reaching-a-tipping-point/"
+    "title": "Ekonomist Rok Spruk : Po vsaki krizi nastane nov zemljevid gospodarskih odnosov",
+    "url": "https://www.rtvslo.si/svet/ekonomist-rok-spruk-po-vsaki-krizi-nastane-nov-zemljevid-gospodarskih-odnosov/783817"
   },
   {
-    "country": "South Africa",
-    "query": "South Africa fuel price petrol diesel",
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Eight things to know about the new Toyota Land Cruiser FJ",
-    "url": "https://www.timeslive.co.za/motoring/2026-05-29-eight-things-to-know-about-the-new-toyota-land-cruiser-fj/"
+    "title": "Σύνοδος ΝΑΤΟ : Η επιδίωξη της Τουρκίας και τα ελληνικά « φρένα » – Παρασκήνιο με Ουκρανία , Τραμπ , Ιράν , « ανατολική πτέρυγα » ",
+    "url": "https://www.newsbeast.gr/politiki/arthro/13137294/synodos-nato-i-epidioxi-tis-tourkias-kai-ta-ellinika-frena-paraskinio-me-oukrania-trab-iran-anatoliki-pteryga"
+  },
+  {
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Ekonomist Rok Spruk : Po vsaki krizi nastane nov zemljevid gospodarskih odnosov",
+    "url": "https://www.rtvslo.si/svet/vojna-v-iranu/ekonomist-rok-spruk-po-vsaki-krizi-nastane-nov-zemljevid-gospodarskih-odnosov/783817"
   },
   {
     "country": "South Sudan",
@@ -390,118 +411,6 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "Ethiopia looks to emulate Israel as Africa new start - up hub",
     "url": "http://www.jpost.com/business-and-innovation/all-news/article-897697"
-  },
-  {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "African Liberation Day 2026 :  Haiti and Cuba : Defending African Peoples and African Unity Against Imperialism  ",
-    "url": "http://www.pambazuka.org/index.php/ALD-2026-Haiti"
-  },
-  {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Friday briefing : ​What do the cuts in aid mean for the fight against Ebola in the DRC ? ",
-    "url": "https://www.theguardian.com/world/2026/may/29/friday-briefing-what-do-the-cuts-in-aid-mean-for-the-fight-against-ebola-in-the-drc"
-  },
-  {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Life in DR Congo Goma grinds to standstill amid Ebola outbreak",
-    "url": "http://www.kenyastar.com/news/279081677/life-in-dr-congo-goma-grinds-to-standstill-amid-ebola-outbreak"
-  },
-  {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Известия : С бака на бак : введут ли власти запрет на экспорт дизтоплива и авиакеросина",
-    "url": "https://www.aex.ru/fdocs/1/2026/5/28/34063/"
-  },
-  {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Ethiopia looks to emulate Israel as Africa new start - up hub",
-    "url": "https://www.jpost.com/business-and-innovation/all-news/article-897697"
-  },
-  {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Ethiopia looks to emulate Israel as Africa new start - up hub",
-    "url": "http://www.jpost.com/business-and-innovation/all-news/article-897697"
-  },
-  {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "El otro Ormuz y la disputa por el Mar Rojo : Yemen , Sudán , puertos y poder , escribe Mauricio Meschoulam",
-    "url": "https://www.eluniversal.com.mx/opinion/mauricio-meschoulam/el-otro-ormuz-y-la-disputa-por-el-mar-rojo-yemen-sudan-puertos-y-poder/"
-  },
-  {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "African Liberation Day 2026 :  Haiti and Cuba : Defending African Peoples and African Unity Against Imperialism  ",
-    "url": "http://www.pambazuka.org/index.php/ALD-2026-Haiti"
-  },
-  {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Friday briefing : ​What do the cuts in aid mean for the fight against Ebola in the DRC ? ",
-    "url": "https://www.theguardian.com/world/2026/may/29/friday-briefing-what-do-the-cuts-in-aid-mean-for-the-fight-against-ebola-in-the-drc"
-  },
-  {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Yu Tok - Post Courier",
-    "url": "https://www.postcourier.com.pg/yu-tok-260529/"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Friday briefing : ​What do the cuts in aid mean for the fight against Ebola in the DRC ? ",
-    "url": "https://www.theguardian.com/world/2026/may/29/friday-briefing-what-do-the-cuts-in-aid-mean-for-the-fight-against-ebola-in-the-drc"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Nairobi forum explores East Africa clean energy transition",
-    "url": "https://www.capitalfm.co.ke/business/2026/05/nairobi-forum-explores-east-africas-clean-energy-transition/"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Dangote - backed mega refinery sparks east African competition { Business Africa } ",
-    "url": "https://www.africanews.com/2026/05/28/dangote-backed-mega-refinery-sparks-east-african-competition-business-africa/"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Syv måter å hindre at ebola blir en global krise",
-    "url": "https://www.abcnyheter.no/stemmer/syv-mater-a-hindre-at-ebola-blir-en-global-krise/1554696"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Africa Gets 3 % of Global Energy Investment , IEA Finds",
-    "url": "https://www.newsghana.com.gh/africa-gets-3-of-global-energy-investment-iea-finds/"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "National and International News in Focus : May 27",
-    "url": "https://www.wktv.com/news/national/national-and-international-news-in-focus-may-27/article_f2574267-03f0-5a31-b22f-57f2ace399fb.html"
   },
   {
     "country": "Zimbabwe",
