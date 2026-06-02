@@ -1,5 +1,26 @@
 [
   {
+    "id": "namibia-2026-06-02-namibia-to-centralise-fuel-imports-in-bid-to-5891ea32",
+    "date": "2026-06-02",
+    "country": "Namibia",
+    "iso3": "NAM",
+    "headline": "Namibia to Centralise Fuel Imports in Bid to Cut Rising Petroleum Costs – Medafrica Times",
+    "summary": "Namibia to Centralise Fuel Imports in Bid to Cut Rising Petroleum Costs – Medafrica Times",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price decrease",
+    "magnitude": "Not extracted automatically",
+    "source_name": "medafricatimes.com",
+    "source_url": "https://medafricatimes.com",
+    "article_url": "https://medafricatimes.com/45649-namibia-to-centralise-fuel-imports-in-bid-to-cut-rising-petroleum-costs.html",
+    "source_domain": "medafricatimes.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-02",
+    "gdelt_query": "Namibia fuel prices"
+  },
+  {
     "id": "south-africa-2026-06-01-south-africans-cut-fuel-purchases-by-23-in-ma-1a6afaca",
     "date": "2026-06-01",
     "country": "South Africa",
