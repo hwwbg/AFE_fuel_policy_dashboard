@@ -1,19 +1,5 @@
 [
   {
-    "country": "Botswana",
-    "query": "Botswana fuel price increase",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Εκρηκτική άνοδος στις τιμές καυσίμων στην Αφρική : Νεκροί σε διαδηλώσεις στην Κένυα και απεργίες στη Μοζαμβίκη",
-    "url": "https://www.newsbeast.gr/world/arthro/13110682/ekriktiki-anodos-stis-times-kafsimon-stin-afriki-nekroi-se-diadiloseis-stin-kenya-kai-apergies-sti-mozamviki"
-  },
-  {
-    "country": "Botswana",
-    "query": "Botswana fuel price increase",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "How does UAE OPEC exit impact Africa oil and gas ? ",
-    "url": "https://oilreviewafrica.com/industry/how-does-uaes-opec-exit-impact-africas-oil-and-gas"
-  },
-  {
     "country": "Burundi",
     "query": "Burundi fuel price",
     "reason": "no fuel-price keyword in title/summary",
@@ -91,11 +77,74 @@
     "url": "https://weeklyblitz.net/2026/05/15/violence-has-metastasized-into-humanitys-baseline-condition/"
   },
   {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "The Global Epidemic of Violence in an Age of Impunity",
-    "url": "https://www.globalissues.org/news/2026/05/13/43014"
+    "title": "Africa : The Untold Story of the Battle of Adowa - How Anti - Imperialism Can Be Rebuilt From the Ground Up",
+    "url": "https://allafrica.com/stories/202606030010.html"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "African EV firm Spiro raises $215 million for electric mobility expansion",
+    "url": "https://www.troyrecord.com/2026/06/01/africa-ev-spiro/"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Ethiopia goes electric following gas car ban",
+    "url": "https://arynews.tv/ethiopia-goes-electric-following-gas-car-ban"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "جريدة البلاد | الأمم المتحدة : حرب إيران تهدد سلاسل الإمداد الإنسانية",
+    "url": "https://www.albiladpress.com/news/2026/6441/arab-and-world/1002030.html"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "الأمم المتحدة : أضرار جسيمة تلحق بسلاسل الإمداد الإنسانية بسبب حرب الشرق الأوسط",
+    "url": "https://www.emaratalyoum.com/politics/news/2026-06-02-1.2051526"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Michael Liebreich on whatever the question , clean energy is the answer",
+    "url": "https://thefifthestate.com.au/columns/spinifex/michael-liebreich-on-whatever-the-question-clean-energy-is-the-answer/"
+  },
+  {
+    "country": "Kenya",
+    "query": "Kenya fuel prices EPRA",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Latest protests fuelled by deeper issues",
+    "url": "https://www.standardmedia.co.ke/business/article/2001548573/latest-protests-fuelled-by-deeper-issues"
+  },
+  {
+    "country": "Kenya",
+    "query": "Kenya fuel prices EPRA",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Latest protests fuelled by deeper issues",
+    "url": "https://www.standardmedia.co.ke/business/opinion/article/2001548573/latest-protests-fuelled-by-deeper-issues"
+  },
+  {
+    "country": "Kenya",
+    "query": "Kenya fuel prices EPRA",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Ruto Waives Import Duty on First 100 , 000 Electric Vehicles",
+    "url": "https://techweez.com/2026/05/22/kenya-electric-vehicles-import-duty-waiver/"
+  },
+  {
+    "country": "Kenya",
+    "query": "Kenya fuel prices EPRA",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "No change in fuel prices despite late - night State intervention",
+    "url": "https://www.standardmedia.co.ke/national/article/2001548442/no-change-in-fuel-prices-despite-late-night-state-intervention"
   },
   {
     "country": "Lesotho",
@@ -140,6 +189,55 @@
     "url": "https://www.telesurtv.net/conflicto-asia-occidental-afecta-agricultores/"
   },
   {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Countries With Critical Minerals Seek to Capitalize on Trade Boom",
+    "url": "https://foreignpolicy.com/2026/06/02/critical-mineral-trade-trump-china-supply-chain-africa-latin-america/?tpcc=recirc_trending062921"
+  },
+  {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Countries With Critical Minerals Seek to Capitalize on Trade Boom",
+    "url": "https://foreignpolicy.com/2026/06/02/critical-mineral-trade-trump-china-supply-chain-africa-latin-america/"
+  },
+  {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "France intercepts another  shadow fleet  tanker linked to Russian oil",
+    "url": "https://www.freemalaysiatoday.com/category/business/2026/06/02/france-intercepts-another-shadow-fleet-tanker-linked-to-russian-oil"
+  },
+  {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "France intercepts Russian - linked oil tanker | The Jerusalem Post",
+    "url": "https://www.jpost.com/international/article-898052"
+  },
+  {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "France intercepts Russian - linked oil tanker | The Jerusalem Post",
+    "url": "http://www.jpost.com/international/article-898052"
+  },
+  {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "African Liberation Day 2026 :  Haiti and Cuba : Defending African Peoples and African Unity Against Imperialism  ",
+    "url": "http://www.pambazuka.org/index.php/ALD-2026-Haiti"
+  },
+  {
+    "country": "Namibia",
+    "query": "Namibia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Northern Graphite Corporation : Northern Graphite Announces First Quarter 2026 Results and Provides Corporate Update",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-06/68657981-northern-graphite-corporation-northern-graphite-announces-first-quarter-2026-results-and-provides-corporate-update-296.htm"
+  },
+  {
     "country": "Namibia",
     "query": "Namibia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
@@ -154,67 +252,109 @@
     "url": "https://www.fool.com/earnings/call-transcripts/2026/06/01/cmbtech-cmbt-q1-2026-earnings-transcript/?source=iedfolrf0000001"
   },
   {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Vitol gets exclusivefuel supply deal for 3 months",
-    "url": "https://www.namibian.com.na/vitol-gets-exclusivefuel-supply-dealfor-3-months/"
+    "title": "Guerra contra Irán y Líbano entra en una fase crítica",
+    "url": "https://acento.com.do/internacional/guerra-contra-iran-y-libano-entra-en-una-fase-critica-9690940.html"
   },
   {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "360 Energy Pulse : What mattered this month in energy",
-    "url": "https://www.oilandgas360.com/360-energy-pulse-what-mattered-in-energy-this-month/"
+    "title": "La guerra en el estrecho de Ormuz castiga a 75 países vulnerables",
+    "url": "https://ipsnoticias.net/2026/06/la-guerra-en-el-estrecho-de-ormuz-castiga-a-75-paises-vulnerables/"
   },
   {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "كازاخستان تتصدر إنتاج اليورانيوم عالميا بـ 23 . 2 ألف طن مقابل 260 للولايات المتحدة",
-    "url": "https://www.almasryalyoum.com/news/details/4281497"
+    "title": "Hormuz disruptions could raise vulnerable economie oil import costs by $20B per year : UN trade agency – Middle East Monitor",
+    "url": "https://www.middleeastmonitor.com/20260602-hormuz-disruptions-could-raise-vulnerable-economies-oil-import-costs-by-20b-per-year-un-trade-agency/"
   },
   {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Poznato koliko sada iznose dnevnice državnih službenika u FBiH",
-    "url": "https://www.oslobodjenje.ba/vijesti/bih/poznato-koliko-sada-iznose-dnevnice-drzavnih-sluzbenika-u-f-bi-h/"
+    "title": "Туризм 2026 : как ближневосточный конфликт меняет стоимость перелетов",
+    "url": "https://iz.ru/2106999/bloomberg-soobshchilo-o-sokrashchenii-turistov-na-kurortakh-iz-za-voiny-v-irane-izi"
   },
   {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "President Ilham Aliyev attended official opening ceremony of Baku Energy Week VIDEO",
-    "url": "https://azertag.az/en/xeber/4232135"
+    "title": "Iran - Krieg : Knappes Kerosin ? Wie das den Sommerurlaub beeinflusst",
+    "url": "https://www.morgenpost.de/wirtschaft/article412060492/iran-krieg-knappes-kerosin-wie-das-den-sommerurlaub-beeinflusst.html"
   },
   {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "President Ilham Aliyev attended official opening ceremony of Baku Energy Forum - UPDATED - 3",
-    "url": "https://en.apa.az/official-news/president-ilham-aliyev-attended-official-opening-ceremony-of-baku-energy-forum-updated-3-photo-509248"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Ethiopia looks to emulate Israel as Africa new start - up hub",
-    "url": "https://www.jpost.com/business-and-innovation/all-news/article-897697"
+    "title": "Iran - Krieg und Kerosin - Engpass : Wird der Deutschland - Urlaub noch attraktiver ? ",
+    "url": "https://www.braunschweiger-zeitung.de/wirtschaft/article412060492/iran-krieg-und-kerosin-engpass-wird-der-deutschland-urlaub-noch-attraktiver.html"
   },
   {
     "country": "Somalia",
     "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Ethiopia looks to emulate Israel as Africa new start - up hub",
-    "url": "http://www.jpost.com/business-and-innovation/all-news/article-897697"
+    "title": "Noua strategie a Emiratelor Arabe : exporturi de combustibil fără trecere prin Strâmtoarea Ormuz",
+    "url": "https://www.capital.ro/noua-strategie-a-emiratelor-arabe-exporturi-de-combustibil-fara-trecere-prin-stramtoarea-ormuz.html"
   },
   {
     "country": "Somalia",
     "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Inside the oil regime  wiping out US$4 , 3m every 30 day - The Zimbabwe Independent",
-    "url": "https://www.theindependent.co.zw/local-news/article/200056146/inside-the-oil-regime-wiping-out-us43m-every-30-days"
+    "title": "جريدة البلاد | الأمم المتحدة : حرب إيران تهدد سلاسل الإمداد الإنسانية",
+    "url": "https://www.albiladpress.com/news/2026/6441/arab-and-world/1002030.html"
+  },
+  {
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "الأمم المتحدة : أضرار جسيمة تلحق بسلاسل الإمداد الإنسانية بسبب حرب الشرق الأوسط",
+    "url": "https://www.emaratalyoum.com/politics/news/2026-06-02-1.2051526"
+  },
+  {
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Iran war disruption threatening delivery of lifesaving supplies for children , UN says",
+    "url": "https://www.al-monitor.com/originals/2026/06/iran-war-disruption-threatening-delivery-lifesaving-supplies-children-un-says"
+  },
+  {
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Phyllis Bennis : Our wars havent been worth it and not just in Iran",
+    "url": "https://www.wctrib.com/opinion/columns/phyllis-bennis-our-wars-havent-been-worth-it-and-not-just-in-iran"
+  },
+  {
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "UNICEF : Konflikt na Blízkom východe ohrozuje dodávky pomoci pre deti",
+    "url": "https://www.teraz.sk/zahranicie/unicef-konflikt-na-blizkom-vychode-oh/967382-clanok.html"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "SA fuel supply and the Iran war : data black holes and low strategic stock put the country at risk",
+    "url": "https://www.bizcommunity.com/article/sas-fuel-supply-and-the-iran-war-data-black-holes-and-low-strategic-stock-put-the-country-at-risk-623701a"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Kganyago defends rate hike as safeguard against inflation expectations",
+    "url": "https://www.businessday.co.za/economy/2026-06-03-kganyago-defends-rate-hike-as-safeguard-against-inflation-expectations/"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Commercial Electric Fleet Operators In South Africa Prove 27 % Cost Advantage Infrastructure Scales To Meet Demand",
+    "url": "https://cleantechnica.com/2026/06/02/commercial-electric-fleet-operators-in-south-africa-prove-27-cost-advantage-infrastructure-scales-to-meet-demand/"
   },
   {
     "country": "South Africa",
@@ -231,67 +371,53 @@
     "url": "https://www.citizen.co.za/motoring/fuel-price-black-levy-rollback-clouds-relief/"
   },
   {
-    "country": "South Africa",
-    "query": "South Africa fuel price petrol diesel",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "ECONOMIC WEEK AHEAD | Fuel prices set to rise again as Middle East conflict hits supply",
-    "url": "https://www.businessday.co.za/economy/2026-05-31-economic-week-ahead-fuel-prices-set-to-rise-again-as-middle-east-conflict-hits-supply/"
-  },
-  {
-    "country": "South Africa",
-    "query": "South Africa fuel price petrol diesel",
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Летняя жара разогреет мировые цены на нефть и газ :: Экономика / ВЗГЛЯД",
-    "url": "https://vz.ru/economy/2026/5/30/1423337.html"
-  },
-  {
-    "country": "South Africa",
-    "query": "South Africa fuel price petrol diesel",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "也门前总统哈迪去世 _ 央广网",
-    "url": "https://news.cnr.cn/sq/20260529/t20260529_527640543.shtml"
+    "title": "Oil , inflation , unrest : The global fallout of the US - Israeli war on Iran",
+    "url": "https://www.resilience.org/stories/2026-06-03/oil-inflation-unrest-the-global-fallout-of-the-us-israeli-war-on-iran/"
   },
   {
     "country": "South Sudan",
     "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Geopolitics : How global power shifts are rewriting Kenya and Africa role",
-    "url": "https://www.standardmedia.co.ke/africa/article/2001549218/geopolitics-how-global-power-shifts-are-rewriting-kenya-and-africas-role"
+    "title": "Какво е „ Годзила Ел Ниньо  и защо тревожи учените по света",
+    "url": "https://www.vesti.bg/sviat/godzila-el-ninio-mozhe-da-hvyrli-sveta-v-haos-6261317"
   },
   {
     "country": "South Sudan",
     "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Ekonomist Rok Spruk : Po vsaki krizi nastane nov zemljevid gospodarskih odnosov",
-    "url": "https://www.rtvslo.si/svet/ekonomist-rok-spruk-po-vsaki-krizi-nastane-nov-zemljevid-gospodarskih-odnosov/783817"
+    "title": "Africa : The Untold Story of the Battle of Adowa - How Anti - Imperialism Can Be Rebuilt From the Ground Up",
+    "url": "https://allafrica.com/stories/202606030010.html"
   },
   {
     "country": "South Sudan",
     "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Σύνοδος ΝΑΤΟ : Η επιδίωξη της Τουρκίας και τα ελληνικά « φρένα » – Παρασκήνιο με Ουκρανία , Τραμπ , Ιράν , « ανατολική πτέρυγα » ",
-    "url": "https://www.newsbeast.gr/politiki/arthro/13137294/synodos-nato-i-epidioxi-tis-tourkias-kai-ta-ellinika-frena-paraskinio-me-oukrania-trab-iran-anatoliki-pteryga"
+    "title": "Noua strategie a Emiratelor Arabe : exporturi de combustibil fără trecere prin Strâmtoarea Ormuz",
+    "url": "https://www.capital.ro/noua-strategie-a-emiratelor-arabe-exporturi-de-combustibil-fara-trecere-prin-stramtoarea-ormuz.html"
   },
   {
     "country": "South Sudan",
     "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Ekonomist Rok Spruk : Po vsaki krizi nastane nov zemljevid gospodarskih odnosov",
-    "url": "https://www.rtvslo.si/svet/vojna-v-iranu/ekonomist-rok-spruk-po-vsaki-krizi-nastane-nov-zemljevid-gospodarskih-odnosov/783817"
+    "title": "Russia Ships Most Oil Since 2022 as Drones Strike Refineries",
+    "url": "https://gcaptain.com/russia-ships-most-oil-since-2022-as-drones-strike-refineries/"
   },
   {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Ethiopia looks to emulate Israel as Africa new start - up hub",
-    "url": "https://www.jpost.com/business-and-innovation/all-news/article-897697"
+    "title": "African EV firm Spiro raises $215 million for electric mobility expansion",
+    "url": "https://www.troyrecord.com/2026/06/01/africa-ev-spiro/"
   },
   {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Ethiopia looks to emulate Israel as Africa new start - up hub",
-    "url": "http://www.jpost.com/business-and-innovation/all-news/article-897697"
+    "title": "Hormuz disruptions could raise vulnerable economie oil import costs by $20B per year : UN trade agency – Middle East Monitor",
+    "url": "https://www.middleeastmonitor.com/20260602-hormuz-disruptions-could-raise-vulnerable-economies-oil-import-costs-by-20b-per-year-un-trade-agency/"
   },
   {
     "country": "Uganda",
@@ -320,19 +446,5 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "African EV firm Spiro raises $215 million for electric mobility expansion",
     "url": "https://www.akronnewsreporter.com/2026/06/01/africa-ev-spiro/"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "African EV firm Spiro raises $215 million for electric mobility expansion",
-    "url": "https://www.republicanherald.com/2026/06/01/africa-ev-spiro/"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "African EV firm Spiro raises $215 million for electric mobility expansion",
-    "url": "https://www.journal-advocate.com/2026/06/01/africa-ev-spiro/"
   }
 ]

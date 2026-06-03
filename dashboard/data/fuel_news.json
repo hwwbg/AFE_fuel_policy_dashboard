@@ -1,5 +1,26 @@
 [
   {
+    "id": "namibia-2026-06-03-namibia-mathews-hamutenya-denies-political-co-3bbdd6f7",
+    "date": "2026-06-03",
+    "country": "Namibia",
+    "iso3": "NAM",
+    "headline": "Namibia : Mathews Hamutenya Denies Political Connections in Namibia Fuel Deal",
+    "summary": "Namibia : Mathews Hamutenya Denies Political Connections in Namibia Fuel Deal",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "allafrica.com",
+    "source_url": "https://allafrica.com",
+    "article_url": "https://allafrica.com/stories/202606030074.html",
+    "source_domain": "allafrica.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-03",
+    "gdelt_query": "Namibia fuel prices"
+  },
+  {
     "id": "namibia-2026-06-02-namibia-to-centralise-fuel-imports-in-bid-to-5891ea32",
     "date": "2026-06-02",
     "country": "Namibia",
@@ -19,6 +40,48 @@
     "verified": false,
     "retrieved_at": "2026-06-02",
     "gdelt_query": "Namibia fuel prices"
+  },
+  {
+    "id": "namibia-2026-06-02-mathews-hamutenya-denies-political-connection-f43b90cc",
+    "date": "2026-06-02",
+    "country": "Namibia",
+    "iso3": "NAM",
+    "headline": "Mathews Hamutenya denies political connections in Namibia fuel deal",
+    "summary": "Mathews Hamutenya denies political connections in Namibia fuel deal",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "namibian.com.na",
+    "source_url": "https://namibian.com.na",
+    "article_url": "https://www.namibian.com.na/mathews-hamutenya-denies-political-connections-in-namibia-fuel-deal/",
+    "source_domain": "namibian.com.na",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-03",
+    "gdelt_query": "Namibia fuel prices"
+  },
+  {
+    "id": "south-sudan-2026-06-02-wfp-warns-funding-gap-and-rising-fuel-costs-t-631f7443",
+    "date": "2026-06-02",
+    "country": "South Sudan",
+    "iso3": "SSD",
+    "headline": "WFP Warns Funding Gap and Rising Fuel Costs Threaten Aid Operations in South Sudan – Medafrica Times",
+    "summary": "WFP Warns Funding Gap and Rising Fuel Costs Threaten Aid Operations in South Sudan – Medafrica Times",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "medafricatimes.com",
+    "source_url": "https://medafricatimes.com",
+    "article_url": "https://medafricatimes.com/45651-wfp-warns-funding-gap-and-rising-fuel-costs-threaten-aid-operations-in-south-sudan.html",
+    "source_domain": "medafricatimes.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-03",
+    "gdelt_query": "South Sudan fuel prices"
   },
   {
     "id": "south-africa-2026-06-01-south-africans-cut-fuel-purchases-by-23-in-ma-1a6afaca",
