@@ -1,5 +1,26 @@
 [
   {
+    "id": "tanzania-2026-06-04-govt-intervention-shields-consumers-as-petrol-56b65058",
+    "date": "2026-06-04",
+    "country": "Tanzania",
+    "iso3": "TZA",
+    "headline": "Govt intervention shields consumers as petrol prices fall",
+    "summary": "Govt intervention shields consumers as petrol prices fall",
+    "products": [
+      "gasoline"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "dailynews.co.tz",
+    "source_url": "https://dailynews.co.tz",
+    "article_url": "https://dailynews.co.tz/govt-intervention-shields-consumers-as-petrol-prices-fall/",
+    "source_domain": "dailynews.co.tz",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-04",
+    "gdelt_query": "Tanzania fuel prices EWURA"
+  },
+  {
     "id": "namibia-2026-06-03-namibia-mathews-hamutenya-denies-political-co-3bbdd6f7",
     "date": "2026-06-03",
     "country": "Namibia",
