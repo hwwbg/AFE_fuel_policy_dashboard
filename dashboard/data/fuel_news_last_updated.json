@@ -1,28 +1,43 @@
 {
-  "last_refreshed_utc": "2026-06-04T11:18:10+00:00",
+  "last_refreshed_utc": "2026-06-05T11:32:25+00:00",
   "source": "GDELT DOC 2.0 API",
   "registry": "/home/runner/work/AFE_fuel_policy_dashboard/AFE_fuel_policy_dashboard/dashboard/data/afe_fuel_news_media_source_registry.json",
   "days_searched": 21,
   "queries_per_country": 1,
   "items_written": 72,
-  "new_items_found_this_run": 5,
-  "existing_items_checked": 71,
+  "new_items_found_this_run": 4,
+  "existing_items_checked": 72,
   "existing_items_dropped_by_quality_filter": 0,
-  "query_errors_count": 3,
+  "query_errors_count": 6,
   "errors": [
+    {
+      "country": "Burundi",
+      "query": "Burundi fuel price",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "country": "Madagascar",
+      "query": "Madagascar prix carburant",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "country": "Malawi",
+      "query": "Malawi fuel prices MERA",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "country": "Mauritius",
+      "query": "Mauritius prix carburant",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
     {
       "country": "Namibia",
       "query": "Namibia fuel prices",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Rwanda",
-      "query": "Rwanda fuel prices RURA",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "country": "Uganda",
-      "query": "Uganda fuel prices",
+      "country": "Sudan",
+      "query": "Sudan fuel prices",
       "error": "HTTP Error 429: Too Many Requests"
     }
   ],
