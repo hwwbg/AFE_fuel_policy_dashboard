@@ -42,6 +42,27 @@
     "gdelt_query": "Namibia fuel prices"
   },
   {
+    "id": "namibia-2026-06-03-namibia-fuel-deal-with-european-giant-raises-da520ecd",
+    "date": "2026-06-03",
+    "country": "Namibia",
+    "iso3": "NAM",
+    "headline": "Namibia fuel deal with European giant raises questions over process",
+    "summary": "Namibia fuel deal with European giant raises questions over process",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price increase",
+    "magnitude": "Not extracted automatically",
+    "source_name": "news24.com",
+    "source_url": "https://news24.com",
+    "article_url": "https://www.news24.com/business/companies/namibias-fuel-deal-with-european-giant-raises-questions-over-process-20260603-0998",
+    "source_domain": "news24.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-06",
+    "gdelt_query": "Namibia fuel prices"
+  },
+  {
     "id": "namibia-2026-06-02-namibia-to-centralise-fuel-imports-in-bid-to-5891ea32",
     "date": "2026-06-02",
     "country": "Namibia",
