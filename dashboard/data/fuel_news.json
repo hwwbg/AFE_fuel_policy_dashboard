@@ -1,5 +1,47 @@
 [
   {
+    "id": "rwanda-2026-06-06-rwanda-hikes-diesel-price-by-sh64-per-litre-d21b7285",
+    "date": "2026-06-06",
+    "country": "Rwanda",
+    "iso3": "RWA",
+    "headline": "Rwanda hikes diesel price by Sh64 per litre",
+    "summary": "Rwanda hikes diesel price by Sh64 per litre",
+    "products": [
+      "diesel"
+    ],
+    "change_type": "price increase",
+    "magnitude": "Not extracted automatically",
+    "source_name": "the-star.co.ke",
+    "source_url": "https://the-star.co.ke",
+    "article_url": "https://www.the-star.co.ke/news/2026-06-06-rwanda-hikes-diesel-price-by-sh64-per-litre",
+    "source_domain": "the-star.co.ke",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-07",
+    "gdelt_query": "Rwanda fuel prices RURA"
+  },
+  {
+    "id": "rwanda-2026-06-06-rwanda-raises-fuel-prices-again-chimpreports-3293b9f5",
+    "date": "2026-06-06",
+    "country": "Rwanda",
+    "iso3": "RWA",
+    "headline": "Rwanda Raises Fuel Prices Again | ChimpReports",
+    "summary": "Rwanda Raises Fuel Prices Again | ChimpReports",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price increase",
+    "magnitude": "Not extracted automatically",
+    "source_name": "chimpreports.com",
+    "source_url": "https://chimpreports.com",
+    "article_url": "https://chimpreports.com/rwanda-raises-fuel-prices-again/",
+    "source_domain": "chimpreports.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-07",
+    "gdelt_query": "Rwanda fuel prices RURA"
+  },
+  {
     "id": "tanzania-2026-06-04-govt-intervention-shields-consumers-as-petrol-56b65058",
     "date": "2026-06-04",
     "country": "Tanzania",
