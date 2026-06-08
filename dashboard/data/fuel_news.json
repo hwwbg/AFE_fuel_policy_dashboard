@@ -1,5 +1,26 @@
 [
   {
+    "id": "uganda-2026-06-08-uganda-jet-fuel-gamble-amid-middle-east-tensi-acfb68c5",
+    "date": "2026-06-08",
+    "country": "Uganda",
+    "iso3": "UGA",
+    "headline": "Uganda Jet Fuel Gamble Amid Middle East Tensions",
+    "summary": "Uganda Jet Fuel Gamble Amid Middle East Tensions",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "allafrica.com",
+    "source_url": "https://allafrica.com",
+    "article_url": "https://allafrica.com/stories/202606080373.html",
+    "source_domain": "allafrica.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-08",
+    "gdelt_query": "Uganda fuel prices"
+  },
+  {
     "id": "rwanda-2026-06-06-rwanda-hikes-diesel-price-by-sh64-per-litre-d21b7285",
     "date": "2026-06-06",
     "country": "Rwanda",
