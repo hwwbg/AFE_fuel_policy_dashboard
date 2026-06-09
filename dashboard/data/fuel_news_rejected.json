@@ -119,11 +119,11 @@
     "url": "https://www.globes.co.il/news/article.aspx?did=1001543377"
   },
   {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "ومن رماد هذه الحرب قد تستيقظ أفريقيا",
-    "url": "https://www.aljazeera.net/opinions/2026/5/18/%D9%88%D9%85%D9%86-%D8%B1%D9%85%D8%A7%D8%AF-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%82%D8%AF-%D8%AA%D8%B3%D8%AA%D9%8A%D9%82%D8%B8-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7"
+    "country": "Eswatini",
+    "query": "Eswatini fuel price increase",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "Tiger Brands warns of price hikes as fuel and input costs rise",
+    "url": "https://www.timeslive.co.za/news/business/2026-06-06-tiger-brands-warns-of-price-hikes-as-fuel-and-input-costs-rise/"
   },
   {
     "country": "Kenya",
@@ -161,6 +161,48 @@
     "url": "https://techweez.com/2026/05/22/kenya-electric-vehicles-import-duty-waiver/"
   },
   {
+    "country": "Lesotho",
+    "query": "Lesotho fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "UNCTAD warns Africa could face a costly oil shock from Hormuz disruptions",
+    "url": "https://capitalethiopia.com/2026/06/07/unctad-warns-africa-could-face-a-costly-oil-shock-from-hormuz-disruptions/"
+  },
+  {
+    "country": "Lesotho",
+    "query": "Lesotho fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Inside the oil regime  wiping out US$4 , 3m every 30 day - The Zimbabwe Independent",
+    "url": "https://www.theindependent.co.zw/local-news/article/200056146/inside-the-oil-regime-wiping-out-us43m-every-30-days"
+  },
+  {
+    "country": "Lesotho",
+    "query": "Lesotho fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Leasing business and higher car sales buoy Zeda first half",
+    "url": "https://www.businessday.co.za/companies/earnings/2026-05-26-leasing-business-and-higher-car-sales-buoy-zedas-first-half/"
+  },
+  {
+    "country": "Lesotho",
+    "query": "Lesotho fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Southern African nations commit to strengthening cooperation - Xinhua",
+    "url": "https://english.news.cn/20260524/53b46685c64345bd99d6b13d12cf1a3c/c.html"
+  },
+  {
+    "country": "Lesotho",
+    "query": "Lesotho fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Africa : All of Africa Today - May 20 , 2026",
+    "url": "https://allafrica.com/stories/202605200085.html"
+  },
+  {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Nersa proposes cap on gas price hikes to tame Sasol monopoly",
+    "url": "https://www.businessday.co.za/news/2026-06-09-nersa-proposes-cap-on-gas-price-hikes-to-tame-sasols-monopoly/"
+  },
+  {
     "country": "Mozambique",
     "query": "Mozambique fuel prices",
     "reason": "no fuel-price keyword in title/summary",
@@ -196,129 +238,171 @@
     "url": "https://en.philenews.com/local/european-fuel-prices-income-affordability-analysis/"
   },
   {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Καύσιμα : Πόσο κοστίζει το γέμισμα σε σχέση με τον μέσο μισθό",
-    "url": "https://www.philenews.com/oikonomia/kypros/article/1730159/poso-kostizi-to-gemisma-me-venzini-se-schesi-me-ton-meso-mistho/"
+    "title": "THY to expand nonstop long - haul network with ultra - long - range aircraft",
+    "url": "https://www.dailysabah.com/business/economy/thy-to-expand-nonstop-long-haul-network-with-ultra-long-range-aircraft"
   },
   {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Tiger Brands warns of price hikes as fuel and input costs rise",
-    "url": "https://www.timeslive.co.za/news/business/2026-06-06-tiger-brands-warns-of-price-hikes-as-fuel-and-input-costs-rise/"
-  },
-  {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
-    "reason": "low-value broad domain: investegate.co.uk",
-    "title": "Q1 2026 Voluntary Operating update | Company Announcement",
-    "url": "https://www.investegate.co.uk/announcement/rns/old-mutual-limited-npv-di---omu/q1-2026-voluntary-operating-update/9602870"
-  },
-  {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Namibia : Casting for Survival - Namibia Most Marginalised Fish Sector",
-    "url": "https://allafrica.com/stories/202606040417.html"
+    "title": "UNCTAD warns Oil shock could cost vulnerable nations US$20 billion as Hormuz tensions escalate",
+    "url": "https://pina.com.fj/2026/06/04/unctad-warns-oil-shock-could-cost-vulnerable-nations-us20-billion-as-hormuz-tensions-escalate/"
   },
   {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Global uranium supply , mostly produced in Kazakhstan",
-    "url": "https://www.bursa.ro/global-uranium-supply-mostly-produced-in-kazakhstan-85212954"
+    "title": "Factura petrolera podría elevarse un 1 . 5 % del PIB",
+    "url": "https://listindiario.com/economia/energia/20260604/factura-petrolera-elevarse-1-5-pib_908407.html"
   },
   {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Oferta globală de uraniu , produsă majoritar în Kazahstan",
-    "url": "https://www.bursa.ro/oferta-globala-de-uraniu-produsa-majoritar-in-kazahstan-64212953"
+    "title": "Maledivy i Seychely ztrácejí evropské turisty",
+    "url": "https://www.idnes.cz/ekonomika/zahranicni/seychely-sri-lanka-maledivy-cestovani-poptavka-evropa-lety.A260601_123501_eko-zahranicni_jla"
   },
   {
-    "country": "Rwanda",
-    "query": "Rwanda fuel prices RURA",
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "RURA announces new prices of petroleum products",
-    "url": "http://www.rnanews.com/rura-announces-new-prices-of-petroleum-products/"
+    "title": "Guerra contra Irán y Líbano entra en una fase crítica",
+    "url": "https://acento.com.do/internacional/guerra-contra-iran-y-libano-entra-en-una-fase-critica-9690940.html"
   },
   {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "La guerra en el estrecho de Ormuz castiga a 75 países vulnerables",
+    "url": "https://ipsnoticias.net/2026/06/la-guerra-en-el-estrecho-de-ormuz-castiga-a-75-paises-vulnerables/"
+  },
+  {
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "A Peace Triangle in the Middle East / West Asia Through Trade",
+    "url": "http://www.theuknews.com/news/279110995/a-peace-triangle-in-the-middle-eastwest-asia-through-trade"
+  },
+  {
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "WFP warnt : Krise im Nahen Osten verschärft globale Ernährungslage",
+    "url": "https://www.topagrar.com/panorama/news/krise-im-nahen-osten-verscharft-globale-ernahrungslage-20026105.html"
+  },
+  {
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "A Peace Triangle in the Middle East / West Asia Through Trade",
+    "url": "http://www.greekherald.com/news/279110995/a-peace-triangle-in-the-middle-eastwest-asia-through-trade"
+  },
+  {
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "WFP : Iran war pushing millions into hunger and food scarcity issues",
+    "url": "https://www.2lt.com.au/wfp-iran-war-pushing-millions-into-hunger-and-food-scarcity-issues/"
+  },
+  {
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Millions being pushed into hunger by Iran war , UN body says",
+    "url": "http://www.stlouisstar.com/news/279106281/un-food-agency-warns-that-countries-face-hunger-because-of-iran-war"
+  },
+  {
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Millions being pushed into hunger by Iran war , UN body says",
+    "url": "http://www.malaysiasun.com/news/279106281/un-food-agency-warns-that-countries-face-hunger-because-of-iran-war"
+  },
+  {
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
     "title": "Αλυσιδωτό σοκ : Πώς οι πόλεμοι « αδειάζουν τα πιάτα » των φτωχών χωρών",
     "url": "https://dialogos.com.cy/alysidoto-sok-apo-to-iran-pos-oi-polemoi-adeiazoyn-ta-piata-ton-ftochon-choron/"
   },
   {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
     "title": "UN agency chief warns of coming food crisis due to Iran war",
     "url": "https://www.irishtimes.com/world/middle-east/2026/06/08/un-agency-chief-warns-of-coming-food-crisis-due-to-iran-war/"
   },
   {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Φυλλάδιο του ΚΚΕ για τους Αυτοαπασχολούμενους : Η ελπίδα και η προοπτική βρίσκεται στον δρόμο της πάλης για την αντεπίθεση που καλεί το ΚΚΕ",
-    "url": "https://www.902.gr/eidisi/politiki/422141/fylladio-toy-kke-gia-toys-aytoapasholoymenoys-i-elpida-kai-i-prooptiki"
-  },
-  {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
     "title": "Africa should stop betting on fossil fuels in the age of clean energy",
     "url": "https://www.standardmedia.co.ke/opinion/article/2001549737/africa-should-stop-betting-on-fossil-fuels-in-the-age-of-clean-energy"
   },
   {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
     "title": "Time . ai",
     "url": "https://time.mk/ai/053059c294/mk/"
   },
   {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
     "title": "ΟΗΕ : Ο πόλεμος ΗΠΑ - Ιράν ωθεί εκατομμύρια ανθρώπους στην πείνα",
     "url": "https://www.capital.gr/diethni/3996966/oie-o-polemos-ipa-iran-othei-ekatommuria-anthropous-stin-peina/"
   },
   {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "AP Business SummaryBrief at 7 : 31 a . m . EDT",
-    "url": "https://www.messenger-inquirer.com/ap/elections/ap-business-summarybrief-at-7-31-a-m-edt/article_0c2c6511-d02b-5833-8981-6e4b6e1cf424.html"
+    "title": "அமெரிக்க - ஈரான் போரினால் உலகளவில் கடும் உணவுப் பற்றாக்குறைக்கு முகம் கொடுக்கும் அபாயம் : ஐநா எச்சரிக்கை ! ",
+    "url": "https://www.virakesari.lk/article/249011"
   },
   {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "AP Business SummaryBrief at 4 : 56 a . m . EDT",
-    "url": "https://www.mankatofreepress.com/news/business/ap-business-summarybrief-at-4-56-a-m-edt/article_7acc2a2d-a35c-52c0-8589-4739f0c4024c.html"
+    "title": "New Geopolitics Threatens More Food Crises",
+    "url": "https://www.ipsnews.net/2026/06/new-geopolitics-threatens-more-food-crises/"
   },
   {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Old Mutual OM Bank surges to 473 , 000 customers as integration builds",
-    "url": "https://www.businessday.co.za/companies/company-strategy/2026-06-08-old-mutuals-banking-offering-gains-traction/"
+    "title": "WFP : Iran war pushing millions into hunger and food scarcity issues",
+    "url": "https://www.2lt.com.au/wfp-iran-war-pushing-millions-into-hunger-and-food-scarcity-issues/"
   },
   {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Africa should stop betting on fossil fuels in the age of clean energy",
-    "url": "https://www.standardmedia.co.ke/opinion/article/2001549737/africa-should-stop-betting-on-fossil-fuels-in-the-age-of-clean-energy"
+    "title": "Millions being pushed into hunger by Iran war , UN body says",
+    "url": "http://www.stlouisstar.com/news/279106281/un-food-agency-warns-that-countries-face-hunger-because-of-iran-war"
   },
   {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "AP Business SummaryBrief at 1 : 53 p . m . EDT",
-    "url": "https://www.mankatofreepress.com/news/business/ap-business-summarybrief-at-1-53-p-m-edt/article_7dc361b0-ba16-58f0-84ad-971d254d5370.html"
+    "title": "Millions being pushed into hunger by Iran war , UN body says",
+    "url": "http://www.malaysiasun.com/news/279106281/un-food-agency-warns-that-countries-face-hunger-because-of-iran-war"
+  },
+  {
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Millions being pushed into hunger by Iran war , UN body says",
+    "url": "http://www.britainnews.net/news/279106281/wfp-iran-war-pushing-millions-into-hunger-and-food-scarcity-issues"
+  },
+  {
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Millions being pushed into hunger by Iran war , UN body says",
+    "url": "http://www.asiabulletin.com/news/279106281/un-food-agency-warns-that-countries-face-hunger-because-of-iran-war"
   }
 ]
