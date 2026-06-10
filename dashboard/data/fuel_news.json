@@ -1,5 +1,26 @@
 [
   {
+    "id": "rwanda-2026-06-09-rwanda-govt-importers-expand-fuel-reserves-as-7a688ebe",
+    "date": "2026-06-09",
+    "country": "Rwanda",
+    "iso3": "RWA",
+    "headline": "Rwanda : Govt , Importers Expand Fuel Reserves As Global Prices Surge",
+    "summary": "Rwanda : Govt , Importers Expand Fuel Reserves As Global Prices Surge",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price increase",
+    "magnitude": "Not extracted automatically",
+    "source_name": "allafrica.com",
+    "source_url": "https://allafrica.com",
+    "article_url": "https://allafrica.com/stories/202606090084.html",
+    "source_domain": "allafrica.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-10",
+    "gdelt_query": "Rwanda fuel prices RURA"
+  },
+  {
     "id": "uganda-2026-06-08-uganda-jet-fuel-gamble-amid-middle-east-tensi-acfb68c5",
     "date": "2026-06-08",
     "country": "Uganda",
@@ -19,6 +40,48 @@
     "verified": false,
     "retrieved_at": "2026-06-08",
     "gdelt_query": "Uganda fuel prices"
+  },
+  {
+    "id": "malawi-2026-06-08-war-could-push-up-fuel-import-bill-un-nation-32d07f54",
+    "date": "2026-06-08",
+    "country": "Malawi",
+    "iso3": "MWI",
+    "headline": "War could push up fuel import bill UN - Nation Online",
+    "summary": "War could push up fuel import bill UN - Nation Online",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "mwnation.com",
+    "source_url": "https://mwnation.com",
+    "article_url": "https://mwnation.com/war-could-push-up-fuel-import-bill-un/",
+    "source_domain": "mwnation.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-10",
+    "gdelt_query": "Malawi fuel prices MERA"
+  },
+  {
+    "id": "ethiopia-2026-06-07-nbe-allows-embassies-foreign-investors-to-imp-fbc23d49",
+    "date": "2026-06-07",
+    "country": "Ethiopia",
+    "iso3": "ETH",
+    "headline": "NBE allows embassies , foreign investors to import fuel under Franco - Valuta scheme",
+    "summary": "NBE allows embassies , foreign investors to import fuel under Franco - Valuta scheme",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "capitalethiopia.com",
+    "source_url": "https://capitalethiopia.com",
+    "article_url": "https://capitalethiopia.com/2026/06/07/nbe-allows-embassies-foreign-investors-to-import-fuel-under-franco-valuta-scheme/",
+    "source_domain": "capitalethiopia.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-10",
+    "gdelt_query": "Ethiopia fuel prices"
   },
   {
     "id": "rwanda-2026-06-06-rwanda-hikes-diesel-price-by-sh64-per-litre-d21b7285",
