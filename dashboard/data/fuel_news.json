@@ -1,5 +1,26 @@
 [
   {
+    "id": "malawi-2026-06-11-cdedi-demands-fuel-price-cuts-1e809d47",
+    "date": "2026-06-11",
+    "country": "Malawi",
+    "iso3": "MWI",
+    "headline": "CDEDI demands fuel price cuts",
+    "summary": "CDEDI demands fuel price cuts",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price decrease",
+    "magnitude": "Not extracted automatically",
+    "source_name": "malawi24.com",
+    "source_url": "https://malawi24.com",
+    "article_url": "https://malawi24.com/2026/06/11/cdedi-demands-fuel-price-cuts/",
+    "source_domain": "malawi24.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-13",
+    "gdelt_query": "Malawi fuel prices MERA"
+  },
+  {
     "id": "rwanda-2026-06-09-rwanda-govt-importers-expand-fuel-reserves-as-7a688ebe",
     "date": "2026-06-09",
     "country": "Rwanda",
