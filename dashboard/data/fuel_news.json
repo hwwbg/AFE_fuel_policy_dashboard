@@ -1,5 +1,68 @@
 [
   {
+    "id": "mozambique-2026-06-14-middle-east-fuel-crisis-keeps-mozambique-fish-f9569d2b",
+    "date": "2026-06-14",
+    "country": "Mozambique",
+    "iso3": "MOZ",
+    "headline": "Middle East fuel crisis keeps Mozambique fishermen ashore",
+    "summary": "Middle East fuel crisis keeps Mozambique fishermen ashore",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "shortage / supply disruption",
+    "magnitude": "Not extracted automatically",
+    "source_name": "spacewar.com",
+    "source_url": "https://spacewar.com",
+    "article_url": "https://www.spacewar.com/afp/260614053007.pkek6mbd.html",
+    "source_domain": "spacewar.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-14",
+    "gdelt_query": "Mozambique fuel prices"
+  },
+  {
+    "id": "mozambique-2026-06-14-middle-east-fuel-crisis-keeps-mozambique-fish-cd60cb5c",
+    "date": "2026-06-14",
+    "country": "Mozambique",
+    "iso3": "MOZ",
+    "headline": "Middle East fuel crisis keeps Mozambique fishermen ashore",
+    "summary": "Middle East fuel crisis keeps Mozambique fishermen ashore",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "shortage / supply disruption",
+    "magnitude": "Not extracted automatically",
+    "source_name": "standardmedia.co.ke",
+    "source_url": "https://standardmedia.co.ke",
+    "article_url": "https://www.standardmedia.co.ke/africa/article/2001550281/middle-east-fuel-crisis-keeps-mozambique-fishermen-ashore",
+    "source_domain": "standardmedia.co.ke",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-14",
+    "gdelt_query": "Mozambique fuel prices"
+  },
+  {
+    "id": "namibia-2026-06-12-fuel-pain-pushes-inflation-to-4-1-9cf512af",
+    "date": "2026-06-12",
+    "country": "Namibia",
+    "iso3": "NAM",
+    "headline": "Fuel pain pushes inflation to 4 . 1 %",
+    "summary": "Fuel pain pushes inflation to 4 . 1 %",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "namibiansun.com",
+    "source_url": "https://namibiansun.com",
+    "article_url": "http://www.namibiansun.com/mw-main/fuel-pain-pushes-inflation-to-41-NMH012117-3015-14719",
+    "source_domain": "namibiansun.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-14",
+    "gdelt_query": "Namibia fuel prices"
+  },
+  {
     "id": "malawi-2026-06-11-cdedi-demands-fuel-price-cuts-1e809d47",
     "date": "2026-06-11",
     "country": "Malawi",

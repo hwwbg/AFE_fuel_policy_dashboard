@@ -1,23 +1,23 @@
 {
-  "last_refreshed_utc": "2026-06-13T10:45:19+00:00",
+  "last_refreshed_utc": "2026-06-14T11:05:48+00:00",
   "source": "GDELT DOC 2.0 API",
   "registry": "/home/runner/work/AFE_fuel_policy_dashboard/AFE_fuel_policy_dashboard/dashboard/data/afe_fuel_news_media_source_registry.json",
   "days_searched": 21,
   "queries_per_country": 1,
-  "items_written": 80,
-  "new_items_found_this_run": 2,
-  "existing_items_checked": 79,
+  "items_written": 83,
+  "new_items_found_this_run": 8,
+  "existing_items_checked": 80,
   "existing_items_dropped_by_quality_filter": 0,
-  "query_errors_count": 9,
+  "query_errors_count": 8,
   "errors": [
-    {
-      "country": "Angola",
-      "query": "Angola fuel price",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
     {
       "country": "Botswana",
       "query": "Botswana fuel price increase",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "country": "Burundi",
+      "query": "Burundi fuel price",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -26,13 +26,18 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Namibia",
-      "query": "Namibia fuel prices",
+      "country": "Malawi",
+      "query": "Malawi fuel prices MERA",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Rwanda",
-      "query": "Rwanda fuel prices RURA",
+      "country": "Somalia",
+      "query": "Somalia fuel prices",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "country": "South Africa",
+      "query": "South Africa fuel price petrol diesel",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -41,18 +46,8 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Tanzania",
-      "query": "Tanzania fuel prices EWURA",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
       "country": "Uganda",
       "query": "Uganda fuel prices",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "country": "Zambia",
-      "query": "Zambia fuel prices ERB",
       "error": "HTTP Error 429: Too Many Requests"
     }
   ],
