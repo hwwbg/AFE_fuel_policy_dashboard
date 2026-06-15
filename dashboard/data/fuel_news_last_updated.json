@@ -1,23 +1,23 @@
 {
-  "last_refreshed_utc": "2026-06-14T11:05:48+00:00",
+  "last_refreshed_utc": "2026-06-15T14:00:04+00:00",
   "source": "GDELT DOC 2.0 API",
   "registry": "/home/runner/work/AFE_fuel_policy_dashboard/AFE_fuel_policy_dashboard/dashboard/data/afe_fuel_news_media_source_registry.json",
   "days_searched": 21,
   "queries_per_country": 1,
-  "items_written": 83,
-  "new_items_found_this_run": 8,
-  "existing_items_checked": 80,
+  "items_written": 87,
+  "new_items_found_this_run": 14,
+  "existing_items_checked": 83,
   "existing_items_dropped_by_quality_filter": 0,
-  "query_errors_count": 8,
+  "query_errors_count": 5,
   "errors": [
     {
-      "country": "Botswana",
-      "query": "Botswana fuel price increase",
+      "country": "Democratic Republic of Congo",
+      "query": "Democratic Republic of Congo RDC prix carburant",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Burundi",
-      "query": "Burundi fuel price",
+      "country": "Eswatini",
+      "query": "Eswatini fuel price increase",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -26,28 +26,13 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Malawi",
-      "query": "Malawi fuel prices MERA",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
       "country": "Somalia",
       "query": "Somalia fuel prices",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "South Africa",
-      "query": "South Africa fuel price petrol diesel",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "country": "Sudan",
-      "query": "Sudan fuel prices",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "country": "Uganda",
-      "query": "Uganda fuel prices",
+      "country": "Zambia",
+      "query": "Zambia fuel prices ERB",
       "error": "HTTP Error 429: Too Many Requests"
     }
   ],

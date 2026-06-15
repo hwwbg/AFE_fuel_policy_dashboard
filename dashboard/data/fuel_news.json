@@ -1,5 +1,68 @@
 [
   {
+    "id": "kenya-2026-06-15-kenya-all-eyes-on-epra-as-ruto-sh10-diesel-cu-a3a25634",
+    "date": "2026-06-15",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "Kenya : All Eyes On EPRA As Ruto Sh10 Diesel Cut Pledge Faces Test Amid Us - Iran Deal Hopes",
+    "summary": "Kenya : All Eyes On EPRA As Ruto Sh10 Diesel Cut Pledge Faces Test Amid Us - Iran Deal Hopes",
+    "products": [
+      "diesel"
+    ],
+    "change_type": "price decrease",
+    "magnitude": "Not extracted automatically",
+    "source_name": "allafrica.com",
+    "source_url": "https://allafrica.com",
+    "article_url": "https://allafrica.com/stories/202606150061.html",
+    "source_domain": "allafrica.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-15",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
+    "id": "kenya-2026-06-15-kenya-ruto-defends-fuel-prices-strategy-amid-aaa6ab8e",
+    "date": "2026-06-15",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "Kenya : Ruto Defends Fuel Prices Strategy Amid Geopolitical Oil Market Pressures",
+    "summary": "Kenya : Ruto Defends Fuel Prices Strategy Amid Geopolitical Oil Market Pressures",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "allafrica.com",
+    "source_url": "https://allafrica.com",
+    "article_url": "https://allafrica.com/stories/202606150028.html",
+    "source_domain": "allafrica.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-15",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
+    "id": "south-africa-2026-06-15-south-africa-petrol-may-be-getting-cheaper-ne-0dcad4c1",
+    "date": "2026-06-15",
+    "country": "South Africa",
+    "iso3": "ZAF",
+    "headline": "South Africa : Petrol May Be Getting Cheaper Next Month but Will Your Taxi Fare Follow ?",
+    "summary": "South Africa : Petrol May Be Getting Cheaper Next Month but Will Your Taxi Fare Follow ?",
+    "products": [
+      "gasoline"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "allafrica.com",
+    "source_url": "https://allafrica.com",
+    "article_url": "https://allafrica.com/stories/202606150435.html",
+    "source_domain": "allafrica.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-15",
+    "gdelt_query": "South Africa fuel price petrol diesel"
+  },
+  {
     "id": "mozambique-2026-06-14-middle-east-fuel-crisis-keeps-mozambique-fish-f9569d2b",
     "date": "2026-06-14",
     "country": "Mozambique",
@@ -40,6 +103,27 @@
     "verified": false,
     "retrieved_at": "2026-06-14",
     "gdelt_query": "Mozambique fuel prices"
+  },
+  {
+    "id": "kenya-2026-06-14-ruto-defends-fuel-prices-strategy-after-sh10-47b10279",
+    "date": "2026-06-14",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "Ruto defends fuel prices strategy after Sh10 drop on diesel",
+    "summary": "Ruto defends fuel prices strategy after Sh10 drop on diesel",
+    "products": [
+      "diesel"
+    ],
+    "change_type": "price decrease",
+    "magnitude": "Not extracted automatically",
+    "source_name": "capitalfm.co.ke",
+    "source_url": "https://capitalfm.co.ke",
+    "article_url": "https://www.capitalfm.co.ke/news/2026/06/ruto-defends-sh10bn-fuel-subsidy-diesel-price-cut-epra-kenya/",
+    "source_domain": "capitalfm.co.ke",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-15",
+    "gdelt_query": "Kenya fuel prices EPRA"
   },
   {
     "id": "namibia-2026-06-12-fuel-pain-pushes-inflation-to-4-1-9cf512af",
