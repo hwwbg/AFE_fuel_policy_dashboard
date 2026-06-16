@@ -63,6 +63,27 @@
     "gdelt_query": "South Africa fuel price petrol diesel"
   },
   {
+    "id": "malawi-2026-06-15-petrol-price-cut-yet-to-ease-costs-employers-44fb10d4",
+    "date": "2026-06-15",
+    "country": "Malawi",
+    "iso3": "MWI",
+    "headline": "Petrol price cut yet to ease costs employers",
+    "summary": "Petrol price cut yet to ease costs employers",
+    "products": [
+      "gasoline"
+    ],
+    "change_type": "price decrease",
+    "magnitude": "Not extracted automatically",
+    "source_name": "mwnation.com",
+    "source_url": "https://mwnation.com",
+    "article_url": "https://mwnation.com/petrol-price-cut-yet-to-ease-costs-employers/",
+    "source_domain": "mwnation.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-16",
+    "gdelt_query": "Malawi fuel prices MERA"
+  },
+  {
     "id": "mozambique-2026-06-14-middle-east-fuel-crisis-keeps-mozambique-fish-f9569d2b",
     "date": "2026-06-14",
     "country": "Mozambique",

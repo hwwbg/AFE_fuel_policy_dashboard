@@ -1,33 +1,43 @@
 {
-  "last_refreshed_utc": "2026-06-15T14:00:04+00:00",
+  "last_refreshed_utc": "2026-06-16T12:54:51+00:00",
   "source": "GDELT DOC 2.0 API",
   "registry": "/home/runner/work/AFE_fuel_policy_dashboard/AFE_fuel_policy_dashboard/dashboard/data/afe_fuel_news_media_source_registry.json",
   "days_searched": 21,
   "queries_per_country": 1,
-  "items_written": 87,
-  "new_items_found_this_run": 14,
-  "existing_items_checked": 83,
+  "items_written": 88,
+  "new_items_found_this_run": 10,
+  "existing_items_checked": 87,
   "existing_items_dropped_by_quality_filter": 0,
-  "query_errors_count": 5,
+  "query_errors_count": 7,
   "errors": [
+    {
+      "country": "Burundi",
+      "query": "Burundi fuel price",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
     {
       "country": "Democratic Republic of Congo",
       "query": "Democratic Republic of Congo RDC prix carburant",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Eswatini",
-      "query": "Eswatini fuel price increase",
+      "country": "Kenya",
+      "query": "Kenya fuel prices EPRA",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Lesotho",
-      "query": "Lesotho fuel prices",
+      "country": "Madagascar",
+      "query": "Madagascar prix carburant",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Somalia",
-      "query": "Somalia fuel prices",
+      "country": "Mauritius",
+      "query": "Mauritius prix carburant",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "country": "Tanzania",
+      "query": "Tanzania fuel prices EWURA",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
