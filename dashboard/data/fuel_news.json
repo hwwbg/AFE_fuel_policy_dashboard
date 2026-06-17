@@ -84,6 +84,27 @@
     "gdelt_query": "Malawi fuel prices MERA"
   },
   {
+    "id": "kenya-2026-06-15-how-us-iran-peace-deal-could-push-fuel-prices-47a23234",
+    "date": "2026-06-15",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "How US - Iran peace deal could push fuel prices lower in Kenya",
+    "summary": "How US - Iran peace deal could push fuel prices lower in Kenya",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price decrease",
+    "magnitude": "Not extracted automatically",
+    "source_name": "the-star.co.ke",
+    "source_url": "https://the-star.co.ke",
+    "article_url": "https://www.the-star.co.ke/news/2026-06-15-how-us-iran-peace-deal-could-push-fuel-prices-lower-in-kenya",
+    "source_domain": "the-star.co.ke",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-17",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
     "id": "mozambique-2026-06-14-middle-east-fuel-crisis-keeps-mozambique-fish-f9569d2b",
     "date": "2026-06-14",
     "country": "Mozambique",
