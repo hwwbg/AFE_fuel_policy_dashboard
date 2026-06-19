@@ -1,5 +1,70 @@
 [
   {
+    "id": "malawi-2026-06-19-fuel-price-cut-a-mockery-namiwa-8536dd2a",
+    "date": "2026-06-19",
+    "country": "Malawi",
+    "iso3": "MWI",
+    "headline": "Fuel price cut  a mockery  - Namiwa",
+    "summary": "Fuel price cut  a mockery  - Namiwa",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price decrease",
+    "magnitude": "Not extracted automatically",
+    "source_name": "malawi24.com",
+    "source_url": "https://malawi24.com",
+    "article_url": "https://malawi24.com/2026/06/19/fuel-price-cut-a-mockery-namiwa/",
+    "source_domain": "malawi24.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-19",
+    "gdelt_query": "Malawi fuel prices MERA"
+  },
+  {
+    "id": "malawi-2026-06-19-mera-slashes-petrol-diesel-and-paraffin-price-3311796c",
+    "date": "2026-06-19",
+    "country": "Malawi",
+    "iso3": "MWI",
+    "headline": "MERA Slashes Petrol , Diesel and Paraffin Prices",
+    "summary": "MERA Slashes Petrol , Diesel and Paraffin Prices",
+    "products": [
+      "gasoline",
+      "diesel",
+      "kerosene"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "faceofmalawi.com",
+    "source_url": "https://faceofmalawi.com",
+    "article_url": "https://www.faceofmalawi.com/2026/06/19/mera-slashes-petrol-diesel-and-paraffin-prices/",
+    "source_domain": "faceofmalawi.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-19",
+    "gdelt_query": "Malawi fuel prices MERA"
+  },
+  {
+    "id": "south-africa-2026-06-18-south-africa-fuel-price-surge-pushes-consumer-f8cddb50",
+    "date": "2026-06-18",
+    "country": "South Africa",
+    "iso3": "ZAF",
+    "headline": "South Africa : Fuel Price Surge Pushes Consumer Price Inflation to 4 . 5 Percent in May",
+    "summary": "South Africa : Fuel Price Surge Pushes Consumer Price Inflation to 4 . 5 Percent in May",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price increase",
+    "magnitude": "Not extracted automatically",
+    "source_name": "allafrica.com",
+    "source_url": "https://allafrica.com",
+    "article_url": "https://allafrica.com/stories/202606180014.html",
+    "source_domain": "allafrica.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-19",
+    "gdelt_query": "South Africa fuel price petrol diesel"
+  },
+  {
     "id": "kenya-2026-06-15-kenya-all-eyes-on-epra-as-ruto-sh10-diesel-cu-a3a25634",
     "date": "2026-06-15",
     "country": "Kenya",
