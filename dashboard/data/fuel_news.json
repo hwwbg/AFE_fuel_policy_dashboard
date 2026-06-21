@@ -44,6 +44,27 @@
     "gdelt_query": "Malawi fuel prices MERA"
   },
   {
+    "id": "malawi-2026-06-19-mera-cuts-fuel-prices-as-malawi-moves-to-ease-eddfd0f3",
+    "date": "2026-06-19",
+    "country": "Malawi",
+    "iso3": "MWI",
+    "headline": "MERA Cuts Fuel Prices as Malawi Moves to Ease Pump Costs - Malawi News | Breaking News , Politics , Business & Sports",
+    "summary": "MERA Cuts Fuel Prices as Malawi Moves to Ease Pump Costs - Malawi News | Breaking News , Politics , Business & Sports",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price decrease",
+    "magnitude": "Not extracted automatically",
+    "source_name": "nyasatimes.com",
+    "source_url": "https://nyasatimes.com",
+    "article_url": "https://www.nyasatimes.com/mera-cuts-fuel-prices-as-malawi-moves-to-ease-pump-costs/",
+    "source_domain": "nyasatimes.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-21",
+    "gdelt_query": "Malawi fuel prices MERA"
+  },
+  {
     "id": "south-africa-2026-06-18-south-africa-fuel-price-surge-pushes-consumer-f8cddb50",
     "date": "2026-06-18",
     "country": "South Africa",

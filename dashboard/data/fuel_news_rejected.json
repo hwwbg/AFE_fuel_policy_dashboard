@@ -1,47 +1,5 @@
 [
   {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "تصدع من الداخل وحرب في الخارج .. هل تنجح أوبك في الحفاظ على نفوذها ؟ ",
-    "url": "https://alhurra.com/23376"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Harga BBM Non Subsidi Bisa Turun Lagi ? Ini Prediksinya",
-    "url": "https://kabar24.bisnis.com/read/20260619/15/1981541/harga-bbm-non-subsidi-bisa-turun-lagi-ini-prediksinya"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Six Weeks to Respond . Eight African ... ",
-    "url": "https://africa.com/six-weeks-to-respond-eight-african-economies-in-washingtons-crosshairs/"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Straße von Hormus : Was würde Öffnung für Afrika bedeuten ? ",
-    "url": "https://www.dw.com/de/strasse-von-hormus-usa-iran-afrika-energiepreise/a-77573300"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Kementerian ESDM Pastikan Impor Minyak Rusia Tetap Berjalan",
-    "url": "https://ekbis.harianjogja.com/r-1260072/kementerian-esdm-pastikan-impor-minyak-rusia-tetap-berjalan"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Selat Hormuz Mau Dibuka , RI Tetap Impor Minyak dari Rusia , Afrika , dan Amerika",
-    "url": "https://nasional.kompas.com/read/2026/06/17/17063051/selat-hormuz-mau-dibuka-ri-tetap-impor-minyak-dari-rusia-afrika-dan-amerika"
-  },
-  {
     "country": "Botswana",
     "query": "Botswana fuel price increase",
     "reason": "no fuel-price keyword in title/summary",
@@ -126,11 +84,18 @@
     "url": "https://www.europapress.es/islas-canarias/noticia-ruta-mediterranea-activa-punto-entrada-migrantes-espana-atlantica-cae-informe-sjm-20260609134340.html"
   },
   {
-    "country": "Eswatini",
-    "query": "Eswatini fuel price increase",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Tiger Brands warns of price hikes as fuel and input costs rise",
-    "url": "https://www.timeslive.co.za/news/business/2026-06-06-tiger-brands-warns-of-price-hikes-as-fuel-and-input-costs-rise/"
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "6 Nisan 1920 : Keklik ve sülün ordusu kene ve kokarcaya karşı",
+    "url": "https://www.haberler.com/guncel/ozel-haber-gundemi-21-haziran-2026-19972253-haberi/"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Как електромобилите превземат света",
+    "url": "https://classa.bg/%D1%81%D0%B2%D1%8F%D1%82/item/587860-%D0%BA%D0%B0%D0%BA-%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8%D1%82%D0%B5-%D0%BF%D1%80%D0%B5%D0%B2%D0%B7%D0%B5%D0%BC%D0%B0%D1%82-%D1%81%D0%B2%D0%B5%D1%82%D0%B0"
   },
   {
     "country": "Ethiopia",
@@ -159,20 +124,6 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "Straße von Hormus : Was würde Öffnung für Afrika bedeuten ? ",
     "url": "https://www.dw.com/de/strasse-von-hormus-usa-iran-afrika-energiepreise/a-77573300"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Global Economy Endures War Shock So Far",
-    "url": "https://www.globalissues.org/news/2026/06/17/43321"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Güneş enerjili soğutucular , çiftçi gelirini % 50 artırdı , gıda israfını azalttı",
-    "url": "https://tr.euronews.com/2026/06/17/gunes-enerjili-sogutucular-ciftci-gelirini-50-artirdi-gida-israfini-azaltti"
   },
   {
     "country": "Kenya",
@@ -210,11 +161,158 @@
     "url": "https://capitalethiopia.com/2026/06/07/unctad-warns-africa-could-face-a-costly-oil-shock-from-hormuz-disruptions/"
   },
   {
+    "country": "Malawi",
+    "query": "Malawi fuel prices MERA",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Malawi economy shows mixed signals",
+    "url": "https://www.maravipost.com/malawis-economy-shows-mixed-signals/"
+  },
+  {
+    "country": "Malawi",
+    "query": "Malawi fuel prices MERA",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "CDEDI , NOCMA data clash on local share",
+    "url": "https://www.maravipost.com/cdedi-nocma-data-clash-on-local-share/"
+  },
+  {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "low-value broad domain: moneycontrol.com",
+    "title": "From oil major to gas powerhouse ? Inside ONGC transformation strategy",
+    "url": "https://www.moneycontrol.com/news/business/from-oil-major-to-gas-powerhouse-inside-ongc-s-transformation-strategy-13954897.html"
+  },
+  {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "ONGC is now a  gas - and - oil  company as output shift accelerates toward natural gas , says chairman",
+    "url": "https://www.thehindubusinessline.com/companies/ongc-is-now-a-gas-and-oil-company-as-output-shift-accelerates-toward-natural-gas-says-chairman/article71128763.ece"
+  },
+  {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "ONGC rebrands itself as  gas and oil  firm as natural gas output overtakes crude",
+    "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/ongc-rebrands-itself-as-gas-and-oil-firm-as-natural-gas-output-overtakes-crude/articleshow/131887347.cms"
+  },
+  {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Renewable Energy Policy boon for investment in power sector - The Zimbabwe Independent",
+    "url": "https://www.theindependent.co.zw/news/article/15732/renewable-energy-policy-boon-for-investment-in-power-sector"
+  },
+  {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "The Old Rules of Financing African Agriculture Are Breaking Down",
+    "url": "https://www.cnbcafrica.com/2026/the-old-rules-of-financing-african-agriculture-are-breaking-down"
+  },
+  {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "La crise pétrolière laisse les pêcheurs mozambicains sur la berge - 14 / 06 / 2026 à 13 : 20",
+    "url": "https://www.boursorama.com/bourse/actualites/la-crise-petroliere-laisse-les-pecheurs-mozambicains-sur-la-berge-3f4536c5dd6f6772223767e6fc2857c6"
+  },
+  {
+    "country": "Namibia",
+    "query": "Namibia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Namibia Hikes Interest Rate to 6 . 75 % Amid Rising Inflation Concerns – Medafrica Times",
+    "url": "https://medafricatimes.com/45905-namibia-hikes-interest-rate-to-6-75-amid-rising-inflation-concerns.html"
+  },
+  {
+    "country": "Namibia",
+    "query": "Namibia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Namibia : Approaching the Mid - Year Point Under Highly Fluid Conditions",
+    "url": "https://allafrica.com/stories/202606180516.html"
+  },
+  {
+    "country": "Namibia",
+    "query": "Namibia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Namibia lifts interest rate and forecasts worse inflation",
+    "url": "https://www.businessday.co.za/world/2026-06-17-namibia-lifts-interest-rate-and-forecasts-worse-inflation/"
+  },
+  {
+    "country": "Namibia",
+    "query": "Namibia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Namibia lifts interest rate and forecasts worse inflation",
+    "url": "https://www.theherald.co.za/news/2026-06-17-namibia-lifts-interest-rate-and-forecasts-worse-inflation/"
+  },
+  {
+    "country": "Namibia",
+    "query": "Namibia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Namibia , Tanzania gamble with Russia : promise or mirage ? - Blueprint Newspapers Limited",
+    "url": "https://blueprint.ng/namibia-tanzania-gamble-with-russia-promise-or-mirage/"
+  },
+  {
+    "country": "Namibia",
+    "query": "Namibia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Namibia raises key rate , forecasts worse inflation outlook on higher oil prices",
+    "url": "https://www.cnbcafrica.com/2026/namibia-central-bank-raises-key-interest-rate-by-25-basis-points"
+  },
+  {
     "country": "Rwanda",
     "query": "Rwanda fuel prices RURA",
     "reason": "no fuel-price keyword in title/summary",
     "title": "RURA announces new prices of petroleum products",
     "url": "http://www.rnanews.com/rura-announces-new-prices-of-petroleum-products/"
+  },
+  {
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Куда рвутся в отпуск россияне этим летом",
+    "url": "https://pronedra.ru/kurort-bronenosecz-kak-rossiyane-vybirayut-otpusk-letom-2026-goda-821240.html"
+  },
+  {
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Οι νέες συνήθειες των ταξιδιωτών το καλοκαίρι του 2026",
+    "url": "https://www.thebest.gr/article/835008-oi-nees-sunitheies-ton-taxidioton-to-kalokairi-tou-2026"
+  },
+  {
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Cuando Ormuz se estrecha : el shock petrolero que asfixia a los más vulnerables",
+    "url": "https://www.elclarin.cl/2026/06/15/cuando-ormuz-se-estrecha-el-shock-petrolero-que-asfixia-a-los-mas-vulnerables/"
+  },
+  {
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Le vacanze degli italiani più salate | la guerra fa schizzare i prezzi di hotel e traghetti Giù i biglietti aerei",
+    "url": "https://www.zazoom.it/2026-06-13/le-vacanze-degli-italiani-piu-salate-la-guerra-fa-schizzare-i-prezzi-di-hotel-e-traghetti-giu-i-biglietti-aerei/19338575/"
+  },
+  {
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "THY to expand nonstop long - haul network with ultra - long - range aircraft",
+    "url": "https://www.dailysabah.com/business/economy/thy-to-expand-nonstop-long-haul-network-with-ultra-long-range-aircraft"
+  },
+  {
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "UNCTAD warns Oil shock could cost vulnerable nations US$20 billion as Hormuz tensions escalate",
+    "url": "https://pina.com.fj/2026/06/04/unctad-warns-oil-shock-could-cost-vulnerable-nations-us20-billion-as-hormuz-tensions-escalate/"
+  },
+  {
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "News",
+    "url": "https://www.pakistanlink.org/Headlines/June26/19/12.htm"
   },
   {
     "country": "Somalia",
@@ -252,11 +350,39 @@
     "url": "https://tribune.com.pk/story/2613458/economy-showing-signs-of-recovery-khawaja-asif"
   },
   {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "World News in Brief : Risky return home in Lebanon , displacement in Gaza , emergency funding for Somalia",
-    "url": "https://www.globalissues.org/news/2026/06/15/43306"
+    "title": "Как електромобилите превземат света",
+    "url": "https://classa.bg/%D1%81%D0%B2%D1%8F%D1%82/item/587860-%D0%BA%D0%B0%D0%BA-%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8%D1%82%D0%B5-%D0%BF%D1%80%D0%B5%D0%B2%D0%B7%D0%B5%D0%BC%D0%B0%D1%82-%D1%81%D0%B2%D0%B5%D1%82%D0%B0"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "No guarantee of inflation peaking any time soon , Kearney warns",
+    "url": "https://www.businessday.co.za/business-times/2026-06-20-no-guarantee-of-inflation-peaking-any-time-soon-kearney-warns/"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "Nigerian Marketers Import Dangote Fuel Via Lome Hub",
+    "url": "https://punchng.com/nigerian-marketers-import-dangote-fuel-via-lome-hub/"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Six Weeks to Respond . Eight African ... ",
+    "url": "https://africa.com/six-weeks-to-respond-eight-african-economies-in-washingtons-crosshairs/"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "South Africa consumer inflation accelerated further in May",
+    "url": "https://www.cnbcafrica.com/media/7781709993782/south-africas-consumer-inflation-accelerated-further-in-may"
   },
   {
     "country": "South Sudan",
@@ -301,6 +427,62 @@
     "url": "https://www.rte.ie/news/business/2026/0611/1577961-world-bank-lowers-global-growth/"
   },
   {
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "  أدوية لا تصل .. وحياة لا تعود : كيف تخنق الحروب السلاسل الدوائية العالمية  ",
+    "url": "https://sudanile.com/%D8%A3%D8%AF%D9%88%D9%8A%D8%A9-%D9%84%D8%A7-%D8%AA%D8%B5%D9%84-%D9%88%D8%AD%D9%8A%D8%A7%D8%A9-%D9%84%D8%A7-%D8%AA%D8%B9%D9%88%D8%AF-%D9%83%D9%8A%D9%81-%D8%AA%D8%AE%D9%86%D9%82-%D8%A7%D9%84%D8%AD/"
+  },
+  {
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "وزير الطاقة السوداني للجزيرة نت .. فتح هرمز يدعم استيراد الوقود وسعر الصرف",
+    "url": "https://www.aljazeera.net/ebusiness/2026/6/18/sudanese-energy-hormuz-fuel"
+  },
+  {
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "لماذا تكثف قوات الدعم السريع قصف مدينة الأبيض ؟ ",
+    "url": "https://www.aljazeera.net/politics/2026/6/18/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D9%83%D8%AB%D9%81-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9-%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%8A%D9%86%D8%A9"
+  },
+  {
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Double your donation to children in crisis",
+    "url": "https://www.unicef.org.au/donate/it-starts-with-you-matched"
+  },
+  {
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Millions in Arab , Muslim countries face hunger crisis : UN",
+    "url": "https://www.arabnews.com/node/2647614/middle-east"
+  },
+  {
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Iran War pushes world towards food crisis",
+    "url": "https://marxist.com/iran-war-pushes-world-towards-food-crisis.htm"
+  },
+  {
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "How the 2026 / 27 budget will affect you - The Observer Media Ltd",
+    "url": "https://observer.ug/viewpoint/how-the-2026-27-budget-will-affect-you/"
+  },
+  {
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Kenijā arvien populārāki kļūst elektriskie motocikli",
+    "url": "https://www.lsm.lv/raksts/zinas/ekonomika/20.06.2026-kenija-arvien-popularaki-klust-elektriskie-motocikli.a652296/"
+  },
+  {
     "country": "Uganda",
     "query": "Uganda fuel prices",
     "reason": "no fuel-price keyword in title/summary",
@@ -327,26 +509,5 @@
     "reason": "target country not found in title/summary/url and source is not a known country source",
     "title": "Fuel hikes set stage for India - China collab on e - mobility",
     "url": "https://www.eco-business.com/news/fuel-hikes-set-stage-for-india-china-collab-on-e-mobility/"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Activistas ugandesas defienden el ecofeminismo",
-    "url": "https://es.globalvoices.org/2026/06/15/activistas-ugandesas-defienden-el-ecofeminismo/"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "  An Insult to Kenyan : Opposition Tears Into Ruto Over Latest Fuel Price Cut",
-    "url": "https://nairobiwire.com/2026/06/united-opposition-fuel-cut-insult-ruto-prosecution-2027-kenya.html"
-  },
-  {
-    "country": "Zimbabwe",
-    "query": "Zimbabwe fuel prices ZERA",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Renewable Energy Policy boon for investment in power sector - The Zimbabwe Independent",
-    "url": "https://www.theindependent.co.zw/news/article/15732/renewable-energy-policy-boon-for-investment-in-power-sector"
   }
 ]
