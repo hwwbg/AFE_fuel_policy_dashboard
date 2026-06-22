@@ -1,5 +1,47 @@
 [
   {
+    "id": "south-africa-2026-06-22-massive-july-fuel-price-cuts-on-the-cards-for-239b056c",
+    "date": "2026-06-22",
+    "country": "South Africa",
+    "iso3": "ZAF",
+    "headline": "Massive July fuel price cuts on the cards for South Africa motorists",
+    "summary": "Massive July fuel price cuts on the cards for South Africa motorists",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price decrease",
+    "magnitude": "Not extracted automatically",
+    "source_name": "thesouthafrican.com",
+    "source_url": "https://thesouthafrican.com",
+    "article_url": "https://www.thesouthafrican.com/news/massive-july-fuel-price-cuts-on-the-cards-for-south-africas-motorists/",
+    "source_domain": "thesouthafrican.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-22",
+    "gdelt_query": "South Africa fuel price petrol diesel"
+  },
+  {
+    "id": "zimbabwe-2026-06-22-fuel-cheats-in-zera-crosshairs-as-crackdown-b-154a9f7c",
+    "date": "2026-06-22",
+    "country": "Zimbabwe",
+    "iso3": "ZWE",
+    "headline": "Fuel cheats in Zera crosshairs as crackdown begins - Newsday Zimbabwe",
+    "summary": "Fuel cheats in Zera crosshairs as crackdown begins - Newsday Zimbabwe",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "newsday.co.zw",
+    "source_url": "https://newsday.co.zw",
+    "article_url": "https://www.newsday.co.zw/local-news/article/200057393/fuel-cheats-in-zera-crosshairs-as-crackdown-begins",
+    "source_domain": "newsday.co.zw",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-22",
+    "gdelt_query": "Zimbabwe fuel prices ZERA"
+  },
+  {
     "id": "malawi-2026-06-19-fuel-price-cut-a-mockery-namiwa-8536dd2a",
     "date": "2026-06-19",
     "country": "Malawi",
