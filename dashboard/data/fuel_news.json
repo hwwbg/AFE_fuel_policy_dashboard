@@ -1,5 +1,47 @@
 [
   {
+    "id": "south-sudan-2026-06-24-court-suspends-pacific-petroleum-fuel-import-ff700ec1",
+    "date": "2026-06-24",
+    "country": "South Sudan",
+    "iso3": "SSD",
+    "headline": "Court suspends Pacific Petroleum fuel import monopoly",
+    "summary": "Court suspends Pacific Petroleum fuel import monopoly",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "eyeradio.org",
+    "source_url": "https://eyeradio.org",
+    "article_url": "https://www.eyeradio.org/court-suspends-pacific-petroleum-fuel-import-monopoly/",
+    "source_domain": "eyeradio.org",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-24",
+    "gdelt_query": "South Sudan fuel prices"
+  },
+  {
+    "id": "zimbabwe-2026-06-23-fuel-cheats-in-zera-crosshairs-as-crackdown-b-a8302a09",
+    "date": "2026-06-23",
+    "country": "Zimbabwe",
+    "iso3": "ZWE",
+    "headline": "Fuel cheats in Zera crosshairs as crackdown begins",
+    "summary": "Fuel cheats in Zera crosshairs as crackdown begins",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "zimbabwesituation.com",
+    "source_url": "https://zimbabwesituation.com",
+    "article_url": "https://www.zimbabwesituation.com/news/fuel-cheats-in-zera-crosshairs-as-crackdown-begins/",
+    "source_domain": "zimbabwesituation.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-24",
+    "gdelt_query": "Zimbabwe fuel prices ZERA"
+  },
+  {
     "id": "south-africa-2026-06-22-massive-july-fuel-price-cuts-on-the-cards-for-239b056c",
     "date": "2026-06-22",
     "country": "South Africa",
