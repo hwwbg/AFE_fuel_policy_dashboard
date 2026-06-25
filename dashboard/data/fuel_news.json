@@ -21,6 +21,27 @@
     "gdelt_query": "South Sudan fuel prices"
   },
   {
+    "id": "south-sudan-2026-06-24-court-of-appeal-suspends-kenya-south-sudan-fu-9bdbeabf",
+    "date": "2026-06-24",
+    "country": "South Sudan",
+    "iso3": "SSD",
+    "headline": "Court of Appeal suspends Kenya – South Sudan fuel deal",
+    "summary": "Court of Appeal suspends Kenya – South Sudan fuel deal",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "eyeradio.org",
+    "source_url": "https://eyeradio.org",
+    "article_url": "https://www.eyeradio.org/court-of-appeal-suspends-kenya-south-sudan-fuel-deal/",
+    "source_domain": "eyeradio.org",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-25",
+    "gdelt_query": "South Sudan fuel prices"
+  },
+  {
     "id": "zimbabwe-2026-06-23-fuel-cheats-in-zera-crosshairs-as-crackdown-b-a8302a09",
     "date": "2026-06-23",
     "country": "Zimbabwe",
