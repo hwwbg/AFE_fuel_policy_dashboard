@@ -1,5 +1,47 @@
 [
   {
+    "id": "south-africa-2026-06-29-south-africa-this-week-electricity-tariff-inc-31f29f40",
+    "date": "2026-06-29",
+    "country": "South Africa",
+    "iso3": "ZAF",
+    "headline": "South Africa this week : Electricity tariff increase , planned protest and fuel drop",
+    "summary": "South Africa this week : Electricity tariff increase , planned protest and fuel drop",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price increase",
+    "magnitude": "Not extracted automatically",
+    "source_name": "thesouthafrican.com",
+    "source_url": "https://thesouthafrican.com",
+    "article_url": "https://www.thesouthafrican.com/news/south-africa-this-week-electricity-tariff-increase-planned-protest-and-fuel-drop/",
+    "source_domain": "thesouthafrican.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-29",
+    "gdelt_query": "South Africa fuel price petrol diesel"
+  },
+  {
+    "id": "uganda-2026-06-29-uganda-how-eco-stoves-slashed-polland-food-ce-beeccdc9",
+    "date": "2026-06-29",
+    "country": "Uganda",
+    "iso3": "UGA",
+    "headline": "Uganda : How Eco - Stoves Slashed Polland Food Centre Fuel Costs",
+    "summary": "Uganda : How Eco - Stoves Slashed Polland Food Centre Fuel Costs",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price decrease",
+    "magnitude": "Not extracted automatically",
+    "source_name": "allafrica.com",
+    "source_url": "https://allafrica.com",
+    "article_url": "https://allafrica.com/stories/202606290107.html",
+    "source_domain": "allafrica.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-06-29",
+    "gdelt_query": "Uganda fuel prices"
+  },
+  {
     "id": "south-sudan-2026-06-24-court-suspends-pacific-petroleum-fuel-import-ff700ec1",
     "date": "2026-06-24",
     "country": "South Sudan",
