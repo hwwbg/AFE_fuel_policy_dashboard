@@ -1,5 +1,26 @@
 [
   {
+    "id": "kenya-2026-06-30-kenya-inflation-eases-to-6-4pc-as-fuel-power-b07c7875",
+    "date": "2026-06-30",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "Kenya inflation eases to 6 . 4pc as fuel , power costs fall – Capital FM Kenya",
+    "summary": "Kenya inflation eases to 6 . 4pc as fuel , power costs fall – Capital FM Kenya",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "capitalfm.africa",
+    "source_url": "https://capitalfm.africa",
+    "article_url": "https://capitalfm.africa/kenyas-inflation-eases-to-6-4pc-as-fuel-power-costs-fall/",
+    "source_domain": "capitalfm.africa",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-07-01",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
     "id": "south-africa-2026-06-29-south-africa-this-week-electricity-tariff-inc-31f29f40",
     "date": "2026-06-29",
     "country": "South Africa",
