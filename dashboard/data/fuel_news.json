@@ -1,5 +1,26 @@
 [
   {
+    "id": "south-sudan-2026-07-06-juba-court-set-to-hear-south-sudan-kenya-fuel-1e157a2a",
+    "date": "2026-07-06",
+    "country": "South Sudan",
+    "iso3": "SSD",
+    "headline": "Juba Court set to hear South Sudan - Kenya fuel deal case on Tuesday",
+    "summary": "Juba Court set to hear South Sudan - Kenya fuel deal case on Tuesday",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "eyeradio.org",
+    "source_url": "https://eyeradio.org",
+    "article_url": "https://www.eyeradio.org/juba-court-set-to-hear-south-sudan-kenya-fuel-deal-case-on-tuesday/",
+    "source_domain": "eyeradio.org",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-07-07",
+    "gdelt_query": "South Sudan fuel prices"
+  },
+  {
     "id": "south-sudan-2026-07-05-juba-court-set-to-hear-fuel-monopoly-case-on-294a779b",
     "date": "2026-07-05",
     "country": "South Sudan",
