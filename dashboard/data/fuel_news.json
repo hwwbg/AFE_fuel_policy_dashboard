@@ -1,5 +1,47 @@
 [
   {
+    "id": "south-africa-2026-07-09-south-africa-diesel-relief-shrinks-fast-as-tr-18e5e536",
+    "date": "2026-07-09",
+    "country": "South Africa",
+    "iso3": "ZAF",
+    "headline": "South Africa : Diesel Relief Shrinks Fast As Trump Iran Comments Hit Fuel Data",
+    "summary": "South Africa : Diesel Relief Shrinks Fast As Trump Iran Comments Hit Fuel Data",
+    "products": [
+      "diesel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "allafrica.com",
+    "source_url": "https://allafrica.com",
+    "article_url": "https://allafrica.com/stories/202607090513.html",
+    "source_domain": "allafrica.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-07-10",
+    "gdelt_query": "South Africa fuel price petrol diesel"
+  },
+  {
+    "id": "zimbabwe-2026-07-09-fuel-prices-marginally-go-down-newsday-zimbab-d78f09e5",
+    "date": "2026-07-09",
+    "country": "Zimbabwe",
+    "iso3": "ZWE",
+    "headline": "Fuel prices marginally go down - Newsday Zimbabwe",
+    "summary": "Fuel prices marginally go down - Newsday Zimbabwe",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "newsday.co.zw",
+    "source_url": "https://newsday.co.zw",
+    "article_url": "https://www.newsday.co.zw/local-news/article/200058130/undefined",
+    "source_domain": "newsday.co.zw",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-07-10",
+    "gdelt_query": "Zimbabwe fuel prices ZERA"
+  },
+  {
     "id": "south-sudan-2026-07-06-juba-court-set-to-hear-south-sudan-kenya-fuel-1e157a2a",
     "date": "2026-07-06",
     "country": "South Sudan",

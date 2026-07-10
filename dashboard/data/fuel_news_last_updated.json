@@ -1,14 +1,14 @@
 {
-  "last_refreshed_utc": "2026-07-08T10:26:49+00:00",
+  "last_refreshed_utc": "2026-07-10T11:11:02+00:00",
   "source": "GDELT DOC 2.0 API",
   "registry": "/home/runner/work/AFE_fuel_policy_dashboard/AFE_fuel_policy_dashboard/dashboard/data/afe_fuel_news_media_source_registry.json",
   "days_searched": 21,
   "queries_per_country": 1,
-  "items_written": 103,
-  "new_items_found_this_run": 3,
+  "items_written": 105,
+  "new_items_found_this_run": 6,
   "existing_items_checked": 103,
   "existing_items_dropped_by_quality_filter": 0,
-  "query_errors_count": 12,
+  "query_errors_count": 9,
   "errors": [
     {
       "country": "Burundi",
@@ -16,8 +16,13 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Democratic Republic of Congo",
-      "query": "Democratic Republic of Congo RDC prix carburant",
+      "country": "Eritrea",
+      "query": "Eritrea fuel price",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "country": "Eswatini",
+      "query": "Eswatini fuel price increase",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -31,14 +36,9 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Mauritius",
-      "query": "Mauritius prix carburant",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
       "country": "Rwanda",
       "query": "Rwanda fuel prices RURA",
-      "error": "<urlopen error timed out>"
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "country": "Sao Tome and Principe",
@@ -46,29 +46,14 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "South Africa",
-      "query": "South Africa fuel price petrol diesel",
+      "country": "Tanzania",
+      "query": "Tanzania fuel prices EWURA",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "South Sudan",
-      "query": "South Sudan fuel prices",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "country": "Sudan",
-      "query": "Sudan fuel prices",
+      "country": "Uganda",
+      "query": "Uganda fuel prices",
       "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "country": "Zambia",
-      "query": "Zambia fuel prices ERB",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "country": "Zimbabwe",
-      "query": "Zimbabwe fuel prices ZERA",
-      "error": "<urlopen error _ssl.c:999: The handshake operation timed out>"
     }
   ],
   "rejected_sample_file": "/home/runner/work/AFE_fuel_policy_dashboard/AFE_fuel_policy_dashboard/dashboard/data/fuel_news_rejected.json",
