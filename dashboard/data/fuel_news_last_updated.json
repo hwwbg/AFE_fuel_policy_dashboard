@@ -1,43 +1,33 @@
 {
-  "last_refreshed_utc": "2026-07-10T11:11:02+00:00",
+  "last_refreshed_utc": "2026-07-12T09:58:45+00:00",
   "source": "GDELT DOC 2.0 API",
   "registry": "/home/runner/work/AFE_fuel_policy_dashboard/AFE_fuel_policy_dashboard/dashboard/data/afe_fuel_news_media_source_registry.json",
   "days_searched": 21,
   "queries_per_country": 1,
   "items_written": 105,
-  "new_items_found_this_run": 6,
-  "existing_items_checked": 103,
+  "new_items_found_this_run": 1,
+  "existing_items_checked": 105,
   "existing_items_dropped_by_quality_filter": 0,
-  "query_errors_count": 9,
+  "query_errors_count": 7,
   "errors": [
-    {
-      "country": "Burundi",
-      "query": "Burundi fuel price",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "country": "Eritrea",
-      "query": "Eritrea fuel price",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "country": "Eswatini",
-      "query": "Eswatini fuel price increase",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
     {
       "country": "Ethiopia",
       "query": "Ethiopia fuel prices",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Kenya",
-      "query": "Kenya fuel prices EPRA",
+      "country": "Lesotho",
+      "query": "Lesotho fuel prices",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "country": "Malawi",
+      "query": "Malawi fuel prices MERA",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Rwanda",
-      "query": "Rwanda fuel prices RURA",
+      "country": "Namibia",
+      "query": "Namibia fuel prices",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -46,14 +36,14 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Tanzania",
-      "query": "Tanzania fuel prices EWURA",
+      "country": "Somalia",
+      "query": "Somalia fuel prices",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Uganda",
-      "query": "Uganda fuel prices",
-      "error": "HTTP Error 429: Too Many Requests"
+      "country": "Zimbabwe",
+      "query": "Zimbabwe fuel prices ZERA",
+      "error": "<urlopen error _ssl.c:999: The handshake operation timed out>"
     }
   ],
   "rejected_sample_file": "/home/runner/work/AFE_fuel_policy_dashboard/AFE_fuel_policy_dashboard/dashboard/data/fuel_news_rejected.json",

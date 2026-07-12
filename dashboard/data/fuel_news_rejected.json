@@ -2,6 +2,20 @@
   {
     "country": "Angola",
     "query": "Angola fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "İran savaşının sürpriz kazananı : Afrikanın en zengini - Hürriyet Son Dakika Haberler",
+    "url": "https://www.hurriyet.com.tr/dunya/iran-savasinin-surpriz-kazanani-afrikanin-en-zengini-43235457"
+  },
+  {
+    "country": "Angola",
+    "query": "Angola fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Boosting Africa financial independence",
+    "url": "https://www.cnbcafrica.com/media/7783683126310/boosting-africas-financial-independence"
+  },
+  {
+    "country": "Angola",
+    "query": "Angola fuel price",
     "reason": "target country not found in title/summary/url and source is not a known country source",
     "title": "African countries with the cheapest fuel in July 2026",
     "url": "https://www.thesouthafrican.com/news/africa/african-countries-with-the-cheapest-fuel-in-july-2026/"
@@ -28,32 +42,60 @@
     "url": "https://www.stcn.com/article/detail/4007350.html"
   },
   {
-    "country": "Angola",
-    "query": "Angola fuel price",
+    "country": "Botswana",
+    "query": "Botswana fuel price increase",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Plenisfer Sgr : oltre i rating , come trovare valore nel debito degli emergenti - PAROLA AL MERCATO",
-    "url": "https://www.borsaitaliana.it/borsa/notizie/radiocor/finanza/dettaglio/plenisfer-sgr-oltre-i-rating-come-trovare-valore-nel-debito-degli-emergenti-parola-al-mercato-nRC_05072026_1301_241212916.html"
+    "title": "WSJ : Dangote refinery gains from Middle East tensions as demand for products surges",
+    "url": "https://hallmarknews.com/wsj-dangote-refinery-gains-from-middle-east-tensions-as-demand-for-products-surges/"
   },
   {
-    "country": "Angola",
-    "query": "Angola fuel price",
+    "country": "Burundi",
+    "query": "Burundi fuel price",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "জুলাই হত্যা মামলায় হ - য - ব - র - ল",
-    "url": "https://www.mzamin.com/article/26405"
+    "title": "Au coeur du pays / Commune Ngozi : Lautonomisation , un pari à gagner pour les jeunes et les femmes – IWACU",
+    "url": "https://www.iwacu-burundi.org/commune-ngozi-lautonomisation-un-pari-a-gagner-pour-les-jeunes-et-les-femmes/"
   },
   {
-    "country": "Lesotho",
-    "query": "Lesotho fuel prices",
+    "country": "Burundi",
+    "query": "Burundi fuel price",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Socioeconomic impacts of the Middle East Crisis on Southern Africa",
-    "url": "https://www.cnbcafrica.com/media/7782297451571/socioeconomic-impacts-of-the-middle-east-crisis-on-southern-africa"
+    "title": "Malawi tops World Bank Africa fiscal deficit rankings",
+    "url": "https://mwnation.com/malawi-tops-world-banks-africa-fiscal-deficit-rankings/"
   },
   {
-    "country": "Malawi",
-    "query": "Malawi fuel prices MERA",
+    "country": "Burundi",
+    "query": "Burundi fuel price",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Malawi economy shows mixed signals",
-    "url": "https://www.maravipost.com/malawis-economy-shows-mixed-signals/"
+    "title": "Chronique sur les messages de haine : La vérité , un rempart contre les rumeurs et les messages de haine",
+    "url": "https://www.iwacu-burundi.org/chronique-sur-les-messages-de-haine-la-verite-un-rempart-contre-les-rumeurs-et-les-messages-de-haine/"
+  },
+  {
+    "country": "Burundi",
+    "query": "Burundi fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "ما دور الصين في تحول مجال الطاقة بأفريقيا ؟ ",
+    "url": "https://ar.globalvoices.org/2026/06/28/93969/"
+  },
+  {
+    "country": "Eritrea",
+    "query": "Eritrea fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "전력 끊긴 쿠바 , 유엔서 미국 봉쇄 맹비난 … 70년간 무자비한 범죄  ",
+    "url": "https://www.hani.co.kr/arti/international/america/1267351.html"
+  },
+  {
+    "country": "Eritrea",
+    "query": "Eritrea fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "الاسترداد العسكري وتأمين الحدود السودانية",
+    "url": "https://sudanile.com/%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D9%88%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D8%B3%D9%88/"
+  },
+  {
+    "country": "Eritrea",
+    "query": "Eritrea fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "World Perspectives : Trump 2 . 0 Plunged Into Irreversible Crisis Step Up The Global Fightback",
+    "url": "https://www.socialistalternative.org/2026/06/24/world-perspectives-trump-2-0-plunged-into-irreversible-crisis-step-up-the-global-fightback/"
   },
   {
     "country": "Mozambique",
@@ -98,48 +140,6 @@
     "url": "https://punchng.com/dangote-breaks-ground-on-17bn-kenya-refinery/"
   },
   {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Kiderült , ki az iráni háború egyik legnagyobb nyertese , akinek szép csendben dollármilliárdokat ugrott a vagyona",
-    "url": "https://www.portfolio.hu/befektetes/20260710/kiderult-ki-az-irani-haboru-egyik-legnagyobb-nyertese-akinek-szep-csendben-dollarmilliardokat-ugrott-a-vagyona-848720"
-  },
-  {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Fuel Drops Put Money Back in Pockets | Namib Times Newspaper",
-    "url": "https://www.namibtimes.net/fuel-drops-put-money-back-in-pockets/"
-  },
-  {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Changan targets Namibia and Zambia from SA hub but holds back on localisation",
-    "url": "https://www.businessday.co.za/companies/2026-07-06-changan-targets-namibia-and-zambia-from-sa-hub-but-holds-back-on-localisation/"
-  },
-  {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Oil shock weighs on African economies , weakens 2026 growth outlook",
-    "url": "https://sana.sy/en/economic/2327573/"
-  },
-  {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Europe nuclear reality : Why breaking free from Russia will take decades , not declarations",
-    "url": "https://weeklyblitz.net/2026/07/06/europes-nuclear-reality-why-breaking-free-from-russia-will-take-decades-not-declarations/"
-  },
-  {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Malawi tops World Bank Africa fiscal deficit rankings",
-    "url": "https://mwnation.com/malawi-tops-world-banks-africa-fiscal-deficit-rankings/"
-  },
-  {
     "country": "Seychelles",
     "query": "Seychelles fuel prices",
     "reason": "no fuel-price keyword in title/summary",
@@ -168,53 +168,18 @@
     "url": "https://www.prnewswire.com/news-releases/octrado-the-war-has-sent-the-gulf-cooperation-council-into-recession-302810576.html"
   },
   {
-    "country": "Seychelles",
-    "query": "Seychelles fuel prices",
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Куда рвутся в отпуск россияне этим летом",
-    "url": "https://pronedra.ru/kurort-bronenosecz-kak-rossiyane-vybirayut-otpusk-letom-2026-goda-821240.html"
+    "title": "İran savaşının sürpriz kazananı : Afrikanın en zengini - Hürriyet Son Dakika Haberler",
+    "url": "https://www.hurriyet.com.tr/dunya/iran-savasinin-surpriz-kazanani-afrikanin-en-zengini-43235457"
   },
   {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "World Bank Calls for Urgent Anti - Corruption Reforms in Kenya to Unlock $750 Million Lending Package – Ghanamma . com",
-    "url": "https://www.ghanamma.com/2026/07/09/world-bank-calls-for-urgent-anti-corruption-reforms-in-kenya-to-unlock-750-million-lending-package/"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "African Development Bank Brokers Zambia Debt - for - Energy Swap",
-    "url": "https://foreignpolicy.com/2026/07/08/zambia-debt-swap-economics-energy-power-copper/"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Iran Conflict : Food Sector 8 Biggest Casualties",
-    "url": "https://www.foodnavigator-usa.com/Article/2026/07/06/iran-conflict-food-sectors-8-biggest-casualties/"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Iran Conflict : Food Sector 8 Biggest Casualties",
-    "url": "https://www.foodmanufacture.co.uk/Article/2026/07/06/iran-conflict-food-sectors-8-biggest-casualties/"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Iran Conflict : Food Sector 8 Biggest Casualties",
-    "url": "https://www.foodnavigator-asia.com/Article/2026/07/06/iran-conflict-food-sectors-8-biggest-casualties/"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "How a fertilizer shortage caused by the Iran war could affect US food prices",
-    "url": "https://laist.com/news/how-a-fertilizer-shortage-caused-by-the-iran-war-could-affect-us-food-prices"
+    "title": "Stranded oil tankers finally reach Spore after months stuck in Mid - East amid US - Iran tension",
+    "url": "https://www.hellenicshippingnews.com/stranded-oil-tankers-finally-reach-spore-after-months-stuck-in-mid-east-amid-us-iran-tension/"
   },
   {
     "country": "South Africa",
@@ -245,11 +210,32 @@
     "url": "https://gazeta-pravda.ru/issue/73-31854-1013-iyulya-2026-goda-/borba-s-inflyatsiey-ubivaet-ekonomiku-rossii/"
   },
   {
-    "country": "South Africa",
-    "query": "South Africa fuel price petrol diesel",
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "South Africa economic activity slips in June – Ghanamma . com",
-    "url": "https://www.ghanamma.com/2026/07/08/south-africas-economic-activity-slips-in-june/"
+    "title": " ( وسائط متعددة ) تحقيق ميداني : الأردن وسوريا يعودان لحصد القمح والسودان يعزز إنتاج المانجو لمواجهة تحديات سلاسل الإمداد",
+    "url": "http://arabic.news.cn/20260711/8e0df2bd157c40c29e1fd88624ed991e/c.html"
+  },
+  {
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "تحقيق ميداني : الأردن وسوريا يعودان لحصد القمح والسودان يعزز إنتاج المانجو لمواجهة تحديات سلاسل الإمداد",
+    "url": "https://alanbatnews.net/article/480011"
+  },
+  {
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "كيف تعيد الحرب في إيران رسم الخريطة الجيوسياسية لأفريقيا ؟ ",
+    "url": "https://www.aljazeera.net/news/2026/7/11/%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D8%B9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%83%D9%8A%D9%81-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%B1%D8%B3%D9%85"
+  },
+  {
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Dopo tre anni di guerra civile , in Sudan è tutto fermo",
+    "url": "https://www.ilpost.it/2026/04/15/sudan-quarto-anno-guerra-civile/?homepagePosition=25.1&referrerPost=3626367"
   },
   {
     "country": "South Sudan",
@@ -266,73 +252,94 @@
     "url": "https://www.ilpost.it/2026/04/15/sudan-quarto-anno-guerra-civile/?homepagePosition=12.1&referrerPost=3626367"
   },
   {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "South Africa Xenophobia Crisis Empties a Region",
-    "url": "https://www.riotimesonline.com/the-silence-of-the-expelled-south-africa-s-xenophobia-2026-07-09/"
+    "title": " ( وسائط متعددة ) تحقيق ميداني : الأردن وسوريا يعودان لحصد القمح والسودان يعزز إنتاج المانجو لمواجهة تحديات سلاسل الإمداد",
+    "url": "http://arabic.news.cn/20260711/8e0df2bd157c40c29e1fd88624ed991e/c.html"
   },
   {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Dopo tre anni di guerra civile , in Sudan è tutto fermo",
-    "url": "https://www.ilpost.it/2026/04/15/sudan-quarto-anno-guerra-civile/?homepagePosition=11.1&referrerPost=3626367"
+    "title": "تحقيق ميداني : الأردن وسوريا يعودان لحصد القمح والسودان يعزز إنتاج المانجو لمواجهة تحديات سلاسل الإمداد",
+    "url": "https://alanbatnews.net/article/480011"
   },
   {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "African Development Bank Brokers Zambia Debt - for - Energy Swap",
-    "url": "https://foreignpolicy.com/2026/07/08/zambia-debt-swap-economics-energy-power-copper/"
+    "title": "The Past Five Years In The Eyes Of Outgoing MPs , Administration Vision For The Coming Five",
+    "url": "https://www.thereporterethiopia.com/51779/"
   },
   {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Controversies surrounding Royal Dutch Shell – Royal Dutch Shell Plc . com",
-    "url": "https://royaldutchshellplc.com/2010/09/27/controversies-surrounding-royal-dutch-shell-2/"
+    "title": "كيف تعيد الحرب في إيران رسم الخريطة الجيوسياسية لأفريقيا ؟ ",
+    "url": "https://www.aljazeera.net/news/2026/7/11/%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D8%B9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%83%D9%8A%D9%81-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%B1%D8%B3%D9%85"
+  },
+  {
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Nato summit : How a fractured alliance is fuelling a permanent war economy",
+    "url": "https://www.middleeasteye.net/opinion/nato-summit-how-fractured-alliance-fuelling-permanent-war-economy"
   },
   {
     "country": "Sudan",
     "query": "Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
     "title": "Dopo tre anni di guerra civile , in Sudan è tutto fermo",
-    "url": "https://www.ilpost.it/2026/04/15/sudan-quarto-anno-guerra-civile/?homepagePosition=14.1&referrerPost=3626367"
+    "url": "https://www.ilpost.it/2026/04/15/sudan-quarto-anno-guerra-civile/?homepagePosition=25.1&referrerPost=3626367"
   },
   {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
+    "country": "Tanzania",
+    "query": "Tanzania fuel prices EWURA",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Dopo tre anni di guerra civile , in Sudan è tutto fermo",
-    "url": "https://www.ilpost.it/2026/04/15/sudan-quarto-anno-guerra-civile/?homepagePosition=12.1&referrerPost=3626367"
+    "title": "Tanzania confirms oil prices drop in July",
+    "url": "https://dailynews.co.tz/tanzania-confirms-oil-prices-drop-in-july/"
   },
   {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "South Africa Xenophobia Crisis Empties a Region",
-    "url": "https://www.riotimesonline.com/the-silence-of-the-expelled-south-africa-s-xenophobia-2026-07-09/"
+    "title": "Uganda : How Radio Is Changing Farming Methods in Northern Uganda",
+    "url": "https://allafrica.com/stories/202607100071.html"
   },
   {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Dopo tre anni di guerra civile , in Sudan è tutto fermo",
-    "url": "https://www.ilpost.it/2026/04/15/sudan-quarto-anno-guerra-civile/?homepagePosition=11.1&referrerPost=3626367"
+    "title": "World Bank Calls for Urgent Anti - Corruption Reforms in Kenya to Unlock $750 Million Lending Package – Ghanamma . com",
+    "url": "https://www.ghanamma.com/2026/07/09/world-bank-calls-for-urgent-anti-corruption-reforms-in-kenya-to-unlock-750-million-lending-package/"
   },
   {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "African Development Bank Brokers Zambia Debt - for - Energy Swap",
-    "url": "https://foreignpolicy.com/2026/07/08/zambia-debt-swap-economics-energy-power-copper/"
+    "title": "Gulf tensions : Oil rallies after end to Iran ceasefire",
+    "url": "https://www.cnbcafrica.com/media/7783522786184/gulf-tensions-oil-rallies-after-end-to-iran-ceasefire-"
   },
   {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Climate Change Threatens NATO Future",
-    "url": "https://foreignpolicy.com/2026/07/08/nato-heat-climate-change/?tpcc=recirc_trending062921"
+    "title": "Top 5 Stories Of The Day | Tinubu Orders ICPC investigation into Alleged Fake PFIPC in 30 Days",
+    "url": "https://ynaija.com/top-5-stories-of-the-day-tinubu-orders-icpc-investigation-into-alleged-fake-pfipc-in-30-days/"
+  },
+  {
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Dangote Breaks Ground on $17bn Kenya Refinery Project",
+    "url": "https://punchng.com/dangote-breaks-ground-on-17bn-kenya-refinery/"
+  },
+  {
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Iran Conflict : Food Sector 8 Biggest Casualties",
+    "url": "https://www.foodnavigator-usa.com/Article/2026/07/06/iran-conflict-food-sectors-8-biggest-casualties/"
   }
 ]
