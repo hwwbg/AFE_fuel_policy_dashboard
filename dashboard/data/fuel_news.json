@@ -1,5 +1,26 @@
 [
   {
+    "id": "kenya-2026-07-15-how-fuel-prices-will-retail-in-major-towns-5f0734af",
+    "date": "2026-07-15",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "How fuel prices will retail in major towns",
+    "summary": "How fuel prices will retail in major towns",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "the-star.co.ke",
+    "source_url": "https://the-star.co.ke",
+    "article_url": "https://www.the-star.co.ke/news/2026-07-15-how-fuel-prices-will-retail-in-major-towns",
+    "source_domain": "the-star.co.ke",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-07-15",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
     "id": "south-africa-2026-07-09-south-africa-diesel-relief-shrinks-fast-as-tr-18e5e536",
     "date": "2026-07-09",
     "country": "South Africa",
