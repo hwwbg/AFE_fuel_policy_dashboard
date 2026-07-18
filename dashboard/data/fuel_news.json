@@ -1,5 +1,26 @@
 [
   {
+    "id": "somalia-2026-07-17-somaliden-sonra-ikinci-g-rev-t-rkiyeye-lkeler-63787534",
+    "date": "2026-07-17",
+    "country": "Somalia",
+    "iso3": "SOM",
+    "headline": "Somaliden sonra ikinci görev ! Türkiyeye ülkelerinde petrol aramak için yetki verdiler",
+    "summary": "Somaliden sonra ikinci görev ! Türkiyeye ülkelerinde petrol aramak için yetki verdiler",
+    "products": [
+      "gasoline"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "star.com.tr",
+    "source_url": "https://star.com.tr",
+    "article_url": "https://www.star.com.tr/ekonomi/somaliden-sonra-ikinci-gorev-turkiyeye-ulkelerinde-petrol-aramak-icin-yetki-verdiler-haber-2028532/",
+    "source_domain": "star.com.tr",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-07-18",
+    "gdelt_query": "Somalia fuel prices"
+  },
+  {
     "id": "kenya-2026-07-15-how-fuel-prices-will-retail-in-major-towns-5f0734af",
     "date": "2026-07-15",
     "country": "Kenya",
