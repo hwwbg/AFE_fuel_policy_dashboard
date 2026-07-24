@@ -1,5 +1,26 @@
 [
   {
+    "id": "seychelles-2026-07-24-seypec-shields-consumers-amid-fuel-price-shoc-62bdecd9",
+    "date": "2026-07-24",
+    "country": "Seychelles",
+    "iso3": "SYC",
+    "headline": "Seypec shields consumers amid fuel price shock",
+    "summary": "Seypec shields consumers amid fuel price shock",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price adjustment",
+    "magnitude": "Not extracted automatically",
+    "source_name": "nation.sc",
+    "source_url": "https://nation.sc",
+    "article_url": "https://www.nation.sc/articles/31637/seypec-shields-consumers-amid-fuel-price-shock",
+    "source_domain": "nation.sc",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-07-24",
+    "gdelt_query": "Seychelles fuel prices"
+  },
+  {
     "id": "somalia-2026-07-17-somaliden-sonra-ikinci-g-rev-t-rkiyeye-lkeler-63787534",
     "date": "2026-07-17",
     "country": "Somalia",
