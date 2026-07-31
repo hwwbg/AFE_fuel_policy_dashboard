@@ -1,47 +1,5 @@
 [
   {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "low-value broad domain: finance.yahoo.com",
-    "title": "Eni ( E ) Q2 2026 Earnings Call Transcript",
-    "url": "https://finance.yahoo.com/energy/articles/eni-e-q2-2026-earnings-004235758.html"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Eni va al raddoppio con i conti di metà anno . Si avvicina il dividendo extra di ottobre , il buyback sale a 3 , 4 miliardi",
-    "url": "https://www.finanzaonline.com/notizie/eni-va-al-raddoppio-con-i-conti-di-meta-anno-si-avvicina-il-dividendo-extra-di-ottobre-il-buyback-sale-a-34-miliardi"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "low-value broad domain: oilprice.com",
-    "title": "Oil Prices Extend Losses as U . S .- Iran Calm Holds for Another Night",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Extend-Losses-as-US-Iran-Calm-Holds-for-Another-Night.html"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": " 【 名家专栏 】 人工合成钻石的道德贡献",
-    "url": "https://www.epochtimes.com/gb/26/7/24/n14816727.htm"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Fighting a Losing  Ngungula  Battle - Opinion",
-    "url": "https://www.namibian.com.na/fighting-a-losing-ngungula-battle/"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "涉策劃政變與煽動致命暴動 兩名俄羅斯男子在安哥拉獲刑 | 國際",
-    "url": "https://newtalk.tw/news/view/2026-07-26/1049456"
-  },
-  {
     "country": "Botswana",
     "query": "Botswana fuel price increase",
     "reason": "no fuel-price keyword in title/summary",
@@ -63,53 +21,53 @@
     "url": "https://hallmarknews.com/wsj-dangote-refinery-gains-from-middle-east-tensions-as-demand-for-products-surges/"
   },
   {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
+    "country": "Burundi",
+    "query": "Burundi fuel price",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Uneasy pause in US - Iran conflict",
-    "url": "https://www.thestar.com.my/opinion/columnists/along-the-watchtower/2026/07/29/uneasy-pause-in-us-iran-conflict"
+    "title": "تعرف على أضعف 10 عملات أفريقية أمام الدولار",
+    "url": "https://24.ae/article/964238/%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%A3%D8%B6%D8%B9%D9%81-10-%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1"
   },
   {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
+    "country": "Burundi",
+    "query": "Burundi fuel price",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Peter Obi Bold Declaration : A Four - Year Blueprint for Nigeria Transformation and His Unwavering Commitment to a Single Term – Ghanamma . com",
-    "url": "https://www.ghanamma.com/2026/07/25/peter-obis-bold-declaration-a-four-year-blueprint-for-nigerias-transformation-and-his-unwavering-commitment-to-a-single-term/"
+    "title": "AfDB : Super El Niño May Cost Nigeria , Africa Up to $20bn , Trigger Mass Migration – THISDAYLIVE",
+    "url": "https://www.thisdaylive.com/2026/07/28/afdb-super-el-nino-may-cost-nigeria-africa-up-to-20bn-trigger-mass-migration/"
   },
   {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
-    "url": "https://www.thereporterethiopia.com/52030/"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Las tres rutas del petróleo que elevan la presión sobre los republicanos",
-    "url": "https://lasillarota.com/mundo/2026/7/24/las-tres-rutas-del-petroleo-que-elevan-la-presion-sobre-los-republicanos-609976.html"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Yemen e Irán le cierran el paso a la guerra petrolera de Trump",
-    "url": "https://www.telesurtv.net/yemen-iran-cierran-guerra-petrolera-trump/"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "The Horn Of Africa States : Gulf Banking And Finance Under The Seemingly Endless War And Its Impact On The Region - OpEd",
-    "url": "https://www.eurasiareview.com/21072026-the-horn-of-africa-states-gulf-banking-and-finance-under-the-seemingly-endless-war-and-its-impact-on-the-region-oped/"
-  },
-  {
-    "country": "Eswatini",
-    "query": "Eswatini fuel price increase",
+    "country": "Burundi",
+    "query": "Burundi fuel price",
     "reason": "no fuel-price keyword in title/summary",
     "title": "South Africa : Trump Watch - Roelf Meyer Wants Trump Afrikaner Refugee Plan Stopped",
     "url": "https://allafrica.com/stories/202607210645.html"
+  },
+  {
+    "country": "Burundi",
+    "query": "Burundi fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "The Systems - Who Controls Them , Who Benefits , and Who Pays : One Ordinary Day in One Ordinary Life",
+    "url": "https://thechronicle.com.gh/the-systems-who-controls-them-who-benefits-and-who-pays-one-ordinary-day-in-one-ordinary-life/"
+  },
+  {
+    "country": "Burundi",
+    "query": "Burundi fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Kenya : Gulf Tensions Expose Kenya to Higher Fertilizer Costs - WTO",
+    "url": "https://allafrica.com/stories/202607160249.html"
+  },
+  {
+    "country": "Burundi",
+    "query": "Burundi fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Kenya Petroleum Regulator Returns To Study Ghana Model",
+    "url": "https://www.newsghana.com.gh/kenyas-petroleum-regulator-returns-to-study-ghanas-model/"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "The Great African Float : Why Devaluation Is Failing To Deliver",
+    "url": "https://naija247news.com/the-great-african-float-why-devaluation-is-failing-to-deliver-2/"
   },
   {
     "country": "Ethiopia",
@@ -147,46 +105,39 @@
     "url": "https://www.juniorminingnetwork.com/junior-miner-news/press-releases/3290-tsx/aauc/208167-allied-gold-announces-preliminary-second-quarter-2026-operating-results.html"
   },
   {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
+    "country": "Kenya",
+    "query": "Kenya fuel prices EPRA",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Chéquia , Islândia e Espanha entre destinos europeus em alta em 2026",
-    "url": "https://pt.euronews.com/viagens/2026/07/29/chequia-islandia-e-espanha-entre-destinos-europeus-em-alta-em-2026"
+    "title": "Nairobi Businesses Set To Pay New Tariffs As KRA Changes Cargo System – Ghanamma . com",
+    "url": "https://www.ghanamma.com/2026/07/19/nairobi-businesses-set-to-pay-new-tariffs-as-kra-changes-cargo-system/"
   },
   {
-    "country": "Lesotho",
-    "query": "Lesotho fuel prices",
+    "country": "Kenya",
+    "query": "Kenya fuel prices EPRA",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Parallel Financial Systems Are Reinventing Africa Financial Landscape",
-    "url": "https://www.africa.com/business/parallel-financial-systems-are-reinventing-africas-financial-landscape"
+    "title": "Kenya Petroleum Regulator Returns To Study Ghana Model",
+    "url": "https://www.newsghana.com.gh/kenyas-petroleum-regulator-returns-to-study-ghanas-model/"
   },
   {
-    "country": "Lesotho",
-    "query": "Lesotho fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Land degradation is linked to billions in lost farm output",
-    "url": "https://marketbusinessnews.com/land-degradation-is-linked-to-billions-in-lost-farm-output/450166/"
+    "country": "Kenya",
+    "query": "Kenya fuel prices EPRA",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "EPRA keeps fuel prices unchanged in July review",
+    "url": "https://capitalfm.africa/epra-keeps-fuel-prices-unchanged-in-july-review/"
   },
   {
-    "country": "Lesotho",
-    "query": "Lesotho fuel prices",
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Divergent growth paths across META distribution",
-    "url": "https://it-online.co.za/2026/07/24/divergent-growth-paths-across-meta-distribution/"
+    "title": "Gemfields Reports $ 102 . 9 Million Auction Revenue in H1 2026",
+    "url": "https://www.diamondworld.net/news/gemfields-reports-1029-million-auction-revenue-in-h1-2026"
   },
   {
-    "country": "Lesotho",
-    "query": "Lesotho fuel prices",
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Константин Ремчуков : Несмотря на обвинения во вмешательстве в выборы , Китай присылает группы сотрудников для подготовки визита Си Цзиньпина в США в сентябре",
-    "url": "https://www.ng.ru/monitoring/2026-07-22/6_9543_monitoring.html"
-  },
-  {
-    "country": "Lesotho",
-    "query": "Lesotho fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "South Africa : Trump Watch - Roelf Meyer Wants Trump Afrikaner Refugee Plan Stopped",
-    "url": "https://allafrica.com/stories/202607210645.html"
+    "title": "Mozambique key lending rate unchanged at 9 . 25 % ",
+    "url": "https://www.cnbcafrica.com/media/7785428243778/mozambiques-key-lending-rate-unchanged-at-925-"
   },
   {
     "country": "Mozambique",
@@ -217,18 +168,11 @@
     "url": "https://www.timeslive.co.za/news/2026-07-26-us-iran-war-pause-hangs-by-a-thread/"
   },
   {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
+    "country": "Namibia",
+    "query": "Namibia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "US - Iran war pause hangs by a thread",
-    "url": "https://www.businessday.co.za/world/2026-07-26-us-iran-war-pause-hangs-by-a-thread/"
-  },
-  {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "A sharp fall in gas supplies in 2028 threatens South Africa economy : how to manage the fallout",
-    "url": "https://www.timeslive.co.za/opinion/2026-07-24-a-sharp-fall-in-gas-supplies-in-2028-threatens-south-africas-economy-how-to-manage-the-fallout/"
+    "title": "Shell ( SHEL ) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/07/30/shell-shel-q2-2026-earnings-call-transcript/?source=iedfolrf0000001"
   },
   {
     "country": "Namibia",
@@ -266,46 +210,46 @@
     "url": "https://www.nature.com/articles/d41586-026-02232-x"
   },
   {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "PM Edition : Top 10 Business Articles on LiveNews . co . nz for July 21 , 2026 – Full Text – LiveNews . co . nz",
-    "url": "https://livenews.co.nz/2026/07/21/pm-edition-top-10-business-articles-on-livenews-co-nz-for-july-21-2026-full-text/"
+    "title": "14 nations back Saudi - led alliance against Houthi Red Sea threats",
+    "url": "https://www.upi.com/Top_News/World-News/2026/07/31/saudiarabia-maritime-colation-Houthi-defense/3631785473200/"
   },
   {
-    "country": "Seychelles",
-    "query": "Seychelles fuel prices",
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "These African countries offer the lowest living costs",
-    "url": "https://www.thesouthafrican.com/news/africa/these-african-countries-offer-the-lowest-living-costs/"
+    "title": "How the Houthis helped revive Somali piracy",
+    "url": "https://www.arabnews.com/node/2652852"
   },
   {
-    "country": "Seychelles",
-    "query": "Seychelles fuel prices",
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Uma versão enganadora da história : o próximo colapso – Observador",
-    "url": "https://observador.pt/especiais/uma-versao-enganadora-da-historia-da-humanidade-parte-6-o-proximo-colapso/"
+    "title": "مضيق هرمز يربك اقتصاد أفريقيا .. من يدفع الثمن ؟ ",
+    "url": "https://www.aljazeera.net/ebusiness/2026/7/28/%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2-%D9%8A%D8%B1%D8%A8%D9%83-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-%D9%85%D9%86-%D9%8A%D8%AF%D9%81%D8%B9"
   },
   {
-    "country": "Seychelles",
-    "query": "Seychelles fuel prices",
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Cabinet Business - Thursday 23rd July 2026",
-    "url": "https://statehouse.gov.sc/news/7151/cabinet-business-thursday-23rd-july-2026"
+    "title": "AfDB : Super El Niño May Cost Nigeria , Africa Up to $20bn , Trigger Mass Migration – THISDAYLIVE",
+    "url": "https://www.thisdaylive.com/2026/07/28/afdb-super-el-nino-may-cost-nigeria-africa-up-to-20bn-trigger-mass-migration/"
   },
   {
-    "country": "Seychelles",
-    "query": "Seychelles fuel prices",
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Guerra no Médio Oriente traz mais turistas internacionais para Portugal , diz estudo",
-    "url": "https://publituris.pt/2026/07/21/guerra-no-medio-oriente-traz-mais-turistas-internacionais-para-portugal-diz-estudo"
+    "title": "Povertà infantile , lUNICEF avverte : la guerra rischia di aggravare la crisi globale",
+    "url": "https://www.interris.it/esteri/poverta-infantile-lunicef-avverte-la-guerra-rischia-di-aggravare-la-crisi-globale/"
   },
   {
-    "country": "Seychelles",
-    "query": "Seychelles fuel prices",
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Co z cenami w biurach podróży w drugiej połowie 2026 r .? Szef TUI o kondycji branży - Biznes",
-    "url": "https://www.forbes.pl/biznes/co-z-cenami-w-biurach-podrozy-w-drugiej-polowie-2026-r-szef-tui-o-kondycji-branzy/c58krcf"
+    "title": "When Two Chokepoints Close : Ethiopia Reckoning With A Red Sea In Turmoil",
+    "url": "https://www.thereporterethiopia.com/52030/"
   },
   {
     "country": "South Africa",
@@ -353,6 +297,13 @@
     "country": "Sudan",
     "query": "Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
+    "title": "14 nations back Saudi - led alliance against Houthi Red Sea threats",
+    "url": "https://www.upi.com/Top_News/World-News/2026/07/31/saudiarabia-maritime-colation-Houthi-defense/3631785473200/"
+  },
+  {
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
     "title": "ΚΚΕ : Ο ελληνικός λαός χρυσοπληρώνει υπέρογκους εξοπλισμούς για τους ευρωατλαντικούς σχεδιασμούς – Η « σταθερότητα » σημαίνει « πολεμική εμπλοκή , ανασφάλεια και ακρίβεια » ",
     "url": "https://www.topontiki.gr/2026/07/30/kke-o-ellinikos-laos-chrisoplironi-iperogkous-exoplismous-gia-tous-evroatlantikous-schediasmous-i-statherotita-simeni-polemiki-emploki-anasfalia-ke-akrivia/"
   },
@@ -383,12 +334,5 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "Ratovi , a sada i El Ninjo , mogli bi da izazovu glad u svetu",
     "url": "https://www.dw.com/sr/ratovi-a-sada-i-el-ninjo-mogli-bi-da-izazovu-glad-u-svetu/a-78159878"
-  },
-  {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Ratovi - a sad i El Nino bi lako mogli izazvati glad",
-    "url": "https://www.dw.com/hr/ratovi-a-sad-i-el-nino-bi-lako-mogli-izazvati-glad-u-svijetu/a-78154207"
   }
 ]
