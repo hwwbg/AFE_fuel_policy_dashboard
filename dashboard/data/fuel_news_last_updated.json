@@ -1,5 +1,5 @@
 {
-  "last_refreshed_utc": "2026-07-31T10:46:22+00:00",
+  "last_refreshed_utc": "2026-08-01T10:07:35+00:00",
   "source": "GDELT DOC 2.0 API",
   "registry": "/home/runner/work/AFE_fuel_policy_dashboard/AFE_fuel_policy_dashboard/dashboard/data/afe_fuel_news_media_source_registry.json",
   "days_searched": 21,
@@ -8,31 +8,31 @@
   "new_items_found_this_run": 1,
   "existing_items_checked": 108,
   "existing_items_dropped_by_quality_filter": 0,
-  "query_errors_count": 8,
+  "query_errors_count": 7,
   "errors": [
     {
-      "country": "Angola",
-      "query": "Angola fuel price",
+      "country": "Botswana",
+      "query": "Botswana fuel price increase",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Eritrea",
-      "query": "Eritrea fuel price",
+      "country": "Burundi",
+      "query": "Burundi fuel price",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Eswatini",
-      "query": "Eswatini fuel price increase",
+      "country": "Comoros",
+      "query": "Comoros Comores prix carburant",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Lesotho",
-      "query": "Lesotho fuel prices",
+      "country": "Kenya",
+      "query": "Kenya fuel prices EPRA",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Seychelles",
-      "query": "Seychelles fuel prices",
+      "country": "South Africa",
+      "query": "South Africa fuel price petrol diesel",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -41,13 +41,8 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Tanzania",
-      "query": "Tanzania fuel prices EWURA",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "country": "Uganda",
-      "query": "Uganda fuel prices",
+      "country": "Zimbabwe",
+      "query": "Zimbabwe fuel prices ZERA",
       "error": "HTTP Error 429: Too Many Requests"
     }
   ],
