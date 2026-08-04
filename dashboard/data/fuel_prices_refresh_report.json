@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-03T10:07:47+00:00",
+  "updated_utc": "2026-08-04T09:10:31+00:00",
   "status": "ok",
   "hard_failures": [],
   "manual_countries": [
@@ -24,7 +24,7 @@
       "source_name": "Energy & Petroleum Regulatory Authority (EPRA)",
       "source_url": "https://www.epra.go.ke/pump-prices/",
       "status": "warning",
-      "message": "ConnectTimeout: HTTPSConnectionPool(host='www.epra.go.ke', port=443): Max retries exceeded with url: /pump-prices/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.epra.go.ke', port=443) at 0x7f32797c1910>, 'Connection to www.epra.go.ke timed out. (connect timeout=60)'))",
+      "message": "ConnectTimeout: HTTPSConnectionPool(host='www.epra.go.ke', port=443): Max retries exceeded with url: /pump-prices/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.epra.go.ke', port=443) at 0x7f59095af490>, 'Connection to www.epra.go.ke timed out. (connect timeout=60)'))",
       "observations_found": 0,
       "observations_added": 0
     },
@@ -34,7 +34,7 @@
       "source_name": "Energy & Water Utilities Regulatory Authority (EWURA)",
       "source_url": "https://www.ewura.go.tz/faqs/petroleum-fuel-prices",
       "status": "warning",
-      "message": "EWURA page loaded but no price table found.",
+      "message": "ReadTimeout: HTTPSConnectionPool(host='www.ewura.go.tz', port=443): Read timed out. (read timeout=60)",
       "observations_found": 0,
       "observations_added": 0
     },
@@ -54,7 +54,7 @@
       "source_name": "Dept. of Mineral Resources & Energy (DMRE)",
       "source_url": "https://www.dmre.gov.za/energy-resources/energy-sources/pretoleum/petrol-price-archive",
       "status": "warning",
-      "message": "ConnectTimeout: HTTPSConnectionPool(host='www.dmre.gov.za', port=443): Max retries exceeded with url: /energy-resources/energy-sources/pretoleum/petrol-price-archive (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dmre.gov.za', port=443) at 0x7f3279483510>, 'Connection to www.dmre.gov.za timed out. (connect timeout=60)'))",
+      "message": "ConnectTimeout: HTTPSConnectionPool(host='www.dmre.gov.za', port=443): Max retries exceeded with url: /energy-resources/energy-sources/pretoleum/petrol-price-archive (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dmre.gov.za', port=443) at 0x7f59094b9e90>, 'Connection to www.dmre.gov.za timed out. (connect timeout=60)'))",
       "observations_found": 0,
       "observations_added": 0
     },
