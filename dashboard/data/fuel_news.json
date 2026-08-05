@@ -1,5 +1,90 @@
 [
   {
+    "id": "mozambique-2026-08-05-mozambique-government-concerned-at-new-wave-o-cf93833f",
+    "date": "2026-08-05",
+    "country": "Mozambique",
+    "iso3": "MOZ",
+    "headline": "Mozambique : Government Concerned At New Wave of Fuel Shortage",
+    "summary": "Mozambique : Government Concerned At New Wave of Fuel Shortage",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "shortage / supply disruption",
+    "magnitude": "Not extracted automatically",
+    "source_name": "allafrica.com",
+    "source_url": "https://allafrica.com",
+    "article_url": "https://allafrica.com/stories/202608050043.html",
+    "source_domain": "allafrica.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-08-05",
+    "gdelt_query": "Mozambique fuel prices"
+  },
+  {
+    "id": "malawi-2026-08-03-fuel-prices-fall-same-high-cost-of-living-c7481ad5",
+    "date": "2026-08-03",
+    "country": "Malawi",
+    "iso3": "MWI",
+    "headline": "Fuel prices fall , same high cost of living",
+    "summary": "Fuel prices fall , same high cost of living",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "malawi24.com",
+    "source_url": "https://malawi24.com",
+    "article_url": "https://malawi24.com/2026/08/03/fuel-prices-fall-same-high-cost-of-living/",
+    "source_domain": "malawi24.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-08-05",
+    "gdelt_query": "Malawi fuel prices MERA"
+  },
+  {
+    "id": "malawi-2026-08-02-mera-cuts-fuel-prices-nation-online-cee7372b",
+    "date": "2026-08-02",
+    "country": "Malawi",
+    "iso3": "MWI",
+    "headline": "Mera cuts fuel prices – Nation Online",
+    "summary": "Mera cuts fuel prices – Nation Online",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price decrease",
+    "magnitude": "Not extracted automatically",
+    "source_name": "mwnation.com",
+    "source_url": "https://mwnation.com",
+    "article_url": "https://mwnation.com/mera-cuts-fuel-prices/",
+    "source_domain": "mwnation.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-08-05",
+    "gdelt_query": "Malawi fuel prices MERA"
+  },
+  {
+    "id": "malawi-2026-08-01-malawi-cuts-diesel-and-kerosene-prices-as-int-afb7d267",
+    "date": "2026-08-01",
+    "country": "Malawi",
+    "iso3": "MWI",
+    "headline": "Malawi cuts diesel and kerosene prices as international fuel costs ease - Malawi News | Breaking News , Politics , Business & Sports",
+    "summary": "Malawi cuts diesel and kerosene prices as international fuel costs ease - Malawi News | Breaking News , Politics , Business & Sports",
+    "products": [
+      "diesel",
+      "kerosene"
+    ],
+    "change_type": "price decrease",
+    "magnitude": "Not extracted automatically",
+    "source_name": "nyasatimes.com",
+    "source_url": "https://nyasatimes.com",
+    "article_url": "https://www.nyasatimes.com/malawi-cuts-diesel-and-kerosene-prices-as-international-fuel-costs-ease/",
+    "source_domain": "nyasatimes.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-08-05",
+    "gdelt_query": "Malawi fuel prices MERA"
+  },
+  {
     "id": "seychelles-2026-07-24-seypec-shields-consumers-amid-fuel-price-shoc-62bdecd9",
     "date": "2026-07-24",
     "country": "Seychelles",
