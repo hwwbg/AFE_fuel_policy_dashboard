@@ -1,5 +1,26 @@
 [
   {
+    "id": "angola-2026-08-07-angola-enfrenta-situao-preocupante-de-escasse-6b355e7c",
+    "date": "2026-08-07",
+    "country": "Angola",
+    "iso3": "AGO",
+    "headline": "Angola enfrenta situao preocupante de escassez de combustível , diz ministro",
+    "summary": "Angola enfrenta situao preocupante de escassez de combustível , diz ministro",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "shortage / supply disruption",
+    "magnitude": "Not extracted automatically",
+    "source_name": "jornaleconomico.sapo.pt",
+    "source_url": "https://jornaleconomico.sapo.pt",
+    "article_url": "https://jornaleconomico.sapo.pt/noticias/angola-enfrenta-situacao-preocupante-de-escassez-de-combustivel-diz-ministro/",
+    "source_domain": "jornaleconomico.sapo.pt",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-08-09",
+    "gdelt_query": "Angola fuel price"
+  },
+  {
     "id": "mozambique-2026-08-05-mozambique-government-concerned-at-new-wave-o-cf93833f",
     "date": "2026-08-05",
     "country": "Mozambique",
