@@ -1,5 +1,26 @@
 [
   {
+    "id": "namibia-2026-08-08-namibia-in-numbers-july-fuel-price-breakdown-dcfe87f1",
+    "date": "2026-08-08",
+    "country": "Namibia",
+    "iso3": "NAM",
+    "headline": "Namibia in Numbers : July fuel price breakdown",
+    "summary": "Namibia in Numbers : July fuel price breakdown",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price adjustment",
+    "magnitude": "Not extracted automatically",
+    "source_name": "namibian.com.na",
+    "source_url": "https://namibian.com.na",
+    "article_url": "https://www.namibian.com.na/namibia-in-numbers-july-fuel-price-breakdown/",
+    "source_domain": "namibian.com.na",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-08-10",
+    "gdelt_query": "Namibia fuel prices"
+  },
+  {
     "id": "angola-2026-08-07-angola-enfrenta-situao-preocupante-de-escasse-6b355e7c",
     "date": "2026-08-07",
     "country": "Angola",
@@ -40,6 +61,27 @@
     "verified": false,
     "retrieved_at": "2026-08-05",
     "gdelt_query": "Mozambique fuel prices"
+  },
+  {
+    "id": "tanzania-2026-08-05-tanzania-cuts-fuel-prices-as-global-oil-marke-4f9d59e0",
+    "date": "2026-08-05",
+    "country": "Tanzania",
+    "iso3": "TZA",
+    "headline": "Tanzania cuts fuel prices as global oil market eases - Xinhua",
+    "summary": "Tanzania cuts fuel prices as global oil market eases - Xinhua",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price decrease",
+    "magnitude": "Not extracted automatically",
+    "source_name": "english.news.cn",
+    "source_url": "https://english.news.cn",
+    "article_url": "https://english.news.cn/20260806/28230ab3840642d9b1a740de29337d73/c.html",
+    "source_domain": "english.news.cn",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-08-10",
+    "gdelt_query": "Tanzania fuel prices EWURA"
   },
   {
     "id": "malawi-2026-08-03-fuel-prices-fall-same-high-cost-of-living-c7481ad5",
