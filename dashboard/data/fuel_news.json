@@ -1,5 +1,26 @@
 [
   {
+    "id": "zimbabwe-2026-08-13-zimbabwe-says-fuel-supplies-remain-stable-des-9fc064da",
+    "date": "2026-08-13",
+    "country": "Zimbabwe",
+    "iso3": "ZWE",
+    "headline": "Zimbabwe Says Fuel Supplies Remain Stable Despite Middle East Oil Shock - The Zimbabwe Mail Zimbabwe Says Fuel Supplies Remain Stable Despite Middle East Oil Shock | Zimbabwe News",
+    "summary": "Zimbabwe Says Fuel Supplies Remain Stable Despite Middle East Oil Shock - The Zimbabwe Mail Zimbabwe Says Fuel Supplies Remain Stable Despite Middle East Oil Shock | Zimbabwe News",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "thezimbabwemail.com",
+    "source_url": "https://thezimbabwemail.com",
+    "article_url": "https://thezimbabwemail.com/business/zimbabwe-says-fuel-supplies-remain-stable-despite-middle-east-oil-shock/",
+    "source_domain": "thezimbabwemail.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-08-14",
+    "gdelt_query": "Zimbabwe fuel prices ZERA"
+  },
+  {
     "id": "namibia-2026-08-08-namibia-in-numbers-july-fuel-price-breakdown-dcfe87f1",
     "date": "2026-08-08",
     "country": "Namibia",
