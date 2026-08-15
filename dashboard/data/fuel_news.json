@@ -1,5 +1,47 @@
 [
   {
+    "id": "kenya-2026-08-14-kenya-fuel-prices-diesel-price-falls-ksh5-in-6557279e",
+    "date": "2026-08-14",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "Kenya Fuel Prices : Diesel Price Falls KSh5 in EPRA Review",
+    "summary": "Kenya Fuel Prices : Diesel Price Falls KSh5 in EPRA Review",
+    "products": [
+      "diesel"
+    ],
+    "change_type": "price adjustment",
+    "magnitude": "Not extracted automatically",
+    "source_name": "africabusiness.com",
+    "source_url": "https://africabusiness.com",
+    "article_url": "https://africabusiness.com/2026/08/14/kenya-fuel-prices-diesel-epra-review/",
+    "source_domain": "africabusiness.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-08-15",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
+    "id": "kenya-2026-08-14-relief-for-kenyans-as-epra-announces-reduced-84426f8a",
+    "date": "2026-08-14",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "Relief for Kenyans as EPRA announces reduced fuel prices",
+    "summary": "Relief for Kenyans as EPRA announces reduced fuel prices",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price decrease",
+    "magnitude": "Not extracted automatically",
+    "source_name": "standardmedia.co.ke",
+    "source_url": "https://standardmedia.co.ke",
+    "article_url": "https://www.standardmedia.co.ke/national/article/2001555338/relief-for-kenyans-as-epra-announces-reduced-fuel-prices",
+    "source_domain": "standardmedia.co.ke",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-08-15",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
     "id": "zimbabwe-2026-08-13-zimbabwe-says-fuel-supplies-remain-stable-des-9fc064da",
     "date": "2026-08-13",
     "country": "Zimbabwe",
