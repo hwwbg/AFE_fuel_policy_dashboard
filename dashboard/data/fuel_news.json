@@ -1,5 +1,49 @@
 [
   {
+    "id": "kenya-2026-08-15-kenya-diesel-prices-fall-as-petrol-and-kerose-7028d978",
+    "date": "2026-08-15",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "Kenya Diesel Prices Fall as Petrol and Kerosene Hold Steady",
+    "summary": "Kenya Diesel Prices Fall as Petrol and Kerosene Hold Steady",
+    "products": [
+      "gasoline",
+      "diesel",
+      "kerosene"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "riotimesonline.com",
+    "source_url": "https://riotimesonline.com",
+    "article_url": "https://www.riotimesonline.com/kenya-diesel-prices-fall-epra-august-2026/",
+    "source_domain": "riotimesonline.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-08-16",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
+    "id": "south-sudan-2026-08-15-op-ed-south-sudan-kenya-fuel-deal-swapping-su-7a2f745c",
+    "date": "2026-08-15",
+    "country": "South Sudan",
+    "iso3": "SSD",
+    "headline": "Op - Ed| South Sudan – Kenya fuel deal : Swapping suppliers wont fix a broken supply chain",
+    "summary": "Op - Ed| South Sudan – Kenya fuel deal : Swapping suppliers wont fix a broken supply chain",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "radiotamazuj.org",
+    "source_url": "https://radiotamazuj.org",
+    "article_url": "https://www.radiotamazuj.org/en/news/article/op-ed-south-sudan-kenya-fuel-deal-swapping-suppliers-wont-fix-a-broken-supply-chain",
+    "source_domain": "radiotamazuj.org",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-08-16",
+    "gdelt_query": "South Sudan fuel prices"
+  },
+  {
     "id": "kenya-2026-08-14-kenya-fuel-prices-diesel-price-falls-ksh5-in-6557279e",
     "date": "2026-08-14",
     "country": "Kenya",

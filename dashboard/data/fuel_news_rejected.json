@@ -3,6 +3,27 @@
     "country": "Angola",
     "query": "Angola fuel price",
     "reason": "no fuel-price keyword in title/summary",
+    "title": "中国品牌汽车走进非洲千家万户",
+    "url": "https://world.qianlong.com/2026/0816/8712852.shtml"
+  },
+  {
+    "country": "Angola",
+    "query": "Angola fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "中国品牌汽车走进非洲千家万户",
+    "url": "https://www.163.com/dy/article/L4ECP06B0514R9M0.html"
+  },
+  {
+    "country": "Angola",
+    "query": "Angola fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Modi warns of weaponisation of resources , sea routes ; urges energy self - reliance",
+    "url": "https://idrw.org/modi-warns-of-weaponisation-of-resources-sea-routes-urges-energy-self-reliance/"
+  },
+  {
+    "country": "Angola",
+    "query": "Angola fuel price",
+    "reason": "no fuel-price keyword in title/summary",
     "title": "Cuba : le centenaire de Fidel Castro , la Russie , la Caraïbe et lAfrique se souvient du Lider Maximo",
     "url": "https://la1ere.franceinfo.fr/martinique/cuba-le-centenaire-de-fidel-castro-la-russie-la-caraibe-et-l-afrique-se-souvient-du-lider-maximo-1727914.html"
   },
@@ -19,27 +40,6 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "Metals of war : why US Govt has weaponised mining",
     "url": "https://www.miningmx.com/news/battery-minerals/66253-metals-of-war-why-us-govt-has-weaponised-mining/"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Russland muss auf Kraftstoffe aus den 90er Jahren zurückgreifen , um den Kollaps der Wirtschaft angesichts des Benzin - und Dieselmangels zu verhindern",
-    "url": "https://www.focus.de/finanzen/news/russland-muss-auf-kraftstoffe-aus-den-90er-jahren-zurueckgreifen-um-den-kollaps-der-wirtschaft-angesichts-des-benzin-und-dieselmangels-zu-verhindern_77f4e284-9c39-40ed-9692-573f0d7003b8.html"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Metals of war : why US Govt has weaponised mining",
-    "url": "https://www.miningmx.com/top-story/66253-metals-of-war-why-us-govt-has-weaponised-mining/"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Trump tariffs fallout : China moves to join Brazil WTO challenge of US forced labor duties",
-    "url": "https://www.undercurrentnews.com/2026/08/11/trump-tariffs-fallout/"
   },
   {
     "country": "Botswana",
@@ -108,6 +108,13 @@
     "country": "Eritrea",
     "query": "Eritrea fuel price",
     "reason": "no fuel-price keyword in title/summary",
+    "title": "National Dialogue , Youth Ownership , And The Path To Stability : Girma Seifu On Ethiopia Political Future",
+    "url": "https://www.thereporterethiopia.com/52293/"
+  },
+  {
+    "country": "Eritrea",
+    "query": "Eritrea fuel price",
+    "reason": "no fuel-price keyword in title/summary",
     "title": "Trump tariffs fallout : China moves to join Brazil WTO challenge of US forced labor duties",
     "url": "https://www.undercurrentnews.com/2026/08/11/trump-tariffs-fallout/"
   },
@@ -140,18 +147,32 @@
     "url": "https://www.thestar.com.my/opinion/columnists/along-the-watchtower/2026/07/29/uneasy-pause-in-us-iran-conflict"
   },
   {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Peter Obi Bold Declaration : A Four - Year Blueprint for Nigeria Transformation and His Unwavering Commitment to a Single Term – Ghanamma . com",
-    "url": "https://www.ghanamma.com/2026/07/25/peter-obis-bold-declaration-a-four-year-blueprint-for-nigerias-transformation-and-his-unwavering-commitment-to-a-single-term/"
+    "title": "Africa low - key high - stakes Strait of Hormuz diplomacy",
+    "url": "https://www.dw.com/en/africas-low-key-high-stakes-strait-of-hormuz-diplomacy/a-78376699"
   },
   {
-    "country": "Eswatini",
-    "query": "Eswatini fuel price increase",
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Trump tariffs fallout : China moves to join Brazil WTO challenge of US forced labor duties",
-    "url": "https://www.undercurrentnews.com/2026/08/11/trump-tariffs-fallout/"
+    "title": "Ethiopia Nominal GDP Dropped By USD 50bln After Floating : EU Chamber Report",
+    "url": "https://www.thereporterethiopia.com/52319/"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "A War Ethiopia Cannot Afford To Lose | The Reporter Ethiopia",
+    "url": "https://www.thereporterethiopia.com/52309/"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Governing The Invisible Grid : Ethiopia Missing Biomass Account",
+    "url": "https://www.thereporterethiopia.com/52279/"
   },
   {
     "country": "Ethiopia",
@@ -166,34 +187,6 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "Chinese automaker Chery buys Nissan plant as EV production shifts to new markets",
     "url": "https://abcnews.com/Technology/wireStory/chinese-automaker-chery-buys-nissan-plant-africa-ev-135568425"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets",
-    "url": "http://www.gazettextra.com/news/nation_world/chinese-automaker-chery-buys-nissan-plant-in-africa-as-ev-production-shifts-to-new-markets/article_406e4b74-6f20-5c3e-a24f-67ea805079d6.html"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets",
-    "url": "https://www.therecord.com/business/chinese-automaker-chery-buys-nissan-plant-in-africa-as-ev-production-shifts-to-new-markets/article_a1cf19f8-db28-5fa4-ab9a-b4e438fc7d5b.html"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Chinese automaker Chery buys Nissan plant in Africa as EV production shifts to new markets",
-    "url": "https://www.messenger-inquirer.com/ap/ap_international_news/chinese-automaker-chery-buys-nissan-plant-in-africa-as-ev-production-shifts-to-new-markets/article_585e4975-3ae9-5742-828a-02dc32085f04.html"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "How the Blue Nile is strategically important in Sudan civil war",
-    "url": "https://news.az/news/how-the-blue-nile-is-strategically-important-in-sudans-civil-war"
   },
   {
     "country": "Lesotho",
@@ -224,43 +217,43 @@
     "url": "https://marketbusinessnews.com/land-degradation-is-linked-to-billions-in-lost-farm-output/450166/"
   },
   {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
+    "country": "Namibia",
+    "query": "Namibia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Petrobras ( PBR ) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/14/petrobras-pbr-q2-2026-earnings-call-transcript/?source=iedfolrf0000001"
+  },
+  {
+    "country": "Namibia",
+    "query": "Namibia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
     "title": "Sadc region falling short on jobs , security and growth , report warns",
     "url": "https://www.businessday.co.za/news/2026-08-14-sadc-summit-faces-growth-youth-jobs-and-security-tests/"
   },
   {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
+    "country": "Namibia",
+    "query": "Namibia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Как медь и дефолт стали главными факторами всеобщих выборов в Замбии",
-    "url": "https://news.mail.ru/politics/71975648/"
+    "title": "Namibia central bank keeps repo rate unchanged at 6 . 75 pct - Xinhua",
+    "url": "https://english.news.cn/africa/20260812/15ab757f19d344f2a2ccc0a4a6f05510/c.html"
   },
   {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
+    "country": "Namibia",
+    "query": "Namibia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "GCW772",
-    "url": "https://www.globalcement.com/news/tags/gcw772"
+    "title": "Press Release",
+    "url": "https://www.mining.com/press-release?id=6a7b926184aa856c05dad47c"
   },
   {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
+    "country": "Namibia",
+    "query": "Namibia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "5 pays africains où les jeunes estiment que leur pays prend une mauvaise direction",
-    "url": "http://www.seneweb.com/fr/news/Afrique/5-pays-africains-ou-les-jeunes-estiment-que-leur-pays-prend-une-mauvaise-direction_n_501093.html"
+    "title": "Home of the Living Dead They want to eat your brains",
+    "url": "https://www.greanvillepost.com/home-of-the-living-dead-they-want-to-eat-your-brains/"
   },
   {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "5 pays africains où les jeunes estiment que leur pays prend une mauvaise direction",
-    "url": "http://seneweb.com/fr/news/Afrique/5-pays-africains-ou-les-jeunes-estiment-que-leur-pays-prend-une-mauvaise-direction_n_501093.html"
-  },
-  {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
+    "country": "Namibia",
+    "query": "Namibia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
     "title": "Trump tariffs fallout : China moves to join Brazil WTO challenge of US forced labor duties",
     "url": "https://www.undercurrentnews.com/2026/08/11/trump-tariffs-fallout/"
@@ -297,6 +290,20 @@
     "country": "Somalia",
     "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
+    "title": "Africa low - key high - stakes Strait of Hormuz diplomacy",
+    "url": "https://www.dw.com/en/africas-low-key-high-stakes-strait-of-hormuz-diplomacy/a-78376699"
+  },
+  {
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
+    "reason": "low-value broad domain: nakedcapitalism.com",
+    "title": "Links 8 / 15 / 2026 | naked capitalism",
+    "url": "https://www.nakedcapitalism.com/2026/08/links-8-15-2026.html"
+  },
+  {
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
     "title": "The Lunatics Are Running The Asylum - Investment Watch Blog",
     "url": "https://www.investmentwatchblog.com/the-lunatics-are-running-the-asylum/"
   },
@@ -320,20 +327,6 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "Saranda ,  miniera e floririt  me 170 hotele – 24 ore",
     "url": "https://24-ore.com/saranda-miniera-e-floririt-me-170-hotele/"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "UNICEF : Nahostkonflikt treibt Millionen weitere Kinder in die Armut",
-    "url": "https://web.de/magazine/unicef/unicef-nahostkonflikt-treibt-millionen-kinder-armut-42511770"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Bangladesh Joins Saudi - led Defense Coalition as Bab el - Mandeb Risks Grow",
-    "url": "https://thediplomat.com/2026/08/bangladesh-joins-saudi-led-defense-coalition-as-bab-el-mandeb-risks-grow/"
   },
   {
     "country": "South Africa",
@@ -413,11 +406,11 @@
     "url": "https://news.az/news/how-the-blue-nile-is-strategically-important-in-sudans-civil-war"
   },
   {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Trump tariffs fallout : China moves to join Brazil WTO challenge of US forced labor duties",
-    "url": "https://www.undercurrentnews.com/2026/08/11/trump-tariffs-fallout/"
+    "title": "Steve Price : One Nation cant win in November but Pauline Hanson is on a winning streak",
+    "url": "https://www.geelongadvertiser.com.au/news/opinion/steve-price-pauline-hanson-is-on-a-winning-streak-but-one-nation-cant-win-in-november/news-story/05fd4d41ca929b4ea8d843ef5a8edb4a?nk=7da68ae18b139bb043566e50ffde1150-1786848393"
   },
   {
     "country": "Sudan",
@@ -446,61 +439,5 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "Steve Price : One Nation cant win in November but Pauline Hanson is on a winning streak",
     "url": "https://www.geelongadvertiser.com.au/news/opinion/steve-price-pauline-hanson-is-on-a-winning-streak-but-one-nation-cant-win-in-november/news-story/05fd4d41ca929b4ea8d843ef5a8edb4a?nk=607dcd1224b5b7f60697951a598b4532-1786674693"
-  },
-  {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Joint Statement for the Formation of the Global Youth Movement for a Just World Order and New Paradigm",
-    "url": "https://larouchepub.com/other/2026/5331-joint_statement_for_the_format.html"
-  },
-  {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "  Unbearable hardship  in Sudan Displaced people in Kordofan eat animal feed to avert starvation",
-    "url": "https://www.dabangasudan.org/en/all-news/article/unbearable-hardship-in-sudan-displaced-people-in-kordofan-eat-animal-feed-to-avert-starvation"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "BoU Maintains CBR at 9 . 75 % as Economy Sustains Strong Growth Momentum",
-    "url": "https://chimpreports.com/bou-maintains-cbr-at-9-75-as-economy-sustains-strong-growth-momentum/"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Joint Statement for the Formation of the Global Youth Movement for a Just World Order and New Paradigm",
-    "url": "https://larouchepub.com/other/2026/5331-joint_statement_for_the_format.html"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Business : Central Bank holds benchmark lending rate at 9 . 75 % ",
-    "url": "https://www.newvision.co.ug/category/business/central-bank-holds-benchmark-lending-rate-at-NV_238801_082026"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Как медь и дефолт стали главными факторами всеобщих выборов в Замбии",
-    "url": "https://news.mail.ru/politics/71975648/"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "low-value broad domain: finance.yahoo.com",
-    "title": "Jumia Technologies Q2 Earnings Call Highlights",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/jumia-technologies-q2-earnings-call-180434388.html"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "GCW772",
-    "url": "https://www.globalcement.com/news/tags/gcw772"
   }
 ]
