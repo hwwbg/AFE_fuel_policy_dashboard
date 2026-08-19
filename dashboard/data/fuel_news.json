@@ -1,5 +1,69 @@
 [
   {
+    "id": "south-africa-2026-08-19-south-africa-fuel-prices-diesel-could-face-r3-7aff209c",
+    "date": "2026-08-19",
+    "country": "South Africa",
+    "iso3": "ZAF",
+    "headline": "South Africa Fuel Prices : Diesel Could Face R3 Increase in September , Petrol A 77 Cent Hike Despite Steady Crude – Ghanamma . com",
+    "summary": "South Africa Fuel Prices : Diesel Could Face R3 Increase in September , Petrol A 77 Cent Hike Despite Steady Crude – Ghanamma . com",
+    "products": [
+      "gasoline",
+      "diesel"
+    ],
+    "change_type": "price increase",
+    "magnitude": "Not extracted automatically",
+    "source_name": "ghanamma.com",
+    "source_url": "https://ghanamma.com",
+    "article_url": "https://www.ghanamma.com/2026/08/19/south-africa-fuel-prices-diesel-could-face-r3-increase-in-september-petrol-a-77-cent-hike-despite-steady-crude/",
+    "source_domain": "ghanamma.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-08-19",
+    "gdelt_query": "South Africa fuel price petrol diesel"
+  },
+  {
+    "id": "south-africa-2026-08-18-south-africa-faces-new-fuel-price-shock-55101797",
+    "date": "2026-08-18",
+    "country": "South Africa",
+    "iso3": "ZAF",
+    "headline": "South Africa faces new fuel price shock",
+    "summary": "South Africa faces new fuel price shock",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price adjustment",
+    "magnitude": "Not extracted automatically",
+    "source_name": "iranherald.com",
+    "source_url": "https://iranherald.com",
+    "article_url": "http://www.iranherald.com/news/279249182/south-africa-faces-new-fuel-price-shock",
+    "source_domain": "iranherald.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-08-19",
+    "gdelt_query": "South Africa fuel price petrol diesel"
+  },
+  {
+    "id": "south-africa-2026-08-18-south-africa-faces-new-fuel-price-shock-0ddd39d1",
+    "date": "2026-08-18",
+    "country": "South Africa",
+    "iso3": "ZAF",
+    "headline": "South Africa faces new fuel price shock",
+    "summary": "South Africa faces new fuel price shock",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price adjustment",
+    "magnitude": "Not extracted automatically",
+    "source_name": "africaleader.com",
+    "source_url": "https://africaleader.com",
+    "article_url": "http://www.africaleader.com/news/279249182/south-africa-faces-new-fuel-price-shock",
+    "source_domain": "africaleader.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-08-19",
+    "gdelt_query": "South Africa fuel price petrol diesel"
+  },
+  {
     "id": "kenya-2026-08-15-kenya-diesel-prices-fall-as-petrol-and-kerose-7028d978",
     "date": "2026-08-15",
     "country": "Kenya",
