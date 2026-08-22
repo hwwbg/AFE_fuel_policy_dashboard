@@ -1,5 +1,26 @@
 [
   {
+    "id": "sudan-2026-08-21-sudan-minister-of-energy-praises-nile-petrole-c1f73641",
+    "date": "2026-08-21",
+    "country": "Sudan",
+    "iso3": "SDN",
+    "headline": "Sudan : Minister of Energy Praises Nile Petroleum Strategic Role in Securing Fuel Supplies",
+    "summary": "Sudan : Minister of Energy Praises Nile Petroleum Strategic Role in Securing Fuel Supplies",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "allafrica.com",
+    "source_url": "https://allafrica.com",
+    "article_url": "https://allafrica.com/stories/202608210143.html",
+    "source_domain": "allafrica.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-08-22",
+    "gdelt_query": "Sudan fuel prices"
+  },
+  {
     "id": "south-africa-2026-08-19-south-africa-fuel-prices-diesel-could-face-r3-7aff209c",
     "date": "2026-08-19",
     "country": "South Africa",
