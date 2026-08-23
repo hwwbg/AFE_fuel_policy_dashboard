@@ -1,14 +1,84 @@
 [
   {
-    "country": "Burundi",
-    "query": "Burundi fuel price",
+    "country": "Angola",
+    "query": "Angola fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "China Keeps Oil Buying in Check as Crude Prices Stay Above $90",
+    "url": "https://www.livemint.com/market/china-keeps-oil-buying-in-check-as-crude-prices-stay-above-90-11787289773942.html"
+  },
+  {
+    "country": "Angola",
+    "query": "Angola fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "تقرير اخباري : لماذا تتوسع السيارات الصينية بسرعة في السوق الإفريقية ؟ ",
+    "url": "http://arabic.people.com.cn/n3/2026/0820/c31659-20490727.html"
+  },
+  {
+    "country": "Angola",
+    "query": "Angola fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Qual o futuro da Ucrânia e de Zelensky ? Debate",
+    "url": "https://observador.pt/programas/contra-corrente/qual-o-futuro-da-ucrania-e-de-zelensky-debate/"
+  },
+  {
+    "country": "Angola",
+    "query": "Angola fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Guerra no Irã virou  círculo difícil de romper , diz S & P - 19 / 08 / 2026 - Economia",
+    "url": "https://www1.folha.uol.com.br/mercado/2026/08/guerra-no-ira-virou-circulo-dificil-de-romper-e-mundo-pode-sofrer-falta-de-diesel-diz-especialista.shtml"
+  },
+  {
+    "country": "Angola",
+    "query": "Angola fuel price",
+    "reason": "low-value broad domain: oilprice.com",
+    "title": "5 Energy Stocks Cashing In On The New Energy Crunch",
+    "url": "https://oilprice.com/Energy/Energy-General/5-Energy-Stocks-Cashing-In-On-The-New-Energy-Crunch.html"
+  },
+  {
+    "country": "Angola",
+    "query": "Angola fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Red Sea blockade threat : Why India trade faces a wider supply - chain shock",
+    "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/red-sea-blockade-threat-why-indias-trade-faces-a-wider-supply-chain-shock/articleshow/133312145.cms"
+  },
+  {
+    "country": "Botswana",
+    "query": "Botswana fuel price increase",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Deficitul democratic al hegemoniei globale ( II ) ",
+    "url": "https://www.bursa.ro/deficitul-democratic-al-hegemoniei-globale-ii-62719953"
+  },
+  {
+    "country": "Botswana",
+    "query": "Botswana fuel price increase",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Electric Safaris in Africa Are Changing How Close We Can Get to Wildlife",
+    "url": "https://www.outsideonline.com/adventure-travel/destinations/africa/electric-safaris-africa/"
+  },
+  {
+    "country": "Botswana",
+    "query": "Botswana fuel price increase",
     "reason": "no fuel-price keyword in title/summary",
     "title": "Trump tariffs fallout : China moves to join Brazil WTO challenge of US forced labor duties",
     "url": "https://www.undercurrentnews.com/2026/08/11/trump-tariffs-fallout/"
   },
   {
-    "country": "Burundi",
-    "query": "Burundi fuel price",
+    "country": "Botswana",
+    "query": "Botswana fuel price increase",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "BSE aims to grow capital markets tenfold by 2030",
+    "url": "https://weekendpost.co.bw/bse-aims-to-grow-capital-markets-tenfold-by-2030/"
+  },
+  {
+    "country": "Botswana",
+    "query": "Botswana fuel price increase",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Lucara Diamond Corp .: LUCARA ANNOUNCES Q2 2026 RESULTS",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69254957-lucara-diamond-corp-lucara-announces-q2-2026-results-008.htm"
+  },
+  {
+    "country": "Botswana",
+    "query": "Botswana fuel price increase",
     "reason": "no fuel-price keyword in title/summary",
     "title": "Why Is Africa Poor ? - American Renaissance",
     "url": "https://www.amren.com/news/2026/08/why-is-africa-poor-2/"
@@ -66,6 +136,13 @@
     "country": "Ethiopia",
     "query": "Ethiopia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
+    "title": "Breaking the debt and currency cycle | Capital Newspaper",
+    "url": "https://capitalethiopia.com/2026/08/23/breaking-the-debt-and-currency-cycle/"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
     "title": "Africa : How African Agriculture Must Build Against the Next Global Shock",
     "url": "https://allafrica.com/stories/202608200232.html"
   },
@@ -96,20 +173,6 @@
     "reason": "low-value broad domain: finance.yahoo.com",
     "title": "Chery South Africa factory buy shows Africa is becoming a major EV battleground",
     "url": "https://finance.yahoo.com/energy/articles/cherys-south-africa-factory-buy-214900194.html"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "بعد أزمة غش البن .. ماذا يجري في سوق القهوة ؟ ",
-    "url": "https://www.almasryalyoum.com/news/details/4341520"
-  },
-  {
-    "country": "Kenya",
-    "query": "Kenya fuel prices EPRA",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "EPRA Raises Electricity Costs by KSh4 . 70 per Unit in August",
-    "url": "https://nairobiwire.com/2026/08/kenya-electricity-tariff-august-2026-epra-charges.html"
   },
   {
     "country": "Lesotho",
@@ -308,39 +371,18 @@
     "url": "https://allafrica.com/stories/202608180010.html"
   },
   {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "لغز البقاء : من ست سنوات إلى ستة عشر عامًا إلى ثلاثين عامًا كيف تطورت هندسة الاستبداد العسكري في السودان ؟ ",
-    "url": "https://sudanile.com/%D9%84%D8%BA%D8%B2-%D8%A7%D9%84%D8%A8%D9%82%D8%A7%D8%A1-%D9%85%D9%86-%D8%B3%D8%AA-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D8%A5%D9%84%D9%89-%D8%B3%D8%AA%D8%A9-%D8%B9%D8%B4%D8%B1-%D8%B9%D8%A7%D9%85%D9%8B/"
+    "country": "Tanzania",
+    "query": "Tanzania fuel prices EWURA",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "Iran war : Tanga deal offers blueprint for fuel security",
+    "url": "https://www.standardmedia.co.ke/opinion/article/2001555919/iran-war-tanga-deal-offers-blueprint-for-fuel-security"
   },
   {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "8 . 6 ملايين خارج ديارهم .. السودان يواجه كارثة غير مسبوقة",
-    "url": "https://sudanile.com/8-6-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%AF%D9%8A%D8%A7%D8%B1%D9%87%D9%85-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D9%8A%D9%88%D8%A7%D8%AC%D9%87-%D9%83%D8%A7%D8%B1/"
-  },
-  {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "هل يغلق ترمب المسام الإيرانية ؟ ",
-    "url": "https://www.okaz.com.sa/articles/authors/2262190"
-  },
-  {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Today top news : World Humanitarian Day , Ukraine , Occupied Palestinian Territory , Lebanon , Venezuela , Somalia",
-    "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260819-unocha01.htm"
-  },
-  {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Ολο και πιο βαθιά στον πόλεμο … ",
-    "url": "https://www.inewsgr.com/351/olo-kai-pio-vathia-ston-polemo.htm"
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "Iran war : Tanga deal offers blueprint for fuel security",
+    "url": "https://www.standardmedia.co.ke/opinion/article/2001555919/iran-war-tanga-deal-offers-blueprint-for-fuel-security"
   },
   {
     "country": "Uganda",
@@ -376,12 +418,5 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "The curious case of global fertilizer prices - The HinduBusinessLine",
     "url": "https://www.thehindubusinessline.com/opinion/the-curious-case-of-global-fertilizer-prices/article71357263.ece"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "BoU Maintains CBR at 9 . 75 % as Economy Sustains Strong Growth Momentum",
-    "url": "https://chimpreports.com/bou-maintains-cbr-at-9-75-as-economy-sustains-strong-growth-momentum/"
   }
 ]
