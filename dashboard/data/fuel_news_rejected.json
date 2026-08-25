@@ -1,45 +1,10 @@
 [
   {
-    "country": "Angola",
-    "query": "Angola fuel price",
+    "country": "Botswana",
+    "query": "Botswana fuel price increase",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "China Keeps Oil Buying in Check as Crude Prices Stay Above $90",
-    "url": "https://www.livemint.com/market/china-keeps-oil-buying-in-check-as-crude-prices-stay-above-90-11787289773942.html"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "تقرير اخباري : لماذا تتوسع السيارات الصينية بسرعة في السوق الإفريقية ؟ ",
-    "url": "http://arabic.people.com.cn/n3/2026/0820/c31659-20490727.html"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Qual o futuro da Ucrânia e de Zelensky ? Debate",
-    "url": "https://observador.pt/programas/contra-corrente/qual-o-futuro-da-ucrania-e-de-zelensky-debate/"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Guerra no Irã virou  círculo difícil de romper , diz S & P - 19 / 08 / 2026 - Economia",
-    "url": "https://www1.folha.uol.com.br/mercado/2026/08/guerra-no-ira-virou-circulo-dificil-de-romper-e-mundo-pode-sofrer-falta-de-diesel-diz-especialista.shtml"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "low-value broad domain: oilprice.com",
-    "title": "5 Energy Stocks Cashing In On The New Energy Crunch",
-    "url": "https://oilprice.com/Energy/Energy-General/5-Energy-Stocks-Cashing-In-On-The-New-Energy-Crunch.html"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Red Sea blockade threat : Why India trade faces a wider supply - chain shock",
-    "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/red-sea-blockade-threat-why-indias-trade-faces-a-wider-supply-chain-shock/articleshow/133312145.cms"
+    "title": "23 women driving excellence in the South African motor industry",
+    "url": "https://www.timeslive.co.za/motoring/2026-08-24-23-women-driving-excellence-in-the-south-african-motor-industry/"
   },
   {
     "country": "Botswana",
@@ -77,102 +42,11 @@
     "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69254957-lucara-diamond-corp-lucara-announces-q2-2026-results-008.htm"
   },
   {
-    "country": "Botswana",
-    "query": "Botswana fuel price increase",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Why Is Africa Poor ? - American Renaissance",
-    "url": "https://www.amren.com/news/2026/08/why-is-africa-poor-2/"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Red Sea Crisis : संकट के 1 , 000 दिन , लाल सागर के चक्रव्‍यूह में फंसा भारत चुका रहा बड़ी कीमत",
-    "url": "https://navbharattimes.indiatimes.com/business/business-news/red-sea-crisis-completed-1000-days-india-must-strengthen-shipping-capacity-says-gtri/articleshow/133273908.cms"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "National Dialogue , Youth Ownership , And The Path To Stability : Girma Seifu On Ethiopia Political Future",
-    "url": "https://www.thereporterethiopia.com/52293/"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Trump tariffs fallout : China moves to join Brazil WTO challenge of US forced labor duties",
-    "url": "https://www.undercurrentnews.com/2026/08/11/trump-tariffs-fallout/"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "low-value broad domain: yahoo.com",
-    "title": "Michigan gas prices drop in past week , but that may be short - lived",
-    "url": "https://www.yahoo.com/news/us/articles/michigan-gas-prices-drop-past-144504389.html"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "‫ ابتسام حمود آل سعد",
-    "url": "https://al-sharq.com/opinion/writer/%d8%a7%d8%a8%d8%aa%d8%b3%d8%a7%d9%85-%d8%ad%d9%85%d9%88%d8%af-%d8%a2%d9%84-%d8%b3%d8%b9%d8%af/1"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Why Is Africa Poor ? - American Renaissance",
-    "url": "https://www.amren.com/news/2026/08/why-is-africa-poor-2/"
-  },
-  {
     "country": "Eswatini",
     "query": "Eswatini fuel price increase",
     "reason": "no fuel-price keyword in title/summary",
     "title": "Trump tariffs fallout : China moves to join Brazil WTO challenge of US forced labor duties",
     "url": "https://www.undercurrentnews.com/2026/08/11/trump-tariffs-fallout/"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Breaking the debt and currency cycle | Capital Newspaper",
-    "url": "https://capitalethiopia.com/2026/08/23/breaking-the-debt-and-currency-cycle/"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Africa : How African Agriculture Must Build Against the Next Global Shock",
-    "url": "https://allafrica.com/stories/202608200232.html"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Africa : How African Agriculture Must Build Against the Next Global Shock",
-    "url": "https://allafrica.com/stories/202608200230.html"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Ethiopia Birr Hits Record Low , US$500m Auction Called",
-    "url": "https://www.riotimesonline.com/ethiopia-birr-record-low-special-auction-2026/"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Ethiopia Birr Hits Record Low Despite Billions Spent to Support Currency",
-    "url": "https://allafrica.com/stories/202608200133.html"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "low-value broad domain: finance.yahoo.com",
-    "title": "Chery South Africa factory buy shows Africa is becoming a major EV battleground",
-    "url": "https://finance.yahoo.com/energy/articles/cherys-south-africa-factory-buy-214900194.html"
   },
   {
     "country": "Lesotho",
@@ -290,6 +164,27 @@
     "country": "Somalia",
     "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
+    "title": "Somalian pirates and their role in war | Explained",
+    "url": "https://www.thehindu.com/news/international/somalian-pirates-and-their-role-in-war-explained/article71387212.ece"
+  },
+  {
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Six million Somalis face acute hunger as drought and conflict worsen",
+    "url": "https://www.aol.co.uk/articles/six-million-somalis-face-acute-104055000.html"
+  },
+  {
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Сомалийските пирати отново отвличат кораби",
+    "url": "https://www.segabg.com/hot/category-foreign-country/somaliyskite-pirati-otnovo-otvlichat-korabi"
+  },
+  {
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
     "title": "Somalia faces another hunger crisis and the UN food agency head says it has far less funds to help",
     "url": "https://www.twincities.com/2026/08/20/somalia-faces-another-hunger-crisis-and-the-un-food-agency-head-says-it-has-far-less-funds-to-help/"
   },
@@ -308,25 +203,60 @@
     "url": "https://jamaica-gleaner.com/article/world-news/20260821/somalia-faces-renewed-hunger-crisis-un-food-agency-warns-funding"
   },
   {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Somalia has a hunger crisis again but World Food Program has far less resources , its chief tells AP",
-    "url": "https://www.wsbradio.com/news/business/somalia-faces/SWIFZL24JY3E5D2FKAQD3X53KQ/"
+    "title": "23 women driving excellence in the South African motor industry",
+    "url": "https://www.timeslive.co.za/motoring/2026-08-24-23-women-driving-excellence-in-the-south-african-motor-industry/"
   },
   {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Somalia faces another hunger crisis and the UN food agency head says it has far less funds to help",
-    "url": "https://www.ksat.com/business/2026/08/20/somalia-faces-another-hunger-crisis-and-the-un-food-agency-head-says-it-has-far-less-funds-to-help/"
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "Eskom slashes spending on diesel more than 80 % ",
+    "url": "https://www.businessday.co.za/news/2026-08-24-eskom-slashes-diesel-spending-from-r59bn-to-r992m/"
   },
   {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "ECONOMIC WEEK AHEAD | Lower fuel prices expected to drive sharp producer inflation slowdown",
+    "url": "https://www.businessday.co.za/economy/2026-08-24-economic-week-ahead-lower-fuel-prices-expected-to-drive-sharp-producer-inflation-slowdown/"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Somalia faces another hunger crisis and the UN food agency head says it has far less funds to help",
-    "url": "https://www.the-messenger.com/news/world/article_140f9f75-5074-5340-a834-dfe9aac3446b.html"
+    "title": "الطاقة في أسبوع : العالم يواجه أزمة وقود وهوامش التكرير تسجل أرقاماً قياسية",
+    "url": "https://www.argaam.com:443/ar/article/articledetail/id/1931212"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Сработает ли ставка властей на импортный бензин",
+    "url": "https://expert.ru/tek/pomozhet-li-import-benzina-preodolet-toplivnyy-krizis"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Southern Africa : South Africa Inflation Falls to 4 . 3 Percent As Rate Hold Case Builds",
+    "url": "https://allafrica.com/stories/202608210507.html"
+  },
+  {
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Sudan : A City Within a City - How Displacement Is Reshaping El Obeid",
+    "url": "https://allafrica.com/stories/202608250058.html"
+  },
+  {
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Election fever : Goons , political violence worry private sector ahead of polls",
+    "url": "https://www.the-star.co.ke/news/2026-08-24-goons-violence-worry-private-sector-ahead-of-polls"
   },
   {
     "country": "South Sudan",
@@ -357,25 +287,18 @@
     "url": "https://ifdc.org/2026/08/18/fertilizer-crisis-response-bulletin-25-weather-and-conflicts-threaten-food-security/"
   },
   {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Verden står overfor et umulig valg : Hvem skal leve , og hvem må dø ? ",
-    "url": "https://www.dagsavisen.no/kommentar/hvem-far-leve-og-hvem-ma-do/10482769"
-  },
-  {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Somalia : Gulf War Fallout - Somali Households Pay the Price of Trade Disruption",
-    "url": "https://allafrica.com/stories/202608180010.html"
-  },
-  {
     "country": "Tanzania",
     "query": "Tanzania fuel prices EWURA",
     "reason": "target country not found in title/summary/url and source is not a known country source",
     "title": "Iran war : Tanga deal offers blueprint for fuel security",
     "url": "https://www.standardmedia.co.ke/opinion/article/2001555919/iran-war-tanga-deal-offers-blueprint-for-fuel-security"
+  },
+  {
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Election fever : Goons , political violence worry private sector ahead of polls",
+    "url": "https://www.the-star.co.ke/news/2026-08-24-goons-violence-worry-private-sector-ahead-of-polls"
   },
   {
     "country": "Uganda",
@@ -411,12 +334,5 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "African Countries Rethink Growth as Manufacturing Slips to 10 % of GDP",
     "url": "https://www.el-balad.com/17043379"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "The curious case of global fertilizer prices - The HinduBusinessLine",
-    "url": "https://www.thehindubusinessline.com/opinion/the-curious-case-of-global-fertilizer-prices/article71357263.ece"
   }
 ]
