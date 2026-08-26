@@ -42,11 +42,95 @@
     "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69254957-lucara-diamond-corp-lucara-announces-q2-2026-results-008.htm"
   },
   {
+    "country": "Burundi",
+    "query": "Burundi fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Trump tariffs fallout : China moves to join Brazil WTO challenge of US forced labor duties",
+    "url": "https://www.undercurrentnews.com/2026/08/11/trump-tariffs-fallout/"
+  },
+  {
+    "country": "Eritrea",
+    "query": "Eritrea fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Red Sea Crisis : संकट के 1 , 000 दिन , लाल सागर के चक्रव्‍यूह में फंसा भारत चुका रहा बड़ी कीमत",
+    "url": "https://navbharattimes.indiatimes.com/business/business-news/red-sea-crisis-completed-1000-days-india-must-strengthen-shipping-capacity-says-gtri/articleshow/133273908.cms"
+  },
+  {
+    "country": "Eritrea",
+    "query": "Eritrea fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "National Dialogue , Youth Ownership , And The Path To Stability : Girma Seifu On Ethiopia Political Future",
+    "url": "https://www.thereporterethiopia.com/52293/"
+  },
+  {
+    "country": "Eritrea",
+    "query": "Eritrea fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Trump tariffs fallout : China moves to join Brazil WTO challenge of US forced labor duties",
+    "url": "https://www.undercurrentnews.com/2026/08/11/trump-tariffs-fallout/"
+  },
+  {
+    "country": "Eritrea",
+    "query": "Eritrea fuel price",
+    "reason": "low-value broad domain: yahoo.com",
+    "title": "Michigan gas prices drop in past week , but that may be short - lived",
+    "url": "https://www.yahoo.com/news/us/articles/michigan-gas-prices-drop-past-144504389.html"
+  },
+  {
     "country": "Eswatini",
     "query": "Eswatini fuel price increase",
     "reason": "no fuel-price keyword in title/summary",
     "title": "Trump tariffs fallout : China moves to join Brazil WTO challenge of US forced labor duties",
     "url": "https://www.undercurrentnews.com/2026/08/11/trump-tariffs-fallout/"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Kagame : Rwanda Wants a Stake in Dangote Lamu Refinery",
+    "url": "https://www.riotimesonline.com/rwanda-dangote-lamu-refinery-stake-kagame-2026/"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Trump Iran war supercharged EV sales everywhere except the U . S . ",
+    "url": "https://skepticalscience.com/iran-war-supercharged-ev-sales.html"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Africa aviation opportunity is real , but margins remain brutal",
+    "url": "https://www.standardmedia.co.ke/opinion/article/2001556159/africas-aviation-opportunity-is-real-but-margins-remain-brutal"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "The FX Auction Meant to Restore Order Turns Two",
+    "url": "https://capitalethiopia.com/2026/08/23/the-fx-auction-meant-to-restore-order-turns-two/"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "The unexpected winner of the Iran war : renewable energy",
+    "url": "https://www.ynetnews.com/opinions-analysis/article/hkhogyswmx"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "World breadbaskets getting pounded by war , weather and trade spats",
+    "url": "https://www.courant.com/2026/08/24/the-worlds-breadbaskets-are-getting-pounded-by-war-weather-and-trade-spats/"
+  },
+  {
+    "country": "Kenya",
+    "query": "Kenya fuel prices EPRA",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "EPRA Raises Electricity Costs by KSh4 . 70 per Unit in August",
+    "url": "https://nairobiwire.com/2026/08/kenya-electricity-tariff-august-2026-epra-charges.html"
   },
   {
     "country": "Lesotho",
@@ -161,46 +245,18 @@
     "url": "https://www.businessday.co.za/news/2026-08-14-sadc-summit-faces-growth-youth-jobs-and-security-tests/"
   },
   {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Somalian pirates and their role in war | Explained",
-    "url": "https://www.thehindu.com/news/international/somalian-pirates-and-their-role-in-war-explained/article71387212.ece"
+    "title": "Kagame : Rwanda Wants a Stake in Dangote Lamu Refinery",
+    "url": "https://www.riotimesonline.com/rwanda-dangote-lamu-refinery-stake-kagame-2026/"
   },
   {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Six million Somalis face acute hunger as drought and conflict worsen",
-    "url": "https://www.aol.co.uk/articles/six-million-somalis-face-acute-104055000.html"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Сомалийските пирати отново отвличат кораби",
-    "url": "https://www.segabg.com/hot/category-foreign-country/somaliyskite-pirati-otnovo-otvlichat-korabi"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Somalia faces another hunger crisis and the UN food agency head says it has far less funds to help",
-    "url": "https://www.twincities.com/2026/08/20/somalia-faces-another-hunger-crisis-and-the-un-food-agency-head-says-it-has-far-less-funds-to-help/"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "La Somalie est confrontée à une nouvelle crise alimentaire",
-    "url": "https://lactualite.com/actualites/la-somalie-est-confrontee-a-une-nouvelle-crise-alimentaire/"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Somalia faces renewed hunger crisis as UN food agency warns of funding shortfall",
-    "url": "https://jamaica-gleaner.com/article/world-news/20260821/somalia-faces-renewed-hunger-crisis-un-food-agency-warns-funding"
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "Petrol flips back to starting point , this is how much you might pay in September",
+    "url": "https://www.citizen.co.za/motoring/petrol-flips-back-starting-point-this-how-much-you-might-pay-september/"
   },
   {
     "country": "South Africa",
@@ -224,25 +280,32 @@
     "url": "https://www.businessday.co.za/economy/2026-08-24-economic-week-ahead-lower-fuel-prices-expected-to-drive-sharp-producer-inflation-slowdown/"
   },
   {
-    "country": "South Africa",
-    "query": "South Africa fuel price petrol diesel",
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "الطاقة في أسبوع : العالم يواجه أزمة وقود وهوامش التكرير تسجل أرقاماً قياسية",
-    "url": "https://www.argaam.com:443/ar/article/articledetail/id/1931212"
+    "title": "Kagame : Rwanda Wants a Stake in Dangote Lamu Refinery",
+    "url": "https://www.riotimesonline.com/rwanda-dangote-lamu-refinery-stake-kagame-2026/"
   },
   {
-    "country": "South Africa",
-    "query": "South Africa fuel price petrol diesel",
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Сработает ли ставка властей на импортный бензин",
-    "url": "https://expert.ru/tek/pomozhet-li-import-benzina-preodolet-toplivnyy-krizis"
+    "title": "India urges global action to safeguard sea lanes , ensure food security : Envoy at UNSC",
+    "url": "https://www.newindianexpress.com/india/2026/Aug/26/india-urges-global-action-to-safeguard-sea-lanes-ensure-food-security-envoy-at-unsc"
   },
   {
-    "country": "South Africa",
-    "query": "South Africa fuel price petrol diesel",
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Southern Africa : South Africa Inflation Falls to 4 . 3 Percent As Rate Hold Case Builds",
-    "url": "https://allafrica.com/stories/202608210507.html"
+    "title": "India calls on international community to safeguard critical sea lanes",
+    "url": "https://www.business-standard.com/world-news/india-calls-on-international-community-to-safeguard-critical-sea-lanes-126082600096_1.html"
+  },
+  {
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "International community must work collectively to safeguard critical sea lanes : India tells UNSC",
+    "url": "https://www.thehindu.com/news/national/international-community-must-work-collectively-to-safeguard-critical-sea-lanes-india-tells-unsc/article71391331.ece"
   },
   {
     "country": "South Sudan",
@@ -259,32 +322,46 @@
     "url": "https://www.the-star.co.ke/news/2026-08-24-goons-violence-worry-private-sector-ahead-of-polls"
   },
   {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "لغز البقاء : من ست سنوات إلى ستة عشر عامًا إلى ثلاثين عامًا كيف تطورت هندسة الاستبداد العسكري في السودان ؟ ",
-    "url": "https://sudanile.com/%D9%84%D8%BA%D8%B2-%D8%A7%D9%84%D8%A8%D9%82%D8%A7%D8%A1-%D9%85%D9%86-%D8%B3%D8%AA-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D8%A5%D9%84%D9%89-%D8%B3%D8%AA%D8%A9-%D8%B9%D8%B4%D8%B1-%D8%B9%D8%A7%D9%85%D9%8B/"
+    "title": "Kagame : Rwanda Wants a Stake in Dangote Lamu Refinery",
+    "url": "https://www.riotimesonline.com/rwanda-dangote-lamu-refinery-stake-kagame-2026/"
   },
   {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "8 . 6 ملايين خارج ديارهم .. السودان يواجه كارثة غير مسبوقة",
-    "url": "https://sudanile.com/8-6-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%AF%D9%8A%D8%A7%D8%B1%D9%87%D9%85-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D9%8A%D9%88%D8%A7%D8%AC%D9%87-%D9%83%D8%A7%D8%B1/"
+    "title": "India urges global action to safeguard sea lanes , ensure food security : Envoy at UNSC",
+    "url": "https://www.newindianexpress.com/india/2026/Aug/26/india-urges-global-action-to-safeguard-sea-lanes-ensure-food-security-envoy-at-unsc"
   },
   {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "20年砸钱搞  民生渗透 ， 日本为何仍搞不定南千岛群岛 ？_ 凤凰网",
-    "url": "https://news.ifeng.com/c/8vi9bLKDBPZ"
+    "title": "India calls on international community to safeguard critical sea lanes",
+    "url": "https://www.business-standard.com/world-news/india-calls-on-international-community-to-safeguard-critical-sea-lanes-126082600096_1.html"
   },
   {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Fertilizer Crisis Response Bulletin # 25",
-    "url": "https://ifdc.org/2026/08/18/fertilizer-crisis-response-bulletin-25-weather-and-conflicts-threaten-food-security/"
+    "title": "Africa : As Wars Spread , the Global Food System Unravels",
+    "url": "https://allafrica.com/stories/202608260007.html"
+  },
+  {
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "International community must work collectively to safeguard critical sea lanes : India tells UNSC",
+    "url": "https://www.thehindu.com/news/national/international-community-must-work-collectively-to-safeguard-critical-sea-lanes-india-tells-unsc/article71391331.ece"
+  },
+  {
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Wars Spread , Global Food System Unravels",
+    "url": "https://www.miragenews.com/wars-spread-global-food-system-unravels-1732895/"
   },
   {
     "country": "Tanzania",
@@ -292,6 +369,20 @@
     "reason": "target country not found in title/summary/url and source is not a known country source",
     "title": "Iran war : Tanga deal offers blueprint for fuel security",
     "url": "https://www.standardmedia.co.ke/opinion/article/2001555919/iran-war-tanga-deal-offers-blueprint-for-fuel-security"
+  },
+  {
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Kagame : Rwanda Wants a Stake in Dangote Lamu Refinery",
+    "url": "https://www.riotimesonline.com/rwanda-dangote-lamu-refinery-stake-kagame-2026/"
+  },
+  {
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "UK green technology firm plans major £55m Africa expansion to help create  energy grid of the future  ",
+    "url": "https://www.independent.co.uk/climate-change/green-energy-uk-electricity-renewable-nigeria-aid-b3038823.html"
   },
   {
     "country": "Uganda",
@@ -320,19 +411,5 @@
     "reason": "target country not found in title/summary/url and source is not a known country source",
     "title": "Africa Clean Cooking Progress Threatened by LPG Crisis",
     "url": "https://punchng.com/iea-lpg-crisis-threatens-africas-clean-cooking-progress/"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Africa Intelligence Brief August 19 , 2026 : South Africa Gets Relief , Kenya Gets A Charge Sheet",
-    "url": "https://www.riotimesonline.com/africa-intelligence-brief-wednesday-august-19-2026/"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "African Countries Rethink Growth as Manufacturing Slips to 10 % of GDP",
-    "url": "https://www.el-balad.com/17043379"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "id": "south-africa-2026-08-25-september-fuel-price-shock-looms-for-south-af-f9d09d92",
+    "date": "2026-08-25",
+    "country": "South Africa",
+    "iso3": "ZAF",
+    "headline": "September fuel price shock looms for South Africa motorists",
+    "summary": "September fuel price shock looms for South Africa motorists",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price adjustment",
+    "magnitude": "Not extracted automatically",
+    "source_name": "thesouthafrican.com",
+    "source_url": "https://thesouthafrican.com",
+    "article_url": "https://www.thesouthafrican.com/motoring/september-fuel-price-shock-looms-for-south-africa-motorists/",
+    "source_domain": "thesouthafrican.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-08-26",
+    "gdelt_query": "South Africa fuel price petrol diesel"
+  },
+  {
     "id": "sudan-2026-08-21-sudan-minister-of-energy-praises-nile-petrole-c1f73641",
     "date": "2026-08-21",
     "country": "Sudan",
