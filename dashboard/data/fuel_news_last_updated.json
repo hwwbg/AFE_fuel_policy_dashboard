@@ -1,19 +1,24 @@
 {
-  "last_refreshed_utc": "2026-08-26T08:47:49+00:00",
+  "last_refreshed_utc": "2026-08-27T19:01:16+00:00",
   "source": "GDELT DOC 2.0 API",
   "registry": "/home/runner/work/AFE_fuel_policy_dashboard/AFE_fuel_policy_dashboard/dashboard/data/afe_fuel_news_media_source_registry.json",
   "days_searched": 21,
   "queries_per_country": 1,
-  "items_written": 125,
-  "new_items_found_this_run": 6,
-  "existing_items_checked": 124,
+  "items_written": 127,
+  "new_items_found_this_run": 4,
+  "existing_items_checked": 125,
   "existing_items_dropped_by_quality_filter": 0,
-  "query_errors_count": 3,
+  "query_errors_count": 5,
   "errors": [
     {
       "country": "Angola",
       "query": "Angola fuel price",
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "country": "Kenya",
+      "query": "Kenya fuel prices EPRA",
+      "error": "<urlopen error timed out>"
     },
     {
       "country": "Madagascar",
@@ -21,9 +26,14 @@
       "error": "<urlopen error _ssl.c:999: The handshake operation timed out>"
     },
     {
-      "country": "Somalia",
-      "query": "Somalia fuel prices",
-      "error": "HTTP Error 429: Too Many Requests"
+      "country": "Mozambique",
+      "query": "Mozambique fuel prices",
+      "error": "<urlopen error _ssl.c:999: The handshake operation timed out>"
+    },
+    {
+      "country": "Sudan",
+      "query": "Sudan fuel prices",
+      "error": "<urlopen error timed out>"
     }
   ],
   "rejected_sample_file": "/home/runner/work/AFE_fuel_policy_dashboard/AFE_fuel_policy_dashboard/dashboard/data/fuel_news_rejected.json",
