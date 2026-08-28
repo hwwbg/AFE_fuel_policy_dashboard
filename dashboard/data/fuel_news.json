@@ -63,6 +63,48 @@
     "gdelt_query": "South Africa fuel price petrol diesel"
   },
   {
+    "id": "angola-2026-08-24-angola-contaminated-jet-fuel-diverts-flights-c1a9543f",
+    "date": "2026-08-24",
+    "country": "Angola",
+    "iso3": "AGO",
+    "headline": "Angola : Contaminated Jet Fuel Diverts Flights to Angola",
+    "summary": "Angola : Contaminated Jet Fuel Diverts Flights to Angola",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "allafrica.com",
+    "source_url": "https://allafrica.com",
+    "article_url": "https://allafrica.com/stories/202608240780.html",
+    "source_domain": "allafrica.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-08-28",
+    "gdelt_query": "Angola fuel price"
+  },
+  {
+    "id": "angola-2026-08-23-contaminated-jet-fuel-diverts-flights-to-ango-0a4eef37",
+    "date": "2026-08-23",
+    "country": "Angola",
+    "iso3": "AGO",
+    "headline": "Contaminated jet fuel diverts flights to Angola",
+    "summary": "Contaminated jet fuel diverts flights to Angola",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "namibian.com.na",
+    "source_url": "https://namibian.com.na",
+    "article_url": "https://www.namibian.com.na/contaminated-jet-fuel-diverts-flights-to-angola/",
+    "source_domain": "namibian.com.na",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-08-28",
+    "gdelt_query": "Angola fuel price"
+  },
+  {
     "id": "sudan-2026-08-21-sudan-minister-of-energy-praises-nile-petrole-c1f73641",
     "date": "2026-08-21",
     "country": "Sudan",
