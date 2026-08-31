@@ -56,11 +56,18 @@
     "url": "https://www.undercurrentnews.com/2026/08/11/trump-tariffs-fallout/"
   },
   {
-    "country": "Botswana",
-    "query": "Botswana fuel price increase",
+    "country": "Burundi",
+    "query": "Burundi fuel price",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "BSE aims to grow capital markets tenfold by 2030",
-    "url": "https://weekendpost.co.bw/bse-aims-to-grow-capital-markets-tenfold-by-2030/"
+    "title": "GCW774",
+    "url": "https://www.globalcement.com/news/tags/gcw774"
+  },
+  {
+    "country": "Burundi",
+    "query": "Burundi fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Trump tariffs fallout : China moves to join Brazil WTO challenge of US forced labor duties",
+    "url": "https://www.undercurrentnews.com/2026/08/11/trump-tariffs-fallout/"
   },
   {
     "country": "Eritrea",
@@ -117,13 +124,6 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "Trump tariffs fallout : China moves to join Brazil WTO challenge of US forced labor duties",
     "url": "https://www.undercurrentnews.com/2026/08/11/trump-tariffs-fallout/"
-  },
-  {
-    "country": "Kenya",
-    "query": "Kenya fuel prices EPRA",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "EPRA Raises Electricity Costs by KSh4 . 70 per Unit in August",
-    "url": "https://nairobiwire.com/2026/08/kenya-electricity-tariff-august-2026-epra-charges.html"
   },
   {
     "country": "Lesotho",
@@ -217,67 +217,95 @@
     "url": "https://www.fool.com/earnings/call-transcripts/2026/08/14/petrobras-pbr-q2-2026-earnings-call-transcript/?source=iedfolrf0000001"
   },
   {
-    "country": "Seychelles",
-    "query": "Seychelles fuel prices",
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Africa tourism growth hinges on access , investment and visibility",
-    "url": "http://www.businessghana.com/site/news/business/355066/Africa%E2%80%99s-tourism-growth-hinges-on-access,-investment-and-visibility"
-  },
-  {
-    "country": "Seychelles",
-    "query": "Seychelles fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "India News LIVE Update : PM मोदी बोले - पहले भारत का नक्शा बनाने पर भी थी रोक , हमने बदला नियम",
-    "url": "https://www.punjabkesari.com/live-blog/india-news-live-update/"
-  },
-  {
-    "country": "Seychelles",
-    "query": "Seychelles fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Sadc region falling short on jobs , security and growth , report warns",
-    "url": "https://www.businessday.co.za/news/2026-08-14-sadc-summit-faces-growth-youth-jobs-and-security-tests/"
+    "title": "Who are the economic winners and losers of the US - Israel war on Iran ? ",
+    "url": "https://www.aljazeera.com/economy/2026/8/31/who-are-the-economic-winners-and-losers-of-the-us-israel-war-on-iran"
   },
   {
     "country": "Somalia",
     "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Hundreds Of Ships Still Stranded In Gulf Waters , UN Agency Says",
-    "url": "http://www.iranherald.com/news/279273871/hundreds-of-ships-still-stranded-in-gulf-waters-un-agency-says"
+    "title": "Investors prosper and consumers pay as the Iran war exacts an uneven economic toll 6 months in",
+    "url": "https://www.dailybreeze.com/2026/08/30/investors-prosper-and-consumers-pay-as-the-iran-war-exacts-an-uneven-economic-toll-6-months-in/"
   },
   {
     "country": "Somalia",
     "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Hundreds Of Ships Still Stranded In Gulf Waters , UN Agency Says",
-    "url": "http://www.middleeaststar.com/news/279273871/hundreds-of-ships-still-stranded-in-gulf-waters-un-agency-says"
+    "title": "Investors prosper and consumers pay as the Iran war exacts an uneven economic toll 6 months in",
+    "url": "https://www.presstelegram.com/2026/08/30/investors-prosper-and-consumers-pay-as-the-iran-war-exacts-an-uneven-economic-toll-6-months-in/"
   },
   {
     "country": "Somalia",
     "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Iranian President Says Sanctions Hurting Irans Economy",
-    "url": "http://www.middleeaststar.com/news/279273368/iranian-president-says-sanctions-hurting-irans-economy"
+    "title": "Investors prosper and consumers pay as the Iran war exacts an uneven economic toll 6 months in",
+    "url": "https://www.sgvtribune.com/2026/08/30/investors-prosper-and-consumers-pay-as-the-iran-war-exacts-an-uneven-economic-toll-6-months-in/"
   },
   {
     "country": "Somalia",
     "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Iranian President Says Sanctions Hurting Irans Economy",
-    "url": "http://www.arabherald.com/news/279273368/iranian-president-says-sanctions-hurting-irans-economy"
+    "title": "Investors prosper and consumers pay as the Iran war exacts an uneven economic toll 6 months in",
+    "url": "https://www.ocregister.com/2026/08/30/investors-prosper-and-consumers-pay-as-the-iran-war-exacts-an-uneven-economic-toll-6-months-in/"
   },
   {
     "country": "Somalia",
     "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Iranian President Says Sanctions Hurting Irans Economy",
-    "url": "http://www.iraqsun.com/news/279273368/iranian-president-says-sanctions-hurting-irans-economy"
+    "title": "Investors prosper and consumers pay as the Iran war exacts an uneven economic toll 6 months in",
+    "url": "https://www.redlandsdailyfacts.com/2026/08/30/investors-prosper-and-consumers-pay-as-the-iran-war-exacts-an-uneven-economic-toll-6-months-in/"
   },
   {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "Here is the official petrol price for September 2026",
+    "url": "https://www.thesouthafrican.com/business/here-is-the-official-petrol-price-for-september-2026/"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "Consumers to pay more for petrol and diesel from September 2",
+    "url": "https://www.businessday.co.za/economy/2026-08-31-consumers-to-pay-more-for-petrol-and-diesel-from-september-2/"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Araqchi : Khameneis Death Will Neither Be Forgiven Nor Forgotten",
-    "url": "http://www.arabherald.com/news/279272896/araqchi-khameneis-death-will-neither-be-forgiven-nor-forgotten"
+    "title": "The Local guide to Sweden political parties : The Social Democrats",
+    "url": "https://www.thelocal.se/20260831/the-locals-guide-to-swedens-political-parties-the-social-democrats/"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "The Local guide to Sweden political parties : The Social Democrats",
+    "url": "https://www.thelocal.se/20260831/the-locals-guide-to-swedens-political-parties-the-social-democrats"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "Petrol pump pain : SA pays R56bn more for fuel after oil shock",
+    "url": "https://www.businessday.co.za/news/2026-08-31-sa-pays-r56bn-more-for-fuel-after-oil-shock/"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "Brace for a September fuel price hike",
+    "url": "https://www.businessday.co.za/economy/2026-08-31-south-africans-should-brace-for-september-fuel-price-hike/"
+  },
+  {
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "South Sudan nutrition crisis : Holding the line between hunger and hope",
+    "url": "https://www.eyeradio.org/south-sudans-nutrition-crisis-holding-the-line-between-hunger-and-hope/"
   },
   {
     "country": "South Sudan",
@@ -308,53 +336,46 @@
     "url": "https://leadership.ng/strait-of-hormuz-closure-by-iran-threatens-food-security-in-nigeria-others-us-warns/"
   },
   {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Kagame : Rwanda Wants a Stake in Dangote Lamu Refinery",
-    "url": "https://www.riotimesonline.com/rwanda-dangote-lamu-refinery-stake-kagame-2026/"
+    "title": "South Sudan nutrition crisis : Holding the line between hunger and hope",
+    "url": "https://www.eyeradio.org/south-sudans-nutrition-crisis-holding-the-line-between-hunger-and-hope/"
   },
   {
     "country": "Sudan",
     "query": "Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Investors prosper and consumers pay as the Iran war exacts an uneven economic toll 6 months in",
-    "url": "http://www.stardem.com/ap/nation/investors-prosper-and-consumers-pay-as-the-iran-war-exacts-an-uneven-economic-toll-6/article_7c5cf376-8244-5b97-a1b4-6ca3fdb30f81.html"
+    "title": "The Pentagon takes control of Venezuela oil : Imperialist thievery and the bankruptcy of bourgeois nationalism",
+    "url": "https://www.wsws.org/en/articles/2026/08/31/dewp-a31.html"
   },
   {
     "country": "Sudan",
     "query": "Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "من تجارة الجَلّابة إلى اقتصاد الحرب ثم اقتصاد السلام",
-    "url": "https://sudanile.com/%D9%85%D9%86-%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AC%D9%8E%D9%84%D9%91%D8%A7%D8%A8%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%AB%D9%85/"
+    "title": "Investors prosper , consumers pay as the Iran war exacts an uneven economic toll 6 months in",
+    "url": "https://www.lockhaven.com/news/local-news/2026/08/investors-prosper-consumers-pay-as-the-iran-war-exacts-an-uneven-economic-toll-6-months-in/"
+  },
+  {
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
+    "reason": "low-value broad domain: bostonglobe.com",
+    "title": "Investors prosper , consumers pay as war continues 6 months in",
+    "url": "https://www.bostonglobe.com/2026/08/30/business/us-iran-war-investors-prosper-consumers-pay/"
   },
   {
     "country": "Sudan",
     "query": "Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Investors prosper and consumers pay as the Iran war exacts an uneven economic toll 6 months in – Taylorville Daily News",
-    "url": "https://www.taylorvilledailynews.com/investors-prosper-and-consumers-pay-as-the-iran-war-exacts-an-uneven-economic-toll-6-months-in/"
+    "title": "Guerra de EEUU en Irán : cómo ha afectado la economía mundial – Telemundo Puerto Rico",
+    "url": "https://www.telemundopr.com/noticias/mundo/guerra-eeuu-israel-iran-impacto-economia-mundial/2840030/"
   },
   {
     "country": "Sudan",
     "query": "Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Investors prosper and consumers pay as the Iran war exacts an uneven economic toll 6 months in",
-    "url": "https://www.ksat.com/business/2026/08/30/investors-prosper-and-consumers-pay-as-the-iran-war-exacts-an-uneven-economic-toll-6-months-in/"
-  },
-  {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Investors prosper and consumers pay as the Iran war exacts an uneven economic toll 6 months in",
-    "url": "https://www.clickondetroit.com/business/2026/08/30/investors-prosper-and-consumers-pay-as-the-iran-war-exacts-an-uneven-economic-toll-6-months-in/"
-  },
-  {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Investors prosper and consumers pay as the Iran war exacts an uneven economic toll 6 months in",
-    "url": "http://www.postregister.com/news/national/investors-prosper-and-consumers-pay-as-the-iran-war-exacts-an-uneven-economic-toll-6/article_5886352c-7d81-5124-81c2-7ac33924864d.html"
+    "title": "Guerra de EEUU en Irán : cómo ha afectado la economía mundial – Telemundo Miami ( 51 ) ",
+    "url": "https://www.telemundo51.com/noticias/mundo/guerra-eeuu-israel-iran-impacto-economia-mundial/2820028/"
   },
   {
     "country": "Tanzania",
