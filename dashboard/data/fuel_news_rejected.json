@@ -3,6 +3,13 @@
     "country": "Angola",
     "query": "Angola fuel price",
     "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "Fuel prices skyrocket as Middle East war escalates",
+    "url": "https://www.namibian.com.na/fuel-prices-skyrocket-as-middle-east-war-escalates/"
+  },
+  {
+    "country": "Angola",
+    "query": "Angola fuel price",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
     "title": "Subsídios aos combustíveis sobem 56 % para 1 , 7 biliões Kz",
     "url": "https://www.angonoticias.com/Artigos/item/82567/subsidios-aos-combustiveis-sobem-56-por-cento-para-17-bilioes-kz"
   },
@@ -19,13 +26,6 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "China Keeps Oil Buying in Check as Crude Prices Stay Above $90",
     "url": "https://www.livemint.com/market/china-keeps-oil-buying-in-check-as-crude-prices-stay-above-90-11787289773942.html"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "تقرير اخباري : لماذا تتوسع السيارات الصينية بسرعة في السوق الإفريقية ؟ ",
-    "url": "http://arabic.people.com.cn/n3/2026/0820/c31659-20490727.html"
   },
   {
     "country": "Botswana",
@@ -54,6 +54,13 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "Trump tariffs fallout : China moves to join Brazil WTO challenge of US forced labor duties",
     "url": "https://www.undercurrentnews.com/2026/08/11/trump-tariffs-fallout/"
+  },
+  {
+    "country": "Burundi",
+    "query": "Burundi fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Au coeur du pays : A Rutana , les femmes et les jeunes se battent pour leur auto - développement",
+    "url": "https://www.iwacu-burundi.org/au-coeur-du-pays-a-rutana-les-femmes-et-les-jeunes-se-battent-pour-leur-auto-developpement/"
   },
   {
     "country": "Burundi",
@@ -112,18 +119,53 @@
     "url": "http://www.arabherald.com/news/279272896/araqchi-khameneis-death-will-neither-be-forgiven-nor-forgotten"
   },
   {
-    "country": "Eswatini",
-    "query": "Eswatini fuel price increase",
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "GCW774",
-    "url": "https://www.globalcement.com/news/tags/gcw774"
+    "title": "How eco - localism differs from tariff terrorism",
+    "url": "https://www.resilience.org/stories/2026-09-01/how-eco-localism-differs-from-tariff-terrorism/"
   },
   {
-    "country": "Eswatini",
-    "query": "Eswatini fuel price increase",
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Trump tariffs fallout : China moves to join Brazil WTO challenge of US forced labor duties",
-    "url": "https://www.undercurrentnews.com/2026/08/11/trump-tariffs-fallout/"
+    "title": "Trump Iran war supercharged EV sales everywhere except the U . S . ",
+    "url": "https://www.juancole.com/2026/09/trumps-supercharged-everywhere.html"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "How the War in Iran Is Redrawing the Global Energy Map - Governor Wind Energy Coalition",
+    "url": "https://governorswindenergycoalition.org/how-the-war-in-iran-is-redrawing-the-global-energy-map/"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "من تجارة الجَلّابة إلى اقتصاد الحرب ثم اقتصاد السلام",
+    "url": "https://sudanile.com/%D9%85%D9%86-%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AC%D9%8E%D9%84%D9%91%D8%A7%D8%A8%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%AB%D9%85/"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "The unexpected winner of the Iran war : renewable energy  | Peak Oil News and Message Boards",
+    "url": "https://peakoil.com/generalideas/the-unexpected-winner-of-the-iran-war-renewable-energy"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Kagame : Rwanda Wants a Stake in Dangote Lamu Refinery",
+    "url": "https://www.riotimesonline.com/rwanda-dangote-lamu-refinery-stake-kagame-2026/"
+  },
+  {
+    "country": "Kenya",
+    "query": "Kenya fuel prices EPRA",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "EPRA Raises Electricity Costs by KSh4 . 70 per Unit in August",
+    "url": "https://nairobiwire.com/2026/08/kenya-electricity-tariff-august-2026-epra-charges.html"
   },
   {
     "country": "Lesotho",
@@ -138,6 +180,20 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "Trump tariffs fallout : China moves to join Brazil WTO challenge of US forced labor duties",
     "url": "https://www.undercurrentnews.com/2026/08/11/trump-tariffs-fallout/"
+  },
+  {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Sasol earnings rise , but dividend remains on hold",
+    "url": "https://www.businessday.co.za/companies/2026-09-01-sasol-earnings-rise-but-dividend-remains-on-hold/"
+  },
+  {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "AUDITED FINANCIAL RESULTS FOR THE YEAR ENDED 30 JUNE 2026",
+    "url": "http://www.prnewswire.com/news-releases/audited-financial-results-for-the-year-ended-30-june-2026-302865913.html"
   },
   {
     "country": "Mozambique",
@@ -168,20 +224,6 @@
     "url": "https://www.el-balad.com/17043379"
   },
   {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Cabinet assessment : Mutharika administration records stability gains in year one , delivery lags behind - Featured News Malawi",
-    "url": "https://www.nyasatimes.com/cabinet-assessment-mutharika-administration-records-stability-gains-in-year-one-delivery-lags-behind/"
-  },
-  {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "The curious case of global fertilizer prices - The HinduBusinessLine",
-    "url": "https://www.thehindubusinessline.com/opinion/the-curious-case-of-global-fertilizer-prices/article71357263.ece"
-  },
-  {
     "country": "Namibia",
     "query": "Namibia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
@@ -210,11 +252,32 @@
     "url": "https://www.newsnow.co.uk/h/Industry+Sectors/Commodities/Livestock+and+Meat"
   },
   {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Petrobras ( PBR ) Q2 2026 Earnings Call Transcript",
-    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/14/petrobras-pbr-q2-2026-earnings-call-transcript/?source=iedfolrf0000001"
+    "title": "Africa tourism growth hinges on access , investment and visibility",
+    "url": "http://www.businessghana.com/site/news/business/355066/Africa%E2%80%99s-tourism-growth-hinges-on-access,-investment-and-visibility"
+  },
+  {
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "India News LIVE Update : PM मोदी बोले - पहले भारत का नक्शा बनाने पर भी थी रोक , हमने बदला नियम",
+    "url": "https://www.punjabkesari.com/live-blog/india-news-live-update/"
+  },
+  {
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Sadc region falling short on jobs , security and growth , report warns",
+    "url": "https://www.businessday.co.za/news/2026-08-14-sadc-summit-faces-growth-youth-jobs-and-security-tests/"
+  },
+  {
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Otomobil Toyotanın İkonu : Technicaldan Premiuma Yolculuk",
+    "url": "https://www.fortuneturkey.com/otomobil-toyotanin-ikonu-technicaldan-premiuma-yolculuk"
   },
   {
     "country": "Somalia",
@@ -252,11 +315,25 @@
     "url": "https://www.ocregister.com/2026/08/30/investors-prosper-and-consumers-pay-as-the-iran-war-exacts-an-uneven-economic-toll-6-months-in/"
   },
   {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Investors prosper and consumers pay as the Iran war exacts an uneven economic toll 6 months in",
-    "url": "https://www.redlandsdailyfacts.com/2026/08/30/investors-prosper-and-consumers-pay-as-the-iran-war-exacts-an-uneven-economic-toll-6-months-in/"
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "eNCA News Bite | Khampepe Stays , Tembisa Arrest And Fuel Price Shock | 31 August 2026",
+    "url": "https://www.enca.com/shows/enca-news-bite-khampepe-stays-tembisa-arrest-and-fuel-price-shock-31-august-2026"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "In case you missed it : Zuma , Mbeki fail Khampepe recusal | Stadium flyover sparks safety fears | Fuel costs up this September",
+    "url": "https://www.citizen.co.za/news/in-case-you-missed-it-31-august-2026/"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "We give the lowdown on Airlink flyover ; fuel price hike looms : Today top 7 stories",
+    "url": "https://www.news24.com/southafrica/news/we-give-the-lowdown-on-airlinks-flyover-fuel-price-hike-looms-todays-top-7-stories-20260831-0959"
   },
   {
     "country": "South Africa",
@@ -278,27 +355,6 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "The Local guide to Sweden political parties : The Social Democrats",
     "url": "https://www.thelocal.se/20260831/the-locals-guide-to-swedens-political-parties-the-social-democrats/"
-  },
-  {
-    "country": "South Africa",
-    "query": "South Africa fuel price petrol diesel",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "The Local guide to Sweden political parties : The Social Democrats",
-    "url": "https://www.thelocal.se/20260831/the-locals-guide-to-swedens-political-parties-the-social-democrats"
-  },
-  {
-    "country": "South Africa",
-    "query": "South Africa fuel price petrol diesel",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Petrol pump pain : SA pays R56bn more for fuel after oil shock",
-    "url": "https://www.businessday.co.za/news/2026-08-31-sa-pays-r56bn-more-for-fuel-after-oil-shock/"
-  },
-  {
-    "country": "South Africa",
-    "query": "South Africa fuel price petrol diesel",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Brace for a September fuel price hike",
-    "url": "https://www.businessday.co.za/economy/2026-08-31-south-africans-should-brace-for-september-fuel-price-hike/"
   },
   {
     "country": "South Sudan",
@@ -380,48 +436,6 @@
   {
     "country": "Tanzania",
     "query": "Tanzania fuel prices EWURA",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Iran war : Tanga deal offers blueprint for fuel security",
-    "url": "https://www.standardmedia.co.ke/opinion/article/2001555919/iran-war-tanga-deal-offers-blueprint-for-fuel-security"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Business : EAC countries recorded higher inflation rates in J",
-    "url": "https://www.newvision.co.ug/category/business/eac-countries-recorded-higher-inflation-rates-NV_239710_082026"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "34 Australians missing in Nepal floods | Midday News Bulletin 27 August 2026",
-    "url": "https://www.sbs.com.au/news/podcast-episode/34-australians-missing-in-nepal-floods-midday-news-bulletin-27-august-2026/0imi577cj"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Kagame : Rwanda Wants a Stake in Dangote Lamu Refinery",
-    "url": "https://www.riotimesonline.com/rwanda-dangote-lamu-refinery-stake-kagame-2026/"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "UK green technology firm plans major £55m Africa expansion to help create  energy grid of the future  ",
-    "url": "https://www.independent.co.uk/climate-change/green-energy-uk-electricity-renewable-nigeria-aid-b3038823.html"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Election fever : Goons , political violence worry private sector ahead of polls",
-    "url": "https://www.the-star.co.ke/news/2026-08-24-goons-violence-worry-private-sector-ahead-of-polls"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
     "reason": "target country not found in title/summary/url and source is not a known country source",
     "title": "Iran war : Tanga deal offers blueprint for fuel security",
     "url": "https://www.standardmedia.co.ke/opinion/article/2001555919/iran-war-tanga-deal-offers-blueprint-for-fuel-security"

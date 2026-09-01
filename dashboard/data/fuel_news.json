@@ -1,5 +1,26 @@
 [
   {
+    "id": "namibia-2026-08-31-fuel-prices-skyrocket-as-middle-east-war-esca-0b3a14a1",
+    "date": "2026-08-31",
+    "country": "Namibia",
+    "iso3": "NAM",
+    "headline": "Fuel prices skyrocket as Middle East war escalates",
+    "summary": "Fuel prices skyrocket as Middle East war escalates",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "namibian.com.na",
+    "source_url": "https://namibian.com.na",
+    "article_url": "https://www.namibian.com.na/fuel-prices-skyrocket-as-middle-east-war-escalates/",
+    "source_domain": "namibian.com.na",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-09-01",
+    "gdelt_query": "Namibia fuel prices"
+  },
+  {
     "id": "south-sudan-2026-08-27-government-plans-two-new-oil-refineries-to-cu-ec309b95",
     "date": "2026-08-27",
     "country": "South Sudan",
