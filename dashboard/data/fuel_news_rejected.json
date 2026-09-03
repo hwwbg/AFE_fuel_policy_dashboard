@@ -1,33 +1,5 @@
 [
   {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Fuel prices skyrocket as Middle East war escalates",
-    "url": "https://www.namibian.com.na/fuel-prices-skyrocket-as-middle-east-war-escalates/"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Subsídios aos combustíveis sobem 56 % para 1 , 7 biliões Kz",
-    "url": "https://www.angonoticias.com/Artigos/item/82567/subsidios-aos-combustiveis-sobem-56-por-cento-para-17-bilioes-kz"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Nigeria Abu Dhabi Loan : US$5 Billion , Few Details",
-    "url": "https://www.riotimesonline.com/nigeria-abu-dhabi-loan-total-return-swap-2026/"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "China Keeps Oil Buying in Check as Crude Prices Stay Above $90",
-    "url": "https://www.livemint.com/market/china-keeps-oil-buying-in-check-as-crude-prices-stay-above-90-11787289773942.html"
-  },
-  {
     "country": "Botswana",
     "query": "Botswana fuel price increase",
     "reason": "no fuel-price keyword in title/summary",
@@ -49,13 +21,6 @@
     "url": "https://www.outsideonline.com/adventure-travel/destinations/africa/electric-safaris-africa/"
   },
   {
-    "country": "Botswana",
-    "query": "Botswana fuel price increase",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Trump tariffs fallout : China moves to join Brazil WTO challenge of US forced labor duties",
-    "url": "https://www.undercurrentnews.com/2026/08/11/trump-tariffs-fallout/"
-  },
-  {
     "country": "Burundi",
     "query": "Burundi fuel price",
     "reason": "no fuel-price keyword in title/summary",
@@ -68,13 +33,6 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "GCW774",
     "url": "https://www.globalcement.com/news/tags/gcw774"
-  },
-  {
-    "country": "Burundi",
-    "query": "Burundi fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Trump tariffs fallout : China moves to join Brazil WTO challenge of US forced labor duties",
-    "url": "https://www.undercurrentnews.com/2026/08/11/trump-tariffs-fallout/"
   },
   {
     "country": "Eritrea",
@@ -122,6 +80,27 @@
     "country": "Ethiopia",
     "query": "Ethiopia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
+    "title": "Skeptical Science New Research for Week # 36 2026",
+    "url": "https://skepticalscience.com/new_research_2026_36.html"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Why health must shape Africa energy future",
+    "url": "https://www.dailymaverick.co.za/article/2026-09-01-connecting-the-crises-and-putting-health-at-the-heart-of-africas-energy-future/"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Nepal needs more giant dams to avert disastrous floods",
+    "url": "https://www.taipeitimes.com/News/editorials/archives/2026/09/02/2003863529"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
     "title": "How eco - localism differs from tariff terrorism",
     "url": "https://www.resilience.org/stories/2026-09-01/how-eco-localism-differs-from-tariff-terrorism/"
   },
@@ -140,46 +119,11 @@
     "url": "https://governorswindenergycoalition.org/how-the-war-in-iran-is-redrawing-the-global-energy-map/"
   },
   {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "من تجارة الجَلّابة إلى اقتصاد الحرب ثم اقتصاد السلام",
-    "url": "https://sudanile.com/%D9%85%D9%86-%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AC%D9%8E%D9%84%D9%91%D8%A7%D8%A8%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%AB%D9%85/"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "The unexpected winner of the Iran war : renewable energy  | Peak Oil News and Message Boards",
-    "url": "https://peakoil.com/generalideas/the-unexpected-winner-of-the-iran-war-renewable-energy"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Kagame : Rwanda Wants a Stake in Dangote Lamu Refinery",
-    "url": "https://www.riotimesonline.com/rwanda-dangote-lamu-refinery-stake-kagame-2026/"
-  },
-  {
     "country": "Kenya",
     "query": "Kenya fuel prices EPRA",
     "reason": "no fuel-price keyword in title/summary",
     "title": "EPRA Raises Electricity Costs by KSh4 . 70 per Unit in August",
     "url": "https://nairobiwire.com/2026/08/kenya-electricity-tariff-august-2026-epra-charges.html"
-  },
-  {
-    "country": "Lesotho",
-    "query": "Lesotho fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Sadc region falling short on jobs , security and growth , report warns",
-    "url": "https://www.businessday.co.za/news/2026-08-14-sadc-summit-faces-growth-youth-jobs-and-security-tests/"
-  },
-  {
-    "country": "Lesotho",
-    "query": "Lesotho fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Trump tariffs fallout : China moves to join Brazil WTO challenge of US forced labor duties",
-    "url": "https://www.undercurrentnews.com/2026/08/11/trump-tariffs-fallout/"
   },
   {
     "country": "Mozambique",
@@ -222,34 +166,6 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "African Countries Rethink Growth as Manufacturing Slips to 10 % of GDP",
     "url": "https://www.el-balad.com/17043379"
-  },
-  {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Как потеря среднеазиатских урановых рудников подорвет экономику « Росатома » ",
-    "url": "https://stanradar.com/news/full/60508-kak-poterja-sredneaziatskih-uranovyh-rudnikov-podorvet-ekonomiku-rosatoma.html"
-  },
-  {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
-    "reason": "low-value broad domain: oilprice.com",
-    "title": "Equinor Board Member to Step Down in September",
-    "url": "https://oilprice.com/Company-News/Equinor-Board-Member-to-Step-Down-in-September.html"
-  },
-  {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Namibia scales up green hydrogen plans",
-    "url": "https://www.ewn.co.za/2026/08/26/namibia-scales-up-green-hydrogen-plans"
-  },
-  {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Livestock and Meat news | Breaking News",
-    "url": "https://www.newsnow.co.uk/h/Industry+Sectors/Commodities/Livestock+and+Meat"
   },
   {
     "country": "Seychelles",
@@ -317,6 +233,20 @@
   {
     "country": "South Africa",
     "query": "South Africa fuel price petrol diesel",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "These were SA best - selling new vehicles in August",
+    "url": "https://www.timeslive.co.za/motoring/2026-09-02-these-were-sas-best-selling-new-vehicles-in-august/"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Why you should stop what youre doing and fill up your vehicle now",
+    "url": "https://www.thesouthafrican.com/motoring/why-you-should-stop-what-youre-doing-and-fill-up-your-vehicle-now/"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
     "reason": "target country not found in title/summary/url and source is not a known country source",
     "title": "eNCA News Bite | Khampepe Stays , Tembisa Arrest And Fuel Price Shock | 31 August 2026",
     "url": "https://www.enca.com/shows/enca-news-bite-khampepe-stays-tembisa-arrest-and-fuel-price-shock-31-august-2026"
@@ -334,27 +264,6 @@
     "reason": "target country not found in title/summary/url and source is not a known country source",
     "title": "We give the lowdown on Airlink flyover ; fuel price hike looms : Today top 7 stories",
     "url": "https://www.news24.com/southafrica/news/we-give-the-lowdown-on-airlinks-flyover-fuel-price-hike-looms-todays-top-7-stories-20260831-0959"
-  },
-  {
-    "country": "South Africa",
-    "query": "South Africa fuel price petrol diesel",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Here is the official petrol price for September 2026",
-    "url": "https://www.thesouthafrican.com/business/here-is-the-official-petrol-price-for-september-2026/"
-  },
-  {
-    "country": "South Africa",
-    "query": "South Africa fuel price petrol diesel",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Consumers to pay more for petrol and diesel from September 2",
-    "url": "https://www.businessday.co.za/economy/2026-08-31-consumers-to-pay-more-for-petrol-and-diesel-from-september-2/"
-  },
-  {
-    "country": "South Africa",
-    "query": "South Africa fuel price petrol diesel",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "The Local guide to Sweden political parties : The Social Democrats",
-    "url": "https://www.thelocal.se/20260831/the-locals-guide-to-swedens-political-parties-the-social-democrats/"
   },
   {
     "country": "South Sudan",
@@ -395,6 +304,20 @@
     "country": "Sudan",
     "query": "Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
+    "title": "韋安觀點 ： 伊朗戰爭的終局─美 、 伊 、 以都是輸家 | 韋安 | 評論",
+    "url": "https://www.storm.mg/article/11160987"
+  },
+  {
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Tinubu Economic Reforms : President Defends Policies , Atiku F",
+    "url": "https://punchng.com/tinubu-defends-reforms-as-atiku-faults-economic-policies/"
+  },
+  {
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
     "title": "South Sudan nutrition crisis : Holding the line between hunger and hope",
     "url": "https://www.eyeradio.org/south-sudans-nutrition-crisis-holding-the-line-between-hunger-and-hope/"
   },
@@ -420,24 +343,52 @@
     "url": "https://www.bostonglobe.com/2026/08/30/business/us-iran-war-investors-prosper-consumers-pay/"
   },
   {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Guerra de EEUU en Irán : cómo ha afectado la economía mundial – Telemundo Puerto Rico",
-    "url": "https://www.telemundopr.com/noticias/mundo/guerra-eeuu-israel-iran-impacto-economia-mundial/2840030/"
-  },
-  {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Guerra de EEUU en Irán : cómo ha afectado la economía mundial – Telemundo Miami ( 51 ) ",
-    "url": "https://www.telemundo51.com/noticias/mundo/guerra-eeuu-israel-iran-impacto-economia-mundial/2820028/"
-  },
-  {
     "country": "Tanzania",
     "query": "Tanzania fuel prices EWURA",
     "reason": "target country not found in title/summary/url and source is not a known country source",
     "title": "Iran war : Tanga deal offers blueprint for fuel security",
     "url": "https://www.standardmedia.co.ke/opinion/article/2001555919/iran-war-tanga-deal-offers-blueprint-for-fuel-security"
+  },
+  {
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Uber abruptly halts business in Nigeria , Uganda",
+    "url": "https://www.standardmedia.co.ke/africa/article/2001556861/uber-abruptly-halts-business-in-nigeria-uganda"
+  },
+  {
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Uganda : Uber Exits Uganda After 12 Years",
+    "url": "https://allafrica.com/stories/202609030103.html"
+  },
+  {
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Uber makes  insane  exit from this country , goes offline for drives mid - ride",
+    "url": "https://www.hindustantimes.com/world-news/uber-exits-nigeria-uganda-with-immediate-effect-to-cut-10-workforce-worldwide-101788405478921.html"
+  },
+  {
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+    "url": "https://www.the-star.co.ke/news/africa/2026-09-03-uber-shuts-operations-in-nigeria-and-uganda-with-immediate-effect"
+  },
+  {
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Η Uber απολύει το 10 % των υπαλλήλων της",
+    "url": "https://kathimerini.com.cy/gr/oikonomiki/epixeiriseis/i-uber-apolyei-to-10-ton-ypallilon-tis"
+  },
+  {
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+    "url": "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o"
   }
 ]

@@ -1,23 +1,43 @@
 {
-  "last_refreshed_utc": "2026-09-01T13:16:07+00:00",
+  "last_refreshed_utc": "2026-09-03T12:52:07+00:00",
   "source": "GDELT DOC 2.0 API",
   "registry": "/home/runner/work/AFE_fuel_policy_dashboard/AFE_fuel_policy_dashboard/dashboard/data/afe_fuel_news_media_source_registry.json",
   "days_searched": 21,
   "queries_per_country": 1,
-  "items_written": 130,
-  "new_items_found_this_run": 9,
-  "existing_items_checked": 129,
+  "items_written": 131,
+  "new_items_found_this_run": 6,
+  "existing_items_checked": 130,
   "existing_items_dropped_by_quality_filter": 0,
-  "query_errors_count": 2,
+  "query_errors_count": 6,
   "errors": [
+    {
+      "country": "Angola",
+      "query": "Angola fuel price",
+      "error": "<urlopen error _ssl.c:999: The handshake operation timed out>"
+    },
     {
       "country": "Eswatini",
       "query": "Eswatini fuel price increase",
       "error": "<urlopen error timed out>"
     },
     {
-      "country": "Uganda",
-      "query": "Uganda fuel prices",
+      "country": "Lesotho",
+      "query": "Lesotho fuel prices",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "country": "Mauritius",
+      "query": "Mauritius prix carburant",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "country": "Namibia",
+      "query": "Namibia fuel prices",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "country": "Zambia",
+      "query": "Zambia fuel prices ERB",
       "error": "<urlopen error timed out>"
     }
   ],

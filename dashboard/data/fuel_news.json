@@ -1,5 +1,26 @@
 [
   {
+    "id": "south-africa-2026-09-01-south-africa-neighbour-hikes-fuel-prices-here-99d60c1c",
+    "date": "2026-09-01",
+    "country": "South Africa",
+    "iso3": "ZAF",
+    "headline": "South Africa neighbour hikes fuel prices here the new cost",
+    "summary": "South Africa neighbour hikes fuel prices here the new cost",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price increase",
+    "magnitude": "Not extracted automatically",
+    "source_name": "thesouthafrican.com",
+    "source_url": "https://thesouthafrican.com",
+    "article_url": "https://www.thesouthafrican.com/news/africa/south-african-neighbour-hikes-fuel-prices-heres-the-new-cost/",
+    "source_domain": "thesouthafrican.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-09-03",
+    "gdelt_query": "South Africa fuel price petrol diesel"
+  },
+  {
     "id": "namibia-2026-08-31-fuel-prices-skyrocket-as-middle-east-war-esca-0b3a14a1",
     "date": "2026-08-31",
     "country": "Namibia",
