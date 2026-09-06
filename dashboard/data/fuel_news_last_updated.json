@@ -1,5 +1,5 @@
 {
-  "last_refreshed_utc": "2026-09-05T12:00:14+00:00",
+  "last_refreshed_utc": "2026-09-06T12:27:21+00:00",
   "source": "GDELT DOC 2.0 API",
   "registry": "/home/runner/work/AFE_fuel_policy_dashboard/AFE_fuel_policy_dashboard/dashboard/data/afe_fuel_news_media_source_registry.json",
   "days_searched": 21,
@@ -8,16 +8,11 @@
   "new_items_found_this_run": 3,
   "existing_items_checked": 131,
   "existing_items_dropped_by_quality_filter": 0,
-  "query_errors_count": 8,
+  "query_errors_count": 9,
   "errors": [
     {
-      "country": "Eritrea",
-      "query": "Eritrea fuel price",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "country": "Lesotho",
-      "query": "Lesotho fuel prices",
+      "country": "Botswana",
+      "query": "Botswana fuel price increase",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -26,8 +21,23 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
+      "country": "Namibia",
+      "query": "Namibia fuel prices",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "country": "Rwanda",
+      "query": "Rwanda fuel prices RURA",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
       "country": "Sao Tome and Principe",
       "query": "Sao Tome and Principe São Tomé preço combustíveis",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "country": "Seychelles",
+      "query": "Seychelles fuel prices",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -36,18 +46,13 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "South Africa",
-      "query": "South Africa fuel price petrol diesel",
+      "country": "Tanzania",
+      "query": "Tanzania fuel prices EWURA",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "South Sudan",
-      "query": "South Sudan fuel prices",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "country": "Sudan",
-      "query": "Sudan fuel prices",
+      "country": "Uganda",
+      "query": "Uganda fuel prices",
       "error": "HTTP Error 429: Too Many Requests"
     }
   ],
