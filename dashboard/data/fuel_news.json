@@ -1,5 +1,49 @@
 [
   {
+    "id": "malawi-2026-09-12-mera-maintains-petrol-diesel-prices-raises-ke-c15dadb5",
+    "date": "2026-09-12",
+    "country": "Malawi",
+    "iso3": "MWI",
+    "headline": "Mera maintains petrol , diesel prices , raises kerosene",
+    "summary": "Mera maintains petrol , diesel prices , raises kerosene",
+    "products": [
+      "gasoline",
+      "diesel",
+      "kerosene"
+    ],
+    "change_type": "price increase",
+    "magnitude": "Not extracted automatically",
+    "source_name": "mwnation.com",
+    "source_url": "https://mwnation.com",
+    "article_url": "https://mwnation.com/mera-maintains-petrol-diesel-prices-raises-kerosene/",
+    "source_domain": "mwnation.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-09-13",
+    "gdelt_query": "Malawi fuel prices MERA"
+  },
+  {
+    "id": "malawi-2026-09-12-mera-raises-paraffin-price-5e860ba7",
+    "date": "2026-09-12",
+    "country": "Malawi",
+    "iso3": "MWI",
+    "headline": "MERA raises paraffin price",
+    "summary": "MERA raises paraffin price",
+    "products": [
+      "kerosene"
+    ],
+    "change_type": "price increase",
+    "magnitude": "Not extracted automatically",
+    "source_name": "malawi24.com",
+    "source_url": "https://malawi24.com",
+    "article_url": "https://malawi24.com/2026/09/12/mera-raises-paraffin-price/",
+    "source_domain": "malawi24.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-09-13",
+    "gdelt_query": "Malawi fuel prices MERA"
+  },
+  {
     "id": "south-africa-2026-09-01-south-africa-neighbour-hikes-fuel-prices-here-99d60c1c",
     "date": "2026-09-01",
     "country": "South Africa",
