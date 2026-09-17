@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-16T11:35:04+00:00",
+  "updated_utc": "2026-09-17T11:42:53+00:00",
   "status": "ok",
   "hard_failures": [],
   "manual_countries": [
@@ -14,9 +14,9 @@
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "status": "ok",
-      "message": "Parsed OMH: 423 rows.",
-      "observations_found": 423,
-      "observations_added": 423
+      "message": "Parsed OMH: 426 rows.",
+      "observations_found": 426,
+      "observations_added": 426
     },
     "Kenya": {
       "country": "Kenya",
@@ -54,7 +54,7 @@
       "source_name": "Dept. of Mineral Resources & Energy (DMRE)",
       "source_url": "https://www.dmre.gov.za/energy-resources/energy-sources/pretoleum/petrol-price-archive",
       "status": "warning",
-      "message": "ConnectTimeout: HTTPSConnectionPool(host='www.dmre.gov.za', port=443): Max retries exceeded with url: /energy-resources/energy-sources/pretoleum/petrol-price-archive (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dmre.gov.za', port=443) at 0x7f9e1d6c3350>, 'Connection to www.dmre.gov.za timed out. (connect timeout=60)'))",
+      "message": "ConnectTimeout: HTTPSConnectionPool(host='www.dmre.gov.za', port=443): Max retries exceeded with url: /energy-resources/energy-sources/pretoleum/petrol-price-archive (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dmre.gov.za', port=443) at 0x7fdbdfacb750>, 'Connection to www.dmre.gov.za timed out. (connect timeout=60)'))",
       "observations_found": 0,
       "observations_added": 0
     },

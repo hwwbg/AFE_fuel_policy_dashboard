@@ -32047,6 +32047,45 @@
       "source_name": "Office Malgache des Hydrocarbures (OMH)",
       "source_url": "https://www.omh.mg/index.php?page=prixpompe",
       "unit": "L"
+    },
+    {
+      "currency": "MGA",
+      "fuel_family": "diesel",
+      "fuel_product": "Diesel / GO",
+      "location": "National",
+      "observation_date": "2026-09-05",
+      "price_local": 4860.0,
+      "series_key": "diesel|||diesel___go",
+      "source_key": "omh.mg",
+      "source_name": "Office Malgache des Hydrocarbures (OMH)",
+      "source_url": "https://www.omh.mg/index.php?page=prixpompe",
+      "unit": "L"
+    },
+    {
+      "currency": "MGA",
+      "fuel_family": "gasoline",
+      "fuel_product": "Essence / SC",
+      "location": "National",
+      "observation_date": "2026-09-05",
+      "price_local": 5300.0,
+      "series_key": "gasoline|||essence___sc",
+      "source_key": "omh.mg",
+      "source_name": "Office Malgache des Hydrocarbures (OMH)",
+      "source_url": "https://www.omh.mg/index.php?page=prixpompe",
+      "unit": "L"
+    },
+    {
+      "currency": "MGA",
+      "fuel_family": "kerosene",
+      "fuel_product": "Kerosene / PL",
+      "location": "National",
+      "observation_date": "2026-09-05",
+      "price_local": 3710.0,
+      "series_key": "kerosene|||kerosene___pl",
+      "source_key": "omh.mg",
+      "source_name": "Office Malgache des Hydrocarbures (OMH)",
+      "source_url": "https://www.omh.mg/index.php?page=prixpompe",
+      "unit": "L"
     }
   ],
   "Sao Tome and Principe": [
