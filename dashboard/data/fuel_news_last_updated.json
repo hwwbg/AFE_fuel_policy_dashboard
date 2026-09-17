@@ -1,18 +1,18 @@
 {
-  "last_refreshed_utc": "2026-09-15T13:30:31+00:00",
+  "last_refreshed_utc": "2026-09-17T13:22:01+00:00",
   "source": "GDELT DOC 2.0 API",
   "registry": "/home/runner/work/AFE_fuel_policy_dashboard/AFE_fuel_policy_dashboard/dashboard/data/afe_fuel_news_media_source_registry.json",
   "days_searched": 21,
   "queries_per_country": 1,
   "items_written": 133,
-  "new_items_found_this_run": 0,
+  "new_items_found_this_run": 2,
   "existing_items_checked": 133,
   "existing_items_dropped_by_quality_filter": 0,
-  "query_errors_count": 8,
+  "query_errors_count": 5,
   "errors": [
     {
-      "country": "Botswana",
-      "query": "Botswana fuel price increase",
+      "country": "Angola",
+      "query": "Angola fuel price",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -21,33 +21,18 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Lesotho",
-      "query": "Lesotho fuel prices",
+      "country": "Eritrea",
+      "query": "Eritrea fuel price",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Malawi",
-      "query": "Malawi fuel prices MERA",
+      "country": "Seychelles",
+      "query": "Seychelles fuel prices",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Mauritius",
-      "query": "Mauritius prix carburant",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "country": "Sao Tome and Principe",
-      "query": "Sao Tome and Principe São Tomé preço combustíveis",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "country": "Zambia",
-      "query": "Zambia fuel prices ERB",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "country": "Zimbabwe",
-      "query": "Zimbabwe fuel prices ZERA",
+      "country": "Tanzania",
+      "query": "Tanzania fuel prices EWURA",
       "error": "HTTP Error 429: Too Many Requests"
     }
   ],

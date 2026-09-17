@@ -1,91 +1,14 @@
 [
   {
-    "country": "Angola",
-    "query": "Angola fuel price",
+    "country": "Botswana",
+    "query": "Botswana fuel price increase",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "从10幅图表 ， 看6个月美以伊战争给全球造成的3300亿美元损失",
-    "url": "https://www.huxiu.com/article/4890148.html"
+    "title": "Botswana bets Billions on an energy overhaul",
+    "url": "https://weekendpost.co.bw/botswana-bets-billions-on-an-energy-overhaul/"
   },
   {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "هل يستعد العالم لـ  عصر ما بعد النفط ، وماذا سيحدث للدول التي تعتمد عليه ؟ ",
-    "url": "https://www.bbc.com/arabic/articles/cgrv9zjej5po"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Fatalne perspektywy dla cen ropy i gazu . Chinom skończyła się cierpliwość",
-    "url": "https://www.wnp.pl/energia/fatalne-perspektywy-dla-cen-ropy-i-gazu-chinom-skonczyla-sie-cierpliwosc,1098211.html"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "央企 ， 给老工业基地换引擎 - 钛媒体官方网站",
-    "url": "https://www.tmtpost.com/8135238.html"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Pétrole à 97 dollars le baril : le risque dune nouvelle hausse des prix à Maurice se profile",
-    "url": "https://defimedia.info/petrole-97-dollars-le-baril-le-risque-dune-nouvelle-hausse-des-prix-maurice-se-profile"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Africa currency reform tests Nigeria , Egypt and Zimbabwe",
-    "url": "https://www.riotimesonline.com/africa-currency-reforms-2026/"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Hundreds Of Ships Still Stranded In Gulf Waters , UN Agency Says",
-    "url": "http://www.iranherald.com/news/279273871/hundreds-of-ships-still-stranded-in-gulf-waters-un-agency-says"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Hundreds Of Ships Still Stranded In Gulf Waters , UN Agency Says",
-    "url": "http://www.middleeaststar.com/news/279273871/hundreds-of-ships-still-stranded-in-gulf-waters-un-agency-says"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Iranian President Says Sanctions Hurting Irans Economy",
-    "url": "http://www.middleeaststar.com/news/279273368/iranian-president-says-sanctions-hurting-irans-economy"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Iranian President Says Sanctions Hurting Irans Economy",
-    "url": "http://www.arabherald.com/news/279273368/iranian-president-says-sanctions-hurting-irans-economy"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Iranian President Says Sanctions Hurting Irans Economy",
-    "url": "http://www.iraqsun.com/news/279273368/iranian-president-says-sanctions-hurting-irans-economy"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Araqchi : Khameneis Death Will Neither Be Forgiven Nor Forgotten",
-    "url": "http://www.arabherald.com/news/279272896/araqchi-khameneis-death-will-neither-be-forgiven-nor-forgotten"
-  },
-  {
-    "country": "Eswatini",
-    "query": "Eswatini fuel price increase",
+    "country": "Botswana",
+    "query": "Botswana fuel price increase",
     "reason": "no fuel-price keyword in title/summary",
     "title": "  A garden paradise in the cloud : A story of climate adaptation in Eswatini",
     "url": "https://www.resilience.org/stories/2026-09-04/a-garden-paradise-in-the-clouds-a-story-of-climate-adaptation-in-eswatini/"
@@ -94,8 +17,8 @@
     "country": "Eswatini",
     "query": "Eswatini fuel price increase",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "GCW774",
-    "url": "https://www.globalcement.com/news/tags/gcw774"
+    "title": "  A garden paradise in the cloud : A story of climate adaptation in Eswatini",
+    "url": "https://www.resilience.org/stories/2026-09-04/a-garden-paradise-in-the-clouds-a-story-of-climate-adaptation-in-eswatini/"
   },
   {
     "country": "Ethiopia",
@@ -138,6 +61,13 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "Trade between BRICS countries shows marked increase",
     "url": "https://www.thehindu.com/data/trade-between-brics-countries-shows-marked-increase/article71451464.ece"
+  },
+  {
+    "country": "Lesotho",
+    "query": "Lesotho fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "THE MONEY IS MOVING . IS LESOTHO MOVING WITH IT ? ",
+    "url": "https://lestimes.com/?p=91478"
   },
   {
     "country": "Mozambique",
@@ -222,20 +152,6 @@
     "reason": "target country not found in title/summary/url and source is not a known country source",
     "title": "South Africa neighbour hikes fuel prices here the new cost",
     "url": "https://www.thesouthafrican.com/news/africa/south-african-neighbour-hikes-fuel-prices-heres-the-new-cost/"
-  },
-  {
-    "country": "Seychelles",
-    "query": "Seychelles fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": " [ Blog ] The Iran War Shock : Higher Prices , Tighter Money and a Growing Fiscal Dilemma",
-    "url": "https://defimedia.info/blog-iran-war-shock-higher-prices-tighter-money-and-growing-fiscal-dilemma"
-  },
-  {
-    "country": "Seychelles",
-    "query": "Seychelles fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Africa tourism growth hinges on access , investment and visibility",
-    "url": "http://www.businessghana.com/site/news/business/355066/Africa%E2%80%99s-tourism-growth-hinges-on-access,-investment-and-visibility"
   },
   {
     "country": "Somalia",
