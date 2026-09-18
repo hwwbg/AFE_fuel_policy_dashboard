@@ -747,6 +747,77 @@
 
 ---
 
+.choixcategorie{
+    display: flex; /* Active le mode Flexbox */
+    flex-direction:row;
+    /*align-items: center;  Aligne verticalement au centre le titre et le formulaire */
+    gap: 15px; /* Ajoute un espacement entre les éléments (navigateurs modernes)*/
+    max-width:98%;
+    padding-bottom:10px;
+}
+#anneeform{
+    font-size:1rem;
+}
+
+.mainprix{
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(300px, 1fr));
+    /*grid-template-columns: 1fr 1fr; */
+    gap: 30px; /* Espace entre les deux colonnes */
+    /*max-width:1400px;  Largeur maximale pour le contenu */
+    margin: 40px auto;
+    max-width:98%;
+}
+
+.mainprixpompe h2{
+    font-size:1.6rem;
+    text-align:center;
+}
+.data-section-evo {
+    flex: 1;  /*Permet aux sections de prendre de la place */
+    /* min-width: 450px;  Assure que ce n'est pas trop petit */
+    max-height:auto;
+}
+
+.table-container-evoprix {
+    overflow-y: auto; /* Permet le défilement horizontal sur les petits écrans */
+    margin: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    height:auto;
+}
+.data-section-graphevo {
+    flex: 1;  /*Permet aux sections de prendre de la place */
+    /* min-width: 450px;  Assure que ce n'est pas trop petit */
+    max-height:400px;
+    margin:20px 10px;
+}
+.data-section-graphevo h2{
+    font-size:1.6rem;
+    text-align:center;
+}
+hr{
+    height:1px;
+    box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.2); /* Ombre portée */
+}
+
+@media (max-width: 900px) {
+    .choixcategorie{
+        flex-direction: column;
+        align-items: center; 
+    }
+    .formulaire{
+        width:98%;
+        margin:auto;
+        display:flex;
+        justify-content: center;
+        align-content: center;
+    }
+}
+
+---
+
 
 .mainprixpompe {
   padding: 0;
@@ -895,77 +966,6 @@
   }
 }
 
-
----
-
-.choixcategorie{
-    display: flex; /* Active le mode Flexbox */
-    flex-direction:row;
-    /*align-items: center;  Aligne verticalement au centre le titre et le formulaire */
-    gap: 15px; /* Ajoute un espacement entre les éléments (navigateurs modernes)*/
-    max-width:98%;
-    padding-bottom:10px;
-}
-#anneeform{
-    font-size:1rem;
-}
-
-.mainprix{
-    padding: 0;
-    display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(300px, 1fr));
-    /*grid-template-columns: 1fr 1fr; */
-    gap: 30px; /* Espace entre les deux colonnes */
-    /*max-width:1400px;  Largeur maximale pour le contenu */
-    margin: 40px auto;
-    max-width:98%;
-}
-
-.mainprixpompe h2{
-    font-size:1.6rem;
-    text-align:center;
-}
-.data-section-evo {
-    flex: 1;  /*Permet aux sections de prendre de la place */
-    /* min-width: 450px;  Assure que ce n'est pas trop petit */
-    max-height:auto;
-}
-
-.table-container-evoprix {
-    overflow-y: auto; /* Permet le défilement horizontal sur les petits écrans */
-    margin: 20px 0;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
-    height:auto;
-}
-.data-section-graphevo {
-    flex: 1;  /*Permet aux sections de prendre de la place */
-    /* min-width: 450px;  Assure que ce n'est pas trop petit */
-    max-height:400px;
-    margin:20px 10px;
-}
-.data-section-graphevo h2{
-    font-size:1.6rem;
-    text-align:center;
-}
-hr{
-    height:1px;
-    box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.2); /* Ombre portée */
-}
-
-@media (max-width: 900px) {
-    .choixcategorie{
-        flex-direction: column;
-        align-items: center; 
-    }
-    .formulaire{
-        width:98%;
-        margin:auto;
-        display:flex;
-        justify-content: center;
-        align-content: center;
-    }
-}
 
 ---
 
