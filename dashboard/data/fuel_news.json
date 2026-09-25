@@ -1,5 +1,47 @@
 [
   {
+    "id": "namibia-2026-09-23-nasan-bids-for-namibia-fuel-supply-as-namcor-1a829471",
+    "date": "2026-09-23",
+    "country": "Namibia",
+    "iso3": "NAM",
+    "headline": "Nasan bids for Namibia fuel supply as Namcor stays out",
+    "summary": "Nasan bids for Namibia fuel supply as Namcor stays out",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "namibian.com.na",
+    "source_url": "https://namibian.com.na",
+    "article_url": "https://www.namibian.com.na/nasan-bids-for-namibia-fuel-supply-as-namcor-stays-out/",
+    "source_domain": "namibian.com.na",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-09-25",
+    "gdelt_query": "Namibia fuel prices"
+  },
+  {
+    "id": "namibia-2026-09-21-totalenergies-wins-bid-to-supply-all-fuel-to-92b20b0f",
+    "date": "2026-09-21",
+    "country": "Namibia",
+    "iso3": "NAM",
+    "headline": "TotalEnergies wins bid to supply all fuel to Namibia for three months",
+    "summary": "TotalEnergies wins bid to supply all fuel to Namibia for three months",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "namibian.com.na",
+    "source_url": "https://namibian.com.na",
+    "article_url": "https://www.namibian.com.na/totalenergies-wins-bid-to-supply-all-fuel-to-namibia-for-three-months/",
+    "source_domain": "namibian.com.na",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-09-25",
+    "gdelt_query": "Namibia fuel prices"
+  },
+  {
     "id": "malawi-2026-09-12-mera-maintains-petrol-diesel-prices-raises-ke-c15dadb5",
     "date": "2026-09-12",
     "country": "Malawi",
