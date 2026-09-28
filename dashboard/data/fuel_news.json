@@ -1,5 +1,27 @@
 [
   {
+    "id": "malawi-2026-09-27-diesel-desert-lilongwe-drivers-queue-for-hour-7b823514",
+    "date": "2026-09-27",
+    "country": "Malawi",
+    "iso3": "MWI",
+    "headline": "Diesel desert : Lilongwe drivers queue for HOURS as fuel runs dry but petrol keeps flowing - Featured News Malawi",
+    "summary": "Diesel desert : Lilongwe drivers queue for HOURS as fuel runs dry but petrol keeps flowing - Featured News Malawi",
+    "products": [
+      "gasoline",
+      "diesel"
+    ],
+    "change_type": "shortage / supply disruption",
+    "magnitude": "Not extracted automatically",
+    "source_name": "nyasatimes.com",
+    "source_url": "https://nyasatimes.com",
+    "article_url": "https://www.nyasatimes.com/diesel-desert-lilongwe-drivers-queue-for-hours-as-fuel-runs-dry-but-petrol-keeps-flowing/",
+    "source_domain": "nyasatimes.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-09-28",
+    "gdelt_query": "Malawi fuel prices MERA"
+  },
+  {
     "id": "namibia-2026-09-23-nasan-bids-for-namibia-fuel-supply-as-namcor-1a829471",
     "date": "2026-09-23",
     "country": "Namibia",

@@ -1,47 +1,5 @@
 [
   {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Prezzo carburante jet fuel in aumento , voli e compagnie aeree a rischio",
-    "url": "https://tg24.sky.it/economia/2026/09/25/prezzo-carburante-jet-fuel-voli-compagnie-aeree-rischi"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Brent crude tops US$106 as Iran warns of Indian Ocean war",
-    "url": "https://www.riotimesonline.com/brent-crude-tops-106-iran-indian-ocean-warning-2026/"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "S & P Global Opens Abuja Office , Targets West Africa Pricing Hub",
-    "url": "https://leadership.ng/sp-global-opens-abuja-office-targets-west-africa-pricing-hub/"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "DP World expande atuao em Santos",
-    "url": "https://www.estadao.com.br/economia/coluna-do-broadcast-agro/dp-world-expande-atuacao-em-santos/"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "الكعبي : قطر تستعيد مستويات إنتاج الغاز الطبيعية خلال أسابيع",
-    "url": "https://www.aljazeera.net/ebusiness/2026/9/20/%D8%A7%D9%84%D9%83%D8%B9%D8%A8%D9%8A-%D9%82%D8%B7%D8%B1-%D8%AA%D8%B3%D8%AA%D8%B9%D9%8A%D8%AF-%D9%85%D8%B3%D8%AA%D9%88%D9%8A%D8%A7%D8%AA-%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2"
-  },
-  {
-    "country": "Angola",
-    "query": "Angola fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "超级油轮短缺 ！ 全球油运成本  从未如此之高 ， 海事史上最大豪赌  赚翻了",
-    "url": "https://wallstreetcn.com/articles/3782146"
-  },
-  {
     "country": "Botswana",
     "query": "Botswana fuel price increase",
     "reason": "no fuel-price keyword in title/summary",
@@ -56,11 +14,18 @@
     "url": "http://www.cfi.net.cn/p20260921000511.html"
   },
   {
-    "country": "Botswana",
-    "query": "Botswana fuel price increase",
+    "country": "Burundi",
+    "query": "Burundi fuel price",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Botswana bets Billions on an energy overhaul",
-    "url": "https://weekendpost.co.bw/botswana-bets-billions-on-an-energy-overhaul/"
+    "title": "Nigeria : Dangote Refinery a Masterpiece of Science , Engineering , Art - Kenyan President",
+    "url": "https://allafrica.com/stories/202609280023.html"
+  },
+  {
+    "country": "Burundi",
+    "query": "Burundi fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Dangote Refinery : First Cargo Docks at Lamu Port , Kenya",
+    "url": "https://www.riotimesonline.com/dangote-refinery-launch-lamu-2026/"
   },
   {
     "country": "Burundi",
@@ -91,53 +56,25 @@
     "url": "https://planeteafrique.com/Actualites/index.asp?affiche=News_Display.asp&ID=17756"
   },
   {
-    "country": "Burundi",
-    "query": "Burundi fuel price",
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Burundi Inflation Falls to 8 . 7 % in July 2026",
-    "url": "https://www.riotimesonline.com/burundi-inflation-gold-coffee-imf-2026/"
+    "title": "Primera lista de los principales temas del día de Prensa Latina",
+    "url": "https://www.prensa-latina.cu/2026/09/28/primera-lista-de-los-principales-temas-del-dia-de-prensa-latina-397/"
   },
   {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "埃塞俄比亚北部冲突加剧 网络通信中断 | 国际",
-    "url": "https://www.orientaldaily.com.my/news/international/2026/09/25/850409"
+    "title": "Dangote Refinery : First Cargo Docks at Lamu Port , Kenya",
+    "url": "https://www.riotimesonline.com/dangote-refinery-launch-lamu-2026/"
   },
   {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Países Bajos y Dinamarca pagan la gasolina más cara de Europa tras escalar a 2 , 43 euros el litro",
-    "url": "https://es.euronews.com/2026/09/24/paises-bajos-y-dinamarca-pagan-la-gasolina-mas-cara-de-europa-tras-escalar-a-243-euros-el-"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "اقتصاد الخوذة والبزة : كيف صار الجنرالات السودانيون أصحاب أكبر تكتل تجاري في البلاد ، ولماذا تحوّلت شركاتهم إلى وقود لحرب أهلية شاملة ؟ ",
-    "url": "https://sudanile.com/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%AE%D9%88%D8%B0%D8%A9-%D9%88%D8%A7%D9%84%D8%A8%D8%B2%D8%A9-%D9%83%D9%8A%D9%81-%D8%B5%D8%A7%D8%B1-%D8%A7%D9%84%D8%AC%D9%86%D8%B1%D8%A7%D9%84%D8%A7/"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Crisi dei carburanti : in quali paesi europei benzina e diesel costano di più ? ",
-    "url": "https://it.euronews.com/2026/09/23/il-piu-grande-sconvolgimento-nelle-forniture-di-carburante-quali-paesi-in-europa-pagano-di"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Babülmendeb : Ortadoğu krizi Afrikayı nasıl tehdit ediyor ? ",
-    "url": "https://www.dw.com/tr/bab%C3%BClmendep-husilerin-%C3%A7at%C4%B1%C5%9Fmas%C4%B1-afrikay%C4%B1-nas%C4%B1l-etkiliyor/a-79355683"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Houthi Leverage over the Red Sea Escalates Threats for Africa",
-    "url": "https://africacenter.org/spotlight/2026-houthi-red-sea-threats/"
+    "title": "Who Is Aliko Dangote ? Africa Richest Man Explained",
+    "url": "https://www.riotimesonline.com/who-is-aliko-dangote-nigeria-profile-2026/"
   },
   {
     "country": "Ethiopia",
@@ -161,25 +98,18 @@
     "url": "https://www.shorouknews.com/news/view.aspx?cdate=25092026&id=43659f4d-94a0-491c-afea-3f87f1e8dcf0"
   },
   {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
+    "country": "Lesotho",
+    "query": "Lesotho fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Sudán bajo fuego : cómo el suministro de armas extranjeras profundiza una guerra devastadora",
-    "url": "https://www.hsbnoticias.com/armamento-extranjero-en-sudan/"
+    "title": "Botswana Explained 2026 : Diamonds , Debt and What to Watch",
+    "url": "https://www.riotimesonline.com/botswana-explained-2026/"
   },
   {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
+    "country": "Lesotho",
+    "query": "Lesotho fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "40 . 3 million people at risk as food insecurity hits six IGAD states",
-    "url": "https://www.the-star.co.ke/news/africa/2026-09-24-igad-calls-for-action-as-403-million-face-acute-food-insecurity"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "معتصم إبراهيم وزير الطاقة والنفط السودانى لـ « الشروق »: السودان لم يحصل على أى كهرباء من سد النهضة الإثيوبى",
-    "url": "https://www.shorouknews.com/news/view.aspx?cdate=24092026&id=6869ed9a-ba68-48af-9d24-371e3922a545"
+    "title": "Namibia Explained 2026 : Oil Hopes , Economy and What to Watch",
+    "url": "https://www.riotimesonline.com/namibia-explained-2026/"
   },
   {
     "country": "Lesotho",
@@ -187,6 +117,20 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "THE MONEY IS MOVING . IS LESOTHO MOVING WITH IT ? ",
     "url": "https://lestimes.com/?p=91478"
+  },
+  {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "خرائط الطاقة الجديدة .. رحلة البحث عن بديل لهرمز",
+    "url": "https://www.aljazeera.net/politics/2026/9/27/%D8%AE%D8%B1%D8%A7%D8%A6%D8%B7-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86"
+  },
+  {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "Diesel desert : Lilongwe drivers queue for HOURS as fuel runs dry but petrol keeps flowing - Featured News Malawi",
+    "url": "https://www.nyasatimes.com/diesel-desert-lilongwe-drivers-queue-for-hours-as-fuel-runs-dry-but-petrol-keeps-flowing/"
   },
   {
     "country": "Mozambique",
@@ -217,18 +161,32 @@
     "url": "https://www.drweb.de/graphit/"
   },
   {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Fuel tanks full of air - Nation Online",
-    "url": "https://mwnation.com/fuel-tanks-full-of-air/"
+    "country": "Namibia",
+    "query": "Namibia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Kinyitja a pénzcsapot az egyik legnagyobb európai olajcég , örülhetnek a részvényesek",
+    "url": "https://www.portfolio.hu/uzlet/20260928/kinyitja-a-penzcsapot-az-egyik-legnagyobb-europai-olajceg-orulhetnek-a-reszvenyesek-865702"
   },
   {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
+    "country": "Namibia",
+    "query": "Namibia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Business blitz : The week big stories in 90 seconds",
-    "url": "https://www.news24.com/business/companies/business-blitz-the-weeks-big-stories-in-90-seconds-20260904-0901"
+    "title": "خرائط الطاقة الجديدة .. رحلة البحث عن بديل لهرمز",
+    "url": "https://www.aljazeera.net/politics/2026/9/27/%D8%AE%D8%B1%D8%A7%D8%A6%D8%B7-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86"
+  },
+  {
+    "country": "Namibia",
+    "query": "Namibia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Botswana Explained 2026 : Diamonds , Debt and What to Watch",
+    "url": "https://www.riotimesonline.com/botswana-explained-2026/"
+  },
+  {
+    "country": "Namibia",
+    "query": "Namibia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Namibia Explained 2026 : Oil Hopes , Economy and What to Watch",
+    "url": "https://www.riotimesonline.com/namibia-explained-2026/"
   },
   {
     "country": "Namibia",
@@ -238,39 +196,67 @@
     "url": "https://www.hellenicshippingnews.com/engine-europe-africa-bunker-fuel-availability-outlook-200/"
   },
   {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "El Guano peruano : Un tesoro que transformó Europa y América",
-    "url": "https://www.eldiario.ec/mundo/cuando-los-excrementos-valian-oro-el-guano-peruano-que-alimento-a-europa-y-cambio-el-mapa-de-america-23092026/"
+    "title": "Ein Anruf genügte : Warum Trump einen Verbündeten für eine Terrormiliz opferte",
+    "url": "https://www.berliner-zeitung.de:443/article/ein-anruf-genuegte-warum-trump-einen-verbuendeten-fuer-eine-terrormiliz-opferte-10419185"
   },
   {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Namibia : Price Increases Hit Two - Year Peak",
-    "url": "https://allafrica.com/stories/202609210778.html"
+    "title": "Yes , the UN is terrible – but right now , we need it desperately",
+    "url": "https://www.theage.com.au/world/africa/yes-the-un-is-terrible-but-right-now-we-need-it-desperately-20260927-p610t0.html"
   },
   {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "الكعبي : قطر تستعيد مستويات إنتاج الغاز الطبيعية خلال أسابيع",
-    "url": "https://www.aljazeera.net/ebusiness/2026/9/20/%D8%A7%D9%84%D9%83%D8%B9%D8%A8%D9%8A-%D9%82%D8%B7%D8%B1-%D8%AA%D8%B3%D8%AA%D8%B9%D9%8A%D8%AF-%D9%85%D8%B3%D8%AA%D9%88%D9%8A%D8%A7%D8%AA-%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2"
+    "title": "UN General Assembly 2026 : Walkout during Netanyahu speech , and Middle East wars in spotlight",
+    "url": "https://www.middleeasteye.net/news/un-general-assembly-2026-walkout-israel-speech-war-middle-east-war-spotlight"
   },
   {
-    "country": "Seychelles",
-    "query": "Seychelles fuel prices",
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "DERTOUR : Η Ελλάδα 3η επιλογή των Γερμανών το καλοκαίρι του 2026 και Νο1 στα luxury ταξίδια",
-    "url": "https://www.dimokratiki.gr/23-09-2026/dertour-i-ellada-3i-epilogi-ton-germanon-to-kalokeri-tou-2026-ke-no1-sta-luxury-taxidia/"
+    "title": "40 . 3 million people at risk as food insecurity hits six IGAD states",
+    "url": "https://www.the-star.co.ke/news/africa/2026-09-24-igad-calls-for-action-as-403-million-face-acute-food-insecurity"
   },
   {
-    "country": "Seychelles",
-    "query": "Seychelles fuel prices",
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": " [ Blog ] The Iran War Shock : Higher Prices , Tighter Money and a Growing Fiscal Dilemma",
-    "url": "https://defimedia.info/blog-iran-war-shock-higher-prices-tighter-money-and-growing-fiscal-dilemma"
+    "title": "Arab News | Somalia reaffirms support for Palestinian statehood at UN General Assembly",
+    "url": "https://www.arabnews.com/world/somalia-reaffirms-support-for-palestinian-statehood-at-un-general-assembly-3002996"
+  },
+  {
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "اقتصاد الخوذة والبزة : كيف صار الجنرالات السودانيون أصحاب أكبر تكتل تجاري في البلاد ، ولماذا تحوّلت شركاتهم إلى وقود لحرب أهلية شاملة ؟ ",
+    "url": "https://sudanile.com/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%AE%D9%88%D8%B0%D8%A9-%D9%88%D8%A7%D9%84%D8%A8%D8%B2%D8%A9-%D9%83%D9%8A%D9%81-%D8%B5%D8%A7%D8%B1-%D8%A7%D9%84%D8%AC%D9%86%D8%B1%D8%A7%D9%84%D8%A7/"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "The  863  Bet ThatMoved the Cars from West to China",
+    "url": "https://www.oneindia.com/temp/the-863-bet-thatmoved-the-cars-from-west-to-china-8217987.html"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Who Is Aliko Dangote ? Africa Richest Man Explained",
+    "url": "https://www.riotimesonline.com/who-is-aliko-dangote-nigeria-profile-2026/"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Prețul motorinei ar putea exploda în România : Planul Statelor Unite care lovește direct în buzunarele șoferilor",
+    "url": "https://jurnalul.ro/stiri/observator/pretul-motorinei-ar-putea-exploda-in-romania-1045242.html"
   },
   {
     "country": "South Africa",
@@ -294,66 +280,87 @@
     "url": "https://finance.eastmoney.com/a/202609243882952784.html"
   },
   {
-    "country": "South Africa",
-    "query": "South Africa fuel price petrol diesel",
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Πετρέλαιο : « Μπουρλότο » στις τιμές του ντίζελ αν « παγώσουν » οι εξαγωγές από τις ΗΠΑ - Εκτόξευση τιμών και μια Ευρώπη … στα κάρβουνα",
-    "url": "https://www.in.gr/2026/09/23/economy/diethnis-oikonomia/petrelaio-mpourloto-stis-times-tou-ntizel-an-pagosoun-oi-eksagoges-apo-tis-ipa-ektokseysi-timon-kai-mia-eyropi-sta-karvouna/"
+    "title": "Dangote Refinery : First Cargo Docks at Lamu Port , Kenya",
+    "url": "https://www.riotimesonline.com/dangote-refinery-launch-lamu-2026/"
   },
   {
-    "country": "South Africa",
-    "query": "South Africa fuel price petrol diesel",
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Building a financial shock absorber as household pressures mount",
-    "url": "https://www.georgeherald.com/News/Article/Business/building-a-financial-shock-absorber-as-household-pressures-mount-202609220254"
+    "title": "Uganda Explained 2026 : Museveni , Oil Delay and Economy",
+    "url": "https://www.riotimesonline.com/uganda-explained-2026/"
   },
   {
-    "country": "South Africa",
-    "query": "South Africa fuel price petrol diesel",
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Tahap Evaluasi Dimulai , ESDM Cari Teknologi untuk Ubah Batu Bara Jadi Bensin",
-    "url": "https://www.merdeka.com/uang/read/8296665/tahap-evaluasi-dimulai-esdm-cari-teknologi-untuk-ubah-batu-bara-jadi-bensin"
+    "title": "Yes , the UN is terrible – but right now , we need it desperately",
+    "url": "https://www.theage.com.au/world/africa/yes-the-un-is-terrible-but-right-now-we-need-it-desperately-20260927-p610t0.html"
   },
   {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": " « المسكول »... مقياس جديد للجوع في السودان",
-    "url": "https://sudanile.com/%D8%A7%D9%84%D9%85%D8%B3%D9%83%D9%88%D9%84-%D9%85%D9%82%D9%8A%D8%A7%D8%B3-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%84%D8%AC%D9%88%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86/"
+    "title": "مركز المستقبل ناقش .. تحديات وفرص موقع العراق في الجيوسياسية العالمية",
+    "url": "https://annabaa.org/arabic/reports/47504"
   },
   {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Sudán bajo fuego : cómo el suministro de armas extranjeras profundiza una guerra devastadora",
-    "url": "https://www.hsbnoticias.com/armamento-extranjero-en-sudan/"
-  },
-  {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
     "title": "Рекордне Ель - Ніньйо може забрати 450 тисяч життів за пів року : які країни в зоні ризику",
     "url": "https://www.volynnews.com/news/all/rekordne-el-ninyo-mozhe-zabraty-450-tysiach-zhyttiv-za-piv-roku-iaki-krayiny-v-zoni-ryzyku/"
   },
   {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
     "title": "40 . 3 million people at risk as food insecurity hits six IGAD states",
     "url": "https://www.the-star.co.ke/news/africa/2026-09-24-igad-calls-for-action-as-403-million-face-acute-food-insecurity"
   },
   {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Απόψε η ομιλία Μητσοτάκη στον ΟΗΕ : Τι θα πει για τις σχέσεις Ελλάδας - Τουρκίας",
-    "url": "https://www.typosthes.gr/politiki/443153_apopse-i-omilia-mitsotaki-ston-oie-ti-tha-pei-gia-tis-sheseis-elladas-toyrkias"
+    "title": "Gen Tumukunde and the safeguarding of workers wealth",
+    "url": "https://www.independent.co.ug/gen-tumukunde-and-the-safeguarding-of-workers-wealth/"
   },
   {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "معتصم إبراهيم وزير الطاقة والنفط السودانى لـ « الشروق »: السودان لم يحصل على أى كهرباء من سد النهضة الإثيوبى",
-    "url": "https://www.shorouknews.com/news/view.aspx?cdate=24092026&id=6869ed9a-ba68-48af-9d24-371e3922a545"
+    "title": "Dangote Refinery : First Cargo Docks at Lamu Port , Kenya",
+    "url": "https://www.riotimesonline.com/dangote-refinery-launch-lamu-2026/"
+  },
+  {
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Uganda Explained 2026 : Museveni , Oil Delay and Economy",
+    "url": "https://www.riotimesonline.com/uganda-explained-2026/"
+  },
+  {
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "الحرية - الصحافة الإسرائيلية الملف اليومي صادر عن المكتب الصحفي للجبهة الديمقراطية لتحرير فلسطين الجمعة 25 / 9 / 2026 العدد 1720",
+    "url": "https://alhourriah.org/article/172108"
+  },
+  {
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "40 . 3 million people at risk as food insecurity hits six IGAD states",
+    "url": "https://www.the-star.co.ke/news/africa/2026-09-24-igad-calls-for-action-as-403-million-face-acute-food-insecurity"
+  },
+  {
+    "country": "Uganda",
+    "query": "Uganda fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Fears mount that next UN chief will downgrade climate action",
+    "url": "https://www.aol.co.uk/articles/fears-mount-next-un-chief-060017000.html"
   }
 ]

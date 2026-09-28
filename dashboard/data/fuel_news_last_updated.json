@@ -1,38 +1,53 @@
 {
-  "last_refreshed_utc": "2026-09-25T13:27:32+00:00",
+  "last_refreshed_utc": "2026-09-28T16:26:43+00:00",
   "source": "GDELT DOC 2.0 API",
   "registry": "/home/runner/work/AFE_fuel_policy_dashboard/AFE_fuel_policy_dashboard/dashboard/data/afe_fuel_news_media_source_registry.json",
   "days_searched": 21,
   "queries_per_country": 1,
-  "items_written": 135,
-  "new_items_found_this_run": 2,
-  "existing_items_checked": 133,
+  "items_written": 136,
+  "new_items_found_this_run": 4,
+  "existing_items_checked": 135,
   "existing_items_dropped_by_quality_filter": 0,
-  "query_errors_count": 5,
+  "query_errors_count": 8,
   "errors": [
     {
-      "country": "Eswatini",
-      "query": "Eswatini fuel price increase",
+      "country": "Angola",
+      "query": "Angola fuel price",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Malawi",
-      "query": "Malawi fuel prices MERA",
+      "country": "Democratic Republic of Congo",
+      "query": "Democratic Republic of Congo RDC prix carburant",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Somalia",
-      "query": "Somalia fuel prices",
+      "country": "Eritrea",
+      "query": "Eritrea fuel price",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "South Sudan",
-      "query": "South Sudan fuel prices",
+      "country": "Mauritius",
+      "query": "Mauritius prix carburant",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Uganda",
-      "query": "Uganda fuel prices",
+      "country": "Rwanda",
+      "query": "Rwanda fuel prices RURA",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "country": "Seychelles",
+      "query": "Seychelles fuel prices",
+      "error": "The read operation timed out"
+    },
+    {
+      "country": "Sudan",
+      "query": "Sudan fuel prices",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "country": "Tanzania",
+      "query": "Tanzania fuel prices EWURA",
       "error": "HTTP Error 429: Too Many Requests"
     }
   ],
