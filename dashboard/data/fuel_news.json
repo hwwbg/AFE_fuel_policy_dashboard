@@ -1,5 +1,26 @@
 [
   {
+    "id": "malawi-2026-09-29-fuel-queues-resurface-nation-online-1069dfbb",
+    "date": "2026-09-29",
+    "country": "Malawi",
+    "iso3": "MWI",
+    "headline": "Fuel queues resurface - Nation Online",
+    "summary": "Fuel queues resurface - Nation Online",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "shortage / supply disruption",
+    "magnitude": "Not extracted automatically",
+    "source_name": "mwnation.com",
+    "source_url": "https://mwnation.com",
+    "article_url": "https://mwnation.com/fuel-queues-resurface-3/",
+    "source_domain": "mwnation.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-10-01",
+    "gdelt_query": "Malawi fuel prices MERA"
+  },
+  {
     "id": "malawi-2026-09-27-diesel-desert-lilongwe-drivers-queue-for-hour-7b823514",
     "date": "2026-09-27",
     "country": "Malawi",
