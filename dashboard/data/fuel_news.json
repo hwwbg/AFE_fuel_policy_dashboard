@@ -1,5 +1,47 @@
 [
   {
+    "id": "mozambique-2026-10-01-mozambique-government-denies-reports-of-fuel-4525d6f0",
+    "date": "2026-10-01",
+    "country": "Mozambique",
+    "iso3": "MOZ",
+    "headline": "Mozambique : Government Denies Reports of Fuel Shortage",
+    "summary": "Mozambique : Government Denies Reports of Fuel Shortage",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "shortage / supply disruption",
+    "magnitude": "Not extracted automatically",
+    "source_name": "allafrica.com",
+    "source_url": "https://allafrica.com",
+    "article_url": "https://allafrica.com/stories/202610010434.html",
+    "source_domain": "allafrica.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-10-04",
+    "gdelt_query": "Mozambique fuel prices"
+  },
+  {
+    "id": "sudan-2026-10-01-hunger-malnutrition-and-fuel-shortages-compou-f50a918e",
+    "date": "2026-10-01",
+    "country": "Sudan",
+    "iso3": "SDN",
+    "headline": "Hunger , malnutrition and fuel shortages compound Sudan humanitarian crisis",
+    "summary": "Hunger , malnutrition and fuel shortages compound Sudan humanitarian crisis",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "shortage / supply disruption",
+    "magnitude": "Not extracted automatically",
+    "source_name": "dabangasudan.org",
+    "source_url": "https://dabangasudan.org",
+    "article_url": "https://www.dabangasudan.org/en/all-news/article/hunger-malnutrition-and-fuel-shortages-compound-sudans-humanitarian-crisis",
+    "source_domain": "dabangasudan.org",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-10-04",
+    "gdelt_query": "Sudan fuel prices"
+  },
+  {
     "id": "malawi-2026-09-29-fuel-queues-resurface-nation-online-1069dfbb",
     "date": "2026-09-29",
     "country": "Malawi",
