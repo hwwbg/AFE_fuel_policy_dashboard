@@ -63,6 +63,27 @@
     "gdelt_query": "Malawi fuel prices MERA"
   },
   {
+    "id": "south-africa-2026-09-29-south-africa-fuel-prices-head-for-record-high-92c56566",
+    "date": "2026-09-29",
+    "country": "South Africa",
+    "iso3": "ZAF",
+    "headline": "South Africa Fuel Prices Head for Record Highs in October",
+    "summary": "South Africa Fuel Prices Head for Record Highs in October",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "riotimesonline.com",
+    "source_url": "https://riotimesonline.com",
+    "article_url": "https://www.riotimesonline.com/south-africa-fuel-prices-record-high-october-2026/",
+    "source_domain": "riotimesonline.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-10-06",
+    "gdelt_query": "South Africa fuel price petrol diesel"
+  },
+  {
     "id": "malawi-2026-09-27-diesel-desert-lilongwe-drivers-queue-for-hour-7b823514",
     "date": "2026-09-27",
     "country": "Malawi",

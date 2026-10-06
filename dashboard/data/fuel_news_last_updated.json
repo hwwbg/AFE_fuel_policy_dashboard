@@ -1,53 +1,33 @@
 {
-  "last_refreshed_utc": "2026-10-04T14:03:00+00:00",
+  "last_refreshed_utc": "2026-10-06T14:53:18+00:00",
   "source": "GDELT DOC 2.0 API",
   "registry": "/home/runner/work/AFE_fuel_policy_dashboard/AFE_fuel_policy_dashboard/dashboard/data/afe_fuel_news_media_source_registry.json",
   "days_searched": 21,
   "queries_per_country": 1,
-  "items_written": 139,
-  "new_items_found_this_run": 4,
-  "existing_items_checked": 137,
+  "items_written": 140,
+  "new_items_found_this_run": 5,
+  "existing_items_checked": 139,
   "existing_items_dropped_by_quality_filter": 0,
-  "query_errors_count": 8,
+  "query_errors_count": 4,
   "errors": [
+    {
+      "country": "Angola",
+      "query": "Angola fuel price",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
     {
       "country": "Comoros",
       "query": "Comoros Comores prix carburant",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Democratic Republic of Congo",
-      "query": "Democratic Republic of Congo RDC prix carburant",
+      "country": "Kenya",
+      "query": "Kenya fuel prices EPRA",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Eritrea",
-      "query": "Eritrea fuel price",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "country": "Eswatini",
-      "query": "Eswatini fuel price increase",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "country": "Somalia",
-      "query": "Somalia fuel prices",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "country": "South Africa",
-      "query": "South Africa fuel price petrol diesel",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "country": "South Sudan",
-      "query": "South Sudan fuel prices",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "country": "Tanzania",
-      "query": "Tanzania fuel prices EWURA",
+      "country": "Zambia",
+      "query": "Zambia fuel prices ERB",
       "error": "HTTP Error 429: Too Many Requests"
     }
   ],
