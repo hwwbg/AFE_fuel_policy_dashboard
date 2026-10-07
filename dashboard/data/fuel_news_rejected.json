@@ -1,5 +1,47 @@
 [
   {
+    "country": "Angola",
+    "query": "Angola fuel price",
+    "reason": "low-value broad domain: moneycontrol.com",
+    "title": "India may be one of the biggest winners if Iran reopens Hormuz : What happens to crude , petrol and diesel prices ? ",
+    "url": "https://www.moneycontrol.com/world/iran-may-reopen-hormuz-and-india-may-be-one-of-the-biggest-winners-what-happens-to-crude-petrol-and-diesel-prices-article-14041086.html"
+  },
+  {
+    "country": "Angola",
+    "query": "Angola fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "महंगे तेल से दुनिया बेहाल , 5 बड़ी ऑयल कंपनियों को 53 अरब डॉलर का बंपर मुनाफा",
+    "url": "https://hindi.webdunia.com/latest-deutsche-welle-news/oil-companies-53-billion-dollar-profit-crude-oil-price-iran-war-2026-126092900002_1.html"
+  },
+  {
+    "country": "Angola",
+    "query": "Angola fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "TotalEnergies Targets $10B Cash Flow Boost , 5 % Dividend Growth by 2030",
+    "url": "https://www.dailypolitical.com/2026/09/28/totalenergies-targets-10b-cash-flow-boost-5-dividend-growth-by-2030.html"
+  },
+  {
+    "country": "Angola",
+    "query": "Angola fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Middle Eastern maritime chokepoints : no windfall for Southern Africa",
+    "url": "https://www.polity.org.za/article/middle-eastern-maritime-chokepoints-no-windfall-for-southern-africa-2026-09-28"
+  },
+  {
+    "country": "Angola",
+    "query": "Angola fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Opinion : Cash - rich oil majors face post - Iran strategy rethink",
+    "url": "https://www.hydrocarbonprocessing.com/news/2026/09/opinion-cash-rich-oil-majors-face-post-iran-strategy-rethink/"
+  },
+  {
+    "country": "Angola",
+    "query": "Angola fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "خرائط الطاقة الجديدة .. رحلة البحث عن بديل لهرمز",
+    "url": "https://www.aljazeera.net/politics/2026/9/27/%D8%AE%D8%B1%D8%A7%D8%A6%D8%B7-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86"
+  },
+  {
     "country": "Botswana",
     "query": "Botswana fuel price increase",
     "reason": "no fuel-price keyword in title/summary",
@@ -47,104 +89,6 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "Burundi Inflation Falls to 8 . 4 % as the IMF Warns",
     "url": "https://www.riotimesonline.com/burundi-inflation-imf-article-iv-2026/"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Yön uutiskooste | Seinäjoella alkaa murhaoikeudenkäynti , eduskunta nest Häkkäsen ja hallituksen luottamuksesta , EU - maat keskustelevat bensan hinnasta",
-    "url": "https://www.kymensanomat.fi/uutissuomalainen/9839692"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Yön uutiskooste | Seinäjoella alkaa murhaoikeudenkäynti , eduskunta nest Häkkäsen ja hallituksen luottamuksesta , EU - maat keskustelevat bensan hinnasta",
-    "url": "https://www.hameensanomat.fi/uutissuomalainen/9839692"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Yön uutiskooste | Seinäjoella alkaa murhaoikeudenkäynti , eduskunta nest Häkkäsen ja hallituksen luottamuksesta , EU - maat keskustelevat bensan hinnasta",
-    "url": "https://www.ita-savo.fi/uutissuomalainen/9839692"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Yön uutiskooste | Seinäjoella alkaa murhaoikeudenkäynti , eduskunta nest Häkkäsen ja hallituksen luottamuksesta , EU - maat keskustelevat bensan hinnasta",
-    "url": "https://www.savonsanomat.fi/uutissuomalainen/9839692"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Yön uutiskooste | Seinäjoella alkaa murhaoikeudenkäynti , eduskunta nest Häkkäsen ja hallituksen luottamuksesta , EU - maat keskustelevat bensan hinnasta",
-    "url": "https://www.ess.fi/uutissuomalainen/9839692"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Yön uutiskooste | Seinäjoella alkaa murhaoikeudenkäynti , eduskunta nest Häkkäsen ja hallituksen luottamuksesta , EU - maat keskustelevat bensan hinnasta",
-    "url": "https://www.ksml.fi/uutissuomalainen/9839692"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Dangote Says Kenya Refinery To Be Ready In 2030 , Urges Playdown Of Protests",
-    "url": "https://leadership.ng/dangote-says-kenya-refinery-to-be-ready-in-2030-urges-playdown-of-protests/"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Yön uutiskooste | Seinäjoella alkaa murhaoikeudenkäynti , eduskunta nest Häkkäsen ja hallituksen luottamuksesta , EU - maat keskustelevat bensan hinnasta",
-    "url": "https://www.kymensanomat.fi/uutissuomalainen/9839692"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Yön uutiskooste | Seinäjoella alkaa murhaoikeudenkäynti , eduskunta nest Häkkäsen ja hallituksen luottamuksesta , EU - maat keskustelevat bensan hinnasta",
-    "url": "https://www.hameensanomat.fi/uutissuomalainen/9839692"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Blasts reported in Ethiopian capital hours after government banned drone flights",
-    "url": "https://dunyanews.tv/en/World/975668-blasts-reported-in-ethiopian-capital-hours-after-government-banned-dro"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Yön uutiskooste | Seinäjoella alkaa murhaoikeudenkäynti , eduskunta nest Häkkäsen ja hallituksen luottamuksesta , EU - maat keskustelevat bensan hinnasta",
-    "url": "https://www.ita-savo.fi/uutissuomalainen/9839692"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Yön uutiskooste | Seinäjoella alkaa murhaoikeudenkäynti , eduskunta nest Häkkäsen ja hallituksen luottamuksesta , EU - maat keskustelevat bensan hinnasta",
-    "url": "https://www.savonsanomat.fi/uutissuomalainen/9839692"
-  },
-  {
-    "country": "Lesotho",
-    "query": "Lesotho fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Botswana Explained 2026 : Diamonds , Debt and What to Watch",
-    "url": "https://www.riotimesonline.com/botswana-explained-2026/"
-  },
-  {
-    "country": "Lesotho",
-    "query": "Lesotho fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Namibia Explained 2026 : Oil Hopes , Economy and What to Watch",
-    "url": "https://www.riotimesonline.com/namibia-explained-2026/"
   },
   {
     "country": "Mozambique",
@@ -264,83 +208,6 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "Petróleo : por que o preço que sai no jornal é diferente do que você negociaria",
     "url": "https://jornaldebrasilia.com.br/brasil-7/petroleo-por-que-o-preco-que-sai-no-jornal-e-diferente-do-que-voce-negociaria/"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "O nouă amenințare asupra rutelor comerciale : Pirații somalezi s - au întors în largul Africii",
-    "url": "https://www.stiripesurse.ro/o-noua-amenintare-asupra-rutelor-comerciale-piratii-somalezi-s-au-intors-in-largul-africii_3924950"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Pirații somalezi s - au întors în largul Africii . 17 atacuri în 2026 și o nouă amenințare pentru navele comerciale",
-    "url": "https://www.mediafax.ro/externe/piratii-somalezi-s-au-intors-in-largul-africii-17-atacuri-in-2026-si-o-noua-amenintare-pentru-navele-comerciale-23818074"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "وزیر اعظم کی وطن واپسی اور متنوع بحران - ایکسپریس اردو",
-    "url": "https://www.express.pk/story/2835862/wazir-e-azam-ki-watan-wapsi-aur-mutanawwe-crisis-2835862"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Pili špinavú vodu a jedli raz denne . Päťmesačné zajatie tankera pirátmi sa skončilo smrťou piatich námorníkov - Svet - Správy",
-    "url": "https://www.pravda.sk/spravy/svet/clanok/2051049-pirati-somalsko-tanker-vrazda-rukojemnici-namornici-zasah"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Soudan : Why the Khartoum Regime Will Fall - Afriques en Lutte",
-    "url": "http://www.afriquesenlutte.org/afrique-de-l-est/soudan/article/soudan-why-the-khartoum-regime"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Tanker crew death toll revealed after Somali pirate overthrow",
-    "url": "http://www.africaleader.com/news/279342893/tanker-crew-death-toll-revealed-after-somali-pirate-overthrow"
-  },
-  {
-    "country": "South Africa",
-    "query": "South Africa fuel price petrol diesel",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "SA factory sector shows signs of recovery despite headwinds",
-    "url": "https://www.businessday.co.za/economy/2026-10-02-sas-factory-sector-shows-signs-of-recovery-ending-three-month-slump/"
-  },
-  {
-    "country": "South Africa",
-    "query": "South Africa fuel price petrol diesel",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Further fuel price hikes could strain SA job market , warns economist",
-    "url": "https://www.bizcommunity.com/article/further-fuel-price-hikes-could-strain-sas-job-market-warns-economist-747762a"
-  },
-  {
-    "country": "South Africa",
-    "query": "South Africa fuel price petrol diesel",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Lamu refinery : How Sh2 . 2 trillion project could redraw East Africa economic map",
-    "url": "https://www.the-star.co.ke/news/2026-10-01-page-4-5-lamu-refinery-how-sh22-trillion-project-could-redraw-east-africas-economic-map-1"
-  },
-  {
-    "country": "South Africa",
-    "query": "South Africa fuel price petrol diesel",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Así se cronifica gota a gota el subidón de los combustibles en tu bolsillo",
-    "url": "https://www.abc.es/economia/cuentas-corrientes/cronifica-subidon-combustibles-bolsillo-20260926185746-nt.html"
-  },
-  {
-    "country": "South Africa",
-    "query": "South Africa fuel price petrol diesel",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "The  863  Bet ThatMoved the Cars from West to China",
-    "url": "https://www.oneindia.com/featured/the-863-bet-thatmoved-the-cars-from-west-to-china-8217987.html"
   },
   {
     "country": "South Sudan",
