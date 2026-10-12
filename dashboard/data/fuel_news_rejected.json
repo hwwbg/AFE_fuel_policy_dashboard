@@ -1,19 +1,5 @@
 [
   {
-    "country": "Botswana",
-    "query": "Botswana fuel price increase",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Η λεπτή δημοσιονομική ισορροπία των επιδοτήσεων – Σε τεντωμένο σχοινί οι κυβερνήσεις",
-    "url": "https://www.reporter.gr/diethnh/diethneis-eidhseis/686058-i-lepti-dimosionomiki-isorropia-ton-epidotiseon-se-tentomeno-sxoini-oi-kyverniseis"
-  },
-  {
-    "country": "Botswana",
-    "query": "Botswana fuel price increase",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "能源危机加剧 ， 燃油补贴加重公共财政负担 - CFi . CN 中财网",
-    "url": "http://www.cfi.net.cn/p20260921000511.html"
-  },
-  {
     "country": "Burundi",
     "query": "Burundi fuel price",
     "reason": "no fuel-price keyword in title/summary",
@@ -117,13 +103,6 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "Yön uutiskooste | Seinäjoella alkaa murhaoikeudenkäynti , eduskunta nest Häkkäsen ja hallituksen luottamuksesta , EU - maat keskustelevat bensan hinnasta",
     "url": "https://www.savonsanomat.fi/uutissuomalainen/9839692"
-  },
-  {
-    "country": "Kenya",
-    "query": "Kenya fuel prices EPRA",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Lamu refinery : How Sh2 . 2 trillion project could redraw East Africa economic map",
-    "url": "https://www.the-star.co.ke/news/2026-10-01-page-4-5-lamu-refinery-how-sh22-trillion-project-could-redraw-east-africas-economic-map-1"
   },
   {
     "country": "Lesotho",
@@ -257,48 +236,6 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "Petróleo : por que o preço que sai no jornal é diferente do que você negociaria",
     "url": "https://jornaldebrasilia.com.br/brasil-7/petroleo-por-que-o-preco-que-sai-no-jornal-e-diferente-do-que-voce-negociaria/"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "O nouă amenințare asupra rutelor comerciale : Pirații somalezi s - au întors în largul Africii",
-    "url": "https://www.stiripesurse.ro/o-noua-amenintare-asupra-rutelor-comerciale-piratii-somalezi-s-au-intors-in-largul-africii_3924950"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Pirații somalezi s - au întors în largul Africii . 17 atacuri în 2026 și o nouă amenințare pentru navele comerciale",
-    "url": "https://www.mediafax.ro/externe/piratii-somalezi-s-au-intors-in-largul-africii-17-atacuri-in-2026-si-o-noua-amenintare-pentru-navele-comerciale-23818074"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "وزیر اعظم کی وطن واپسی اور متنوع بحران - ایکسپریس اردو",
-    "url": "https://www.express.pk/story/2835862/wazir-e-azam-ki-watan-wapsi-aur-mutanawwe-crisis-2835862"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Pili špinavú vodu a jedli raz denne . Päťmesačné zajatie tankera pirátmi sa skončilo smrťou piatich námorníkov - Svet - Správy",
-    "url": "https://www.pravda.sk/spravy/svet/clanok/2051049-pirati-somalsko-tanker-vrazda-rukojemnici-namornici-zasah"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Soudan : Why the Khartoum Regime Will Fall - Afriques en Lutte",
-    "url": "http://www.afriquesenlutte.org/afrique-de-l-est/soudan/article/soudan-why-the-khartoum-regime"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Tanker crew death toll revealed after Somali pirate overthrow",
-    "url": "http://www.africaleader.com/news/279342893/tanker-crew-death-toll-revealed-after-somali-pirate-overthrow"
   },
   {
     "country": "South Africa",
