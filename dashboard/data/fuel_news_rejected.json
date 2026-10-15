@@ -42,18 +42,46 @@
     "url": "https://www.aljazeera.net/politics/2026/9/27/%D8%AE%D8%B1%D8%A7%D8%A6%D8%B7-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86"
   },
   {
-    "country": "Burundi",
-    "query": "Burundi fuel price",
+    "country": "Eritrea",
+    "query": "Eritrea fuel price",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Nigeria : Dangote Refinery a Masterpiece of Science , Engineering , Art - Kenyan President",
-    "url": "https://allafrica.com/stories/202609280023.html"
+    "title": "Yön uutiskooste | Seinäjoella alkaa murhaoikeudenkäynti , eduskunta nest Häkkäsen ja hallituksen luottamuksesta , EU - maat keskustelevat bensan hinnasta",
+    "url": "https://www.kymensanomat.fi/uutissuomalainen/9839692"
   },
   {
-    "country": "Burundi",
-    "query": "Burundi fuel price",
+    "country": "Eritrea",
+    "query": "Eritrea fuel price",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Dangote Refinery : First Cargo Docks at Lamu Port , Kenya",
-    "url": "https://www.riotimesonline.com/dangote-refinery-launch-lamu-2026/"
+    "title": "Yön uutiskooste | Seinäjoella alkaa murhaoikeudenkäynti , eduskunta nest Häkkäsen ja hallituksen luottamuksesta , EU - maat keskustelevat bensan hinnasta",
+    "url": "https://www.hameensanomat.fi/uutissuomalainen/9839692"
+  },
+  {
+    "country": "Eritrea",
+    "query": "Eritrea fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Yön uutiskooste | Seinäjoella alkaa murhaoikeudenkäynti , eduskunta nest Häkkäsen ja hallituksen luottamuksesta , EU - maat keskustelevat bensan hinnasta",
+    "url": "https://www.ita-savo.fi/uutissuomalainen/9839692"
+  },
+  {
+    "country": "Eritrea",
+    "query": "Eritrea fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Yön uutiskooste | Seinäjoella alkaa murhaoikeudenkäynti , eduskunta nest Häkkäsen ja hallituksen luottamuksesta , EU - maat keskustelevat bensan hinnasta",
+    "url": "https://www.savonsanomat.fi/uutissuomalainen/9839692"
+  },
+  {
+    "country": "Eritrea",
+    "query": "Eritrea fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Yön uutiskooste | Seinäjoella alkaa murhaoikeudenkäynti , eduskunta nest Häkkäsen ja hallituksen luottamuksesta , EU - maat keskustelevat bensan hinnasta",
+    "url": "https://www.ess.fi/uutissuomalainen/9839692"
+  },
+  {
+    "country": "Eritrea",
+    "query": "Eritrea fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Yön uutiskooste | Seinäjoella alkaa murhaoikeudenkäynti , eduskunta nest Häkkäsen ja hallituksen luottamuksesta , EU - maat keskustelevat bensan hinnasta",
+    "url": "https://www.ksml.fi/uutissuomalainen/9839692"
   },
   {
     "country": "Ethiopia",
@@ -100,44 +128,58 @@
   {
     "country": "Kenya",
     "query": "Kenya fuel prices EPRA",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "  Explain The Math - Motorists Threaten Demos Over Latest EPRA Fuel Increases",
+    "url": "https://www.ghafla.co.ke/explain-the-math-motorists-threaten-demos-over-latest-epra-fuel-increases/"
+  },
+  {
+    "country": "Kenya",
+    "query": "Kenya fuel prices EPRA",
     "reason": "no fuel-price keyword in title/summary",
     "title": "Lamu refinery : How Sh2 . 2 trillion project could redraw East Africa economic map",
     "url": "https://www.the-star.co.ke/news/2026-10-01-page-4-5-lamu-refinery-how-sh22-trillion-project-could-redraw-east-africas-economic-map-1"
   },
   {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Malawi intensifies North - bound rail plans",
-    "url": "https://mwnation.com/malawi-intensifies-north-bound-rail-plans/"
+    "title": "Tanker crew death toll revealed after Somali pirate overthrow",
+    "url": "http://www.africaleader.com/news/279342893/tanker-crew-death-toll-revealed-after-somali-pirate-overthrow"
   },
   {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Malawi Unveils Plans for New Railway Link to Tanzania As Transport Costs Squeeze Consumers",
-    "url": "https://allafrica.com/stories/202610020088.html"
+    "title": "Tanker crew death toll revealed after Somali pirate overthrow",
+    "url": "http://www.pakistantelegraph.com/news/279342893/tanker-crew-death-toll-revealed-after-somali-pirate-overthrow"
   },
   {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Mozambique : Bank of Mozambique Holds Interest Rate At 9 . 25 Percent",
-    "url": "https://allafrica.com/stories/202610010430.html"
+    "title": "Tanker crew death toll revealed after Somali pirate overthrow",
+    "url": "http://www.irishsun.com/news/279342893/tanker-crew-death-toll-revealed-after-somali-pirate-overthrow"
   },
   {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Mozambique : Volume of Currency Trading Reached 5 . 73 Billion Dollars",
-    "url": "https://allafrica.com/stories/202610010433.html"
+    "title": "Tanker crew death toll revealed after Somali pirate overthrow",
+    "url": "http://www.europesun.com/news/279342893/tanker-crew-death-toll-revealed-after-somali-pirate-overthrow"
   },
   {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "ENGINE : Europe & Africa Bunker Fuel Availability Outlook | Hellenic Shipping News Worldwide",
-    "url": "https://www.hellenicshippingnews.com/engine-europe-africa-bunker-fuel-availability-outlook-201/"
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Tanker crew death toll revealed after Somali pirate overthrow",
+    "url": "http://www.sierraleonetimes.com/news/279342893/tanker-crew-death-toll-revealed-after-somali-pirate-overthrow"
+  },
+  {
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Petróleo : por que o preço que sai no jornal é diferente do que você negociaria",
+    "url": "https://jornaldebrasilia.com.br/brasil-7/petroleo-por-que-o-preco-que-sai-no-jornal-e-diferente-do-que-voce-negociaria/"
   },
   {
     "country": "South Africa",
@@ -175,39 +217,46 @@
     "url": "https://www.oneindia.com/featured/the-863-bet-thatmoved-the-cars-from-west-to-china-8217987.html"
   },
   {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "해운사들 , 수에즈 복귀 … 비용 · 안전 저울질",
-    "url": "http://www.newstomato.com/ReadNews.aspx?no=1315542"
-  },
-  {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
     "title": "Сквозняк в Срединном коридоре : | Деловая неделя",
     "url": "https://dn.kz/news/companies-and-market/skvoznyak-v-sredinnom-koridore/"
   },
   {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "中 석유 수출 막자 브렌트유 4 % 급등 … 美 추가 파병까지",
-    "url": "https://biz.heraldcorp.com/article/10891196"
-  },
-  {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
     "title": "USA News - „ Sie stimmen oft gegen mich : Trump bereut Nominierung von Supreme - Court - Richtern - Politik",
     "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-supreme-court-richter-li.3530667"
   },
   {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "إعلام الحرب : فراغ الحوصلة وفقدان البوصلة ..! – صحيفة التغيير السودانية , اخبار السودان",
-    "url": "https://www.altaghyeer.info/ar/2026/10/01/%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%81%D8%B1%D8%A7%D8%BA-%D8%A7%D9%84%D8%AD%D9%88%D8%B5%D9%84%D8%A9-%D9%88%D9%81%D9%82%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D8%A8%D9%88%D8%B5/"
+    "title": "Неужто поляки всегда будут крепки задним умом ? ( Myśl Polska , Польша ) ",
+    "url": "https://inosmi.ru/20261001/polsha-280432559.html"
+  },
+  {
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Nigeria : Dangote , Ruto to Launch $16 Billion Kenya Refinery Amid Land Protests",
+    "url": "https://allafrica.com/stories/202610010073.html"
+  },
+  {
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Soudan : Why the Khartoum Regime Will Fall - Afriques en Lutte",
+    "url": "http://www.afriquesenlutte.org/afrique-de-l-est/soudan/article/soudan-why-the-khartoum-regime"
+  },
+  {
+    "country": "South Sudan",
+    "query": "South Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "USA News : Musk soll für Pentagon „ Zukunft der Kriegsführung  erforschen - Politik",
+    "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-elon-musk-pete-hegseth-ki-kriegsfuehrung-pentagon-verteidigung-waffen-militaer-li.3530667"
   },
   {
     "country": "Uganda",
