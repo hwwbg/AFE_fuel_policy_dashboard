@@ -1,5 +1,26 @@
 [
   {
+    "id": "kenya-2026-10-15-motorists-threaten-peaceful-protests-over-oct-b9228cf5",
+    "date": "2026-10-15",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "Motorists Threaten Peaceful Protests Over October Fuel Price Rise , Call for G ‑ G Deal Audit",
+    "summary": "Motorists Threaten Peaceful Protests Over October Fuel Price Rise , Call for G ‑ G Deal Audit",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price increase",
+    "magnitude": "Not extracted automatically",
+    "source_name": "kenya-today.com",
+    "source_url": "https://kenya-today.com",
+    "article_url": "https://kenya-today.com/report-motorists-threaten-peaceful-protests-over-october-fuel-price-rise-call-for-gg-deal-audit-11595/",
+    "source_domain": "kenya-today.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-10-16",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
     "id": "mozambique-2026-10-01-mozambique-government-denies-reports-of-fuel-4525d6f0",
     "date": "2026-10-01",
     "country": "Mozambique",
