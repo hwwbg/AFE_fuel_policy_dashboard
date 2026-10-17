@@ -1,5 +1,26 @@
 [
   {
+    "id": "kenya-2026-10-16-president-ruto-signs-bills-to-extend-low-vat-8f7bd842",
+    "date": "2026-10-16",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "President Ruto signs bills to extend low VAT on fuel and adjust construction taxes",
+    "summary": "President Ruto signs bills to extend low VAT on fuel and adjust construction taxes",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "subsidy / tax measure",
+    "magnitude": "Not extracted automatically",
+    "source_name": "kenya-today.com",
+    "source_url": "https://kenya-today.com",
+    "article_url": "https://kenya-today.com/report-president-ruto-signs-bills-to-extend-low-vat-on-fuel-and-adjust-construction-taxes-12148/",
+    "source_domain": "kenya-today.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-10-17",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
     "id": "kenya-2026-10-15-motorists-threaten-peaceful-protests-over-oct-b9228cf5",
     "date": "2026-10-15",
     "country": "Kenya",
@@ -19,6 +40,27 @@
     "verified": false,
     "retrieved_at": "2026-10-16",
     "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
+    "id": "south-africa-2026-10-15-dfsk-south-africa-is-proud-to-highlight-the-g-a8f113c1",
+    "date": "2026-10-15",
+    "country": "South Africa",
+    "iso3": "ZAF",
+    "headline": "DFSK South Africa is proud to highlight the growing importance of LPG Autogas",
+    "summary": "DFSK South Africa is proud to highlight the growing importance of LPG Autogas",
+    "products": [
+      "LPG"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "roadsafety.co.za",
+    "source_url": "https://roadsafety.co.za",
+    "article_url": "https://www.roadsafety.co.za/2026-10/dfsk-south-africa-is-proud-to-highlight-the-growing-importance-of-lpg-autogas/",
+    "source_domain": "roadsafety.co.za",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-10-17",
+    "gdelt_query": "South Africa fuel price petrol diesel"
   },
   {
     "id": "mozambique-2026-10-01-mozambique-government-denies-reports-of-fuel-4525d6f0",

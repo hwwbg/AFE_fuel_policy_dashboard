@@ -1,12 +1,12 @@
 {
-  "last_refreshed_utc": "2026-10-16T13:21:28+00:00",
+  "last_refreshed_utc": "2026-10-17T12:26:16+00:00",
   "source": "GDELT DOC 2.0 API",
   "registry": "/home/runner/work/AFE_fuel_policy_dashboard/AFE_fuel_policy_dashboard/dashboard/data/afe_fuel_news_media_source_registry.json",
   "days_searched": 21,
   "queries_per_country": 1,
-  "items_written": 141,
-  "new_items_found_this_run": 1,
-  "existing_items_checked": 140,
+  "items_written": 143,
+  "new_items_found_this_run": 3,
+  "existing_items_checked": 141,
   "existing_items_dropped_by_quality_filter": 0,
   "query_errors_count": 9,
   "errors": [
@@ -18,11 +18,6 @@
     {
       "country": "Burundi",
       "query": "Burundi fuel price",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "country": "Eritrea",
-      "query": "Eritrea fuel price",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -41,18 +36,23 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Somalia",
-      "query": "Somalia fuel prices",
+      "country": "Namibia",
+      "query": "Namibia fuel prices",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "South Africa",
-      "query": "South Africa fuel price petrol diesel",
+      "country": "Seychelles",
+      "query": "Seychelles fuel prices",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Zambia",
-      "query": "Zambia fuel prices ERB",
+      "country": "South Sudan",
+      "query": "South Sudan fuel prices",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "country": "Uganda",
+      "query": "Uganda fuel prices",
       "error": "HTTP Error 429: Too Many Requests"
     }
   ],
