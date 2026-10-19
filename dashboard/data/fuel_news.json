@@ -1,5 +1,26 @@
 [
   {
+    "id": "angola-2026-10-18-angola-fuel-subsidies-spending-projected-to-h-76632652",
+    "date": "2026-10-18",
+    "country": "Angola",
+    "iso3": "AGO",
+    "headline": "Angola fuel subsidies spending projected to hit $4 billion in 2026",
+    "summary": "Angola fuel subsidies spending projected to hit $4 billion in 2026",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "subsidy / tax measure",
+    "magnitude": "Not extracted automatically",
+    "source_name": "africaleader.com",
+    "source_url": "https://africaleader.com",
+    "article_url": "http://www.africaleader.com/news/279382215/angola-fuel-subsidies-spending-projected-to-hit-4-billion-in-2026",
+    "source_domain": "africaleader.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-10-19",
+    "gdelt_query": "Angola fuel price"
+  },
+  {
     "id": "kenya-2026-10-16-president-ruto-signs-bills-to-extend-low-vat-8f7bd842",
     "date": "2026-10-16",
     "country": "Kenya",
