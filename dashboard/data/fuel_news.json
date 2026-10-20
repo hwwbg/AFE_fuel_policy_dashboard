@@ -1,5 +1,26 @@
 [
   {
+    "id": "south-africa-2026-10-20-ramaphosa-weighs-fuel-relief-as-south-africa-b422f14e",
+    "date": "2026-10-20",
+    "country": "South Africa",
+    "iso3": "ZAF",
+    "headline": "Ramaphosa weighs fuel relief as South Africa cost of living soars",
+    "summary": "Ramaphosa weighs fuel relief as South Africa cost of living soars",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price increase",
+    "magnitude": "Not extracted automatically",
+    "source_name": "businessday.co.za",
+    "source_url": "https://businessday.co.za",
+    "article_url": "https://www.businessday.co.za/news/2026-10-20-ramaphosa-weighs-fuel-relief-as-sas-cost-of-living-soars/",
+    "source_domain": "businessday.co.za",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-10-20",
+    "gdelt_query": "South Africa fuel price petrol diesel"
+  },
+  {
     "id": "angola-2026-10-18-angola-fuel-subsidies-spending-projected-to-h-76632652",
     "date": "2026-10-18",
     "country": "Angola",
