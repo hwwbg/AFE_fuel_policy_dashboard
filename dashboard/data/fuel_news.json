@@ -21,6 +21,27 @@
     "gdelt_query": "South Africa fuel price petrol diesel"
   },
   {
+    "id": "mozambique-2026-10-20-mozambique-ends-minibus-fuel-subsidy-c8b7c3e1",
+    "date": "2026-10-20",
+    "country": "Mozambique",
+    "iso3": "MOZ",
+    "headline": "Mozambique Ends Minibus Fuel Subsidy",
+    "summary": "Mozambique Ends Minibus Fuel Subsidy",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "subsidy / tax measure",
+    "magnitude": "Not extracted automatically",
+    "source_name": "riotimesonline.com",
+    "source_url": "https://riotimesonline.com",
+    "article_url": "https://www.riotimesonline.com/mozambique-ends-chapa-fuel-subsidy-fares-2026/",
+    "source_domain": "riotimesonline.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-10-23",
+    "gdelt_query": "Mozambique fuel prices"
+  },
+  {
     "id": "angola-2026-10-18-angola-fuel-subsidies-spending-projected-to-h-76632652",
     "date": "2026-10-18",
     "country": "Angola",
