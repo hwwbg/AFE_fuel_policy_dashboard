@@ -42,6 +42,20 @@
     "url": "https://dnes.dir.bg/comments/alternativa-za-germaniya-iska-da-zakrie-ep-da-namali-rolyata-na-ek-i-da-namali-byudzheta-na-es"
   },
   {
+    "country": "Botswana",
+    "query": "Botswana fuel price increase",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Dangote Refinery IPO Draws 90 Countries",
+    "url": "https://www.riotimesonline.com/dangote-refinery-ipo-90-countries-2026/"
+  },
+  {
+    "country": "Botswana",
+    "query": "Botswana fuel price increase",
+    "reason": "low-value broad domain: investegate.co.uk",
+    "title": "Tiris BFS Confirms Low - Cost , Near - Term Project | Company Announcement",
+    "url": "https://www.investegate.co.uk/announcement/rns/aura-energy-limited-npv-di---aura/tiris-bfs-confirms-low-cost-near-term-project/9825992"
+  },
+  {
     "country": "Burundi",
     "query": "Burundi fuel price",
     "reason": "no fuel-price keyword in title/summary",
@@ -61,6 +75,13 @@
     "reason": "target country not found in title/summary/url and source is not a known country source",
     "title": "Le vrai prix du carburant en Afrique : classement des 41 pays",
     "url": "https://lesafriques.com/2026/10/prix-carburant-afrique-classement-41-pays/"
+  },
+  {
+    "country": "Eritrea",
+    "query": "Eritrea fuel price",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Naira devaluation made Nigeria poor , Obasanjo says - New African Magazine",
+    "url": "https://newafricanmagazine.com/economy/naira-devaluation-made-nigeria-poor-obasanjo-says/"
   },
   {
     "country": "Eritrea",
@@ -96,55 +117,6 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "معركة إريتريا تحرِّك آلة الحرب الإثيوبية ! ",
     "url": "https://arabi21.com/story/1796176/%D9%85%D8%B9%D8%B1%D9%83%D8%A9-%D8%A5%D8%B1%D9%8A%D8%AA%D8%B1%D9%8A%D8%A7-%D8%AA%D8%AD%D8%B1%D9%83-%D8%A2%D9%84%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A9"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "午盘播报 10月16日 周五 _ 东方财富网",
-    "url": "https://finance.eastmoney.com/a/202610163898210762.html"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Drum - Tidbit",
-    "url": "https://www.postcourier.com.pg/drum231026/"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Антон Попов : Конфликт на Ближнем Востоке способен привести к глобальному энергетическому кризису",
-    "url": "https://www.sb.by/articles/skhvatka-u-vrat-skorbi.html"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Тръмп сам влоши световния глад с войната в Иран",
-    "url": "https://www.actualno.com/asia/trymp-sam-vloshi-svetovnija-glad-s-vojnata-v-iran-news_2653040.html"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Boeing primește undă verde pentru cel mai mare avion 737 MAX . Două accidente ale modelului au provocat 346 de morți",
-    "url": "https://www.stiripesurse.ro/boeing-primeste-unda-verde-pentru-cel-mai-mare-avion-737-max-doua-accidente-ale-modelului-au-provocat-346-de-morti_3930153"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "U . N . Urges Early Action as El Niño Raises Food Security Risks",
-    "url": "https://econotimes.com/U-N-Urges-Early-Action-as-El-Ni-o-Raises-Food-Security-Risks-1759684"
-  },
-  {
-    "country": "Ethiopia",
-    "query": "Ethiopia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Drum - Tidbit",
-    "url": "https://www.postcourier.com.pg/drum221026/"
   },
   {
     "country": "Malawi",
@@ -231,6 +203,41 @@
     "url": "https://www.namibian.com.na/oil-boom-puts-green-hydrogen-ambitions-to-the-test/"
   },
   {
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Plzeňské novinky - Domácí - Trump otevírá Ameriku ruské naftě . Evropa dál platí za sankce",
+    "url": "https://www.plzenskenovinky.cz/zpravy/byznys/trump-otevira-ameriku-ruske-nafte-evropa-dal-plati-za-sankce/"
+  },
+  {
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "První zprávy - Domácí - Trump otevírá Ameriku ruské naftě . Evropa dál platí za sankce",
+    "url": "https://www.prvnizpravy.cz/zpravy/byznys/trump-otevira-ameriku-ruske-nafte-evropa-dal-plati-za-sankce/"
+  },
+  {
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Туристы рассказали о самых дорогих ошибках в путешествиях : одна из них стоила $5000",
+    "url": "https://focus.ua/lifestyle/771162-turisty-rasskazali-o-samyh-dorogih-oshibkah-v-puteshestviyah-odna-iz-nih-stoila-5000"
+  },
+  {
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "In Florida , Trump vows to deal with Cuba after Iran settled",
+    "url": "https://whbl.com/2026/10/23/in-florida-trump-vows-to-deal-with-cuba-after-iran-settled/"
+  },
+  {
+    "country": "Somalia",
+    "query": "Somalia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "In Florida , Trump vows to deal with Cuba after Iran settled",
+    "url": "https://wtvbam.com/2026/10/23/in-florida-trump-vows-to-deal-with-cuba-after-iran-settled/"
+  },
+  {
     "country": "Somalia",
     "query": "Somalia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
@@ -259,18 +266,46 @@
     "url": "http://www.timberjay.com/stories/swanson-stauber-offer-very-different-solutions,47573"
   },
   {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "U . N . Urges Early Action as El Niño Raises Food Security Risks",
-    "url": "https://econotimes.com/U-N-Urges-Early-Action-as-El-Ni-o-Raises-Food-Security-Risks-1759684"
+    "title": "South Africa : Maize Meal and Fruit Are Cheaper but Transport Costs Keep Rising",
+    "url": "https://allafrica.com/stories/202610230160.html"
   },
   {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "UN issues call to arms to combat off - the - charts El Nino",
-    "url": "https://www.freemalaysiatoday.com/category/world/2026/10/21/un-issues-call-to-arms-to-combat-off-the-charts-el-nino"
+    "title": "Namibia Offered Angola Refinery Stake in Lobito",
+    "url": "https://www.riotimesonline.com/namibia-offered-angola-lobito-refinery-stake-2026/"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Budget slammed for forgetting poor as organisation criticise MTBPS",
+    "url": "https://www.citizen.co.za/business/budget-slammed-for-forgetting-poor-as-organisation-criticise-mtbps/"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "Fuel relief buys time but growth runs on empty",
+    "url": "https://mg.co.za/news/south-africa/2026-10-22-fuel-relief-buys-time-but-growth-runs-on-empty/"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "  Nothing to do with election : Godongwana explains fuel levy relief timing",
+    "url": "https://www.businessday.co.za/news/2026-10-22-nothing-to-do-with-elections-godongwana-explains-fuel-levy-relief-timing/"
+  },
+  {
+    "country": "South Africa",
+    "query": "South Africa fuel price petrol diesel",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Organisation slams MTBPS as  anti - poor : Here why",
+    "url": "https://www.citizen.co.za/business/organisation-slams-mtbps-as-anti-poor-heres-why/"
   },
   {
     "country": "South Sudan",
@@ -355,47 +390,5 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "  Connect the dot between street protests and global turmoil , urges Guterres Global Issues",
     "url": "https://www.globalissues.org/news/2026/10/22/44408"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Drum - Tidbit",
-    "url": "https://www.postcourier.com.pg/drum231026/"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Comoros Backs Saudi Arabia Against Houthi Attacks",
-    "url": "https://www.riotimesonline.com/comoros-backs-saudi-arabia-houthi-attacks-2026/"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Sudan Pound Falls Past 10 , 000 to the Dollar",
-    "url": "https://www.riotimesonline.com/sudan-pound-10000-dollar-black-market-2026/"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "2026 In Review Fast Facts",
-    "url": "https://krdo.com/news/national-world/cnn-national/2026/10/21/2026-in-review-fast-facts/"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Senegal Debt Crisis and IMF Talks Explained",
-    "url": "https://www.riotimesonline.com/senegal-debt-crisis-imf-talks-explained-2026/"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "Ghana Says It Supplies 40 % of Burkina Fuel",
-    "url": "https://www.riotimesonline.com/ghana-supplies-40-percent-burkina-faso-fuel/"
   }
 ]
