@@ -1,5 +1,26 @@
 [
   {
+    "id": "kenya-2026-10-22-epra-director-general-says-fuel-prices-will-k-b5401a5e",
+    "date": "2026-10-22",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "EPRA Director General Says Fuel Prices Will Keep Varying Amid Global Oil Shifts",
+    "summary": "EPRA Director General Says Fuel Prices Will Keep Varying Amid Global Oil Shifts",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "kenya-today.com",
+    "source_url": "https://kenya-today.com",
+    "article_url": "https://kenya-today.com/report-epra-director-general-says-fuel-prices-will-keep-varying-amid-global-oil-shifts-15220/",
+    "source_domain": "kenya-today.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-10-28",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
     "id": "south-africa-2026-10-20-ramaphosa-weighs-fuel-relief-as-south-africa-b422f14e",
     "date": "2026-10-20",
     "country": "South Africa",
@@ -42,6 +63,27 @@
     "gdelt_query": "Mozambique fuel prices"
   },
   {
+    "id": "kenya-2026-10-19-drones-hit-two-fuel-tankers-bound-for-kenya-a-75a15d1a",
+    "date": "2026-10-19",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "Drones Hit Two Fuel Tankers Bound for Kenya as EPRA Flags 60 - Day Cargo Transfer",
+    "summary": "Drones Hit Two Fuel Tankers Bound for Kenya as EPRA Flags 60 - Day Cargo Transfer",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "nairobiwire.com",
+    "source_url": "https://nairobiwire.com",
+    "article_url": "https://nairobiwire.com/2026/10/drones-hit-fuel-tankers-kenya-epra-60-day-cargo-transfer.html",
+    "source_domain": "nairobiwire.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-10-28",
+    "gdelt_query": "Kenya fuel prices EPRA"
+  },
+  {
     "id": "angola-2026-10-18-angola-fuel-subsidies-spending-projected-to-h-76632652",
     "date": "2026-10-18",
     "country": "Angola",
@@ -61,6 +103,27 @@
     "verified": false,
     "retrieved_at": "2026-10-19",
     "gdelt_query": "Angola fuel price"
+  },
+  {
+    "id": "kenya-2026-10-17-ppk-calls-for-sh29-per-litre-fuel-cut-and-sh5-fc252f5c",
+    "date": "2026-10-17",
+    "country": "Kenya",
+    "iso3": "KEN",
+    "headline": "PPK Calls for Sh29 ‑ per ‑ Litre Fuel Cut and Sh5 . 5 bn Subsidy After EPRA Price Hike",
+    "summary": "PPK Calls for Sh29 ‑ per ‑ Litre Fuel Cut and Sh5 . 5 bn Subsidy After EPRA Price Hike",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "price increase",
+    "magnitude": "Not extracted automatically",
+    "source_name": "kenya-today.com",
+    "source_url": "https://kenya-today.com",
+    "article_url": "https://kenya-today.com/report-ppk-calls-for-sh29perlitre-fuel-cut-and-sh55-bn-subsidy-after-epra-price-hike-12640/",
+    "source_domain": "kenya-today.com",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-10-28",
+    "gdelt_query": "Kenya fuel prices EPRA"
   },
   {
     "id": "kenya-2026-10-16-president-ruto-signs-bills-to-extend-low-vat-8f7bd842",
