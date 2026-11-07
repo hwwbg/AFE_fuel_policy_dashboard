@@ -1,5 +1,26 @@
 [
   {
+    "id": "namibia-2026-11-05-august-26-ceo-brown-denies-fuel-supply-irregu-7f0f74be",
+    "date": "2026-11-05",
+    "country": "Namibia",
+    "iso3": "NAM",
+    "headline": "August 26 CEO Brown denies fuel supply irregularities",
+    "summary": "August 26 CEO Brown denies fuel supply irregularities",
+    "products": [
+      "fuel"
+    ],
+    "change_type": "fuel-price news",
+    "magnitude": "Not extracted automatically",
+    "source_name": "namibian.com.na",
+    "source_url": "https://namibian.com.na",
+    "article_url": "https://www.namibian.com.na/august-26-ceo-brown-denies-fuel-supply-irregularities/",
+    "source_domain": "namibian.com.na",
+    "policy_relevance": "Automatically retrieved from GDELT and passed stricter relevance filters. Still review before treating as verified evidence.",
+    "verified": false,
+    "retrieved_at": "2026-11-07",
+    "gdelt_query": "Namibia fuel prices"
+  },
+  {
     "id": "kenya-2026-10-22-epra-director-general-says-fuel-prices-will-k-b5401a5e",
     "date": "2026-10-22",
     "country": "Kenya",
