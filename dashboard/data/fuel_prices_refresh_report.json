@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-08T13:26:09+00:00",
+  "updated_utc": "2026-11-09T16:20:08+00:00",
   "status": "ok",
   "hard_failures": [],
   "manual_countries": [
@@ -24,7 +24,7 @@
       "source_name": "Energy & Petroleum Regulatory Authority (EPRA)",
       "source_url": "https://www.epra.go.ke/pump-prices/",
       "status": "warning",
-      "message": "HTTPError: 403 Client Error: Forbidden for url: https://www.epra.go.ke/pump-prices/",
+      "message": "EPRA page loaded but no price table found.",
       "observations_found": 0,
       "observations_added": 0
     },
@@ -44,7 +44,7 @@
       "source_name": "Energy Regulation Board (ERB)",
       "source_url": "https://www.erb.org.zm/fuelprices.php",
       "status": "warning",
-      "message": "HTTPError: 404 Client Error: Not Found for url: https://www.erb.org.zm/fuelprices.php",
+      "message": "ConnectionError: HTTPSConnectionPool(host='www.erb.org.zm', port=443): Max retries exceeded with url: /fuelprices.php (Caused by NameResolutionError(\"HTTPSConnection(host='www.erb.org.zm', port=443): Failed to resolve 'www.erb.org.zm' ([Errno -2] Name or service not known)\"))",
       "observations_found": 0,
       "observations_added": 0
     },
@@ -54,7 +54,7 @@
       "source_name": "Dept. of Mineral Resources & Energy (DMRE)",
       "source_url": "https://www.dmre.gov.za/energy-resources/energy-sources/pretoleum/petrol-price-archive",
       "status": "warning",
-      "message": "ConnectTimeout: HTTPSConnectionPool(host='www.dmre.gov.za', port=443): Max retries exceeded with url: /energy-resources/energy-sources/pretoleum/petrol-price-archive (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dmre.gov.za', port=443) at 0x778bba8260d0>, 'Connection to www.dmre.gov.za timed out. (connect timeout=60)'))",
+      "message": "ConnectTimeout: HTTPSConnectionPool(host='www.dmre.gov.za', port=443): Max retries exceeded with url: /energy-resources/energy-sources/pretoleum/petrol-price-archive (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dmre.gov.za', port=443) at 0x70b542c6dfd0>, 'Connection to www.dmre.gov.za timed out. (connect timeout=60)'))",
       "observations_found": 0,
       "observations_added": 0
     },
