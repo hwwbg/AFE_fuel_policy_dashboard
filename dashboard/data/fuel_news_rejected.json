@@ -42,25 +42,11 @@
     "url": "https://fr.allafrica.com/stories/202610220200.html"
   },
   {
-    "country": "Burundi",
-    "query": "Burundi fuel price",
+    "country": "Botswana",
+    "query": "Botswana fuel price increase",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "  Se está desplomando la intención de voto a Trump  ",
-    "url": "https://www.perfil.com/noticias/modo-fontevecchia/se-esta-desplomando-la-intencion-de-voto-a-trump-modof.phtml"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Naira devaluation made Nigeria poor , Obasanjo says - New African Magazine",
-    "url": "https://newafricanmagazine.com/economy/naira-devaluation-made-nigeria-poor-obasanjo-says/"
-  },
-  {
-    "country": "Eritrea",
-    "query": "Eritrea fuel price",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "US Ambassador Urges Ethiopia Talks 19 Oct",
-    "url": "https://www.riotimesonline.com/us-ambassador-ethiopia-massinga-peace-talks-2026/"
+    "title": "Where to find value in frontier markets",
+    "url": "https://moneyweek.com/investments/emerging-markets/where-to-find-value-in-frontier-markets"
   },
   {
     "country": "Ethiopia",
@@ -112,6 +98,34 @@
     "url": "https://www.standardmedia.co.ke/crime-and-justice/article/2001560532/keg-cjak-condemn-arrest-of-citizen-tvs-francis-odee"
   },
   {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Ethiopia Calls for Shared Red Sea Security",
+    "url": "https://www.riotimesonline.com/ethiopia-calls-for-shared-red-sea-security-2026/"
+  },
+  {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Oil crisis global short | Mail & Guardian",
+    "url": "https://mg.co.za/thought-leader/2026-10-22-oil-crisis-global-short/"
+  },
+  {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "Comoros Backs Saudi Arabia Against Houthi Attacks",
+    "url": "https://www.riotimesonline.com/comoros-backs-saudi-arabia-houthi-attacks-2026/"
+  },
+  {
+    "country": "Mozambique",
+    "query": "Mozambique fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
+    "title": "European shares rise on solid earnings but Carrefour slumps after French unrest",
+    "url": "https://www.irishtimes.com/business/2026/10/21/european-shares-rise-on-solid-earnings-but-carrefour-slumps-on-french-unrest/"
+  },
+  {
     "country": "Namibia",
     "query": "Namibia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
@@ -138,48 +152,6 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "Botswana Geopolitics in 2026 , US , China and De Beers",
     "url": "https://www.riotimesonline.com/botswana-geopolitics-explained-2026/"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Commentary : The next Congress shouldnt let Iran become a  background war  | Politics",
-    "url": "https://www.dailyrepublic.com/townnews/politics/commentary-the-next-congress-shouldn-t-let-iran-become-a-background-war/article_295cc9b1-44f6-4bc0-b96a-2e48b4a712e5.html"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "COMMENTARY : The next Congress shouldnt let Iran become a  background war  ",
-    "url": "https://www.newstribune.com/news/2026/nov/08/commentary-the-next-congress-shouldnt-let-iran/"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "ماذا في جعبة الديمقراطيين من ملفات ؟ ",
-    "url": "https://arabi21.com/story/1801197/%D9%85%D8%A7%D8%B0%D8%A7-%D9%81%D9%8A-%D8%AC%D8%B9%D8%A8%D8%A9-%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A%D9%8A%D9%86-%D9%85%D9%86-%D9%85%D9%84%D9%81%D8%A7%D8%AA"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-    "url": "https://www.the-star.co.ke/news/world/2026-10-25-obama-attacks-trump-as-he-campaigns-for-democrats"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "BBC : Barack Obama îl atacă pe Donald Trump în campania pentru democraţi , invocând războiul din Iran şi preţurile mari",
-    "url": "https://www.bursa.ro/bbc-barack-obama-il-ataca-pe-donald-trump-in-campania-pentru-democrati-invocand-razboiul-din-iran-si-preturile-mari-44287067"
-  },
-  {
-    "country": "Somalia",
-    "query": "Somalia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Ethiopia Calls for Shared Red Sea Security",
-    "url": "https://www.riotimesonline.com/ethiopia-calls-for-shared-red-sea-security-2026/"
   },
   {
     "country": "South Africa",
