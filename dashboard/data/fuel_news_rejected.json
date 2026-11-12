@@ -35,18 +35,11 @@
     "url": "https://www.riotimesonline.com/angola-oil-price-gap-us-51-brent-us-112-2026/"
   },
   {
-    "country": "Angola",
-    "query": "Angola fuel price",
+    "country": "Eritrea",
+    "query": "Eritrea fuel price",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Angola : Le Brent ouvre à 109 , 33 $US",
-    "url": "https://fr.allafrica.com/stories/202610220200.html"
-  },
-  {
-    "country": "Botswana",
-    "query": "Botswana fuel price increase",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Where to find value in frontier markets",
-    "url": "https://moneyweek.com/investments/emerging-markets/where-to-find-value-in-frontier-markets"
+    "title": "Naira devaluation made Nigeria poor , Obasanjo says - New African Magazine",
+    "url": "https://newafricanmagazine.com/economy/naira-devaluation-made-nigeria-poor-obasanjo-says/"
   },
   {
     "country": "Ethiopia",
@@ -91,39 +84,11 @@
     "url": "https://www.alalam.net/news/7670793/%d9%85%d8%b5%d8%b1-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d8%a9-%d9%88%d8%b6%d8%ba%d9%88%d8%b7-%d8%a7%d9%84%d8%aa%d8%ad%d8%a7%d9%84%d9%81%d8%a7%d8%aa"
   },
   {
-    "country": "Kenya",
-    "query": "Kenya fuel prices EPRA",
+    "country": "Namibia",
+    "query": "Namibia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "KEG , CJAK condemn arrest of Citizen TV Francis Odee",
-    "url": "https://www.standardmedia.co.ke/crime-and-justice/article/2001560532/keg-cjak-condemn-arrest-of-citizen-tvs-francis-odee"
-  },
-  {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Ethiopia Calls for Shared Red Sea Security",
-    "url": "https://www.riotimesonline.com/ethiopia-calls-for-shared-red-sea-security-2026/"
-  },
-  {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Oil crisis global short | Mail & Guardian",
-    "url": "https://mg.co.za/thought-leader/2026-10-22-oil-crisis-global-short/"
-  },
-  {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Comoros Backs Saudi Arabia Against Houthi Attacks",
-    "url": "https://www.riotimesonline.com/comoros-backs-saudi-arabia-houthi-attacks-2026/"
-  },
-  {
-    "country": "Mozambique",
-    "query": "Mozambique fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "European shares rise on solid earnings but Carrefour slumps after French unrest",
-    "url": "https://www.irishtimes.com/business/2026/10/21/european-shares-rise-on-solid-earnings-but-carrefour-slumps-on-french-unrest/"
+    "title": "Battle of the bakkies : LDV T60 takes on JAC T6 - Republikein - Jou Land , Jou Taal , Jou Nuus",
+    "url": "https://www.republikein.com.na/mw-main/battle-of-the-bakkies-ldv-t60-takes-on-jac-t6-NMH021778-3015-26735"
   },
   {
     "country": "Namibia",
@@ -145,13 +110,6 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "  Os Estados Unidos asfixiam o povo cubano porque ele se recusa a se ajoelhar , diz Salim Lamrani em entrevista – Brasil 247",
     "url": "https://www.brasil247.com/america-latina/os-estados-unidos-asfixiam-o-povo-cubano-porque-ele-se-recusa-a-se-ajoelhar-diz-salim-lamrani-em-entrevista/"
-  },
-  {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Botswana Geopolitics in 2026 , US , China and De Beers",
-    "url": "https://www.riotimesonline.com/botswana-geopolitics-explained-2026/"
   },
   {
     "country": "South Africa",
@@ -187,55 +145,6 @@
     "reason": "target country not found in title/summary/url and source is not a known country source",
     "title": "Fuel relief buys time but growth runs on empty",
     "url": "https://mg.co.za/news/south-africa/2026-10-22-fuel-relief-buys-time-but-growth-runs-on-empty/"
-  },
-  {
-    "country": "South Africa",
-    "query": "South Africa fuel price petrol diesel",
-    "reason": "target country not found in title/summary/url and source is not a known country source",
-    "title": "  Nothing to do with election : Godongwana explains fuel levy relief timing",
-    "url": "https://www.businessday.co.za/news/2026-10-22-nothing-to-do-with-elections-godongwana-explains-fuel-levy-relief-timing/"
-  },
-  {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "أرض الفلاح للمستثمر ... وغذاء الفقراء للتصدير",
-    "url": "https://kassioun.org/economic/item/87114:ard-alflah-llmstthmr-wghdha-alfqra-lltsdyr"
-  },
-  {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Los mercados mundiales registran una caída generalizada en los precios de los productos agrícolas y los cereales",
-    "url": "https://www.ecoportal.net/mundo/mercados-mundiales/"
-  },
-  {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Nedostatek chleba ohrožuje další Súdánce hladomorem | 6 . 11 . 2026",
-    "url": "https://www.blisty.cz/art/137272-nedostatek-chleba-ohrozuje-dalsi-sudance-hladomorem.html"
-  },
-  {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "أزمة خبز تنذر بتوسع الجوع في السودان الى الخرطوم – قناة المنار",
-    "url": "https://www.almanar.com.lb/article/1327962/"
-  },
-  {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "أزمة خبز تنذر بتوسع الجوع إلى الخرطوم .. 20 مليوناً من سكان البلاد باتوا يعانون من انعدام حاد في الأمن الغذائي",
-    "url": "https://sudanile.com/%D8%A3%D8%B2%D9%85%D8%A9-%D8%AE%D8%A8%D8%B2-%D8%AA%D9%86%D8%B0%D8%B1-%D8%A8%D8%AA%D9%88%D8%B3%D8%B9-%D8%A7%D9%84%D8%AC%D9%88%D8%B9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AE%D8%B1%D8%B7%D9%88%D9%85-20/"
-  },
-  {
-    "country": "South Sudan",
-    "query": "South Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "  Must show leadership , not be spectator to global crises : EAM Jaishankar demands reformed multilateralism on occassion of UN Day",
-    "url": "http://www.sierraleonetimes.com/news/279397445/must-show-leadership-not-be-spectator-to-global-crises-eam-jaishankar-demands-reformed-multilateralism-on-occassion-of-un-day"
   },
   {
     "country": "Sudan",
@@ -278,47 +187,5 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "أزمة خبز تنذر بتوسع الجوع إلى الخرطوم .. 20 مليوناً من سكان البلاد باتوا يعانون من انعدام حاد في الأمن الغذائي",
     "url": "https://sudanile.com/%D8%A3%D8%B2%D9%85%D8%A9-%D8%AE%D8%A8%D8%B2-%D8%AA%D9%86%D8%B0%D8%B1-%D8%A8%D8%AA%D9%88%D8%B3%D8%B9-%D8%A7%D9%84%D8%AC%D9%88%D8%B9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AE%D8%B1%D8%B7%D9%88%D9%85-20/"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Depreciating shilling threatens Kiruddu Hospital medical equipment procurement",
-    "url": "https://www.independent.co.ug/depreciating-shilling-threatens-kiruddu-hospitals-medical-equipment-procurement/"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Indus Towers eyes 100K solar sites by FY29 , says MD & CEO Prachur Sah",
-    "url": "https://www.business-standard.com/companies/people/indus-towers-targets-100-000-solar-installations-by-fy29-md-ceo-126110301846_1.html"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Rising prices , widening trade deficit put pressure on the economy",
-    "url": "https://www.independent.co.ug/rising-prices-widening-trade-deficit-put-pressure-on-the-economy/"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Kenya Seeks Turkana Oil Name , Public Call Ends 29 Oct",
-    "url": "https://www.riotimesonline.com/kenya-turkana-oil-name-2026/"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Uganda Shilling Hits 33 - Year Low as Treasury Warns",
-    "url": "https://www.riotimesonline.com/uganda-shilling-33-year-low-2026/"
-  },
-  {
-    "country": "Uganda",
-    "query": "Uganda fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "Our hero Robert is rewarded for his brilliant Cancer Care campaign to | united kingdom | News",
-    "url": "https://www.express.co.uk/news/uk/2259201/our-hero-robert-rewarded-campaign-cancer"
   }
 ]
