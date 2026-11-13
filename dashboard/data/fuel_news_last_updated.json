@@ -1,33 +1,38 @@
 {
-  "last_refreshed_utc": "2026-11-12T16:43:15+00:00",
+  "last_refreshed_utc": "2026-11-13T16:13:38+00:00",
   "source": "GDELT DOC 2.0 API",
   "registry": "/home/runner/work/AFE_fuel_policy_dashboard/AFE_fuel_policy_dashboard/dashboard/data/afe_fuel_news_media_source_registry.json",
   "days_searched": 21,
   "queries_per_country": 1,
   "items_written": 151,
-  "new_items_found_this_run": 3,
+  "new_items_found_this_run": 2,
   "existing_items_checked": 151,
   "existing_items_dropped_by_quality_filter": 0,
   "query_errors_count": 8,
   "errors": [
     {
-      "country": "Botswana",
-      "query": "Botswana fuel price increase",
+      "country": "Angola",
+      "query": "Angola fuel price",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Eswatini",
-      "query": "Eswatini fuel price increase",
+      "country": "Democratic Republic of Congo",
+      "query": "Democratic Republic of Congo RDC prix carburant",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Mozambique",
-      "query": "Mozambique fuel prices",
+      "country": "Kenya",
+      "query": "Kenya fuel prices EPRA",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Seychelles",
-      "query": "Seychelles fuel prices",
+      "country": "Madagascar",
+      "query": "Madagascar prix carburant",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "country": "Mauritius",
+      "query": "Mauritius prix carburant",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -36,18 +41,13 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "South Sudan",
-      "query": "South Sudan fuel prices",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
       "country": "Tanzania",
       "query": "Tanzania fuel prices EWURA",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "country": "Uganda",
-      "query": "Uganda fuel prices",
+      "country": "Zambia",
+      "query": "Zambia fuel prices ERB",
       "error": "HTTP Error 429: Too Many Requests"
     }
   ],
