@@ -3,6 +3,13 @@
     "country": "Ethiopia",
     "query": "Ethiopia fuel prices",
     "reason": "no fuel-price keyword in title/summary",
+    "title": "Reduceri de până la 70 la sută la Târgul de Turism al României . Care sunt cele mai tari oferte",
+    "url": "https://click.ro/actualitate/national/reduceri-de-pana-la-70-la-suta-la-targul-de-turism-2572898.html"
+  },
+  {
+    "country": "Ethiopia",
+    "query": "Ethiopia fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
     "title": "Trump war in Iran driving shift from fossil fuels",
     "url": "https://www.abc.net.au/news/2026-11-09/iran-conflict-strengthens-case-or-electrification/107351224"
   },
@@ -28,11 +35,18 @@
     "url": "https://links.org.au/cop31-beyond-negotiating-rooms-organising-adapt-and-survive"
   },
   {
-    "country": "Namibia",
-    "query": "Namibia fuel prices",
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
     "reason": "no fuel-price keyword in title/summary",
-    "title": "Battle of the bakkies : LDV T60 takes on JAC T6 - Republikein - Jou Land , Jou Taal , Jou Nuus",
-    "url": "https://www.republikein.com.na/mw-main/battle-of-the-bakkies-ldv-t60-takes-on-jac-t6-NMH021778-3015-26735"
+    "title": "Kreuzfahrt : Wenn das Schiff kollidiert , die Route ändert oder Passagiere rausfliegen",
+    "url": "https://www.sueddeutsche.de/reise/kreuzfahrt-kreuzfahrtschiffe-urlaub-reise-glosse-li.3573151"
+  },
+  {
+    "country": "Seychelles",
+    "query": "Seychelles fuel prices",
+    "reason": "target country not found in title/summary/url and source is not a known country source",
+    "title": "Russian Tanker Routes Raise Doubts Over Trump Diesel Supply Plan",
+    "url": "https://econotimes.com/Russian-Tanker-Routes-Raise-Doubts-Over-Trump-s-Diesel-Supply-Plan-1771811"
   },
   {
     "country": "Somalia",
@@ -80,6 +94,13 @@
     "country": "Sudan",
     "query": "Sudan fuel prices",
     "reason": "no fuel-price keyword in title/summary",
+    "title": "Sudan Court Sentences Hemedti to Death Again Over Medical Fund Looting",
+    "url": "https://www.hngn.com/articles/273895/20261119/sudan-court-sentences-hemedti-death-again-over-medical-fund-looting.htm"
+  },
+  {
+    "country": "Sudan",
+    "query": "Sudan fuel prices",
+    "reason": "no fuel-price keyword in title/summary",
     "title": "أرض الفلاح للمستثمر ... وغذاء الفقراء للتصدير",
     "url": "https://kassioun.org/economic/item/87114:ard-alflah-llmstthmr-wghdha-alfqra-lltsdyr"
   },
@@ -110,13 +131,6 @@
     "reason": "no fuel-price keyword in title/summary",
     "title": "انتخابات التجديد النصفي الأميركية : الناخب يعيد ترمب إلى حدود السلطة",
     "url": "https://sudanile.com/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D9%86%D8%B5%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%A7%D9%84/"
-  },
-  {
-    "country": "Sudan",
-    "query": "Sudan fuel prices",
-    "reason": "no fuel-price keyword in title/summary",
-    "title": "أزمة خبز تنذر بتوسع الجوع إلى الخرطوم .. 20 مليوناً من سكان البلاد باتوا يعانون من انعدام حاد في الأمن الغذائي",
-    "url": "https://sudanile.com/%D8%A3%D8%B2%D9%85%D8%A9-%D8%AE%D8%A8%D8%B2-%D8%AA%D9%86%D8%B0%D8%B1-%D8%A8%D8%AA%D9%88%D8%B3%D8%B9-%D8%A7%D9%84%D8%AC%D9%88%D8%B9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AE%D8%B1%D8%B7%D9%88%D9%85-20/"
   },
   {
     "country": "Uganda",
